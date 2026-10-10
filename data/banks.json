@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "bank_id": 1,
     "bank_name": "AB Bank Ltd.",
     "bankname_rbi": "AB Bank",
     "logo_url": "ab_bank.png",
@@ -11,7 +11,7 @@
     "slug": "ab-bank"
   },
   {
-    "id": 2,
+    "bank_id": 2,
     "bank_name": "ABHYUDAYA COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Abhyudaya Cooperative Bank",
     "logo_url": "abhyudaya_cooperative_bank.png",
@@ -22,7 +22,7 @@
     "slug": "abhyudaya-cooperative-bank"
   },
   {
-    "id": 3,
+    "bank_id": 3,
     "bank_name": "Abu Dhabi Commercial Bank Ltd.",
     "bankname_rbi": "Abu Dhabi Commercial Bank",
     "logo_url": "abu_dhabi_commercial_bank.png",
@@ -33,7 +33,7 @@
     "slug": "abu-dhabi-commercial-bank"
   },
   {
-    "id": 5,
+    "bank_id": 5,
     "bank_name": "AHMEDNAGAR MERCHANTS COOP BANK LTD",
     "bankname_rbi": "Ahmednagar Merchants Co-Op Bank",
     "logo_url": "ahmednagar_merchants_coop_bank.png",
@@ -44,7 +44,7 @@
     "slug": "ahmednagar-merchants-co-op-bank"
   },
   {
-    "id": 6,
+    "bank_id": 6,
     "bank_name": "AIRTEL PAYMENTS BANK LIMITED",
     "bankname_rbi": "Airtel Payment Bank",
     "logo_url": "airtel_payment.png",
@@ -55,7 +55,7 @@
     "slug": "airtel-payment-bank"
   },
   {
-    "id": 7,
+    "bank_id": 7,
     "bank_name": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
     "bankname_rbi": "Akola Janata Commercial Cooperative",
     "logo_url": "akola_janata_commercial_co_op_bank.png",
@@ -66,7 +66,7 @@
     "slug": "akola-janata-commercial-cooperative"
   },
   {
-    "id": 8,
+    "bank_id": 8,
     "bank_name": "ALMORA URBAN COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Almora Urban Cooperative Bank",
     "logo_url": "almora_urban_co_op_bank.png",
@@ -77,7 +77,7 @@
     "slug": "almora-urban-cooperative-bank"
   },
   {
-    "id": 9,
+    "bank_id": 9,
     "bank_name": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
     "bankname_rbi": "Ambarnath Jaihind Co-Op Bank, Ambarnath",
     "logo_url": "ambarnath_jaihind_co_op_bank.png",
@@ -88,7 +88,7 @@
     "slug": "ambarnath-jaihind-co-op-bank"
   },
   {
-    "id": 10,
+    "bank_id": 10,
     "bank_name": "American Express Banking Corporation",
     "bankname_rbi": "American Express",
     "logo_url": "american_express.png",
@@ -99,7 +99,7 @@
     "slug": "american-express"
   },
   {
-    "id": 12,
+    "bank_id": 12,
     "bank_name": "Andhra Pradesh Grameena Vikas Bank",
     "bankname_rbi": "Andhra Pradesh Grameena Vikas Bank",
     "logo_url": "andhra_pradesh_grameena_vikas.png",
@@ -110,7 +110,7 @@
     "slug": "andhra-pradesh-grameena-vikas-bank"
   },
   {
-    "id": 13,
+    "bank_id": 13,
     "bank_name": "Andhra Pragathi Grameena Bank",
     "bankname_rbi": "Andhra Pragathi Grameena Bank",
     "logo_url": "andhra_pragathi_grameena_bank.png",
@@ -121,7 +121,7 @@
     "slug": "andhra-pragathi-grameena-bank"
   },
   {
-    "id": 14,
+    "bank_id": 14,
     "bank_name": "APNA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Apna Sahakari Bank",
     "logo_url": "apna_sahakari_bank.png",
@@ -132,7 +132,7 @@
     "slug": "apna-sahakari-bank"
   },
   {
-    "id": 15,
+    "bank_id": 15,
     "bank_name": "Arunachal Pradesh Rural Bank",
     "bankname_rbi": "Arunachal Pradesh Rural Bank",
     "logo_url": "arunachal_pradesh_rural_bank.png",
@@ -143,7 +143,7 @@
     "slug": "arunachal-pradesh-rural-bank"
   },
   {
-    "id": 16,
+    "bank_id": 16,
     "bank_name": "ARVIND SAHAKARI BANK LTD",
     "bankname_rbi": "Arvind Sahakari",
     "logo_url": "arvind_sahakari_bank.png",
@@ -154,7 +154,7 @@
     "slug": "arvind-sahakari"
   },
   {
-    "id": 17,
+    "bank_id": 17,
     "bank_name": "Aryavart Bank",
     "bankname_rbi": "Aryavart Bank",
     "logo_url": "aryavart_bank.png",
@@ -165,7 +165,7 @@
     "slug": "aryavart-bank"
   },
   {
-    "id": 18,
+    "bank_id": 18,
     "bank_name": "Assam Gramin Vikash Bank",
     "bankname_rbi": "Assam Gramin Vikash Bank",
     "logo_url": "assam_gramin_vikash_bank.png",
@@ -176,7 +176,7 @@
     "slug": "assam-gramin-vikash-bank"
   },
   {
-    "id": 19,
+    "bank_id": 19,
     "bank_name": "Au Small Finance Bank Limited",
     "bankname_rbi": "Au Small Finance Bank",
     "logo_url": "au_small_finance_bank.png",
@@ -187,7 +187,7 @@
     "slug": "au-small-finance-bank"
   },
   {
-    "id": 20,
+    "bank_id": 20,
     "bank_name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
     "bankname_rbi": "Australia And New Zealand Banking Group",
     "logo_url": "australia_and_new_zealand_banking.png",
@@ -198,7 +198,7 @@
     "slug": "australia-and-new-zealand-banking-group"
   },
   {
-    "id": 21,
+    "bank_id": 21,
     "bank_name": "Axis Bank Ltd.",
     "bankname_rbi": "Axis Bank",
     "logo_url": "axis_bank.png",
@@ -209,7 +209,7 @@
     "slug": "axis-bank"
   },
   {
-    "id": 22,
+    "bank_id": 22,
     "bank_name": "BANDHAN BANK LIMITED",
     "bankname_rbi": "Bandhan Bank",
     "logo_url": "bandhan_bank.png",
@@ -220,7 +220,7 @@
     "slug": "bandhan-bank"
   },
   {
-    "id": 23,
+    "bank_id": 23,
     "bank_name": "Bangiya Gramin Vikas Bank",
     "bankname_rbi": "Bangiya Gramin Vikas Bank",
     "logo_url": "bangiya_gramin_vikas_bank.png",
@@ -231,7 +231,7 @@
     "slug": "bangiya-gramin-vikas-bank"
   },
   {
-    "id": 24,
+    "bank_id": 24,
     "bank_name": "Bank of America",
     "bankname_rbi": "Bank Of America",
     "logo_url": "bank_of_america.png",
@@ -242,7 +242,7 @@
     "slug": "bank-of-america"
   },
   {
-    "id": 25,
+    "bank_id": 25,
     "bank_name": "Bank of Bahrain & Kuwait BSC",
     "bankname_rbi": "Bank Of Bahrain & Kuwait Bsc",
     "logo_url": "bank_bahrain_kuwait.png",
@@ -253,7 +253,7 @@
     "slug": "bank-of-bahrain-kuwait-bsc"
   },
   {
-    "id": 26,
+    "bank_id": 26,
     "bank_name": "Bank of Baroda",
     "bankname_rbi": "Bank Of Baroda",
     "logo_url": "bank_of_baroa.png",
@@ -264,7 +264,7 @@
     "slug": "bank-of-baroda"
   },
   {
-    "id": 27,
+    "bank_id": 27,
     "bank_name": "Bank of Ceylon",
     "bankname_rbi": "Bank Of Ceylon",
     "logo_url": "bank_of_ceylon.png",
@@ -275,7 +275,7 @@
     "slug": "bank-of-ceylon"
   },
   {
-    "id": 28,
+    "bank_id": 28,
     "bank_name": "BANK OF CHINA LIMITED INDIA BRANCH",
     "bankname_rbi": "Bank Of China",
     "logo_url": "bank_of_china.png",
@@ -286,7 +286,7 @@
     "slug": "bank-of-china"
   },
   {
-    "id": 29,
+    "bank_id": 29,
     "bank_name": "Bank of India",
     "bankname_rbi": "Bank Of India",
     "logo_url": "bank_of_india.png",
@@ -297,7 +297,7 @@
     "slug": "bank-of-india"
   },
   {
-    "id": 30,
+    "bank_id": 30,
     "bank_name": "Bank of Maharashtra",
     "bankname_rbi": "Bank Of Maharashtra",
     "logo_url": "bank_of_maharashtra.png",
@@ -308,7 +308,7 @@
     "slug": "bank-of-maharashtra"
   },
   {
-    "id": 31,
+    "bank_id": 31,
     "bank_name": "Bank of Nova Scotia",
     "bankname_rbi": "Bank Of Nova Scotia",
     "logo_url": "bank_nova_scotia.png",
@@ -319,7 +319,7 @@
     "slug": "bank-of-nova-scotia"
   },
   {
-    "id": 32,
+    "bank_id": 32,
     "bank_name": "Barclays Bank Plc.",
     "bankname_rbi": "Barclays Bank",
     "logo_url": "barclays_bank_plc.png",
@@ -330,7 +330,7 @@
     "slug": "barclays-bank"
   },
   {
-    "id": 33,
+    "bank_id": 33,
     "bank_name": "Baroda Gujarat Gramin Bank",
     "bankname_rbi": "Baroda Gujarat Gramin Bank",
     "logo_url": "baroda_gujarat_gramin_bank.png",
@@ -341,7 +341,7 @@
     "slug": "baroda-gujarat-gramin-bank"
   },
   {
-    "id": 34,
+    "bank_id": 34,
     "bank_name": "Baroda UP Bank",
     "bankname_rbi": "Baroda Up Bank",
     "logo_url": "baroda_up_bank.png",
@@ -352,7 +352,7 @@
     "slug": "baroda-up-bank"
   },
   {
-    "id": 35,
+    "bank_id": 35,
     "bank_name": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Bassein Catholic Cooperative Bank",
     "logo_url": "bassein_catholic_co_op_bank.png",
@@ -363,7 +363,7 @@
     "slug": "bassein-catholic-cooperative-bank"
   },
   {
-    "id": 36,
+    "bank_id": 36,
     "bank_name": "BHAGINI NIVEDITA SAHAKARI BANK LTD PUNE",
     "bankname_rbi": "Bhagini Nivedita Sahakari Bank, Pune",
     "logo_url": "bhagini_nivedita_sahakari_bank_pune.png",
@@ -374,7 +374,7 @@
     "slug": "bhagini-nivedita-sahakari-bank"
   },
   {
-    "id": 37,
+    "bank_id": 37,
     "bank_name": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
     "bankname_rbi": "Bharat Cooperative Bank Mumbai",
     "logo_url": "bharat_cooperative_bank_mumbai.png",
@@ -385,7 +385,7 @@
     "slug": "bharat-cooperative-bank-mumbai"
   },
   {
-    "id": 38,
+    "bank_id": 38,
     "bank_name": "B N P PARIBAS",
     "bankname_rbi": "Bnp Paribas",
     "logo_url": "bnp_paribas.png",
@@ -396,7 +396,7 @@
     "slug": "bnp-paribas"
   },
   {
-    "id": 39,
+    "bank_id": 39,
     "bank_name": "BOMBAY MERCANTILE COOPERATIVE BANK LTD",
     "bankname_rbi": "Bombay Mercantile Cooperative Bank",
     "logo_url": "bombay_mercantile_cooperative_bank.png",
@@ -407,7 +407,7 @@
     "slug": "bombay-mercantile-cooperative-bank"
   },
   {
-    "id": 40,
+    "bank_id": 40,
     "bank_name": "Canara Bank",
     "bankname_rbi": "Canara Bank",
     "logo_url": "canara_bank.png",
@@ -418,7 +418,7 @@
     "slug": "canara-bank"
   },
   {
-    "id": 41,
+    "bank_id": 41,
     "bank_name": "Capital Small Finance Bank Limited",
     "bankname_rbi": "Capital Small Finance Bank",
     "logo_url": "capital_small_finance_bank.png",
@@ -429,7 +429,7 @@
     "slug": "capital-small-finance-bank"
   },
   {
-    "id": 42,
+    "bank_id": 42,
     "bank_name": "Central Bank of India",
     "bankname_rbi": "Central Bank Of India",
     "logo_url": "central_bank_india.png",
@@ -440,7 +440,7 @@
     "slug": "central-bank-of-india"
   },
   {
-    "id": 43,
+    "bank_id": 43,
     "bank_name": "Chaitanya Godavari Grameena Bank",
     "bankname_rbi": "Chaitanya Godavari Grameena Bank",
     "logo_url": "chaitanya_godavari_grameena_bank.png",
@@ -451,7 +451,7 @@
     "slug": "chaitanya-godavari-grameena-bank"
   },
   {
-    "id": 44,
+    "bank_id": 44,
     "bank_name": "Chhattisgarh Rajya Gramin Bank",
     "bankname_rbi": "Chhattisgarh Rajya Gramin Bank",
     "logo_url": "chhattisgarh_rajya_gramin.png",
@@ -462,7 +462,7 @@
     "slug": "chhattisgarh-rajya-gramin-bank"
   },
   {
-    "id": 45,
+    "bank_id": 45,
     "bank_name": "CITI BANK",
     "bankname_rbi": "City Bank",
     "logo_url": "citibank.png",
@@ -473,7 +473,7 @@
     "slug": "city-bank"
   },
   {
-    "id": 46,
+    "bank_id": 46,
     "bank_name": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Citizen Credit Cooperative Bank",
     "logo_url": "citizen_credit_co_op_bank.png",
@@ -484,7 +484,7 @@
     "slug": "citizen-credit-cooperative-bank"
   },
   {
-    "id": 47,
+    "bank_id": 47,
     "bank_name": "CITY UNION BANK LIMITED",
     "bankname_rbi": "City Union Bank",
     "logo_url": "city_union_bank.png",
@@ -495,7 +495,7 @@
     "slug": "city-union-bank"
   },
   {
-    "id": 48,
+    "bank_id": 48,
     "bank_name": "COASTAL LOCAL AREA BANK LTD",
     "bankname_rbi": "Coastal Local Area Bank",
     "logo_url": "coastal_local_area_bank.png",
@@ -506,7 +506,7 @@
     "slug": "coastal-local-area-bank"
   },
   {
-    "id": 49,
+    "bank_id": 49,
     "bank_name": "Cooperatieve Rabobank U.A.",
     "bankname_rbi": "Cooperatieve Rabobank U.A.",
     "logo_url": "rabobank.png",
@@ -517,7 +517,7 @@
     "slug": "cooperatieve-rabobank"
   },
   {
-    "id": 51,
+    "bank_id": 51,
     "bank_name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK",
     "bankname_rbi": "Credit Agricole Corporate & Investment Bank",
     "logo_url": "credit_agricole_corporate_investment_bank.png",
@@ -528,7 +528,7 @@
     "slug": "credit-agricole-corporate-investment-bank"
   },
   {
-    "id": 52,
+    "bank_id": 52,
     "bank_name": "Credit Suisse A.G",
     "bankname_rbi": "Credit Suisse",
     "logo_url": "credit_suisse.png",
@@ -539,7 +539,7 @@
     "slug": "credit-suisse"
   },
   {
-    "id": 53,
+    "bank_id": 53,
     "bank_name": "CSB BANK LIMITED",
     "bankname_rbi": "Csb Bank",
     "logo_url": "csb_bank.png",
@@ -550,7 +550,7 @@
     "slug": "csb-bank"
   },
   {
-    "id": 54,
+    "bank_id": 54,
     "bank_name": "CTBC BANK CO LTD",
     "bankname_rbi": "Ctbc Bank",
     "logo_url": "ctbc_bank.png",
@@ -561,7 +561,7 @@
     "slug": "ctbc-bank"
   },
   {
-    "id": 55,
+    "bank_id": 55,
     "bank_name": "Dakshin Bihar Gramin Bank",
     "bankname_rbi": "Dakshin Bihar Gramin Bank",
     "logo_url": "dakshin_bihar_gramin_bank.png",
@@ -572,7 +572,7 @@
     "slug": "dakshin-bihar-gramin-bank"
   },
   {
-    "id": 56,
+    "bank_id": 56,
     "bank_name": "Darussalam Co operative Urban Bank Ltd",
     "bankname_rbi": "Darussalam Co Operative Urban Bank",
     "logo_url": "darussalam_cooperative_urban_bank.png",
@@ -583,7 +583,7 @@
     "slug": "darussalam-co-operative-urban-bank"
   },
   {
-    "id": 57,
+    "bank_id": 57,
     "bank_name": "DBS Bank India Limited",
     "bankname_rbi": "Dbs Bank India",
     "logo_url": "dbs_bank_india.png",
@@ -594,7 +594,7 @@
     "slug": "dbs-bank-india"
   },
   {
-    "id": 58,
+    "bank_id": 58,
     "bank_name": "DCB BANK LIMITED",
     "bankname_rbi": "Dcb Bank",
     "logo_url": "dcb_bank.png",
@@ -605,7 +605,7 @@
     "slug": "dcb-bank"
   },
   {
-    "id": 59,
+    "bank_id": 59,
     "bank_name": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "bankname_rbi": "Deogiri Nagari Sahakari Bank, Aurangabad",
     "logo_url": "deogiri_nagari_sahakari_bank_aurangabad.png",
@@ -616,7 +616,7 @@
     "slug": "deogiri-nagari-sahakari-bank"
   },
   {
-    "id": 60,
+    "bank_id": 60,
     "bank_name": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
     "bankname_rbi": "Deposit Insurance And Credit Guarantee Corporation",
     "logo_url": "deposit_insurance_credit_guarantee_corporation.png",
@@ -627,7 +627,7 @@
     "slug": "deposit-insurance-and-credit-guarantee-corporation"
   },
   {
-    "id": 61,
+    "bank_id": 61,
     "bank_name": "Deutsche Bank",
     "bankname_rbi": "Deutsche Bank",
     "logo_url": "deutsche_bank.png",
@@ -638,7 +638,7 @@
     "slug": "deutsche-bank"
   },
   {
-    "id": 62,
+    "bank_id": 62,
     "bank_name": "DEVELOPMENT BANK OF SINGAPORE",
     "bankname_rbi": "Development Bank Of Singapore",
     "logo_url": "development_bank_of_singapore.png",
@@ -649,7 +649,7 @@
     "slug": "development-bank-of-singapore"
   },
   {
-    "id": 63,
+    "bank_id": 63,
     "bank_name": "DHANALAKSHMI BANK",
     "bankname_rbi": "Dhanlaxmi Bank",
     "logo_url": "dhanlaxmi_bank.png",
@@ -660,7 +660,7 @@
     "slug": "dhanlaxmi-bank"
   },
   {
-    "id": 64,
+    "bank_id": 64,
     "bank_name": "DMK JAOLI BANK",
     "bankname_rbi": "Dmk Jaoli Bank",
     "logo_url": "dmk_jaoli_bank.png",
@@ -671,7 +671,7 @@
     "slug": "dmk-jaoli-bank"
   },
   {
-    "id": 65,
+    "bank_id": 65,
     "bank_name": "DOHA BANK Q.P.S.C",
     "bankname_rbi": "Doha Bank",
     "logo_url": "doha_bank.png",
@@ -682,7 +682,7 @@
     "slug": "doha-bank"
   },
   {
-    "id": 66,
+    "bank_id": 66,
     "bank_name": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED",
     "bankname_rbi": "Dombivli Nagari Sahakari Bank",
     "logo_url": "dombivli_nagari_sahakari_bank.png",
@@ -693,7 +693,7 @@
     "slug": "dombivli-nagari-sahakari-bank"
   },
   {
-    "id": 67,
+    "bank_id": 67,
     "bank_name": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
     "bankname_rbi": "Durgapur Steel Peoples Co-Operative Bank",
     "logo_url": "durgapur_steel_peoples_co_op_bank.png",
@@ -704,7 +704,7 @@
     "slug": "durgapur-steel-peoples-co-operative-bank"
   },
   {
-    "id": 68,
+    "bank_id": 68,
     "bank_name": "Ellaquai Dehati Bank",
     "bankname_rbi": "Ellaquai Dehati Bank",
     "logo_url": "ellaquai_dehati_bank.png",
@@ -715,7 +715,7 @@
     "slug": "ellaquai-dehati-bank"
   },
   {
-    "id": 69,
+    "bank_id": 69,
     "bank_name": "EMIRATES NBD BANK P J S C",
     "bankname_rbi": "Emirates Bank Nbd",
     "logo_url": "emirates_bank_nbd.png",
@@ -726,7 +726,7 @@
     "slug": "emirates-bank-nbd"
   },
   {
-    "id": 70,
+    "bank_id": 70,
     "bank_name": "Equitas Small Finance Bank Limited",
     "bankname_rbi": "Equitas Small Finance Bank",
     "logo_url": "equitas_finance_bank.png",
@@ -737,7 +737,7 @@
     "slug": "equitas-small-finance-bank"
   },
   {
-    "id": 71,
+    "bank_id": 71,
     "bank_name": "ESAF Small Finance Bank Limited",
     "bankname_rbi": "Esaf Small Finance Bank",
     "logo_url": "esaf_small_finance_bank.png",
@@ -748,7 +748,7 @@
     "slug": "esaf-small-finance-bank"
   },
   {
-    "id": 72,
+    "bank_id": 72,
     "bank_name": "EXPORT IMPORT BANK OF INDIA",
     "bankname_rbi": "Export Import Bank Of India",
     "logo_url": "export_import_bank_of_india.png",
@@ -759,7 +759,7 @@
     "slug": "export-import-bank-of-india"
   },
   {
-    "id": 73,
+    "bank_id": 73,
     "bank_name": "Federal Bank Ltd.",
     "bankname_rbi": "Federal Bank",
     "logo_url": "federal_bank.png",
@@ -770,7 +770,7 @@
     "slug": "federal-bank"
   },
   {
-    "id": 74,
+    "bank_id": 74,
     "bank_name": "Fincare Small Finance Bank Limited",
     "bankname_rbi": "Fincare Small Finance Bank",
     "logo_url": "fincare_small_finance_bank.png",
@@ -781,7 +781,7 @@
     "slug": "fincare-small-finance-bank"
   },
   {
-    "id": 75,
+    "bank_id": 75,
     "bank_name": "Fino Payments Bank Limited",
     "bankname_rbi": "Fino Payments Bank",
     "logo_url": "fino_payments_banks.png",
@@ -792,7 +792,7 @@
     "slug": "fino-payments-bank"
   },
   {
-    "id": 76,
+    "bank_id": 76,
     "bank_name": "First Abu Dhabi Bank PJSC",
     "bankname_rbi": "First Abu Dhabi Bank Pjsc",
     "logo_url": "first_abu_dhabi_bank.png",
@@ -803,7 +803,7 @@
     "slug": "first-abu-dhabi-bank-pjsc"
   },
   {
-    "id": 77,
+    "bank_id": 77,
     "bank_name": "FirstRand Bank Ltd",
     "bankname_rbi": "Firstrand Bank",
     "logo_url": "firstrand_bank.png",
@@ -814,7 +814,7 @@
     "slug": "firstrand-bank"
   },
   {
-    "id": 78,
+    "bank_id": 78,
     "bank_name": "G P PARSIK BANK",
     "bankname_rbi": "G P Parsik Bank",
     "logo_url": "g_p_parsik_bank.png",
@@ -825,7 +825,7 @@
     "slug": "g-p-parsik-bank"
   },
   {
-    "id": 79,
+    "bank_id": 79,
     "bank_name": "GS MAHANAGAR CO-OPERATIVE BANK LIMITED,MUMBAI",
     "bankname_rbi": "Gs Mahanagar Cooperative Bank, Mumbai",
     "logo_url": "gs_mahanagar_co_op_bank.png",
@@ -836,7 +836,7 @@
     "slug": "gs-mahanagar-cooperative-bank"
   },
   {
-    "id": 80,
+    "bank_id": 80,
     "bank_name": "HARYANA STATE COOPERATIVE BANK",
     "bankname_rbi": "Haryana State Cooperative Bank",
     "logo_url": "haryana_state_cooperative_bank.png",
@@ -847,7 +847,7 @@
     "slug": "haryana-state-cooperative-bank"
   },
   {
-    "id": 81,
+    "bank_id": 81,
     "bank_name": "HDFC Bank Ltd",
     "bankname_rbi": "Hdfc Bank",
     "logo_url": "hdfc_bank.png",
@@ -858,7 +858,7 @@
     "slug": "hdfc-bank"
   },
   {
-    "id": 82,
+    "bank_id": 82,
     "bank_name": "Himachal Pradesh Gramin Bank",
     "bankname_rbi": "Himachal Pradesh Gramin Bank",
     "logo_url": "himachal_pradesh_gramin_bank.png",
@@ -869,7 +869,7 @@
     "slug": "himachal-pradesh-gramin-bank"
   },
   {
-    "id": 83,
+    "bank_id": 83,
     "bank_name": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "bankname_rbi": "Himachal Pradesh State Cooperative Bank",
     "logo_url": "himachal_pradesh_state_cooperative_bank.png",
@@ -880,7 +880,7 @@
     "slug": "himachal-pradesh-state-cooperative-bank"
   },
   {
-    "id": 84,
+    "bank_id": 84,
     "bank_name": "HSBC BANK",
     "bankname_rbi": "Hsbc",
     "logo_url": "hsbc_bank.png",
@@ -891,7 +891,7 @@
     "slug": "hsbc-bank"
   },
   {
-    "id": 85,
+    "bank_id": 85,
     "bank_name": "Hutatma Sahakari Bank Ltd",
     "bankname_rbi": "Hutatma Sahakari Bank",
     "logo_url": "hutatma_sahakari_bank.png",
@@ -902,7 +902,7 @@
     "slug": "hutatma-sahakari-bank"
   },
   {
-    "id": 86,
+    "bank_id": 86,
     "bank_name": "ICICI BANK LIMITED",
     "bankname_rbi": "ICICI Bank",
     "logo_url": "icici_bank.png",
@@ -913,7 +913,7 @@
     "slug": "icici-bank"
   },
   {
-    "id": 87,
+    "bank_id": 87,
     "bank_name": "IDBI Bank Ltd.",
     "bankname_rbi": "Idbi Bank",
     "logo_url": "idbi_bank.png",
@@ -924,7 +924,7 @@
     "slug": "idbi-bank"
   },
   {
-    "id": 88,
+    "bank_id": 88,
     "bank_name": "IDFC FIRST BANK LTD",
     "bankname_rbi": "Idfc First Bank",
     "logo_url": "idfc_first_bank.png",
@@ -935,7 +935,7 @@
     "slug": "idfc-first-bank"
   },
   {
-    "id": 89,
+    "bank_id": 89,
     "bank_name": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
     "bankname_rbi": "Idukki District Cooperative Bank",
     "logo_url": "idukki_district_co_op_bank.png",
@@ -946,7 +946,7 @@
     "slug": "idukki-district-cooperative-bank"
   },
   {
-    "id": 90,
+    "bank_id": 90,
     "bank_name": "INDIA POST PAYMENT BANK",
     "bankname_rbi": "India Post Payments Bank",
     "logo_url": "india_post_payment_bank.png",
@@ -957,7 +957,7 @@
     "slug": "india-post-payments-bank"
   },
   {
-    "id": 91,
+    "bank_id": 91,
     "bank_name": "Indian Bank",
     "bankname_rbi": "Indian Bank",
     "logo_url": "indian_bnak.png",
@@ -968,7 +968,7 @@
     "slug": "indian-bank"
   },
   {
-    "id": 92,
+    "bank_id": 92,
     "bank_name": "Indian Overseas Bank",
     "bankname_rbi": "Indian Overseas Bank",
     "logo_url": "indian_overseas_bank.png",
@@ -979,7 +979,7 @@
     "slug": "indian-overseas-bank"
   },
   {
-    "id": 93,
+    "bank_id": 93,
     "bank_name": "INDUSIND BANK",
     "bankname_rbi": "Induslnd Bank",
     "logo_url": "indusind_bank.png",
@@ -990,7 +990,7 @@
     "slug": "induslnd-bank"
   },
   {
-    "id": 94,
+    "bank_id": 94,
     "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
     "bankname_rbi": "Industrial & Commercial Bank Of China",
     "logo_url": "industrial_commercial_bank_china.png",
@@ -1001,7 +1001,7 @@
     "slug": "industrial-commercial-bank-of-china"
   },
   {
-    "id": 95,
+    "bank_id": 95,
     "bank_name": "Industrial Bank of Korea",
     "bankname_rbi": "Industrial Bank Of Korea",
     "logo_url": "industrial_bank_of_korea.png",
@@ -1012,7 +1012,7 @@
     "slug": "industrial-bank-of-korea"
   },
   {
-    "id": 96,
+    "bank_id": 96,
     "bank_name": "IRINJALAKUDA TOWN COOPERATIVE BANK LTD",
     "bankname_rbi": "Irinjalakuda Town Cooperative Bank",
     "logo_url": "irinjalakuda_town_co_op_bank.png",
@@ -1023,7 +1023,7 @@
     "slug": "irinjalakuda-town-cooperative-bank"
   },
   {
-    "id": 97,
+    "bank_id": 97,
     "bank_name": "J&K Grameen Bank",
     "bankname_rbi": "J&K Grameen Bank",
     "logo_url": "jk_grameen_bank.png",
@@ -1034,7 +1034,7 @@
     "slug": "jk-grameen-bank"
   },
   {
-    "id": 98,
+    "bank_id": 98,
     "bank_name": "J.P. Morgan Chase Bank N.A.",
     "bankname_rbi": "Jp Morgan Bank",
     "logo_url": "jpmorgan_chase.png",
@@ -1045,7 +1045,7 @@
     "slug": "jp-morgan-bank"
   },
   {
-    "id": 99,
+    "bank_id": 99,
     "bank_name": "JALGAON JANATA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Jalgaon Janata Sahakari Bank",
     "logo_url": "jalgaon_janata_sahakari_bank.png",
@@ -1056,7 +1056,7 @@
     "slug": "jalgaon-janata-sahakari-bank"
   },
   {
-    "id": 100,
+    "bank_id": 100,
     "bank_name": "JAMMU AND KASHMIR BANK LIMITED",
     "bankname_rbi": "Jammu & Kashmir Bank",
     "logo_url": "jk_bank.png",
@@ -1067,7 +1067,7 @@
     "slug": "jammu-kashmir-bank"
   },
   {
-    "id": 101,
+    "bank_id": 101,
     "bank_name": "JANA SMALL FINANCE BANK LTD",
     "bankname_rbi": "Jana Small Finance Bank",
     "logo_url": "jana_small_finance_bank.png",
@@ -1078,7 +1078,7 @@
     "slug": "jana-small-finance-bank"
   },
   {
-    "id": 102,
+    "bank_id": 102,
     "bank_name": "JANAKALYAN SAHAKARI BANK LIMITED",
     "bankname_rbi": "Janakalyan Sahakari Bank",
     "logo_url": "janakalyan_sahakari_bank.png",
@@ -1089,7 +1089,7 @@
     "slug": "janakalyan-sahakari-bank"
   },
   {
-    "id": 103,
+    "bank_id": 103,
     "bank_name": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
     "bankname_rbi": "Janaseva Sahakari Bank Borivli",
     "logo_url": "janaseva_sahakari_bank_borivli.png",
@@ -1100,7 +1100,7 @@
     "slug": "janaseva-sahakari-bank-borivli"
   },
   {
-    "id": 104,
+    "bank_id": 104,
     "bank_name": "JANASEVA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Janaseva Sahakari Bank",
     "logo_url": "janaseva_sahakari_bank.png",
@@ -1111,7 +1111,7 @@
     "slug": "janaseva-sahakari-bank"
   },
   {
-    "id": 105,
+    "bank_id": 105,
     "bank_name": "JANATA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Janata Sahakari Bank",
     "logo_url": "janata_sahakari_bank.png",
@@ -1122,7 +1122,7 @@
     "slug": "janata-sahakari-bank"
   },
   {
-    "id": 106,
+    "bank_id": 106,
     "bank_name": "JANATHA SEVA COOPERATIVE BANK LTD",
     "bankname_rbi": "Janatha Seva Cooperative Bank",
     "logo_url": "janatha_seva_cooperative_bank.png",
@@ -1133,7 +1133,7 @@
     "slug": "janatha-seva-cooperative-bank"
   },
   {
-    "id": 107,
+    "bank_id": 107,
     "bank_name": "Jharkhand Rajya Gramin Bank",
     "bankname_rbi": "Jharkhand Rajya Gramin Bank",
     "logo_url": "jharkhand_rajya_gramin_bank.png",
@@ -1144,7 +1144,7 @@
     "slug": "jharkhand-rajya-gramin-bank"
   },
   {
-    "id": 108,
+    "bank_id": 108,
     "bank_name": "JIO PAYMENTS BANK LIMITED",
     "bankname_rbi": "Jio Payment Bank",
     "logo_url": "jio_payment.png",
@@ -1155,7 +1155,7 @@
     "slug": "jio-payment-bank"
   },
   {
-    "id": 109,
+    "bank_id": 109,
     "bank_name": "JSC VTB Bank",
     "bankname_rbi": "Jsc Vtb Bank",
     "logo_url": "jsc_vtb_bank.png",
@@ -1166,7 +1166,7 @@
     "slug": "jsc-vtb-bank"
   },
   {
-    "id": 110,
+    "bank_id": 110,
     "bank_name": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank",
     "logo_url": "kallappanna_awade_ichalkaranji_janata_sahakari_bank.png",
@@ -1177,7 +1177,7 @@
     "slug": "kallappanna-awade-ichalkaranji-janata-sahakari-bank"
   },
   {
-    "id": 111,
+    "bank_id": 111,
     "bank_name": "KALUPUR COMMERCIAL COOPERATIVE BANK",
     "bankname_rbi": "Kalupur Commercial Cooperative Bank",
     "logo_url": "kalupur_commercial_co_op_bank.png",
@@ -1188,7 +1188,7 @@
     "slug": "kalupur-commercial-cooperative-bank"
   },
   {
-    "id": 112,
+    "bank_id": 112,
     "bank_name": "KARNATAKA BANK LIMITED",
     "bankname_rbi": "Karnataka Bank",
     "logo_url": "karnataka_bank.png",
@@ -1199,7 +1199,7 @@
     "slug": "karnataka-bank"
   },
   {
-    "id": 113,
+    "bank_id": 113,
     "bank_name": "Karnataka Gramin Bank",
     "bankname_rbi": "Karnataka Gramin Bank",
     "logo_url": "karnataka_gramin_bank.png",
@@ -1210,7 +1210,7 @@
     "slug": "karnataka-gramin-bank"
   },
   {
-    "id": 114,
+    "bank_id": 114,
     "bank_name": "Karnataka Vikas Grameena Bank",
     "bankname_rbi": "Karnataka Vikas Grameena Bank",
     "logo_url": "karnataka_vikas_grameena_bank.png",
@@ -1221,7 +1221,7 @@
     "slug": "karnataka-vikas-grameena-bank"
   },
   {
-    "id": 115,
+    "bank_id": 115,
     "bank_name": "Karur Vysya Bank Ltd.",
     "bankname_rbi": "Karur Vysya Bank",
     "logo_url": "karur_vyasa.png",
@@ -1232,7 +1232,7 @@
     "slug": "karur-vysya-bank"
   },
   {
-    "id": 116,
+    "bank_id": 116,
     "bank_name": "KEB Hana Bank",
     "bankname_rbi": "Keb Hana Bank",
     "logo_url": "keb_hana_bank.png",
@@ -1243,7 +1243,7 @@
     "slug": "keb-hana-bank"
   },
   {
-    "id": 117,
+    "bank_id": 117,
     "bank_name": "Kerala Gramin Bank",
     "bankname_rbi": "Kerala Gramin Bank",
     "logo_url": "kerala_gramin_bank.png",
@@ -1254,7 +1254,7 @@
     "slug": "kerala-gramin-bank"
   },
   {
-    "id": 118,
+    "bank_id": 118,
     "bank_name": "Kookmin Bank",
     "bankname_rbi": "Kookmin Bank",
     "logo_url": "kookmin_bank.png",
@@ -1265,7 +1265,7 @@
     "slug": "kookmin-bank"
   },
   {
-    "id": 119,
+    "bank_id": 119,
     "bank_name": "KOTAK MAHINDRA BANK LIMITED",
     "bankname_rbi": "Kotak Mahindra Bank",
     "logo_url": "kotak_mahindra_bank.png",
@@ -1276,7 +1276,7 @@
     "slug": "kotak-mahindra-bank"
   },
   {
-    "id": 120,
+    "bank_id": 120,
     "bank_name": "KOZHIKODE DISTRICT COOPERATIAVE BANK LTD",
     "bankname_rbi": "Kozhikode District Cooperatiave Bank",
     "logo_url": "kozhikode_district_co_op_bank.png",
@@ -1287,7 +1287,7 @@
     "slug": "kozhikode-district-cooperatiave-bank"
   },
   {
-    "id": 121,
+    "bank_id": 121,
     "bank_name": "Krung Thai Bank Public Co. Ltd.",
     "bankname_rbi": "Krung Thai Bank Public",
     "logo_url": "krung_thai_bank.png",
@@ -1298,7 +1298,7 @@
     "slug": "krung-thai-bank-public"
   },
   {
-    "id": 122,
+    "bank_id": 122,
     "bank_name": "Lakshmi Vilas Bank Ltd.",
     "bankname_rbi": "Lakshmi Vilas Bank",
     "logo_url": "lakshmi_vilas_bank.png",
@@ -1309,7 +1309,7 @@
     "slug": "lakshmi-vilas-bank"
   },
   {
-    "id": 123,
+    "bank_id": 123,
     "bank_name": "Madhya Pradesh Gramin Bank",
     "bankname_rbi": "Madhya Pradesh Gramin Bank",
     "logo_url": "madhya_pradesh_gramin_bank.png",
@@ -1320,7 +1320,7 @@
     "slug": "madhya-pradesh-gramin-bank"
   },
   {
-    "id": 124,
+    "bank_id": 124,
     "bank_name": "Madhyanchal Gramin Bank",
     "bankname_rbi": "Madhyanchal Gramin Bank",
     "logo_url": "madhyanchal_gramin_bank.png",
@@ -1331,7 +1331,7 @@
     "slug": "madhyanchal-gramin-bank"
   },
   {
-    "id": 125,
+    "bank_id": 125,
     "bank_name": "Maharashtra Gramin Bank",
     "bankname_rbi": "Maharashtra Gramin Bank",
     "logo_url": "maharashtra_gramin_bank.png",
@@ -1342,7 +1342,7 @@
     "slug": "maharashtra-gramin-bank"
   },
   {
-    "id": 126,
+    "bank_id": 126,
     "bank_name": "MAHARASHTRA STATE COOPERATIVE BANK",
     "bankname_rbi": "Maharashtra State Cooperative Bank",
     "logo_url": "maharashtra_state_co_op_bank.png",
@@ -1353,7 +1353,7 @@
     "slug": "maharashtra-state-cooperative-bank"
   },
   {
-    "id": 127,
+    "bank_id": 127,
     "bank_name": "Mahesh Sahakari Bank Ltd Pune",
     "bankname_rbi": "Mahesh Sahakari Bank, Pune",
     "logo_url": "mahesh_sahakari_bank_pune.png",
@@ -1364,7 +1364,7 @@
     "slug": "mahesh-sahakari-bank"
   },
   {
-    "id": 128,
+    "bank_id": 128,
     "bank_name": "Manipur Rural Bank",
     "bankname_rbi": "Manipur Rural Bank",
     "logo_url": "manipur_rural_bank.png",
@@ -1375,7 +1375,7 @@
     "slug": "manipur-rural-bank"
   },
   {
-    "id": 129,
+    "bank_id": 129,
     "bank_name": "MASHREQBANK PSC",
     "bankname_rbi": "Mashreq Bank Psc",
     "logo_url": "mashreq_bank_psc.png",
@@ -1386,7 +1386,7 @@
     "slug": "mashreq-bank-psc"
   },
   {
-    "id": 130,
+    "bank_id": 130,
     "bank_name": "Meghalaya Rural Bank",
     "bankname_rbi": "Meghalaya Rural Bank",
     "logo_url": "meghalaya_rural_bank.png",
@@ -1397,7 +1397,7 @@
     "slug": "meghalaya-rural-bank"
   },
   {
-    "id": 131,
+    "bank_id": 131,
     "bank_name": "Mizoram Rural Bank",
     "bankname_rbi": "Mizoram Rural Bank",
     "logo_url": "mizoram_rural_bank.png",
@@ -1408,7 +1408,7 @@
     "slug": "mizoram-rural-bank"
   },
   {
-    "id": 132,
+    "bank_id": 132,
     "bank_name": "MIZUHO BANK LTD",
     "bankname_rbi": "Mizuho Bank",
     "logo_url": "mizuho_bank.png",
@@ -1419,7 +1419,7 @@
     "slug": "mizuho-bank"
   },
   {
-    "id": 133,
+    "bank_id": 133,
     "bank_name": "MODEL COOPERATIVE BANK LTD",
     "bankname_rbi": "Model Cooperative Bank",
     "logo_url": "model_cooperative_bank.png",
@@ -1430,7 +1430,7 @@
     "slug": "model-cooperative-bank"
   },
   {
-    "id": 134,
+    "bank_id": 134,
     "bank_name": "MUFG BANK, LTD",
     "bankname_rbi": "Mufg Bank",
     "logo_url": "mufg_bank_finance.png",
@@ -1441,7 +1441,7 @@
     "slug": "mufg-bank"
   },
   {
-    "id": 135,
+    "bank_id": 135,
     "bank_name": "Nagaland Rural Bank",
     "bankname_rbi": "Nagaland Rural Bank",
     "logo_url": "nagaland_rural_bank.png",
@@ -1452,7 +1452,7 @@
     "slug": "nagaland-rural-bank"
   },
   {
-    "id": 136,
+    "bank_id": 136,
     "bank_name": "NAGAR URBAN CO OPERATIVE BANK",
     "bankname_rbi": "Nagar Urban Cooperative Bank",
     "logo_url": "nagar_urban_co_operative_bank.png",
@@ -1463,7 +1463,7 @@
     "slug": "nagar-urban-cooperative-bank"
   },
   {
-    "id": 137,
+    "bank_id": 137,
     "bank_name": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
     "bankname_rbi": "Nagpur Nagarik Sahakari Bank",
     "logo_url": "nagpur_nagarik_sahakari_bank.png",
@@ -1474,7 +1474,7 @@
     "slug": "nagpur-nagarik-sahakari-bank"
   },
   {
-    "id": 138,
+    "bank_id": 138,
     "bank_name": "Nainital Bank Ltd.",
     "bankname_rbi": "Nainital Bank",
     "logo_url": "nainital_bank.png",
@@ -1485,7 +1485,7 @@
     "slug": "nainital-bank"
   },
   {
-    "id": 139,
+    "bank_id": 139,
     "bank_name": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
     "bankname_rbi": "National Bank For Agriculture And Rural Development",
     "logo_url": "national_bank_for_agriculture_and_rural_development_nabard.png",
@@ -1496,7 +1496,7 @@
     "slug": "national-bank-for-agriculture-and-rural-development"
   },
   {
-    "id": 140,
+    "bank_id": 140,
     "bank_name": "NatWest Markets Plc",
     "bankname_rbi": "Natwest Markets Plc",
     "logo_url": "natwest_markets_plc.png",
@@ -1507,7 +1507,7 @@
     "slug": "natwest-markets-plc"
   },
   {
-    "id": 141,
+    "bank_id": 141,
     "bank_name": "NAV JEEVAN CO OP BANK LTD",
     "bankname_rbi": "Nav Jeevan Co-Op Bank",
     "logo_url": "nav_jeevan_co_op_bank.png",
@@ -1518,7 +1518,7 @@
     "slug": "nav-jeevan-co-op-bank"
   },
   {
-    "id": 142,
+    "bank_id": 142,
     "bank_name": "NEW INDIA COOPERATIVE BANK LIMITED",
     "bankname_rbi": "New India Cooperative Bank",
     "logo_url": "new_india_cooperative_bank.png",
@@ -1529,7 +1529,7 @@
     "slug": "new-india-cooperative-bank"
   },
   {
-    "id": 143,
+    "bank_id": 143,
     "bank_name": "NKGSB COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Nkgsb Cooperative Bank",
     "logo_url": "nkgsb_cooperative_bank.png",
@@ -1540,7 +1540,7 @@
     "slug": "nkgsb-cooperative-bank"
   },
   {
-    "id": 144,
+    "bank_id": 144,
     "bank_name": "North East Small Finance Bank Limited",
     "bankname_rbi": "North East Small Finance Bank",
     "logo_url": "north_east_small_finance_bank.png",
@@ -1551,7 +1551,7 @@
     "slug": "north-east-small-finance-bank"
   },
   {
-    "id": 145,
+    "bank_id": 145,
     "bank_name": "NSDL Payments Bank Limited",
     "bankname_rbi": "Nsdl Payments Payment Bank",
     "logo_url": "nsdl_payments_bank.png",
@@ -1562,7 +1562,7 @@
     "slug": "nsdl-payments-payment-bank"
   },
   {
-    "id": 146,
+    "bank_id": 146,
     "bank_name": "NUTAN NAGARIK SAHAKARI BANK LIMITED",
     "bankname_rbi": "Nutan Nagarik Sahakari Bank",
     "logo_url": "nutan_nagarik_sahakari_bank.png",
@@ -1573,7 +1573,7 @@
     "slug": "nutan-nagarik-sahakari-bank"
   },
   {
-    "id": 147,
+    "bank_id": 147,
     "bank_name": "Odisha Gramya Bank",
     "bankname_rbi": "Odisha Gramya Bank",
     "logo_url": "odisha_gramya_bank.png",
@@ -1584,7 +1584,7 @@
     "slug": "odisha-gramya-bank"
   },
   {
-    "id": 148,
+    "bank_id": 148,
     "bank_name": "Paschim Banga Gramin Bank",
     "bankname_rbi": "Paschim Banga Gramin Bank",
     "logo_url": "paschim_banga_gramin_bank.png",
@@ -1595,7 +1595,7 @@
     "slug": "paschim-banga-gramin-bank"
   },
   {
-    "id": 149,
+    "bank_id": 149,
     "bank_name": "PAYTM PAYMENTS BANK LTD",
     "bankname_rbi": "Paytm Payment Bank",
     "logo_url": "paytm_payment.png",
@@ -1606,7 +1606,7 @@
     "slug": "paytm-payment-bank"
   },
   {
-    "id": 150,
+    "bank_id": 150,
     "bank_name": "Prathama UP Gramin Bank",
     "bankname_rbi": "Prathama Up Gramin Bank",
     "logo_url": "prathama_up_gramin_bank.png",
@@ -1617,7 +1617,7 @@
     "slug": "prathama-up-gramin-bank"
   },
   {
-    "id": 151,
+    "bank_id": 151,
     "bank_name": "PRIME COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Prime Cooperative Bank",
     "logo_url": "prime_cooperative_bank.png",
@@ -1628,7 +1628,7 @@
     "slug": "prime-cooperative-bank"
   },
   {
-    "id": 152,
+    "bank_id": 152,
     "bank_name": "PT Bank Maybank Indonesia TBK",
     "bankname_rbi": "Pt Bank Maybank Indonesia Tbk",
     "logo_url": "pt_bank_maybank_indonesia_tbk.png",
@@ -1639,7 +1639,7 @@
     "slug": "pt-bank-maybank-indonesia-tbk"
   },
   {
-    "id": 153,
+    "bank_id": 153,
     "bank_name": "Puduvai Bharathiar Grama Bank",
     "bankname_rbi": "Puduvai Bharathiar Grama Bank",
     "logo_url": "puduvai_bharathiar_grama_bank.png",
@@ -1650,7 +1650,7 @@
     "slug": "puduvai-bharathiar-grama-bank"
   },
   {
-    "id": 154,
+    "bank_id": 154,
     "bank_name": "PUNJAB AND SIND BANK",
     "bankname_rbi": "Punjab & Sind Bank",
     "logo_url": "punjab_and_sind_bank.png",
@@ -1661,7 +1661,7 @@
     "slug": "punjab-sind-bank"
   },
   {
-    "id": 155,
+    "bank_id": 155,
     "bank_name": "Punjab Gramin Bank",
     "bankname_rbi": "Punjab Gramin Bank",
     "logo_url": "punjab_gramin_bank.png",
@@ -1672,7 +1672,7 @@
     "slug": "punjab-gramin-bank"
   },
   {
-    "id": 156,
+    "bank_id": 156,
     "bank_name": "Punjab National Bank",
     "bankname_rbi": "Punjab National Bank",
     "logo_url": "pnb.png",
@@ -1683,7 +1683,7 @@
     "slug": "punjab-national-bank"
   },
   {
-    "id": 157,
+    "bank_id": 157,
     "bank_name": "QATAR NATIONAL BANK Q.P.S.C",
     "bankname_rbi": "Qatar National Bank Saq",
     "logo_url": "qatar_national_bank.png",
@@ -1694,7 +1694,7 @@
     "slug": "qatar-national-bank-saq"
   },
   {
-    "id": 158,
+    "bank_id": 158,
     "bank_name": "RABOBANK INTERNATIONAL",
     "bankname_rbi": "Rabobank International",
     "logo_url": "rabobank_international.png",
@@ -1705,7 +1705,7 @@
     "slug": "rabobank-international"
   },
   {
-    "id": 159,
+    "bank_id": 159,
     "bank_name": "RAJARAMBAPU SAHAKARI BANK LIMITED",
     "bankname_rbi": "Rajarambapu Sahakari Bank",
     "logo_url": "rajarambapu_sahakari_bank.png",
@@ -1716,7 +1716,7 @@
     "slug": "rajarambapu-sahakari-bank"
   },
   {
-    "id": 160,
+    "bank_id": 160,
     "bank_name": "RAJARSHI SHAHU SAHAKARI BANK LTD  PUNE",
     "bankname_rbi": "Rajarshi Shahu Sahakari Bank, Pune",
     "logo_url": "rajarshi_shahu_sahakari_bank_pune.png",
@@ -1727,7 +1727,7 @@
     "slug": "rajarshi-shahu-sahakari-bank"
   },
   {
-    "id": 161,
+    "bank_id": 161,
     "bank_name": "Rajasthan Marudhara Gramin Bank",
     "bankname_rbi": "Rajasthan Marudhara Gramin Bank",
     "logo_url": "rajasthan_marudhara_gramin_bank.png",
@@ -1738,7 +1738,7 @@
     "slug": "rajasthan-marudhara-gramin-bank"
   },
   {
-    "id": 162,
+    "bank_id": 162,
     "bank_name": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
     "bankname_rbi": "Rajgurunagar Sahakari Bank",
     "logo_url": "rajgurunagar_sahakari_bank.png",
@@ -1749,7 +1749,7 @@
     "slug": "rajgurunagar-sahakari-bank"
   },
   {
-    "id": 163,
+    "bank_id": 163,
     "bank_name": "RAJKOT NAGRIK SAHAKARI BANK LIMITED",
     "bankname_rbi": "Rajkot Nagrik Sahakari Bank",
     "logo_url": "rajkot_nagrik_sahakari_bank.png",
@@ -1760,7 +1760,7 @@
     "slug": "rajkot-nagrik-sahakari-bank"
   },
   {
-    "id": 164,
+    "bank_id": 164,
     "bank_name": "RAJNANDGAON DISTRICT CENTRAL COOPERATIVE BANK LTD",
     "bankname_rbi": "Rajnandgaon District Central Co-Operative Bank",
     "logo_url": "rajnandgaon_district_central_co_operative_bank.png",
@@ -1771,7 +1771,7 @@
     "slug": "rajnandgaon-district-central-co-operative-bank"
   },
   {
-    "id": 165,
+    "bank_id": 165,
     "bank_name": "RBL BANK LIMITED",
     "bankname_rbi": "Rbl Bank",
     "logo_url": "rbl_bank.png",
@@ -1782,7 +1782,7 @@
     "slug": "rbl-bank"
   },
   {
-    "id": 166,
+    "bank_id": 166,
     "bank_name": "RESERVE BANK OF INDIA",
     "bankname_rbi": "Reserve Bank Of India",
     "logo_url": "reserve_bank_of_india.png",
@@ -1793,7 +1793,7 @@
     "slug": "reserve-bank-of-india"
   },
   {
-    "id": 167,
+    "bank_id": 167,
     "bank_name": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Sahebrao Deshmukh Cooperative Bank",
     "logo_url": "sahebrao_deshmukh_cooperative_bank.png",
@@ -1804,7 +1804,7 @@
     "slug": "sahebrao-deshmukh-cooperative-bank"
   },
   {
-    "id": 168,
+    "bank_id": 168,
     "bank_name": "SAMARTH SAHAKARI BANK LTD",
     "bankname_rbi": "Samarth Sahakari Bank",
     "logo_url": "samarth_sahakari_bank.png",
@@ -1815,7 +1815,7 @@
     "slug": "samarth-sahakari-bank"
   },
   {
-    "id": 169,
+    "bank_id": 169,
     "bank_name": "SANT SOPANKAKA SAHAKARI BANK LTD",
     "bankname_rbi": "Sant Sopankaka Sahakari Bank",
     "logo_url": "sant_sopankaka_sahakari_bank.png",
@@ -1826,7 +1826,7 @@
     "slug": "sant-sopankaka-sahakari-bank"
   },
   {
-    "id": 170,
+    "bank_id": 170,
     "bank_name": "Saptagiri Grameena Bank",
     "bankname_rbi": "Saptagiri Grameena Bank",
     "logo_url": "saptagiri_grameena_bank.png",
@@ -1837,7 +1837,7 @@
     "slug": "saptagiri-grameena-bank"
   },
   {
-    "id": 171,
+    "bank_id": 171,
     "bank_name": "Saraspur Nagrik Co operative Bank Ltd Saraspur",
     "bankname_rbi": "Saraspur Nagrik Cooperative Bank, Saraspur",
     "logo_url": "saraspur_nagrik_co_op_bank_saraspur.png",
@@ -1848,7 +1848,7 @@
     "slug": "saraspur-nagrik-cooperative-bank"
   },
   {
-    "id": 172,
+    "bank_id": 172,
     "bank_name": "SARASWAT COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Saraswat Cooperative Bank",
     "logo_url": "saraswat_cooperative_bank.png",
@@ -1859,7 +1859,7 @@
     "slug": "saraswat-cooperative-bank"
   },
   {
-    "id": 173,
+    "bank_id": 173,
     "bank_name": "Sarva Haryana Gramin Bank",
     "bankname_rbi": "Sarva Haryana Gramin Bank",
     "logo_url": "sarva_haryana_gramin.png",
@@ -1870,7 +1870,7 @@
     "slug": "sarva-haryana-gramin-bank"
   },
   {
-    "id": 174,
+    "bank_id": 174,
     "bank_name": "Satara Sahakari Bank Ltd",
     "bankname_rbi": "Satara Sahakari Bank",
     "logo_url": "satara_sahakari_bank.png",
@@ -1881,7 +1881,7 @@
     "slug": "satara-sahakari-bank"
   },
   {
-    "id": 175,
+    "bank_id": 175,
     "bank_name": "Saurashtra Gramin Bank",
     "bankname_rbi": "Saurashtra Gramin Bank",
     "logo_url": "saurashtra_gramin.png",
@@ -1892,7 +1892,7 @@
     "slug": "saurashtra-gramin-bank"
   },
   {
-    "id": 176,
+    "bank_id": 176,
     "bank_name": "Sber Bank",
     "bankname_rbi": "Sber Bank",
     "logo_url": "sberbank_of_russia_credit.png",
@@ -1903,7 +1903,7 @@
     "slug": "sber-bank"
   },
   {
-    "id": 177,
+    "bank_id": 177,
     "bank_name": "SBM BANK INDIA LIMITED",
     "bankname_rbi": "Sbm Bank (India)",
     "logo_url": "sbm_bank.png",
@@ -1914,7 +1914,7 @@
     "slug": "sbm-bank"
   },
   {
-    "id": 178,
+    "bank_id": 178,
     "bank_name": "SHIKSHAK SAHAKARI BANK LIMITED",
     "bankname_rbi": "Shikshak Sahakari Bank",
     "logo_url": "shikshak_sahakari_bank.png",
@@ -1925,7 +1925,7 @@
     "slug": "shikshak-sahakari-bank"
   },
   {
-    "id": 179,
+    "bank_id": 179,
     "bank_name": "Shinhan Bank",
     "bankname_rbi": "Shinhan Bank",
     "logo_url": "shinhan_bank.png",
@@ -1936,7 +1936,7 @@
     "slug": "shinhan-bank"
   },
   {
-    "id": 180,
+    "bank_id": 180,
     "bank_name": "Shivalik Small Finance Bank Limited",
     "bankname_rbi": "Shivalik Small Finance Bank",
     "logo_url": "shivalik_small_finance_bank.png",
@@ -1947,7 +1947,7 @@
     "slug": "shivalik-small-finance-bank"
   },
   {
-    "id": 181,
+    "bank_id": 181,
     "bank_name": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Shri Chhatrapati Rajashri Shahu Urban Cooperative Bank",
     "logo_url": "shri_chhatrapati_rajashri_shahu_urban_co_op_bank.png",
@@ -1958,7 +1958,7 @@
     "slug": "shri-chhatrapati-rajashri-shahu-urban-cooperative-bank"
   },
   {
-    "id": 182,
+    "bank_id": 182,
     "bank_name": "Shri Veershaiv Co Op Bank Ltd",
     "bankname_rbi": "Shri Veershaiv Co-Op Bank",
     "logo_url": "shri_veershaiv_co_op_bank.png",
@@ -1969,7 +1969,7 @@
     "slug": "shri-veershaiv-co-op-bank"
   },
   {
-    "id": 183,
+    "bank_id": 183,
     "bank_name": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
     "bankname_rbi": "Sir M Visvesvaraya Cooperative Bank",
     "logo_url": "sir_m_visvesvaraya_co_op_bank.png",
@@ -1980,7 +1980,7 @@
     "slug": "sir-m-visvesvaraya-cooperative-bank"
   },
   {
-    "id": 184,
+    "bank_id": 184,
     "bank_name": "Societe Generale",
     "bankname_rbi": "Societe Generale",
     "logo_url": "societe_generale.png",
@@ -1991,7 +1991,7 @@
     "slug": "societe-generale"
   },
   {
-    "id": 185,
+    "bank_id": 185,
     "bank_name": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
     "bankname_rbi": "Solapur Janata Sahakari Bank",
     "logo_url": "solapur_janata_sahakari_bank.png",
@@ -2002,7 +2002,7 @@
     "slug": "solapur-janata-sahakari-bank"
   },
   {
-    "id": 186,
+    "bank_id": 186,
     "bank_name": "Sonali Bank Ltd.",
     "bankname_rbi": "Sonali Bank",
     "logo_url": "sonali_bank.png",
@@ -2013,7 +2013,7 @@
     "slug": "sonali-bank"
   },
   {
-    "id": 187,
+    "bank_id": 187,
     "bank_name": "South Indian Bank Ltd.",
     "bankname_rbi": "South Indian Bank",
     "logo_url": "south_indian_bank.png",
@@ -2024,7 +2024,7 @@
     "slug": "south-indian-bank"
   },
   {
-    "id": 188,
+    "bank_id": 188,
     "bank_name": "SREE CHARAN SOUHARDHA CO OPERATIVE BANK LTD",
     "bankname_rbi": "Sree Charan Souhardha Cooperative Bank",
     "logo_url": "sree_charan_souhardha_co_operative_bank.png",
@@ -2035,7 +2035,7 @@
     "slug": "sree-charan-souhardha-cooperative-bank"
   },
   {
-    "id": 189,
+    "bank_id": 189,
     "bank_name": "Standard Chartered Bank",
     "bankname_rbi": "Standard Chartered Bank",
     "logo_url": "standard_chartered.png",
@@ -2046,7 +2046,7 @@
     "slug": "standard-chartered-bank"
   },
   {
-    "id": 190,
+    "bank_id": 190,
     "bank_name": "State Bank of India",
     "bankname_rbi": "State Bank Of India",
     "logo_url": "sbi_bank.png",
@@ -2057,7 +2057,7 @@
     "slug": "state-bank-of-india"
   },
   {
-    "id": 191,
+    "bank_id": 191,
     "bank_name": "SUCO SOUHARDHA SAHAKARI BANK LTD",
     "bankname_rbi": "Suco Souharda Sahakari Bank",
     "logo_url": "suco_souharda_sahakari_bank.png",
@@ -2068,7 +2068,7 @@
     "slug": "suco-souharda-sahakari-bank"
   },
   {
-    "id": 192,
+    "bank_id": 192,
     "bank_name": "Sumitomo Mitsui Banking Corporation",
     "bankname_rbi": "Sumitomo Mitsui Banking Corporation",
     "logo_url": "sumitomo_mitsui_banking_corporationk.png",
@@ -2079,7 +2079,7 @@
     "slug": "sumitomo-mitsui-banking-corporation"
   },
   {
-    "id": 193,
+    "bank_id": 193,
     "bank_name": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Surat National Cooperative Bank",
     "logo_url": "surat_national_cooperative_bank.png",
@@ -2090,7 +2090,7 @@
     "slug": "surat-national-cooperative-bank"
   },
   {
-    "id": 194,
+    "bank_id": 194,
     "bank_name": "Suryoday Small Finance Bank Limited",
     "bankname_rbi": "Suryoday Small Finance Bank",
     "logo_url": "suryoday_small_finance_bank.png",
@@ -2101,7 +2101,7 @@
     "slug": "suryoday-small-finance-bank"
   },
   {
-    "id": 195,
+    "bank_id": 195,
     "bank_name": "SUTEX COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Sutex Cooperative Bank",
     "logo_url": "sutex_cooperative_bank.png",
@@ -2112,7 +2112,7 @@
     "slug": "sutex-cooperative-bank"
   },
   {
-    "id": 196,
+    "bank_id": 196,
     "bank_name": "Tamil Nadu Grama Bank",
     "bankname_rbi": "Tamil Nadu Grama Bank",
     "logo_url": "tamil_nadu_grama_bank.png",
@@ -2123,7 +2123,7 @@
     "slug": "tamil-nadu-grama-bank"
   },
   {
-    "id": 197,
+    "bank_id": 197,
     "bank_name": "TAMILNAD MERCANTILE BANK LIMITED",
     "bankname_rbi": "Tamilnad Mercantile Bank",
     "logo_url": "tamilnad_mercantile_bank.png",
@@ -2134,7 +2134,7 @@
     "slug": "tamilnad-mercantile-bank"
   },
   {
-    "id": 198,
+    "bank_id": 198,
     "bank_name": "Telangana Grameena Bank",
     "bankname_rbi": "Telangana Grameena Bank",
     "logo_url": "telangana_grameena_bank.png",
@@ -2145,7 +2145,7 @@
     "slug": "telangana-grameena-bank"
   },
   {
-    "id": 199,
+    "bank_id": 199,
     "bank_name": "TELANGANA STATE COOP APEX BANK",
     "bankname_rbi": "Telangana State Coop Apex Bank",
     "logo_url": "telangana_state_coop_apex_bank.png",
@@ -2156,7 +2156,7 @@
     "slug": "telangana-state-coop-apex-bank"
   },
   {
-    "id": 200,
+    "bank_id": 200,
     "bank_name": "TEXTILE TRADERS CO-OPERATIVE BANK LIMITED",
     "bankname_rbi": "Textile Traders Co-Operative Bank",
     "logo_url": "textile_traders_co_op_bank.png",
@@ -2167,7 +2167,7 @@
     "slug": "textile-traders-co-operative-bank"
   },
   {
-    "id": 201,
+    "bank_id": 201,
     "bank_name": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
     "bankname_rbi": "The A.P. Mahesh Cooperative Urban Bank",
     "logo_url": "the_ap_mahesh_cooperative_urban_bank.png",
@@ -2178,7 +2178,7 @@
     "slug": "the-a.p.-mahesh-cooperative-urban-bank"
   },
   {
-    "id": 202,
+    "bank_id": 202,
     "bank_name": "THE AHMEDNAGAR DISTRICT CENTRAL COOPERATIVE BANK LTD",
     "bankname_rbi": "The Ahmednagar District Central Co-Operative Bank",
     "logo_url": "the_ahmednagar_district_central_cooperative_bank.png",
@@ -2189,7 +2189,7 @@
     "slug": "the-ahmednagar-district-central-co-operative-bank"
   },
   {
-    "id": 203,
+    "bank_id": 203,
     "bank_name": "The Ajara Urban Co op Bank Ltd Ajara",
     "bankname_rbi": "The Ajara Urban Co-Op Bank, Ajara",
     "logo_url": "the_ajara_urban_co_op_bank.png",
@@ -2200,7 +2200,7 @@
     "slug": "the-ajara-urban-co-op-bank"
   },
   {
-    "id": 204,
+    "bank_id": 204,
     "bank_name": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
     "bankname_rbi": "The Akola District Central Cooperative Bank",
     "logo_url": "akola_district_central_co_op_bank.png",
@@ -2211,7 +2211,7 @@
     "slug": "the-akola-district-central-cooperative-bank"
   },
   {
-    "id": 205,
+    "bank_id": 205,
     "bank_name": "The Akola Urban Cooperative Bank Limited",
     "bankname_rbi": "The Akola Urban Cooperative Bank",
     "logo_url": "the_akola_urban_cooperative_bank.png",
@@ -2222,7 +2222,7 @@
     "slug": "the-akola-urban-cooperative-bank"
   },
   {
-    "id": 206,
+    "bank_id": 206,
     "bank_name": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Andhra Pradesh State Cooperative Bank",
     "logo_url": "the_andhra_pradesh_state_co_op_bank.png",
@@ -2233,7 +2233,7 @@
     "slug": "the-andhra-pradesh-state-cooperative-bank"
   },
   {
-    "id": 207,
+    "bank_id": 207,
     "bank_name": "THE BANK OF NOVA SCOTIA",
     "bankname_rbi": "The Bank Of Nova Scotia",
     "logo_url": "the_bank_of_nova_scotia.png",
@@ -2244,7 +2244,7 @@
     "slug": "the-bank-of-nova-scotia"
   },
   {
-    "id": 208,
+    "bank_id": 208,
     "bank_name": "THE BARAMATI SAHAKARI BANK LTD",
     "bankname_rbi": "The Baramati Sahakari Bank",
     "logo_url": "the_baramati_sahakari_bank.png",
@@ -2255,7 +2255,7 @@
     "slug": "the-baramati-sahakari-bank"
   },
   {
-    "id": 209,
+    "bank_id": 209,
     "bank_name": "THE COSMOS CO OPERATIVE BANK LIMITED",
     "bankname_rbi": "The Cosmos Cooperative Bank",
     "logo_url": "the_cosmos_co_op_bank.png",
@@ -2266,7 +2266,7 @@
     "slug": "the-cosmos-cooperative-bank"
   },
   {
-    "id": 210,
+    "bank_id": 210,
     "bank_name": "THE DELHI STATE COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Delhi State Cooperative Bank",
     "logo_url": "the_delhi_state_cooperative_bank.png",
@@ -2277,7 +2277,7 @@
     "slug": "the-delhi-state-cooperative-bank"
   },
   {
-    "id": 211,
+    "bank_id": 211,
     "bank_name": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Gadchiroli District Central Cooperative Bank",
     "logo_url": "the_gadchiroli_district_central_co_op_bank.png",
@@ -2288,7 +2288,7 @@
     "slug": "the-gadchiroli-district-central-cooperative-bank"
   },
   {
-    "id": 212,
+    "bank_id": 212,
     "bank_name": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Greater Bombay Cooperative Bank",
     "logo_url": "the_greater_bombay_cooperative_bank.png",
@@ -2299,7 +2299,7 @@
     "slug": "the-greater-bombay-cooperative-bank"
   },
   {
-    "id": 213,
+    "bank_id": 213,
     "bank_name": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Gujarat State Cooperative Bank",
     "logo_url": "the_gujarat_state_cooperative_bank.png",
@@ -2310,7 +2310,7 @@
     "slug": "the-gujarat-state-cooperative-bank"
   },
   {
-    "id": 214,
+    "bank_id": 214,
     "bank_name": "THE HASTI COOP BANK LTD",
     "bankname_rbi": "The Hasti Coop Bank",
     "logo_url": "the_hasti_coop_bank.png",
@@ -2321,7 +2321,7 @@
     "slug": "the-hasti-coop-bank"
   },
   {
-    "id": 215,
+    "bank_id": 215,
     "bank_name": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Jalgaon Peoples Cooperative Bank",
     "logo_url": "the_jalgaon_peopels_cooperative_bank.png",
@@ -2332,7 +2332,7 @@
     "slug": "the-jalgaon-peoples-cooperative-bank"
   },
   {
-    "id": 216,
+    "bank_id": 216,
     "bank_name": "THE KALYAN JANATA SAHAKARI BANK LTD.",
     "bankname_rbi": "The Kalyan Janata Sahakari Bank",
     "logo_url": "the_kalyan_janata_sahakari_bank.png",
@@ -2343,7 +2343,7 @@
     "slug": "the-kalyan-janata-sahakari-bank"
   },
   {
-    "id": 217,
+    "bank_id": 217,
     "bank_name": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Kangra Central Cooperative Bank",
     "logo_url": "the_kangra_cooperative_bank.png",
@@ -2354,7 +2354,7 @@
     "slug": "the-kangra-central-cooperative-bank"
   },
   {
-    "id": 218,
+    "bank_id": 218,
     "bank_name": "THE KANGRA COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Kangra Cooperative Bank",
     "logo_url": "the_kangra_cooperative_bank.png",
@@ -2365,7 +2365,7 @@
     "slug": "the-kangra-cooperative-bank"
   },
   {
-    "id": 219,
+    "bank_id": 219,
     "bank_name": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Karad Urban Cooperative Bank",
     "logo_url": "the_karad_urban_cooperative_bank.png",
@@ -2376,7 +2376,7 @@
     "slug": "the-karad-urban-cooperative-bank"
   },
   {
-    "id": 220,
+    "bank_id": 220,
     "bank_name": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
     "bankname_rbi": "The Karanataka State Cooperative Apex Bank",
     "logo_url": "the_karanataka_state_cooperative_apex_bank.png",
@@ -2387,7 +2387,7 @@
     "slug": "the-karanataka-state-cooperative-apex-bank"
   },
   {
-    "id": 221,
+    "bank_id": 221,
     "bank_name": "The Kerala State Co Operative Bank Ltd",
     "bankname_rbi": "The Kerala State Cooperative Bank",
     "logo_url": "the_kerala_state_co_operative_bank.png",
@@ -2398,7 +2398,7 @@
     "slug": "the-kerala-state-cooperative-bank"
   },
   {
-    "id": 222,
+    "bank_id": 222,
     "bank_name": "THE KOLHAPUR URBAN CO OP BANK LTD",
     "bankname_rbi": "The Kolhapur Urban Co-Op Bank",
     "logo_url": "the_kolhapur_urban_co_op_bank.png",
@@ -2409,7 +2409,7 @@
     "slug": "the-kolhapur-urban-co-op-bank"
   },
   {
-    "id": 223,
+    "bank_id": 223,
     "bank_name": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
     "bankname_rbi": "The Kurmanchal Nagar Sahakari Bank",
     "logo_url": "the_kurmanchal_nagar_sahakari_bank.png",
@@ -2420,7 +2420,7 @@
     "slug": "the-kurmanchal-nagar-sahakari-bank"
   },
   {
-    "id": 224,
+    "bank_id": 224,
     "bank_name": "The Malad Sahakari Bank Ltd",
     "bankname_rbi": "The Malad Sahakari Bank",
     "logo_url": "the_malad_sahakari_bank.png",
@@ -2431,7 +2431,7 @@
     "slug": "the-malad-sahakari-bank"
   },
   {
-    "id": 225,
+    "bank_id": 225,
     "bank_name": "The Malkapur Urban Co Operative Bank Ltd Malkapur",
     "bankname_rbi": "The Malkapur Urban Co-Operative Bank Malkapur",
     "logo_url": "the_malkapur_urban_co_operative_bank_malkapur.png",
@@ -2442,7 +2442,7 @@
     "slug": "the-malkapur-urban-co-operative-bank-malkapur"
   },
   {
-    "id": 226,
+    "bank_id": 226,
     "bank_name": "THE MEHSANA URBAN COOPERATIVE BANK",
     "bankname_rbi": "The Mehsana Urban Cooperative Bank",
     "logo_url": "the_mehsana_urban_cooperative_bank.png",
@@ -2453,7 +2453,7 @@
     "slug": "the-mehsana-urban-cooperative-bank"
   },
   {
-    "id": 227,
+    "bank_id": 227,
     "bank_name": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Mumbai District Central Cooperative Bank",
     "logo_url": "the_mumbai_district_central_cooperative_bank.png",
@@ -2464,7 +2464,7 @@
     "slug": "the-mumbai-district-central-cooperative-bank"
   },
   {
-    "id": 228,
+    "bank_id": 228,
     "bank_name": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Municipal Cooperative Bank",
     "logo_url": "the_municipal_cooperative_bank.png",
@@ -2475,7 +2475,7 @@
     "slug": "the-municipal-cooperative-bank"
   },
   {
-    "id": 229,
+    "bank_id": 229,
     "bank_name": "THE MUSLIM COOPERATIVE BANK LTD",
     "bankname_rbi": "The Muslim Co-Operative Bank",
     "logo_url": "the_muslim_co_operative_bank.png",
@@ -2486,7 +2486,7 @@
     "slug": "the-muslim-co-operative-bank"
   },
   {
-    "id": 230,
+    "bank_id": 230,
     "bank_name": "THE NAINITAL BANK LIMITED",
     "bankname_rbi": "The Nainital Bank",
     "logo_url": "the_nainital_bank.png",
@@ -2497,7 +2497,7 @@
     "slug": "the-nainital-bank"
   },
   {
-    "id": 231,
+    "bank_id": 231,
     "bank_name": "THE NASIK MERCHANTS COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Nasik Merchants Cooperative Bank",
     "logo_url": "the_nasik_merchants_cooperative_bank.png",
@@ -2508,7 +2508,7 @@
     "slug": "the-nasik-merchants-cooperative-bank"
   },
   {
-    "id": 232,
+    "bank_id": 232,
     "bank_name": "THE NAVNIRMAN COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Navnirman Co-Operative Bank",
     "logo_url": "the_navnirman_co_operative_bank.png",
@@ -2519,7 +2519,7 @@
     "slug": "the-navnirman-co-operative-bank"
   },
   {
-    "id": 233,
+    "bank_id": 233,
     "bank_name": "THE NAWANAGAR COOPERATIVE BANK LTD",
     "bankname_rbi": "The Nawanagar Cooperative Bank",
     "logo_url": "the_nawanagar_cooperative_bank.png",
@@ -2530,7 +2530,7 @@
     "slug": "the-nawanagar-cooperative-bank"
   },
   {
-    "id": 234,
+    "bank_id": 234,
     "bank_name": "THE NILAMBUR CO OPERATIVE URBAN BANK LTD NILAMBUR",
     "bankname_rbi": "The Nilambur Cooperative Urban Bank, Nilambur",
     "logo_url": "the_nilambur_co_operative_urban_bank_nilambur.png",
@@ -2541,7 +2541,7 @@
     "slug": "the-nilambur-cooperative-urban-bank"
   },
   {
-    "id": 235,
+    "bank_id": 235,
     "bank_name": "THE ODISHA STATE CO-OPERATIVE BANK LTD",
     "bankname_rbi": "The Odisha State Cooperative Bank",
     "logo_url": "the_odisha_state_cooperative_bank.png",
@@ -2552,7 +2552,7 @@
     "slug": "the-odisha-state-cooperative-bank"
   },
   {
-    "id": 236,
+    "bank_id": 236,
     "bank_name": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
     "bankname_rbi": "The Pandharpur Urban Co-Op Bank Pandharpur",
     "logo_url": "the_pandharpur_urban_co_op_bank.png",
@@ -2563,7 +2563,7 @@
     "slug": "the-pandharpur-urban-co-op-bank-pandharpur"
   },
   {
-    "id": 237,
+    "bank_id": 237,
     "bank_name": "THE PUNJAB STATE COOPERATIVE BANK LTD",
     "bankname_rbi": "The Punjab State Cooperative Bank",
     "logo_url": "the_punjab_state_cooperative_bank.png",
@@ -2574,7 +2574,7 @@
     "slug": "the-punjab-state-cooperative-bank"
   },
   {
-    "id": 238,
+    "bank_id": 238,
     "bank_name": "The Pusad Urban Cooperative Bank Ltd Pusad",
     "bankname_rbi": "The Pusad Urban Cooperative Bank, Pusad",
     "logo_url": "the_pusad_urban_cooperative_bank.png",
@@ -2585,7 +2585,7 @@
     "slug": "the-pusad-urban-cooperative-bank"
   },
   {
-    "id": 239,
+    "bank_id": 239,
     "bank_name": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Rajasthan State Cooperative Bank",
     "logo_url": "the_rajasthan_state_cooperative_bank.png",
@@ -2596,7 +2596,7 @@
     "slug": "the-rajasthan-state-cooperative-bank"
   },
   {
-    "id": 240,
+    "bank_id": 240,
     "bank_name": "THE SATARA DISTRICT CENTRAL COOPERATIVE BANK LTD",
     "bankname_rbi": "The Satara District Central Cooperative Bank",
     "logo_url": "the_satara_district_central_cooperative_bank.png",
@@ -2607,7 +2607,7 @@
     "slug": "the-satara-district-central-cooperative-bank"
   },
   {
-    "id": 241,
+    "bank_id": 241,
     "bank_name": "THE SEVA VIKAS COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Seva Vikas Cooperative Bank",
     "logo_url": "the_seva_vikas_cooperative_bank.png",
@@ -2618,7 +2618,7 @@
     "slug": "the-seva-vikas-cooperative-bank"
   },
   {
-    "id": 242,
+    "bank_id": 242,
     "bank_name": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "bankname_rbi": "The Shamrao Vithal Cooperative Bank",
     "logo_url": "the_shamrao_vithal_cooperative_bank.png",
@@ -2629,7 +2629,7 @@
     "slug": "the-shamrao-vithal-cooperative-bank"
   },
   {
-    "id": 243,
+    "bank_id": 243,
     "bank_name": "THE SINDHUDURG DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
     "bankname_rbi": "The Sindhudurg District Central Coop Bank",
     "logo_url": "the_sindhudurg_district_central_coop_bank.png",
@@ -2640,7 +2640,7 @@
     "slug": "the-sindhudurg-district-central-coop-bank"
   },
   {
-    "id": 244,
+    "bank_id": 244,
     "bank_name": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Surat District Cooperative Bank",
     "logo_url": "the_surat_district_cooperative_bank.png",
@@ -2651,7 +2651,7 @@
     "slug": "the-surat-district-cooperative-bank"
   },
   {
-    "id": 245,
+    "bank_id": 245,
     "bank_name": "THE SURATH PEOPLES COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Surath Peoples Cooperative Bank",
     "logo_url": "the_surath_peoples_cooperative_bank.png",
@@ -2662,7 +2662,7 @@
     "slug": "the-surath-peoples-cooperative-bank"
   },
   {
-    "id": 246,
+    "bank_id": 246,
     "bank_name": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
     "bankname_rbi": "The Tamil Nadu State Apex Cooperative Bank",
     "logo_url": "the_tamil_nadu_state_apex_cooperative_bank.png",
@@ -2673,7 +2673,7 @@
     "slug": "the-tamil-nadu-state-apex-cooperative-bank"
   },
   {
-    "id": 247,
+    "bank_id": 247,
     "bank_name": "THE THANE BHARAT SAHAKARI BANK LIMITED",
     "bankname_rbi": "The Thane Bharat Sahakari Bank",
     "logo_url": "the_thane_bharat_sahakari_bank.png",
@@ -2684,7 +2684,7 @@
     "slug": "the-thane-bharat-sahakari-bank"
   },
   {
-    "id": 248,
+    "bank_id": 248,
     "bank_name": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Thane District Central Cooperative Bank",
     "logo_url": "the_thane_district_central_cooperative_bank.png",
@@ -2695,7 +2695,7 @@
     "slug": "the-thane-district-central-cooperative-bank"
   },
   {
-    "id": 249,
+    "bank_id": 249,
     "bank_name": "THE UDAIPUR URBAN CO OPERATIVE BANK LTD",
     "bankname_rbi": "The Udaipur Urban Cooperative Bank",
     "logo_url": "the_udaipur_urban_co_operative_bank.png",
@@ -2706,7 +2706,7 @@
     "slug": "the-udaipur-urban-cooperative-bank"
   },
   {
-    "id": 250,
+    "bank_id": 250,
     "bank_name": "THE URBAN CO OPERATIVE BANK Ltd",
     "bankname_rbi": "The Urban Cooperative Bank, 1758 Perinthalmanna",
     "logo_url": "the_urban_co_operative_bank.png",
@@ -2717,7 +2717,7 @@
     "slug": "the-urban-cooperative-bank-1758-perinthalmanna"
   },
   {
-    "id": 251,
+    "bank_id": 251,
     "bank_name": "THE VARACHHA COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Varachha Cooperative Bank",
     "logo_url": "the_varachha_cooperative_bank.png",
@@ -2728,7 +2728,7 @@
     "slug": "the-varachha-cooperative-bank"
   },
   {
-    "id": 252,
+    "bank_id": 252,
     "bank_name": "The Vijay Co Operative Bank Limited",
     "bankname_rbi": "The Vijay Cooperative Bank",
     "logo_url": "the_vijay_co_operative_bank.png",
@@ -2739,7 +2739,7 @@
     "slug": "the-vijay-cooperative-bank"
   },
   {
-    "id": 253,
+    "bank_id": 253,
     "bank_name": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
     "bankname_rbi": "The Vishweshwar Sahakari Bank",
     "logo_url": "the_vishweshwar_sahakari_bank.png",
@@ -2750,7 +2750,7 @@
     "slug": "the-vishweshwar-sahakari-bank"
   },
   {
-    "id": 254,
+    "bank_id": 254,
     "bank_name": "THE WEST BENGAL STATE COOPERATIVE BANK",
     "bankname_rbi": "The West Bengal State Cooperative Bank",
     "logo_url": "the_west_bengal_state_cooperative_bank.png",
@@ -2761,7 +2761,7 @@
     "slug": "the-west-bengal-state-cooperative-bank"
   },
   {
-    "id": 255,
+    "bank_id": 255,
     "bank_name": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
     "bankname_rbi": "The Zoroastrian Cooperative Bank",
     "logo_url": "the_zoroastrian_cooperative_bank.png",
@@ -2772,7 +2772,7 @@
     "slug": "the-zoroastrian-cooperative-bank"
   },
   {
-    "id": 256,
+    "bank_id": 256,
     "bank_name": "THRISSUR DISTRICT CO-OPERATIVE BANK LTD",
     "bankname_rbi": "Thrissur District Co-Operative Bank",
     "logo_url": "thrissur_district_co_operative_bank.png",
@@ -2783,7 +2783,7 @@
     "slug": "thrissur-district-co-operative-bank"
   },
   {
-    "id": 257,
+    "bank_id": 257,
     "bank_name": "TJSB SAHAKARI BANK LTD",
     "bankname_rbi": "Tjsb Sahakari Bank",
     "logo_url": "tjsb_sahakari_bank.png",
@@ -2794,7 +2794,7 @@
     "slug": "tjsb-sahakari-bank"
   },
   {
-    "id": 258,
+    "bank_id": 258,
     "bank_name": "Tripura Gramin Bank",
     "bankname_rbi": "Tripura Gramin Bank",
     "logo_url": "tripura_gramin_bank.png",
@@ -2805,7 +2805,7 @@
     "slug": "tripura-gramin-bank"
   },
   {
-    "id": 259,
+    "bank_id": 259,
     "bank_name": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Tumkur Grain Merchants Cooperative Bank",
     "logo_url": "tumkur_grain_merchants_cooperative_bank.png",
@@ -2816,7 +2816,7 @@
     "slug": "tumkur-grain-merchants-cooperative-bank"
   },
   {
-    "id": 260,
+    "bank_id": 260,
     "bank_name": "UCO Bank",
     "bankname_rbi": "Uco Bank",
     "logo_url": "uco_bank.png",
@@ -2827,7 +2827,7 @@
     "slug": "uco-bank"
   },
   {
-    "id": 261,
+    "bank_id": 261,
     "bank_name": "Ujjivan Small Finance Bank Limited",
     "bankname_rbi": "Ujjivan Small Finance Bank",
     "logo_url": "ujjivan_small_finance_bank.png",
@@ -2838,7 +2838,7 @@
     "slug": "ujjivan-small-finance-bank"
   },
   {
-    "id": 262,
+    "bank_id": 262,
     "bank_name": "Union Bank of India",
     "bankname_rbi": "Union Bank Of India",
     "logo_url": "union_bank.png",
@@ -2849,7 +2849,7 @@
     "slug": "union-bank-of-india"
   },
   {
-    "id": 263,
+    "bank_id": 263,
     "bank_name": "UNITED OVERSEAS BANK LIMITED",
     "bankname_rbi": "United Overseas Bank",
     "logo_url": "united_overseas_bank.png",
@@ -2860,7 +2860,7 @@
     "slug": "united-overseas-bank"
   },
   {
-    "id": 264,
+    "bank_id": 264,
     "bank_name": "Utkal Grameen bank",
     "bankname_rbi": "Utkal Grameen Bank",
     "logo_url": "utkal_grameen_bank.png",
@@ -2871,7 +2871,7 @@
     "slug": "utkal-grameen-bank"
   },
   {
-    "id": 265,
+    "bank_id": 265,
     "bank_name": "Utkarsh Small Finance Bank Limited",
     "bankname_rbi": "Utkarsh Small Finance Bank",
     "logo_url": "utkarsh_small_finance_bank.png",
@@ -2882,7 +2882,7 @@
     "slug": "utkarsh-small-finance-bank"
   },
   {
-    "id": 266,
+    "bank_id": 266,
     "bank_name": "Uttar Bihar Gramin Bank",
     "bankname_rbi": "Uttar Bihar Gramin Bank",
     "logo_url": "uttar_bihar_gramin_bank.png",
@@ -2893,7 +2893,7 @@
     "slug": "uttar-bihar-gramin-bank"
   },
   {
-    "id": 267,
+    "bank_id": 267,
     "bank_name": "UTTAR PRADESH COOPERATIVE BANK LTD",
     "bankname_rbi": "Uttar Pradesh Cooperative Bank",
     "logo_url": "uttar_pradesh_cooperative_bank.png",
@@ -2904,7 +2904,7 @@
     "slug": "uttar-pradesh-cooperative-bank"
   },
   {
-    "id": 268,
+    "bank_id": 268,
     "bank_name": "Uttarakhand Gramin Bank",
     "bankname_rbi": "Uttarakhand Gramin Bank",
     "logo_url": "uttarakhand_gramin_bank.png",
@@ -2915,7 +2915,7 @@
     "slug": "uttarakhand-gramin-bank"
   },
   {
-    "id": 269,
+    "bank_id": 269,
     "bank_name": "Uttarbanga Kshetriya Gramin Bank",
     "bankname_rbi": "Uttarbanga Kshetriya Gramin Bank",
     "logo_url": "uttarbanga_kshetriya_gramin_bank.png",
@@ -2926,7 +2926,7 @@
     "slug": "uttarbanga-kshetriya-gramin-bank"
   },
   {
-    "id": 270,
+    "bank_id": 270,
     "bank_name": "VASAI JANATA SAHAKARI BANK LTD",
     "bankname_rbi": "Vasai Janata Sahakari Bank",
     "logo_url": "vasai_janata_sahakari_bank.png",
@@ -2937,7 +2937,7 @@
     "slug": "vasai-janata-sahakari-bank"
   },
   {
-    "id": 271,
+    "bank_id": 271,
     "bank_name": "VASAI VIKAS SAHAKARI BANK LIMITED",
     "bankname_rbi": "Vasai Vikas Sahakari Bank",
     "logo_url": "vasai_vikas_sahakari_bank.png",
@@ -2948,7 +2948,7 @@
     "slug": "vasai-vikas-sahakari-bank"
   },
   {
-    "id": 272,
+    "bank_id": 272,
     "bank_name": "Vidharbha Konkan Gramin Bank",
     "bankname_rbi": "Vidharbha Konkan Gramin Bank",
     "logo_url": "vidharbha_konkan_gramin.png",
@@ -2959,7 +2959,7 @@
     "slug": "vidharbha-konkan-gramin-bank"
   },
   {
-    "id": 273,
+    "bank_id": 273,
     "bank_name": "Westpac Banking Corporation",
     "bankname_rbi": "Westpac Banking Corporation",
     "logo_url": "westpac_bank.png",
@@ -2970,7 +2970,7 @@
     "slug": "westpac-banking-corporation"
   },
   {
-    "id": 274,
+    "bank_id": 274,
     "bank_name": "Woori Bank",
     "bankname_rbi": "Woori Bank",
     "logo_url": "woori_bank.png",
@@ -2981,7 +2981,7 @@
     "slug": "woori-bank"
   },
   {
-    "id": 275,
+    "bank_id": 275,
     "bank_name": "YES Bank Ltd.",
     "bankname_rbi": "Yes Bank",
     "logo_url": "yes_bank.png",
@@ -2992,7 +2992,7 @@
     "slug": "yes-bank"
   },
   {
-    "id": 276,
+    "bank_id": 276,
     "bank_name": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
     "bankname_rbi": "Zila Sahakri Bank, Ghaziabad",
     "logo_url": "zila_sahakri_bank_limited_ghaziabad.png",
@@ -3003,7 +3003,7 @@
     "slug": "zila-sahakri-bank"
   },
   {
-    "id": 277,
+    "bank_id": 277,
     "bank_name": "The Banaskantha Mercantile Cooperative Bank Ltd",
     "bankname_rbi": "The Banaskantha Mercantile Cooperative Bank",
     "logo_url": "the_banaskantha_mercantile_cooperative_bank.png",
@@ -3014,7 +3014,7 @@
     "slug": "the-banaskantha-mercantile-cooperative-bank"
   },
   {
-    "id": 278,
+    "bank_id": 278,
     "bank_name": "Pavana Sahakari Bank LTD",
     "bankname_rbi": "Pavana Sahakari Bank Ltd",
     "logo_url": "pavana_sahakari_bank_ltd.png",
@@ -3025,7 +3025,7 @@
     "slug": "pavana-sahakari-bank-ltd"
   },
   {
-    "id": 280,
+    "bank_id": 280,
     "bank_name": "Shree Kadi Nagarik Sahakari Bank Limited",
     "bankname_rbi": "Shree Kadi Nagarik Sahakari Bank Limited",
     "logo_url": "shree_kadi_nagarik_sahakari_bank.png",
@@ -3036,7 +3036,7 @@
     "slug": "shree-kadi-nagarik-sahakari-bank-limited"
   },
   {
-    "id": 281,
+    "bank_id": 281,
     "bank_name": "THE MEGHALAYA COOPERATIVE APEX BANK LTD",
     "bankname_rbi": "The Meghalaya Co-Operative Apex Bank Ltd",
     "logo_url": "the_meghalaya_co-operative_apex_bank_ltd.png",
@@ -3047,7 +3047,7 @@
     "slug": "the-meghalaya-co-operative-apex-bank-ltd"
   },
   {
-    "id": 284,
+    "bank_id": 284,
     "bank_name": "Smriti Nagrik Sahakari Bank Maryadit",
     "bankname_rbi": "Smriti Nagrik Sahakari Bank Maryadit",
     "logo_url": "smriti_nagrik_sahakari_bank_maryadit.png",
@@ -3058,7 +3058,7 @@
     "slug": "smriti-nagrik-sahakari-bank-maryadit"
   },
   {
-    "id": 285,
+    "bank_id": 285,
     "bank_name": "Abhinandan Urban Co-Op Bank",
     "bankname_rbi": "Abhinandan Urban Co-Op Bank",
     "logo_url": "abhinandan-urban-co-op-bank.png",
@@ -3069,7 +3069,7 @@
     "slug": "abhinandan-urban-co-op-bank"
   },
   {
-    "id": 286,
+    "bank_id": 286,
     "bank_name": "Unity Small finance Bank Limited",
     "bankname_rbi": "Unity Small finance Bank",
     "logo_url": "unity_bank.png",
@@ -3080,7 +3080,7 @@
     "slug": "unity-small-finance-bank"
   },
   {
-    "id": 287,
+    "bank_id": 287,
     "bank_name": "Urban Co operative Bank Ltd Bareilly",
     "bankname_rbi": "Urban Co operative Bank Ltd Bareilly",
     "logo_url": "urban-co-operative-bank-ltd-Bareilly.png",
@@ -3091,7 +3091,7 @@
     "slug": "urban-co-operative-bank-ltd-bareilly"
   },
   {
-    "id": 288,
+    "bank_id": 288,
     "bank_name": "THE BURDWAN CENTRAL CO OPERATIVE BANK LTD",
     "bankname_rbi": "The Burdwan Central Co-operative Bank",
     "logo_url": "the-burdwan-central-co-operative-bank.png",
@@ -3102,7 +3102,7 @@
     "slug": "the-burdwan-central-co-operative-bank"
   },
   {
-    "id": 289,
+    "bank_id": 289,
     "bank_name": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
     "bankname_rbi": "Ahmedabad Mercantile Cooperative Bank",
     "logo_url": "ahmedabad-mercantile-cooperative-bank.png",
@@ -3113,7 +3113,7 @@
     "slug": "ahmedabad-mercantile-cooperative-bank"
   },
   {
-    "id": 290,
+    "bank_id": 290,
     "bank_name": "BANK OF BAHARAIN AND KUWAIT BSC",
     "bankname_rbi": "Bank of Baharain and Kuwait BSC",
     "logo_url": "bank-of-baharain-and-kuwait-bsc.png",
@@ -3124,7 +3124,7 @@
     "slug": "bank-of-baharain-and-kuwait-bsc"
   },
   {
-    "id": 291,
+    "bank_id": 291,
     "bank_name": "GUARDIAN SOUHARDA SAHAKARI BANK NIYAMITA",
     "bankname_rbi": "Guardian Souharda Sahakari Bank Niyamita",
     "logo_url": "guardian-souharda-sahakari-bank-niyamita.png",
@@ -3135,7 +3135,7 @@
     "slug": "guardian-souharda-sahakari-bank-niyamita"
   },
   {
-    "id": 292,
+    "bank_id": 292,
     "bank_name": "NONGHYUP BANK",
     "bankname_rbi": "Nonghyup Bank",
     "logo_url": "nonghyup-bank.png",
@@ -3146,7 +3146,7 @@
     "slug": "nonghyup-bank"
   },
   {
-    "id": 293,
+    "bank_id": 293,
     "bank_name": "PAY POINT INDIA NETWORK PRIVATE LIMITED",
     "bankname_rbi": "Pay Point India Network",
     "logo_url": "pay-point-india-network.png",
@@ -3157,7 +3157,7 @@
     "slug": "pay-point-india-network"
   },
   {
-    "id": 294,
+    "bank_id": 294,
     "bank_name": "PHONEPE PRIVATE LIMITED",
     "bankname_rbi": "Phonepe",
     "logo_url": "phonepe.png",
@@ -3168,7 +3168,7 @@
     "slug": "phonepe"
   },
   {
-    "id": 295,
+    "bank_id": 295,
     "bank_name": "RAJASTHAN GRAMIN BANK",
     "bankname_rbi": "Rajasthan Gramin Bank",
     "logo_url": "rajasthan-gramin-bank.png",
@@ -3179,7 +3179,7 @@
     "slug": "rajasthan-gramin-bank"
   },
   {
-    "id": 296,
+    "bank_id": 296,
     "bank_name": "SLICE SMALL FINANCE BANK LIMITED",
     "bankname_rbi": "Slice Small Finance Bank",
     "logo_url": "slice-small-finance-bank.png",
@@ -3190,7 +3190,7 @@
     "slug": "slice-small-finance-bank"
   },
   {
-    "id": 297,
+    "bank_id": 297,
     "bank_name": "THE ADARSH COOPERATIVE URBAN BANK LIMITED",
     "bankname_rbi": "The Adarsh Cooperative Urban Bank",
     "logo_url": "the-adarsh-cooperative-urban-bank.png",
@@ -3201,7 +3201,7 @@
     "slug": "the-adarsh-cooperative-urban-bank"
   },
   {
-    "id": 298,
+    "bank_id": 298,
     "bank_name": "THE AKOLA-WASHIM DISTRICT CENTRAL COOPERATIVE BANK LTD., AKOLA",
     "bankname_rbi": "The Akola-Washim District Central Cooperative Bank, Akola",
     "logo_url": "the-akola-washim-district-central-cooperative-bank-akola.png",
@@ -3212,7 +3212,7 @@
     "slug": "the-akola-washim-district-central-cooperative-bank,-akola"
   },
   {
-    "id": 299,
+    "bank_id": 299,
     "bank_name": "THE CLEARING CORPORATION OF INDIA LIMITED",
     "bankname_rbi": "The Clearing Corporation Of India Limited",
     "logo_url": "the-clearing-corporation-of-india-limited.png",
@@ -3223,7 +3223,7 @@
     "slug": "the-clearing-corporation-of-india-limited"
   },
   {
-    "id": 300,
+    "bank_id": 300,
     "bank_name": "THE COOPERATIVE BANK OF RAJKOT LIMITED",
     "bankname_rbi": "The Cooperative Bank Of Rajkot Limited",
     "logo_url": "the-cooperative-bank-of-rajkot-limited.png",
@@ -3234,7 +3234,7 @@
     "slug": "the-cooperative-bank-of-rajkot-limited"
   },
   {
-    "id": 301,
+    "bank_id": 301,
     "bank_name": "THE GAYATRI CO-OPERATIVE URBAN BANK LIMITED",
     "bankname_rbi": "The Gayatri Co-Operative Urban Bank Limited",
     "logo_url": "the-gayatri-co-operative-urban-bank-limited.png",
@@ -3245,7 +3245,7 @@
     "slug": "the-gayatri-co-operative-urban-bank-limited"
   },
   {
-    "id": 302,
+    "bank_id": 302,
     "bank_name": "THE URBAN CO OPERATIVE BANK LTD NO ONE SEVEN FIVE EIGHT PERINTHALMANNA",
     "bankname_rbi": "The Urban Co Operative Bank Ltd No One Seven Five Eight Perinthalmanna",
     "logo_url": "the-urban-co-operative-bank-ltd-no-one-seven-five-eight-perinthalmanna.png",
@@ -3256,7 +3256,7 @@
     "slug": "the-urban-co-operative-bank-ltd-no-one-seven-five-eight-perinthalmanna"
   },
   {
-    "id": 303,
+    "bank_id": 303,
     "bank_name": "TTC CO-OPERATIVE BANK LIMITED",
     "bankname_rbi": "TTC Co-Operative Bank Limited",
     "logo_url": "ttc-co-operative-bank-limited.png",
@@ -3267,7 +3267,7 @@
     "slug": "ttc-co-operative-bank-limited"
   },
   {
-    "id": 304,
+    "bank_id": 304,
     "bank_name": "UBS AG",
     "bankname_rbi": "Ubs AG",
     "logo_url": "ubs-ag.png",
@@ -3278,7 +3278,7 @@
     "slug": "ubs-ag"
   },
   {
-    "id": 305,
+    "bank_id": 305,
     "bank_name": "UTTARAKHAND STATE COOPERATIVE BANK LIMITED",
     "bankname_rbi": "Uttarakhand State Cooperative Bank",
     "logo_url": "uttarakhand-state-cooperative-bank.png",
@@ -3289,7 +3289,7 @@
     "slug": "uttarakhand-state-cooperative-bank"
   },
   {
-    "id": 306,
+    "bank_id": 306,
     "bank_name": "VIKAS SOUHARDA CO OPERATIVE BANK LIMITED",
     "bankname_rbi": "Vikas Souharda Co Operative Bank",
     "logo_url": "vikas-souharda-co-operative-bank.png",
@@ -3300,7 +3300,7 @@
     "slug": "vikas-souharda-co-operative-bank"
   },
   {
-    "id": 307,
+    "bank_id": 307,
     "bank_name": "THE JAMNAGAR DISTRICT COOPERATIVE BANK LTD SAMANA\n",
     "bankname_rbi": "The Jamnagar District Cooperative Bank",
     "logo_url": "the-jamnagar-district-cooperative-bank-samana.png",

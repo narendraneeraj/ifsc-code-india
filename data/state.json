@@ -1,8591 +1,8591 @@
 [
   {
-    "id": 2,
+    "state_id": 2,
     "bank_id": 2,
     "state_name": "GUJARAT"
   },
   {
-    "id": 3,
+    "state_id": 3,
     "bank_id": 2,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 4,
+    "state_id": 4,
     "bank_id": 2,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 5,
+    "state_id": 5,
     "bank_id": 3,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 6,
+    "state_id": 6,
     "bank_id": 4,
     "state_name": "GUJARAT"
   },
   {
-    "id": 7,
+    "state_id": 7,
     "bank_id": 4,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 8,
+    "state_id": 8,
     "bank_id": 5,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 10,
+    "state_id": 10,
     "bank_id": 7,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 11,
+    "state_id": 11,
     "bank_id": 7,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 12,
+    "state_id": 12,
     "bank_id": 8,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 13,
+    "state_id": 13,
     "bank_id": 9,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 14,
+    "state_id": 14,
     "bank_id": 12,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 15,
+    "state_id": 15,
     "bank_id": 12,
     "state_name": "TELANGANA"
   },
   {
-    "id": 16,
+    "state_id": 16,
     "bank_id": 13,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 17,
+    "state_id": 17,
     "bank_id": 14,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 18,
+    "state_id": 18,
     "bank_id": 14,
     "state_name": "GOA"
   },
   {
-    "id": 19,
+    "state_id": 19,
     "bank_id": 15,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 20,
+    "state_id": 20,
     "bank_id": 16,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 21,
+    "state_id": 21,
     "bank_id": 18,
     "state_name": "ASSAM"
   },
   {
-    "id": 22,
+    "state_id": 22,
     "bank_id": 19,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 23,
+    "state_id": 23,
     "bank_id": 19,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 24,
+    "state_id": 24,
     "bank_id": 19,
     "state_name": "GUJARAT"
   },
   {
-    "id": 25,
+    "state_id": 25,
     "bank_id": 19,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 26,
+    "state_id": 26,
     "bank_id": 19,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 27,
+    "state_id": 27,
     "bank_id": 19,
     "state_name": "HARYANA"
   },
   {
-    "id": 28,
+    "state_id": 28,
     "bank_id": 19,
     "state_name": "PUNJAB"
   },
   {
-    "id": 29,
+    "state_id": 29,
     "bank_id": 19,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 30,
+    "state_id": 30,
     "bank_id": 19,
     "state_name": "ODISHA"
   },
   {
-    "id": 31,
+    "state_id": 31,
     "bank_id": 19,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 32,
+    "state_id": 32,
     "bank_id": 19,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 33,
+    "state_id": 33,
     "bank_id": 19,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 34,
+    "state_id": 34,
     "bank_id": 19,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 35,
+    "state_id": 35,
     "bank_id": 19,
     "state_name": "DELHI"
   },
   {
-    "id": 36,
+    "state_id": 36,
     "bank_id": 19,
     "state_name": "ASSAM"
   },
   {
-    "id": 37,
+    "state_id": 37,
     "bank_id": 19,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 38,
+    "state_id": 38,
     "bank_id": 19,
     "state_name": "TELANGANA"
   },
   {
-    "id": 39,
+    "state_id": 39,
     "bank_id": 19,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 40,
+    "state_id": 40,
     "bank_id": 19,
     "state_name": "GOA"
   },
   {
-    "id": 41,
+    "state_id": 41,
     "bank_id": 19,
     "state_name": "BIHAR"
   },
   {
-    "id": 42,
+    "state_id": 42,
     "bank_id": 19,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 43,
+    "state_id": 43,
     "bank_id": 19,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 44,
+    "state_id": 44,
     "bank_id": 19,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 45,
+    "state_id": 45,
     "bank_id": 19,
     "state_name": "KERALA"
   },
   {
-    "id": 46,
+    "state_id": 46,
     "bank_id": 20,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 47,
+    "state_id": 47,
     "bank_id": 21,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 48,
+    "state_id": 48,
     "bank_id": 21,
     "state_name": "PUNJAB"
   },
   {
-    "id": 49,
+    "state_id": 49,
     "bank_id": 21,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 50,
+    "state_id": 50,
     "bank_id": 21,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 51,
+    "state_id": 51,
     "bank_id": 21,
     "state_name": "TRIPURA"
   },
   {
-    "id": 52,
+    "state_id": 52,
     "bank_id": 21,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 53,
+    "state_id": 53,
     "bank_id": 21,
     "state_name": "GUJARAT"
   },
   {
-    "id": 54,
+    "state_id": 54,
     "bank_id": 21,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 55,
+    "state_id": 55,
     "bank_id": 21,
     "state_name": "MIZORAM"
   },
   {
-    "id": 56,
+    "state_id": 56,
     "bank_id": 21,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 57,
+    "state_id": 57,
     "bank_id": 21,
     "state_name": "KERALA"
   },
   {
-    "id": 58,
+    "state_id": 58,
     "bank_id": 21,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 59,
+    "state_id": 59,
     "bank_id": 21,
     "state_name": "HARYANA"
   },
   {
-    "id": 60,
+    "state_id": 60,
     "bank_id": 21,
     "state_name": "ODISHA"
   },
   {
-    "id": 61,
+    "state_id": 61,
     "bank_id": 21,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 62,
+    "state_id": 62,
     "bank_id": 21,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 63,
+    "state_id": 63,
     "bank_id": 21,
     "state_name": "BIHAR"
   },
   {
-    "id": 64,
+    "state_id": 64,
     "bank_id": 21,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 65,
+    "state_id": 65,
     "bank_id": 21,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 66,
+    "state_id": 66,
     "bank_id": 21,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 67,
+    "state_id": 67,
     "bank_id": 21,
     "state_name": "ASSAM"
   },
   {
-    "id": 68,
+    "state_id": 68,
     "bank_id": 21,
     "state_name": "TELANGANA"
   },
   {
-    "id": 69,
+    "state_id": 69,
     "bank_id": 21,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 70,
+    "state_id": 70,
     "bank_id": 21,
     "state_name": "MANIPUR"
   },
   {
-    "id": 71,
+    "state_id": 71,
     "bank_id": 21,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 72,
+    "state_id": 72,
     "bank_id": 21,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 73,
+    "state_id": 73,
     "bank_id": 21,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 74,
+    "state_id": 74,
     "bank_id": 21,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 75,
+    "state_id": 75,
     "bank_id": 21,
     "state_name": "DELHI"
   },
   {
-    "id": 76,
+    "state_id": 76,
     "bank_id": 21,
     "state_name": "NAGALAND"
   },
   {
-    "id": 77,
+    "state_id": 77,
     "bank_id": 21,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 78,
+    "state_id": 78,
     "bank_id": 21,
     "state_name": "SIKKIM"
   },
   {
-    "id": 79,
+    "state_id": 79,
     "bank_id": 21,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 80,
+    "state_id": 80,
     "bank_id": 21,
     "state_name": "GOA"
   },
   {
-    "id": 81,
+    "state_id": 81,
     "bank_id": 21,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 82,
+    "state_id": 82,
     "bank_id": 22,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 83,
+    "state_id": 83,
     "bank_id": 22,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 84,
+    "state_id": 84,
     "bank_id": 22,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 85,
+    "state_id": 85,
     "bank_id": 22,
     "state_name": "GUJARAT"
   },
   {
-    "id": 86,
+    "state_id": 86,
     "bank_id": 22,
     "state_name": "MIZORAM"
   },
   {
-    "id": 87,
+    "state_id": 87,
     "bank_id": 22,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 88,
+    "state_id": 88,
     "bank_id": 22,
     "state_name": "HARYANA"
   },
   {
-    "id": 89,
+    "state_id": 89,
     "bank_id": 22,
     "state_name": "PUNJAB"
   },
   {
-    "id": 90,
+    "state_id": 90,
     "bank_id": 22,
     "state_name": "ODISHA"
   },
   {
-    "id": 91,
+    "state_id": 91,
     "bank_id": 22,
     "state_name": "BIHAR"
   },
   {
-    "id": 92,
+    "state_id": 92,
     "bank_id": 22,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 93,
+    "state_id": 93,
     "bank_id": 22,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 94,
+    "state_id": 94,
     "bank_id": 22,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 95,
+    "state_id": 95,
     "bank_id": 22,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 96,
+    "state_id": 96,
     "bank_id": 22,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 97,
+    "state_id": 97,
     "bank_id": 22,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 98,
+    "state_id": 98,
     "bank_id": 22,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 99,
+    "state_id": 99,
     "bank_id": 22,
     "state_name": "ASSAM"
   },
   {
-    "id": 100,
+    "state_id": 100,
     "bank_id": 22,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 101,
+    "state_id": 101,
     "bank_id": 22,
     "state_name": "DELHI"
   },
   {
-    "id": 102,
+    "state_id": 102,
     "bank_id": 22,
     "state_name": "TRIPURA"
   },
   {
-    "id": 103,
+    "state_id": 103,
     "bank_id": 22,
     "state_name": "NAGALAND"
   },
   {
-    "id": 104,
+    "state_id": 104,
     "bank_id": 22,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 105,
+    "state_id": 105,
     "bank_id": 22,
     "state_name": "SIKKIM"
   },
   {
-    "id": 106,
+    "state_id": 106,
     "bank_id": 22,
     "state_name": "KERALA"
   },
   {
-    "id": 107,
+    "state_id": 107,
     "bank_id": 22,
     "state_name": "TELANGANA"
   },
   {
-    "id": 108,
+    "state_id": 108,
     "bank_id": 22,
     "state_name": "MANIPUR"
   },
   {
-    "id": 109,
+    "state_id": 109,
     "bank_id": 22,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 110,
+    "state_id": 110,
     "bank_id": 22,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 111,
+    "state_id": 111,
     "bank_id": 22,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 112,
+    "state_id": 112,
     "bank_id": 22,
     "state_name": "GOA"
   },
   {
-    "id": 113,
+    "state_id": 113,
     "bank_id": 22,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 114,
+    "state_id": 114,
     "bank_id": 22,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 115,
+    "state_id": 115,
     "bank_id": 24,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 116,
+    "state_id": 116,
     "bank_id": 24,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 117,
+    "state_id": 117,
     "bank_id": 24,
     "state_name": "DELHI"
   },
   {
-    "id": 118,
+    "state_id": 118,
     "bank_id": 24,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 119,
+    "state_id": 119,
     "bank_id": 25,
     "state_name": "DELHI"
   },
   {
-    "id": 120,
+    "state_id": 120,
     "bank_id": 25,
     "state_name": "KERALA"
   },
   {
-    "id": 121,
+    "state_id": 121,
     "bank_id": 25,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 122,
+    "state_id": 122,
     "bank_id": 25,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 123,
+    "state_id": 123,
     "bank_id": 26,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 124,
+    "state_id": 124,
     "bank_id": 26,
     "state_name": "PUNJAB"
   },
   {
-    "id": 125,
+    "state_id": 125,
     "bank_id": 26,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 126,
+    "state_id": 126,
     "bank_id": 26,
     "state_name": "TELANGANA"
   },
   {
-    "id": 127,
+    "state_id": 127,
     "bank_id": 26,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 128,
+    "state_id": 128,
     "bank_id": 26,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 129,
+    "state_id": 129,
     "bank_id": 26,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 130,
+    "state_id": 130,
     "bank_id": 26,
     "state_name": "GUJARAT"
   },
   {
-    "id": 131,
+    "state_id": 131,
     "bank_id": 26,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 132,
+    "state_id": 132,
     "bank_id": 26,
     "state_name": "MIZORAM"
   },
   {
-    "id": 133,
+    "state_id": 133,
     "bank_id": 26,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 134,
+    "state_id": 134,
     "bank_id": 26,
     "state_name": "KERALA"
   },
   {
-    "id": 135,
+    "state_id": 135,
     "bank_id": 26,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 136,
+    "state_id": 136,
     "bank_id": 26,
     "state_name": "HARYANA"
   },
   {
-    "id": 137,
+    "state_id": 137,
     "bank_id": 26,
     "state_name": "ODISHA"
   },
   {
-    "id": 138,
+    "state_id": 138,
     "bank_id": 26,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 139,
+    "state_id": 139,
     "bank_id": 26,
     "state_name": "BIHAR"
   },
   {
-    "id": 140,
+    "state_id": 140,
     "bank_id": 26,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 141,
+    "state_id": 141,
     "bank_id": 26,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 142,
+    "state_id": 142,
     "bank_id": 26,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 143,
+    "state_id": 143,
     "bank_id": 26,
     "state_name": "ASSAM"
   },
   {
-    "id": 144,
+    "state_id": 144,
     "bank_id": 26,
     "state_name": "GOA"
   },
   {
-    "id": 145,
+    "state_id": 145,
     "bank_id": 26,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 146,
+    "state_id": 146,
     "bank_id": 26,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 147,
+    "state_id": 147,
     "bank_id": 26,
     "state_name": "MANIPUR"
   },
   {
-    "id": 148,
+    "state_id": 148,
     "bank_id": 26,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 149,
+    "state_id": 149,
     "bank_id": 26,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 150,
+    "state_id": 150,
     "bank_id": 26,
     "state_name": "DELHI"
   },
   {
-    "id": 151,
+    "state_id": 151,
     "bank_id": 26,
     "state_name": "NAGALAND"
   },
   {
-    "id": 152,
+    "state_id": 152,
     "bank_id": 26,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 153,
+    "state_id": 153,
     "bank_id": 26,
     "state_name": "SIKKIM"
   },
   {
-    "id": 154,
+    "state_id": 154,
     "bank_id": 26,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 155,
+    "state_id": 155,
     "bank_id": 26,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 156,
+    "state_id": 156,
     "bank_id": 26,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 157,
+    "state_id": 157,
     "bank_id": 26,
     "state_name": "TRIPURA"
   },
   {
-    "id": 158,
+    "state_id": 158,
     "bank_id": 27,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 159,
+    "state_id": 159,
     "bank_id": 29,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 160,
+    "state_id": 160,
     "bank_id": 29,
     "state_name": "PUNJAB"
   },
   {
-    "id": 161,
+    "state_id": 161,
     "bank_id": 29,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 162,
+    "state_id": 162,
     "bank_id": 29,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 163,
+    "state_id": 163,
     "bank_id": 29,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 164,
+    "state_id": 164,
     "bank_id": 29,
     "state_name": "TRIPURA"
   },
   {
-    "id": 165,
+    "state_id": 165,
     "bank_id": 29,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 166,
+    "state_id": 166,
     "bank_id": 29,
     "state_name": "GUJARAT"
   },
   {
-    "id": 167,
+    "state_id": 167,
     "bank_id": 29,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 168,
+    "state_id": 168,
     "bank_id": 29,
     "state_name": "MIZORAM"
   },
   {
-    "id": 169,
+    "state_id": 169,
     "bank_id": 29,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 170,
+    "state_id": 170,
     "bank_id": 29,
     "state_name": "KERALA"
   },
   {
-    "id": 171,
+    "state_id": 171,
     "bank_id": 29,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 172,
+    "state_id": 172,
     "bank_id": 29,
     "state_name": "HARYANA"
   },
   {
-    "id": 173,
+    "state_id": 173,
     "bank_id": 29,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 174,
+    "state_id": 174,
     "bank_id": 29,
     "state_name": "ODISHA"
   },
   {
-    "id": 175,
+    "state_id": 175,
     "bank_id": 29,
     "state_name": "BIHAR"
   },
   {
-    "id": 176,
+    "state_id": 176,
     "bank_id": 29,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 177,
+    "state_id": 177,
     "bank_id": 29,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 178,
+    "state_id": 178,
     "bank_id": 29,
     "state_name": "ASSAM"
   },
   {
-    "id": 179,
+    "state_id": 179,
     "bank_id": 29,
     "state_name": "TELANGANA"
   },
   {
-    "id": 180,
+    "state_id": 180,
     "bank_id": 29,
     "state_name": "GOA"
   },
   {
-    "id": 181,
+    "state_id": 181,
     "bank_id": 29,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 182,
+    "state_id": 182,
     "bank_id": 29,
     "state_name": "MANIPUR"
   },
   {
-    "id": 183,
+    "state_id": 183,
     "bank_id": 29,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 184,
+    "state_id": 184,
     "bank_id": 29,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 185,
+    "state_id": 185,
     "bank_id": 29,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 186,
+    "state_id": 186,
     "bank_id": 29,
     "state_name": "DELHI"
   },
   {
-    "id": 187,
+    "state_id": 187,
     "bank_id": 29,
     "state_name": "NAGALAND"
   },
   {
-    "id": 188,
+    "state_id": 188,
     "bank_id": 29,
     "state_name": "SIKKIM"
   },
   {
-    "id": 189,
+    "state_id": 189,
     "bank_id": 29,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 190,
+    "state_id": 190,
     "bank_id": 29,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 191,
+    "state_id": 191,
     "bank_id": 29,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 192,
+    "state_id": 192,
     "bank_id": 29,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 193,
+    "state_id": 193,
     "bank_id": 29,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 194,
+    "state_id": 194,
     "bank_id": 30,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 195,
+    "state_id": 195,
     "bank_id": 30,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 196,
+    "state_id": 196,
     "bank_id": 30,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 197,
+    "state_id": 197,
     "bank_id": 30,
     "state_name": "GUJARAT"
   },
   {
-    "id": 198,
+    "state_id": 198,
     "bank_id": 30,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 199,
+    "state_id": 199,
     "bank_id": 30,
     "state_name": "MIZORAM"
   },
   {
-    "id": 200,
+    "state_id": 200,
     "bank_id": 30,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 201,
+    "state_id": 201,
     "bank_id": 30,
     "state_name": "KERALA"
   },
   {
-    "id": 202,
+    "state_id": 202,
     "bank_id": 30,
     "state_name": "HARYANA"
   },
   {
-    "id": 203,
+    "state_id": 203,
     "bank_id": 30,
     "state_name": "PUNJAB"
   },
   {
-    "id": 204,
+    "state_id": 204,
     "bank_id": 30,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 205,
+    "state_id": 205,
     "bank_id": 30,
     "state_name": "ODISHA"
   },
   {
-    "id": 206,
+    "state_id": 206,
     "bank_id": 30,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 207,
+    "state_id": 207,
     "bank_id": 30,
     "state_name": "BIHAR"
   },
   {
-    "id": 208,
+    "state_id": 208,
     "bank_id": 30,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 209,
+    "state_id": 209,
     "bank_id": 30,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 210,
+    "state_id": 210,
     "bank_id": 30,
     "state_name": "GOA"
   },
   {
-    "id": 211,
+    "state_id": 211,
     "bank_id": 30,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 212,
+    "state_id": 212,
     "bank_id": 30,
     "state_name": "ASSAM"
   },
   {
-    "id": 213,
+    "state_id": 213,
     "bank_id": 30,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 214,
+    "state_id": 214,
     "bank_id": 30,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 215,
+    "state_id": 215,
     "bank_id": 30,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 216,
+    "state_id": 216,
     "bank_id": 30,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 217,
+    "state_id": 217,
     "bank_id": 30,
     "state_name": "DELHI"
   },
   {
-    "id": 218,
+    "state_id": 218,
     "bank_id": 30,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 219,
+    "state_id": 219,
     "bank_id": 30,
     "state_name": "NAGALAND"
   },
   {
-    "id": 220,
+    "state_id": 220,
     "bank_id": 30,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 221,
+    "state_id": 221,
     "bank_id": 30,
     "state_name": "SIKKIM"
   },
   {
-    "id": 222,
+    "state_id": 222,
     "bank_id": 30,
     "state_name": "TELANGANA"
   },
   {
-    "id": 223,
+    "state_id": 223,
     "bank_id": 30,
     "state_name": "MANIPUR"
   },
   {
-    "id": 224,
+    "state_id": 224,
     "bank_id": 30,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 225,
+    "state_id": 225,
     "bank_id": 30,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 226,
+    "state_id": 226,
     "bank_id": 30,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 227,
+    "state_id": 227,
     "bank_id": 30,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 228,
+    "state_id": 228,
     "bank_id": 30,
     "state_name": "TRIPURA"
   },
   {
-    "id": 229,
+    "state_id": 229,
     "bank_id": 32,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 230,
+    "state_id": 230,
     "bank_id": 35,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 231,
+    "state_id": 231,
     "bank_id": 36,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 232,
+    "state_id": 232,
     "bank_id": 37,
     "state_name": "GUJARAT"
   },
   {
-    "id": 233,
+    "state_id": 233,
     "bank_id": 37,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 234,
+    "state_id": 234,
     "bank_id": 37,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 235,
+    "state_id": 235,
     "bank_id": 38,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 236,
+    "state_id": 236,
     "bank_id": 38,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 237,
+    "state_id": 237,
     "bank_id": 38,
     "state_name": "DELHI"
   },
   {
-    "id": 238,
+    "state_id": 238,
     "bank_id": 38,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 239,
+    "state_id": 239,
     "bank_id": 39,
     "state_name": "GUJARAT"
   },
   {
-    "id": 240,
+    "state_id": 240,
     "bank_id": 39,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 241,
+    "state_id": 241,
     "bank_id": 39,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 242,
+    "state_id": 242,
     "bank_id": 39,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 243,
+    "state_id": 243,
     "bank_id": 39,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 244,
+    "state_id": 244,
     "bank_id": 39,
     "state_name": "DELHI"
   },
   {
-    "id": 245,
+    "state_id": 245,
     "bank_id": 39,
     "state_name": "TELANGANA"
   },
   {
-    "id": 246,
+    "state_id": 246,
     "bank_id": 39,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 247,
+    "state_id": 247,
     "bank_id": 39,
     "state_name": "BIHAR"
   },
   {
-    "id": 248,
+    "state_id": 248,
     "bank_id": 39,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 249,
+    "state_id": 249,
     "bank_id": 40,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 250,
+    "state_id": 250,
     "bank_id": 40,
     "state_name": "PUNJAB"
   },
   {
-    "id": 251,
+    "state_id": 251,
     "bank_id": 40,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 252,
+    "state_id": 252,
     "bank_id": 40,
     "state_name": "TELANGANA"
   },
   {
-    "id": 253,
+    "state_id": 253,
     "bank_id": 40,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 254,
+    "state_id": 254,
     "bank_id": 40,
     "state_name": "TRIPURA"
   },
   {
-    "id": 255,
+    "state_id": 255,
     "bank_id": 40,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 256,
+    "state_id": 256,
     "bank_id": 40,
     "state_name": "GUJARAT"
   },
   {
-    "id": 257,
+    "state_id": 257,
     "bank_id": 40,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 258,
+    "state_id": 258,
     "bank_id": 40,
     "state_name": "MIZORAM"
   },
   {
-    "id": 259,
+    "state_id": 259,
     "bank_id": 40,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 260,
+    "state_id": 260,
     "bank_id": 40,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 261,
+    "state_id": 261,
     "bank_id": 40,
     "state_name": "KERALA"
   },
   {
-    "id": 262,
+    "state_id": 262,
     "bank_id": 40,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 263,
+    "state_id": 263,
     "bank_id": 40,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 264,
+    "state_id": 264,
     "bank_id": 40,
     "state_name": "HARYANA"
   },
   {
-    "id": 265,
+    "state_id": 265,
     "bank_id": 40,
     "state_name": "ODISHA"
   },
   {
-    "id": 266,
+    "state_id": 266,
     "bank_id": 40,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 267,
+    "state_id": 267,
     "bank_id": 40,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 268,
+    "state_id": 268,
     "bank_id": 40,
     "state_name": "BIHAR"
   },
   {
-    "id": 269,
+    "state_id": 269,
     "bank_id": 40,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 270,
+    "state_id": 270,
     "bank_id": 40,
     "state_name": "ASSAM"
   },
   {
-    "id": 271,
+    "state_id": 271,
     "bank_id": 40,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 272,
+    "state_id": 272,
     "bank_id": 40,
     "state_name": "GOA"
   },
   {
-    "id": 273,
+    "state_id": 273,
     "bank_id": 40,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 274,
+    "state_id": 274,
     "bank_id": 40,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 275,
+    "state_id": 275,
     "bank_id": 40,
     "state_name": "MANIPUR"
   },
   {
-    "id": 276,
+    "state_id": 276,
     "bank_id": 40,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 277,
+    "state_id": 277,
     "bank_id": 40,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 278,
+    "state_id": 278,
     "bank_id": 40,
     "state_name": "DELHI"
   },
   {
-    "id": 279,
+    "state_id": 279,
     "bank_id": 40,
     "state_name": "NAGALAND"
   },
   {
-    "id": 280,
+    "state_id": 280,
     "bank_id": 40,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 281,
+    "state_id": 281,
     "bank_id": 40,
     "state_name": "SIKKIM"
   },
   {
-    "id": 282,
+    "state_id": 282,
     "bank_id": 40,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 283,
+    "state_id": 283,
     "bank_id": 40,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 284,
+    "state_id": 284,
     "bank_id": 40,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 285,
+    "state_id": 285,
     "bank_id": 41,
     "state_name": "HARYANA"
   },
   {
-    "id": 286,
+    "state_id": 286,
     "bank_id": 41,
     "state_name": "PUNJAB"
   },
   {
-    "id": 287,
+    "state_id": 287,
     "bank_id": 41,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 288,
+    "state_id": 288,
     "bank_id": 41,
     "state_name": "DELHI"
   },
   {
-    "id": 289,
+    "state_id": 289,
     "bank_id": 41,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 290,
+    "state_id": 290,
     "bank_id": 41,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 291,
+    "state_id": 291,
     "bank_id": 42,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 292,
+    "state_id": 292,
     "bank_id": 42,
     "state_name": "PUNJAB"
   },
   {
-    "id": 293,
+    "state_id": 293,
     "bank_id": 42,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 294,
+    "state_id": 294,
     "bank_id": 42,
     "state_name": "TELANGANA"
   },
   {
-    "id": 295,
+    "state_id": 295,
     "bank_id": 42,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 296,
+    "state_id": 296,
     "bank_id": 42,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 297,
+    "state_id": 297,
     "bank_id": 42,
     "state_name": "GUJARAT"
   },
   {
-    "id": 298,
+    "state_id": 298,
     "bank_id": 42,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 299,
+    "state_id": 299,
     "bank_id": 42,
     "state_name": "MIZORAM"
   },
   {
-    "id": 300,
+    "state_id": 300,
     "bank_id": 42,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 301,
+    "state_id": 301,
     "bank_id": 42,
     "state_name": "KERALA"
   },
   {
-    "id": 302,
+    "state_id": 302,
     "bank_id": 42,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 303,
+    "state_id": 303,
     "bank_id": 42,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 304,
+    "state_id": 304,
     "bank_id": 42,
     "state_name": "HARYANA"
   },
   {
-    "id": 305,
+    "state_id": 305,
     "bank_id": 42,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 306,
+    "state_id": 306,
     "bank_id": 42,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 307,
+    "state_id": 307,
     "bank_id": 42,
     "state_name": "ODISHA"
   },
   {
-    "id": 308,
+    "state_id": 308,
     "bank_id": 42,
     "state_name": "BIHAR"
   },
   {
-    "id": 309,
+    "state_id": 309,
     "bank_id": 42,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 310,
+    "state_id": 310,
     "bank_id": 42,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 311,
+    "state_id": 311,
     "bank_id": 42,
     "state_name": "ASSAM"
   },
   {
-    "id": 312,
+    "state_id": 312,
     "bank_id": 42,
     "state_name": "GOA"
   },
   {
-    "id": 313,
+    "state_id": 313,
     "bank_id": 42,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 314,
+    "state_id": 314,
     "bank_id": 42,
     "state_name": "MANIPUR"
   },
   {
-    "id": 315,
+    "state_id": 315,
     "bank_id": 42,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 316,
+    "state_id": 316,
     "bank_id": 42,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 317,
+    "state_id": 317,
     "bank_id": 42,
     "state_name": "DELHI"
   },
   {
-    "id": 318,
+    "state_id": 318,
     "bank_id": 42,
     "state_name": "TRIPURA"
   },
   {
-    "id": 319,
+    "state_id": 319,
     "bank_id": 42,
     "state_name": "NAGALAND"
   },
   {
-    "id": 320,
+    "state_id": 320,
     "bank_id": 42,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 321,
+    "state_id": 321,
     "bank_id": 42,
     "state_name": "SIKKIM"
   },
   {
-    "id": 322,
+    "state_id": 322,
     "bank_id": 42,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 323,
+    "state_id": 323,
     "bank_id": 42,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 324,
+    "state_id": 324,
     "bank_id": 42,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 325,
+    "state_id": 325,
     "bank_id": 42,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 326,
+    "state_id": 326,
     "bank_id": 44,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 327,
+    "state_id": 327,
     "bank_id": 46,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 328,
+    "state_id": 328,
     "bank_id": 46,
     "state_name": "GOA"
   },
   {
-    "id": 329,
+    "state_id": 329,
     "bank_id": 46,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 330,
+    "state_id": 330,
     "bank_id": 45,
     "state_name": "GUJARAT"
   },
   {
-    "id": 331,
+    "state_id": 331,
     "bank_id": 45,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 332,
+    "state_id": 332,
     "bank_id": 45,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 333,
+    "state_id": 333,
     "bank_id": 45,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 334,
+    "state_id": 334,
     "bank_id": 45,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 335,
+    "state_id": 335,
     "bank_id": 45,
     "state_name": "DELHI"
   },
   {
-    "id": 336,
+    "state_id": 336,
     "bank_id": 45,
     "state_name": "KERALA"
   },
   {
-    "id": 337,
+    "state_id": 337,
     "bank_id": 45,
     "state_name": "HARYANA"
   },
   {
-    "id": 338,
+    "state_id": 338,
     "bank_id": 45,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 339,
+    "state_id": 339,
     "bank_id": 45,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 340,
+    "state_id": 340,
     "bank_id": 45,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 341,
+    "state_id": 341,
     "bank_id": 45,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 342,
+    "state_id": 342,
     "bank_id": 47,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 343,
+    "state_id": 343,
     "bank_id": 47,
     "state_name": "GUJARAT"
   },
   {
-    "id": 344,
+    "state_id": 344,
     "bank_id": 47,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 345,
+    "state_id": 345,
     "bank_id": 47,
     "state_name": "KERALA"
   },
   {
-    "id": 346,
+    "state_id": 346,
     "bank_id": 47,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 347,
+    "state_id": 347,
     "bank_id": 47,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 348,
+    "state_id": 348,
     "bank_id": 47,
     "state_name": "PUNJAB"
   },
   {
-    "id": 349,
+    "state_id": 349,
     "bank_id": 47,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 350,
+    "state_id": 350,
     "bank_id": 47,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 351,
+    "state_id": 351,
     "bank_id": 47,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 352,
+    "state_id": 352,
     "bank_id": 47,
     "state_name": "ODISHA"
   },
   {
-    "id": 353,
+    "state_id": 353,
     "bank_id": 47,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 354,
+    "state_id": 354,
     "bank_id": 47,
     "state_name": "DELHI"
   },
   {
-    "id": 355,
+    "state_id": 355,
     "bank_id": 47,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 356,
+    "state_id": 356,
     "bank_id": 47,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 357,
+    "state_id": 357,
     "bank_id": 47,
     "state_name": "HARYANA"
   },
   {
-    "id": 358,
+    "state_id": 358,
     "bank_id": 47,
     "state_name": "TELANGANA"
   },
   {
-    "id": 359,
+    "state_id": 359,
     "bank_id": 47,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 360,
+    "state_id": 360,
     "bank_id": 47,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 361,
+    "state_id": 361,
     "bank_id": 48,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 362,
+    "state_id": 362,
     "bank_id": 51,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 363,
+    "state_id": 363,
     "bank_id": 51,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 364,
+    "state_id": 364,
     "bank_id": 51,
     "state_name": "DELHI"
   },
   {
-    "id": 365,
+    "state_id": 365,
     "bank_id": 51,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 366,
+    "state_id": 366,
     "bank_id": 52,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 367,
+    "state_id": 367,
     "bank_id": 53,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 368,
+    "state_id": 368,
     "bank_id": 53,
     "state_name": "GUJARAT"
   },
   {
-    "id": 369,
+    "state_id": 369,
     "bank_id": 53,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 370,
+    "state_id": 370,
     "bank_id": 53,
     "state_name": "KERALA"
   },
   {
-    "id": 371,
+    "state_id": 371,
     "bank_id": 53,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 372,
+    "state_id": 372,
     "bank_id": 53,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 373,
+    "state_id": 373,
     "bank_id": 53,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 374,
+    "state_id": 374,
     "bank_id": 53,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 375,
+    "state_id": 375,
     "bank_id": 53,
     "state_name": "ODISHA"
   },
   {
-    "id": 376,
+    "state_id": 376,
     "bank_id": 53,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 377,
+    "state_id": 377,
     "bank_id": 53,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 378,
+    "state_id": 378,
     "bank_id": 53,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 379,
+    "state_id": 379,
     "bank_id": 53,
     "state_name": "DELHI"
   },
   {
-    "id": 380,
+    "state_id": 380,
     "bank_id": 53,
     "state_name": "HARYANA"
   },
   {
-    "id": 381,
+    "state_id": 381,
     "bank_id": 53,
     "state_name": "TELANGANA"
   },
   {
-    "id": 382,
+    "state_id": 382,
     "bank_id": 53,
     "state_name": "PUNJAB"
   },
   {
-    "id": 383,
+    "state_id": 383,
     "bank_id": 53,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 384,
+    "state_id": 384,
     "bank_id": 53,
     "state_name": "GOA"
   },
   {
-    "id": 385,
+    "state_id": 385,
     "bank_id": 53,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 386,
+    "state_id": 386,
     "bank_id": 53,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 387,
+    "state_id": 387,
     "bank_id": 54,
     "state_name": "DELHI"
   },
   {
-    "id": 388,
+    "state_id": 388,
     "bank_id": 54,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 389,
+    "state_id": 389,
     "bank_id": 56,
     "state_name": "TELANGANA"
   },
   {
-    "id": 390,
+    "state_id": 390,
     "bank_id": 57,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 391,
+    "state_id": 391,
     "bank_id": 57,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 392,
+    "state_id": 392,
     "bank_id": 57,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 393,
+    "state_id": 393,
     "bank_id": 58,
     "state_name": "TELANGANA"
   },
   {
-    "id": 394,
+    "state_id": 394,
     "bank_id": 58,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 395,
+    "state_id": 395,
     "bank_id": 58,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 396,
+    "state_id": 396,
     "bank_id": 58,
     "state_name": "GUJARAT"
   },
   {
-    "id": 397,
+    "state_id": 397,
     "bank_id": 58,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 398,
+    "state_id": 398,
     "bank_id": 58,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 399,
+    "state_id": 399,
     "bank_id": 58,
     "state_name": "HARYANA"
   },
   {
-    "id": 400,
+    "state_id": 400,
     "bank_id": 58,
     "state_name": "PUNJAB"
   },
   {
-    "id": 401,
+    "state_id": 401,
     "bank_id": 58,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 402,
+    "state_id": 402,
     "bank_id": 58,
     "state_name": "ODISHA"
   },
   {
-    "id": 403,
+    "state_id": 403,
     "bank_id": 58,
     "state_name": "BIHAR"
   },
   {
-    "id": 404,
+    "state_id": 404,
     "bank_id": 58,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 405,
+    "state_id": 405,
     "bank_id": 58,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 406,
+    "state_id": 406,
     "bank_id": 58,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 407,
+    "state_id": 407,
     "bank_id": 58,
     "state_name": "KERALA"
   },
   {
-    "id": 408,
+    "state_id": 408,
     "bank_id": 58,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 409,
+    "state_id": 409,
     "bank_id": 58,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 410,
+    "state_id": 410,
     "bank_id": 58,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 411,
+    "state_id": 411,
     "bank_id": 58,
     "state_name": "DELHI"
   },
   {
-    "id": 412,
+    "state_id": 412,
     "bank_id": 58,
     "state_name": "GOA"
   },
   {
-    "id": 413,
+    "state_id": 413,
     "bank_id": 58,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 414,
+    "state_id": 414,
     "bank_id": 59,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 415,
+    "state_id": 415,
     "bank_id": 60,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 416,
+    "state_id": 416,
     "bank_id": 61,
     "state_name": "GUJARAT"
   },
   {
-    "id": 417,
+    "state_id": 417,
     "bank_id": 61,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 418,
+    "state_id": 418,
     "bank_id": 61,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 419,
+    "state_id": 419,
     "bank_id": 61,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 420,
+    "state_id": 420,
     "bank_id": 61,
     "state_name": "DELHI"
   },
   {
-    "id": 421,
+    "state_id": 421,
     "bank_id": 61,
     "state_name": "HARYANA"
   },
   {
-    "id": 422,
+    "state_id": 422,
     "bank_id": 61,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 423,
+    "state_id": 423,
     "bank_id": 61,
     "state_name": "PUNJAB"
   },
   {
-    "id": 424,
+    "state_id": 424,
     "bank_id": 61,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 425,
+    "state_id": 425,
     "bank_id": 62,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 426,
+    "state_id": 426,
     "bank_id": 62,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 427,
+    "state_id": 427,
     "bank_id": 62,
     "state_name": "GUJARAT"
   },
   {
-    "id": 428,
+    "state_id": 428,
     "bank_id": 62,
     "state_name": "KERALA"
   },
   {
-    "id": 429,
+    "state_id": 429,
     "bank_id": 62,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 430,
+    "state_id": 430,
     "bank_id": 62,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 431,
+    "state_id": 431,
     "bank_id": 62,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 432,
+    "state_id": 432,
     "bank_id": 62,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 433,
+    "state_id": 433,
     "bank_id": 62,
     "state_name": "ODISHA"
   },
   {
-    "id": 434,
+    "state_id": 434,
     "bank_id": 62,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 435,
+    "state_id": 435,
     "bank_id": 62,
     "state_name": "DELHI"
   },
   {
-    "id": 436,
+    "state_id": 436,
     "bank_id": 62,
     "state_name": "HARYANA"
   },
   {
-    "id": 437,
+    "state_id": 437,
     "bank_id": 62,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 438,
+    "state_id": 438,
     "bank_id": 62,
     "state_name": "TELANGANA"
   },
   {
-    "id": 439,
+    "state_id": 439,
     "bank_id": 62,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 440,
+    "state_id": 440,
     "bank_id": 62,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 441,
+    "state_id": 441,
     "bank_id": 62,
     "state_name": "PUNJAB"
   },
   {
-    "id": 442,
+    "state_id": 442,
     "bank_id": 62,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 443,
+    "state_id": 443,
     "bank_id": 62,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 444,
+    "state_id": 444,
     "bank_id": 63,
     "state_name": "KERALA"
   },
   {
-    "id": 445,
+    "state_id": 445,
     "bank_id": 63,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 446,
+    "state_id": 446,
     "bank_id": 63,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 447,
+    "state_id": 447,
     "bank_id": 63,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 448,
+    "state_id": 448,
     "bank_id": 63,
     "state_name": "GUJARAT"
   },
   {
-    "id": 449,
+    "state_id": 449,
     "bank_id": 63,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 450,
+    "state_id": 450,
     "bank_id": 63,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 451,
+    "state_id": 451,
     "bank_id": 63,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 452,
+    "state_id": 452,
     "bank_id": 63,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 453,
+    "state_id": 453,
     "bank_id": 63,
     "state_name": "DELHI"
   },
   {
-    "id": 454,
+    "state_id": 454,
     "bank_id": 63,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 455,
+    "state_id": 455,
     "bank_id": 63,
     "state_name": "HARYANA"
   },
   {
-    "id": 456,
+    "state_id": 456,
     "bank_id": 63,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 457,
+    "state_id": 457,
     "bank_id": 63,
     "state_name": "PUNJAB"
   },
   {
-    "id": 458,
+    "state_id": 458,
     "bank_id": 63,
     "state_name": "TELANGANA"
   },
   {
-    "id": 459,
+    "state_id": 459,
     "bank_id": 63,
     "state_name": "GOA"
   },
   {
-    "id": 460,
+    "state_id": 460,
     "bank_id": 64,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 461,
+    "state_id": 461,
     "bank_id": 65,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 462,
+    "state_id": 462,
     "bank_id": 65,
     "state_name": "KERALA"
   },
   {
-    "id": 463,
+    "state_id": 463,
     "bank_id": 65,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 464,
+    "state_id": 464,
     "bank_id": 66,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 465,
+    "state_id": 465,
     "bank_id": 67,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 466,
+    "state_id": 466,
     "bank_id": 69,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 467,
+    "state_id": 467,
     "bank_id": 69,
     "state_name": "HARYANA"
   },
   {
-    "id": 468,
+    "state_id": 468,
     "bank_id": 69,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 469,
+    "state_id": 469,
     "bank_id": 70,
     "state_name": "GUJARAT"
   },
   {
-    "id": 470,
+    "state_id": 470,
     "bank_id": 70,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 471,
+    "state_id": 471,
     "bank_id": 70,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 472,
+    "state_id": 472,
     "bank_id": 70,
     "state_name": "HARYANA"
   },
   {
-    "id": 473,
+    "state_id": 473,
     "bank_id": 70,
     "state_name": "PUNJAB"
   },
   {
-    "id": 474,
+    "state_id": 474,
     "bank_id": 70,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 475,
+    "state_id": 475,
     "bank_id": 70,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 476,
+    "state_id": 476,
     "bank_id": 70,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 477,
+    "state_id": 477,
     "bank_id": 70,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 478,
+    "state_id": 478,
     "bank_id": 70,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 479,
+    "state_id": 479,
     "bank_id": 70,
     "state_name": "DELHI"
   },
   {
-    "id": 480,
+    "state_id": 480,
     "bank_id": 70,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 481,
+    "state_id": 481,
     "bank_id": 70,
     "state_name": "KERALA"
   },
   {
-    "id": 482,
+    "state_id": 482,
     "bank_id": 70,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 483,
+    "state_id": 483,
     "bank_id": 70,
     "state_name": "TELANGANA"
   },
   {
-    "id": 484,
+    "state_id": 484,
     "bank_id": 70,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 485,
+    "state_id": 485,
     "bank_id": 70,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 486,
+    "state_id": 486,
     "bank_id": 71,
     "state_name": "GUJARAT"
   },
   {
-    "id": 487,
+    "state_id": 487,
     "bank_id": 71,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 488,
+    "state_id": 488,
     "bank_id": 71,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 489,
+    "state_id": 489,
     "bank_id": 71,
     "state_name": "KERALA"
   },
   {
-    "id": 490,
+    "state_id": 490,
     "bank_id": 71,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 491,
+    "state_id": 491,
     "bank_id": 71,
     "state_name": "BIHAR"
   },
   {
-    "id": 492,
+    "state_id": 492,
     "bank_id": 71,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 493,
+    "state_id": 493,
     "bank_id": 71,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 494,
+    "state_id": 494,
     "bank_id": 71,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 495,
+    "state_id": 495,
     "bank_id": 71,
     "state_name": "ODISHA"
   },
   {
-    "id": 496,
+    "state_id": 496,
     "bank_id": 71,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 497,
+    "state_id": 497,
     "bank_id": 71,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 498,
+    "state_id": 498,
     "bank_id": 71,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 499,
+    "state_id": 499,
     "bank_id": 71,
     "state_name": "DELHI"
   },
   {
-    "id": 500,
+    "state_id": 500,
     "bank_id": 71,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 501,
+    "state_id": 501,
     "bank_id": 71,
     "state_name": "HARYANA"
   },
   {
-    "id": 502,
+    "state_id": 502,
     "bank_id": 71,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 503,
+    "state_id": 503,
     "bank_id": 71,
     "state_name": "ASSAM"
   },
   {
-    "id": 504,
+    "state_id": 504,
     "bank_id": 71,
     "state_name": "TELANGANA"
   },
   {
-    "id": 505,
+    "state_id": 505,
     "bank_id": 71,
     "state_name": "MANIPUR"
   },
   {
-    "id": 506,
+    "state_id": 506,
     "bank_id": 71,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 507,
+    "state_id": 507,
     "bank_id": 71,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 508,
+    "state_id": 508,
     "bank_id": 72,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 509,
+    "state_id": 509,
     "bank_id": 73,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 510,
+    "state_id": 510,
     "bank_id": 73,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 511,
+    "state_id": 511,
     "bank_id": 73,
     "state_name": "GUJARAT"
   },
   {
-    "id": 512,
+    "state_id": 512,
     "bank_id": 73,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 513,
+    "state_id": 513,
     "bank_id": 73,
     "state_name": "MIZORAM"
   },
   {
-    "id": 514,
+    "state_id": 514,
     "bank_id": 73,
     "state_name": "KERALA"
   },
   {
-    "id": 515,
+    "state_id": 515,
     "bank_id": 73,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 516,
+    "state_id": 516,
     "bank_id": 73,
     "state_name": "HARYANA"
   },
   {
-    "id": 517,
+    "state_id": 517,
     "bank_id": 73,
     "state_name": "PUNJAB"
   },
   {
-    "id": 518,
+    "state_id": 518,
     "bank_id": 73,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 519,
+    "state_id": 519,
     "bank_id": 73,
     "state_name": "ODISHA"
   },
   {
-    "id": 520,
+    "state_id": 520,
     "bank_id": 73,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 521,
+    "state_id": 521,
     "bank_id": 73,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 522,
+    "state_id": 522,
     "bank_id": 73,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 523,
+    "state_id": 523,
     "bank_id": 73,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 524,
+    "state_id": 524,
     "bank_id": 73,
     "state_name": "ASSAM"
   },
   {
-    "id": 525,
+    "state_id": 525,
     "bank_id": 73,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 526,
+    "state_id": 526,
     "bank_id": 73,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 527,
+    "state_id": 527,
     "bank_id": 73,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 528,
+    "state_id": 528,
     "bank_id": 73,
     "state_name": "DELHI"
   },
   {
-    "id": 529,
+    "state_id": 529,
     "bank_id": 73,
     "state_name": "NAGALAND"
   },
   {
-    "id": 530,
+    "state_id": 530,
     "bank_id": 73,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 531,
+    "state_id": 531,
     "bank_id": 73,
     "state_name": "BIHAR"
   },
   {
-    "id": 532,
+    "state_id": 532,
     "bank_id": 73,
     "state_name": "TELANGANA"
   },
   {
-    "id": 533,
+    "state_id": 533,
     "bank_id": 73,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 534,
+    "state_id": 534,
     "bank_id": 73,
     "state_name": "GOA"
   },
   {
-    "id": 535,
+    "state_id": 535,
     "bank_id": 73,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 536,
+    "state_id": 536,
     "bank_id": 73,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 537,
+    "state_id": 537,
     "bank_id": 73,
     "state_name": "TRIPURA"
   },
   {
-    "id": 538,
+    "state_id": 538,
     "bank_id": 74,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 539,
+    "state_id": 539,
     "bank_id": 75,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 540,
+    "state_id": 540,
     "bank_id": 75,
     "state_name": "HARYANA"
   },
   {
-    "id": 541,
+    "state_id": 541,
     "bank_id": 75,
     "state_name": "BIHAR"
   },
   {
-    "id": 542,
+    "state_id": 542,
     "bank_id": 75,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 543,
+    "state_id": 543,
     "bank_id": 75,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 544,
+    "state_id": 544,
     "bank_id": 75,
     "state_name": "DELHI"
   },
   {
-    "id": 545,
+    "state_id": 545,
     "bank_id": 75,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 546,
+    "state_id": 546,
     "bank_id": 75,
     "state_name": "KERALA"
   },
   {
-    "id": 547,
+    "state_id": 547,
     "bank_id": 75,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 548,
+    "state_id": 548,
     "bank_id": 75,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 549,
+    "state_id": 549,
     "bank_id": 75,
     "state_name": "ODISHA"
   },
   {
-    "id": 550,
+    "state_id": 550,
     "bank_id": 75,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 551,
+    "state_id": 551,
     "bank_id": 75,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 552,
+    "state_id": 552,
     "bank_id": 75,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 553,
+    "state_id": 553,
     "bank_id": 75,
     "state_name": "GOA"
   },
   {
-    "id": 554,
+    "state_id": 554,
     "bank_id": 75,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 555,
+    "state_id": 555,
     "bank_id": 75,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 556,
+    "state_id": 556,
     "bank_id": 75,
     "state_name": "TELANGANA"
   },
   {
-    "id": 557,
+    "state_id": 557,
     "bank_id": 75,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 558,
+    "state_id": 558,
     "bank_id": 75,
     "state_name": "GUJARAT"
   },
   {
-    "id": 559,
+    "state_id": 559,
     "bank_id": 77,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 560,
+    "state_id": 560,
     "bank_id": 78,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 561,
+    "state_id": 561,
     "bank_id": 78,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 562,
+    "state_id": 562,
     "bank_id": 78,
     "state_name": "GOA"
   },
   {
-    "id": 563,
+    "state_id": 563,
     "bank_id": 79,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 564,
+    "state_id": 564,
     "bank_id": 80,
     "state_name": "HARYANA"
   },
   {
-    "id": 565,
+    "state_id": 565,
     "bank_id": 81,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 566,
+    "state_id": 566,
     "bank_id": 81,
     "state_name": "PUNJAB"
   },
   {
-    "id": 567,
+    "state_id": 567,
     "bank_id": 81,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 568,
+    "state_id": 568,
     "bank_id": 81,
     "state_name": "TELANGANA"
   },
   {
-    "id": 569,
+    "state_id": 569,
     "bank_id": 81,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 570,
+    "state_id": 570,
     "bank_id": 81,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 571,
+    "state_id": 571,
     "bank_id": 81,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 572,
+    "state_id": 572,
     "bank_id": 81,
     "state_name": "GUJARAT"
   },
   {
-    "id": 573,
+    "state_id": 573,
     "bank_id": 81,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 574,
+    "state_id": 574,
     "bank_id": 81,
     "state_name": "MIZORAM"
   },
   {
-    "id": 575,
+    "state_id": 575,
     "bank_id": 81,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 576,
+    "state_id": 576,
     "bank_id": 81,
     "state_name": "KERALA"
   },
   {
-    "id": 577,
+    "state_id": 577,
     "bank_id": 81,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 578,
+    "state_id": 578,
     "bank_id": 81,
     "state_name": "HARYANA"
   },
   {
-    "id": 579,
+    "state_id": 579,
     "bank_id": 285,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 580,
+    "state_id": 580,
     "bank_id": 81,
     "state_name": "ODISHA"
   },
   {
-    "id": 581,
+    "state_id": 581,
     "bank_id": 81,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 582,
+    "state_id": 582,
     "bank_id": 81,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 583,
+    "state_id": 583,
     "bank_id": 81,
     "state_name": "BIHAR"
   },
   {
-    "id": 584,
+    "state_id": 584,
     "bank_id": 81,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 585,
+    "state_id": 585,
     "bank_id": 81,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 586,
+    "state_id": 586,
     "bank_id": 81,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 587,
+    "state_id": 587,
     "bank_id": 81,
     "state_name": "ASSAM"
   },
   {
-    "id": 588,
+    "state_id": 588,
     "bank_id": 81,
     "state_name": "GOA"
   },
   {
-    "id": 589,
+    "state_id": 589,
     "bank_id": 81,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 590,
+    "state_id": 590,
     "bank_id": 81,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 591,
+    "state_id": 591,
     "bank_id": 81,
     "state_name": "MANIPUR"
   },
   {
-    "id": 592,
+    "state_id": 592,
     "bank_id": 81,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 593,
+    "state_id": 593,
     "bank_id": 81,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 594,
+    "state_id": 594,
     "bank_id": 81,
     "state_name": "DELHI"
   },
   {
-    "id": 595,
+    "state_id": 595,
     "bank_id": 81,
     "state_name": "NAGALAND"
   },
   {
-    "id": 596,
+    "state_id": 596,
     "bank_id": 81,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 597,
+    "state_id": 597,
     "bank_id": 81,
     "state_name": "SIKKIM"
   },
   {
-    "id": 598,
+    "state_id": 598,
     "bank_id": 81,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 599,
+    "state_id": 599,
     "bank_id": 81,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 600,
+    "state_id": 600,
     "bank_id": 81,
     "state_name": "TRIPURA"
   },
   {
-    "id": 601,
+    "state_id": 601,
     "bank_id": 81,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 602,
+    "state_id": 602,
     "bank_id": 83,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 603,
+    "state_id": 603,
     "bank_id": 84,
     "state_name": "GUJARAT"
   },
   {
-    "id": 604,
+    "state_id": 604,
     "bank_id": 84,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 605,
+    "state_id": 605,
     "bank_id": 84,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 606,
+    "state_id": 606,
     "bank_id": 84,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 607,
+    "state_id": 607,
     "bank_id": 84,
     "state_name": "DELHI"
   },
   {
-    "id": 608,
+    "state_id": 608,
     "bank_id": 84,
     "state_name": "KERALA"
   },
   {
-    "id": 609,
+    "state_id": 609,
     "bank_id": 84,
     "state_name": "HARYANA"
   },
   {
-    "id": 610,
+    "state_id": 610,
     "bank_id": 84,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 611,
+    "state_id": 611,
     "bank_id": 84,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 612,
+    "state_id": 612,
     "bank_id": 84,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 613,
+    "state_id": 613,
     "bank_id": 84,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 614,
+    "state_id": 614,
     "bank_id": 84,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 615,
+    "state_id": 615,
     "bank_id": 85,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 616,
+    "state_id": 616,
     "bank_id": 86,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 617,
+    "state_id": 617,
     "bank_id": 86,
     "state_name": "PUNJAB"
   },
   {
-    "id": 618,
+    "state_id": 618,
     "bank_id": 86,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 619,
+    "state_id": 619,
     "bank_id": 86,
     "state_name": "TELANGANA"
   },
   {
-    "id": 620,
+    "state_id": 620,
     "bank_id": 86,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 621,
+    "state_id": 621,
     "bank_id": 86,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 622,
+    "state_id": 622,
     "bank_id": 86,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 623,
+    "state_id": 623,
     "bank_id": 86,
     "state_name": "GUJARAT"
   },
   {
-    "id": 624,
+    "state_id": 624,
     "bank_id": 86,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 625,
+    "state_id": 625,
     "bank_id": 86,
     "state_name": "MIZORAM"
   },
   {
-    "id": 626,
+    "state_id": 626,
     "bank_id": 86,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 627,
+    "state_id": 627,
     "bank_id": 86,
     "state_name": "KERALA"
   },
   {
-    "id": 628,
+    "state_id": 628,
     "bank_id": 86,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 629,
+    "state_id": 629,
     "bank_id": 86,
     "state_name": "HARYANA"
   },
   {
-    "id": 630,
+    "state_id": 630,
     "bank_id": 86,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 631,
+    "state_id": 631,
     "bank_id": 86,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 632,
+    "state_id": 632,
     "bank_id": 86,
     "state_name": "ODISHA"
   },
   {
-    "id": 633,
+    "state_id": 633,
     "bank_id": 86,
     "state_name": "BIHAR"
   },
   {
-    "id": 634,
+    "state_id": 634,
     "bank_id": 86,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 635,
+    "state_id": 635,
     "bank_id": 86,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 636,
+    "state_id": 636,
     "bank_id": 86,
     "state_name": "ASSAM"
   },
   {
-    "id": 637,
+    "state_id": 637,
     "bank_id": 86,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 638,
+    "state_id": 638,
     "bank_id": 86,
     "state_name": "GOA"
   },
   {
-    "id": 639,
+    "state_id": 639,
     "bank_id": 86,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 640,
+    "state_id": 640,
     "bank_id": 86,
     "state_name": "MANIPUR"
   },
   {
-    "id": 641,
+    "state_id": 641,
     "bank_id": 86,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 642,
+    "state_id": 642,
     "bank_id": 86,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 643,
+    "state_id": 643,
     "bank_id": 86,
     "state_name": "DELHI"
   },
   {
-    "id": 644,
+    "state_id": 644,
     "bank_id": 86,
     "state_name": "TRIPURA"
   },
   {
-    "id": 645,
+    "state_id": 645,
     "bank_id": 86,
     "state_name": "NAGALAND"
   },
   {
-    "id": 646,
+    "state_id": 646,
     "bank_id": 86,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 647,
+    "state_id": 647,
     "bank_id": 86,
     "state_name": "SIKKIM"
   },
   {
-    "id": 648,
+    "state_id": 648,
     "bank_id": 86,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 649,
+    "state_id": 649,
     "bank_id": 86,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 650,
+    "state_id": 650,
     "bank_id": 86,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 651,
+    "state_id": 651,
     "bank_id": 87,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 652,
+    "state_id": 652,
     "bank_id": 87,
     "state_name": "PUNJAB"
   },
   {
-    "id": 653,
+    "state_id": 653,
     "bank_id": 87,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 654,
+    "state_id": 654,
     "bank_id": 87,
     "state_name": "TELANGANA"
   },
   {
-    "id": 655,
+    "state_id": 655,
     "bank_id": 87,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 656,
+    "state_id": 656,
     "bank_id": 87,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 657,
+    "state_id": 657,
     "bank_id": 87,
     "state_name": "GUJARAT"
   },
   {
-    "id": 658,
+    "state_id": 658,
     "bank_id": 87,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 659,
+    "state_id": 659,
     "bank_id": 87,
     "state_name": "MIZORAM"
   },
   {
-    "id": 660,
+    "state_id": 660,
     "bank_id": 87,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 661,
+    "state_id": 661,
     "bank_id": 87,
     "state_name": "KERALA"
   },
   {
-    "id": 662,
+    "state_id": 662,
     "bank_id": 87,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 663,
+    "state_id": 663,
     "bank_id": 87,
     "state_name": "HARYANA"
   },
   {
-    "id": 664,
+    "state_id": 664,
     "bank_id": 87,
     "state_name": "ODISHA"
   },
   {
-    "id": 665,
+    "state_id": 665,
     "bank_id": 87,
     "state_name": "BIHAR"
   },
   {
-    "id": 666,
+    "state_id": 666,
     "bank_id": 87,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 667,
+    "state_id": 667,
     "bank_id": 87,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 668,
+    "state_id": 668,
     "bank_id": 87,
     "state_name": "ASSAM"
   },
   {
-    "id": 669,
+    "state_id": 669,
     "bank_id": 87,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 670,
+    "state_id": 670,
     "bank_id": 87,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 671,
+    "state_id": 671,
     "bank_id": 87,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 672,
+    "state_id": 672,
     "bank_id": 87,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 673,
+    "state_id": 673,
     "bank_id": 87,
     "state_name": "MANIPUR"
   },
   {
-    "id": 674,
+    "state_id": 674,
     "bank_id": 87,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 675,
+    "state_id": 675,
     "bank_id": 87,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 676,
+    "state_id": 676,
     "bank_id": 87,
     "state_name": "DELHI"
   },
   {
-    "id": 677,
+    "state_id": 677,
     "bank_id": 87,
     "state_name": "NAGALAND"
   },
   {
-    "id": 678,
+    "state_id": 678,
     "bank_id": 87,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 679,
+    "state_id": 679,
     "bank_id": 87,
     "state_name": "SIKKIM"
   },
   {
-    "id": 680,
+    "state_id": 680,
     "bank_id": 87,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 681,
+    "state_id": 681,
     "bank_id": 87,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 682,
+    "state_id": 682,
     "bank_id": 87,
     "state_name": "GOA"
   },
   {
-    "id": 683,
+    "state_id": 683,
     "bank_id": 87,
     "state_name": "TRIPURA"
   },
   {
-    "id": 684,
+    "state_id": 684,
     "bank_id": 87,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 685,
+    "state_id": 685,
     "bank_id": 87,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 686,
+    "state_id": 686,
     "bank_id": 88,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 687,
+    "state_id": 687,
     "bank_id": 88,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 688,
+    "state_id": 688,
     "bank_id": 88,
     "state_name": "GUJARAT"
   },
   {
-    "id": 689,
+    "state_id": 689,
     "bank_id": 88,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 690,
+    "state_id": 690,
     "bank_id": 88,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 691,
+    "state_id": 691,
     "bank_id": 88,
     "state_name": "HARYANA"
   },
   {
-    "id": 692,
+    "state_id": 692,
     "bank_id": 88,
     "state_name": "PUNJAB"
   },
   {
-    "id": 693,
+    "state_id": 693,
     "bank_id": 88,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 694,
+    "state_id": 694,
     "bank_id": 88,
     "state_name": "ODISHA"
   },
   {
-    "id": 695,
+    "state_id": 695,
     "bank_id": 88,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 696,
+    "state_id": 696,
     "bank_id": 88,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 697,
+    "state_id": 697,
     "bank_id": 88,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 698,
+    "state_id": 698,
     "bank_id": 88,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 699,
+    "state_id": 699,
     "bank_id": 88,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 700,
+    "state_id": 700,
     "bank_id": 88,
     "state_name": "DELHI"
   },
   {
-    "id": 701,
+    "state_id": 701,
     "bank_id": 88,
     "state_name": "NAGALAND"
   },
   {
-    "id": 702,
+    "state_id": 702,
     "bank_id": 88,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 703,
+    "state_id": 703,
     "bank_id": 88,
     "state_name": "KERALA"
   },
   {
-    "id": 704,
+    "state_id": 704,
     "bank_id": 88,
     "state_name": "ASSAM"
   },
   {
-    "id": 705,
+    "state_id": 705,
     "bank_id": 88,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 706,
+    "state_id": 706,
     "bank_id": 88,
     "state_name": "TELANGANA"
   },
   {
-    "id": 707,
+    "state_id": 707,
     "bank_id": 88,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 708,
+    "state_id": 708,
     "bank_id": 88,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 709,
+    "state_id": 709,
     "bank_id": 88,
     "state_name": "GOA"
   },
   {
-    "id": 710,
+    "state_id": 710,
     "bank_id": 88,
     "state_name": "BIHAR"
   },
   {
-    "id": 711,
+    "state_id": 711,
     "bank_id": 88,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 712,
+    "state_id": 712,
     "bank_id": 88,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 713,
+    "state_id": 713,
     "bank_id": 88,
     "state_name": "TRIPURA"
   },
   {
-    "id": 714,
+    "state_id": 714,
     "bank_id": 89,
     "state_name": "KERALA"
   },
   {
-    "id": 715,
+    "state_id": 715,
     "bank_id": 90,
     "state_name": "DELHI"
   },
   {
-    "id": 716,
+    "state_id": 716,
     "bank_id": 91,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 717,
+    "state_id": 717,
     "bank_id": 91,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 718,
+    "state_id": 718,
     "bank_id": 91,
     "state_name": "TELANGANA"
   },
   {
-    "id": 719,
+    "state_id": 719,
     "bank_id": 91,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 720,
+    "state_id": 720,
     "bank_id": 91,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 721,
+    "state_id": 721,
     "bank_id": 91,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 722,
+    "state_id": 722,
     "bank_id": 91,
     "state_name": "GUJARAT"
   },
   {
-    "id": 723,
+    "state_id": 723,
     "bank_id": 91,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 724,
+    "state_id": 724,
     "bank_id": 91,
     "state_name": "MIZORAM"
   },
   {
-    "id": 725,
+    "state_id": 725,
     "bank_id": 91,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 726,
+    "state_id": 726,
     "bank_id": 91,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 727,
+    "state_id": 727,
     "bank_id": 91,
     "state_name": "KERALA"
   },
   {
-    "id": 728,
+    "state_id": 728,
     "bank_id": 91,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 729,
+    "state_id": 729,
     "bank_id": 91,
     "state_name": "HARYANA"
   },
   {
-    "id": 730,
+    "state_id": 730,
     "bank_id": 91,
     "state_name": "PUNJAB"
   },
   {
-    "id": 731,
+    "state_id": 731,
     "bank_id": 91,
     "state_name": "ODISHA"
   },
   {
-    "id": 732,
+    "state_id": 732,
     "bank_id": 91,
     "state_name": "BIHAR"
   },
   {
-    "id": 733,
+    "state_id": 733,
     "bank_id": 91,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 734,
+    "state_id": 734,
     "bank_id": 91,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 735,
+    "state_id": 735,
     "bank_id": 91,
     "state_name": "ASSAM"
   },
   {
-    "id": 736,
+    "state_id": 736,
     "bank_id": 91,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 737,
+    "state_id": 737,
     "bank_id": 91,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 738,
+    "state_id": 738,
     "bank_id": 91,
     "state_name": "DELHI"
   },
   {
-    "id": 739,
+    "state_id": 739,
     "bank_id": 91,
     "state_name": "TRIPURA"
   },
   {
-    "id": 740,
+    "state_id": 740,
     "bank_id": 91,
     "state_name": "NAGALAND"
   },
   {
-    "id": 741,
+    "state_id": 741,
     "bank_id": 91,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 742,
+    "state_id": 742,
     "bank_id": 91,
     "state_name": "SIKKIM"
   },
   {
-    "id": 743,
+    "state_id": 743,
     "bank_id": 91,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 744,
+    "state_id": 744,
     "bank_id": 91,
     "state_name": "MANIPUR"
   },
   {
-    "id": 745,
+    "state_id": 745,
     "bank_id": 91,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 746,
+    "state_id": 746,
     "bank_id": 91,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 747,
+    "state_id": 747,
     "bank_id": 91,
     "state_name": "GOA"
   },
   {
-    "id": 748,
+    "state_id": 748,
     "bank_id": 91,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 749,
+    "state_id": 749,
     "bank_id": 91,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 750,
+    "state_id": 750,
     "bank_id": 91,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 751,
+    "state_id": 751,
     "bank_id": 92,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 752,
+    "state_id": 752,
     "bank_id": 92,
     "state_name": "PUNJAB"
   },
   {
-    "id": 753,
+    "state_id": 753,
     "bank_id": 92,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 754,
+    "state_id": 754,
     "bank_id": 92,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 755,
+    "state_id": 755,
     "bank_id": 92,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 756,
+    "state_id": 756,
     "bank_id": 92,
     "state_name": "GUJARAT"
   },
   {
-    "id": 757,
+    "state_id": 757,
     "bank_id": 92,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 758,
+    "state_id": 758,
     "bank_id": 92,
     "state_name": "MIZORAM"
   },
   {
-    "id": 759,
+    "state_id": 759,
     "bank_id": 92,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 760,
+    "state_id": 760,
     "bank_id": 92,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 761,
+    "state_id": 761,
     "bank_id": 92,
     "state_name": "KERALA"
   },
   {
-    "id": 762,
+    "state_id": 762,
     "bank_id": 92,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 763,
+    "state_id": 763,
     "bank_id": 92,
     "state_name": "HARYANA"
   },
   {
-    "id": 764,
+    "state_id": 764,
     "bank_id": 92,
     "state_name": "ODISHA"
   },
   {
-    "id": 765,
+    "state_id": 765,
     "bank_id": 92,
     "state_name": "BIHAR"
   },
   {
-    "id": 766,
+    "state_id": 766,
     "bank_id": 92,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 767,
+    "state_id": 767,
     "bank_id": 92,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 768,
+    "state_id": 768,
     "bank_id": 92,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 769,
+    "state_id": 769,
     "bank_id": 92,
     "state_name": "ASSAM"
   },
   {
-    "id": 770,
+    "state_id": 770,
     "bank_id": 92,
     "state_name": "TELANGANA"
   },
   {
-    "id": 771,
+    "state_id": 771,
     "bank_id": 92,
     "state_name": "GOA"
   },
   {
-    "id": 772,
+    "state_id": 772,
     "bank_id": 92,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 773,
+    "state_id": 773,
     "bank_id": 92,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 774,
+    "state_id": 774,
     "bank_id": 92,
     "state_name": "DELHI"
   },
   {
-    "id": 775,
+    "state_id": 775,
     "bank_id": 92,
     "state_name": "NAGALAND"
   },
   {
-    "id": 776,
+    "state_id": 776,
     "bank_id": 92,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 777,
+    "state_id": 777,
     "bank_id": 92,
     "state_name": "SIKKIM"
   },
   {
-    "id": 778,
+    "state_id": 778,
     "bank_id": 92,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 779,
+    "state_id": 779,
     "bank_id": 92,
     "state_name": "MANIPUR"
   },
   {
-    "id": 780,
+    "state_id": 780,
     "bank_id": 92,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 781,
+    "state_id": 781,
     "bank_id": 92,
     "state_name": "TRIPURA"
   },
   {
-    "id": 782,
+    "state_id": 782,
     "bank_id": 92,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 783,
+    "state_id": 783,
     "bank_id": 92,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 784,
+    "state_id": 784,
     "bank_id": 92,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 785,
+    "state_id": 785,
     "bank_id": 92,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 786,
+    "state_id": 786,
     "bank_id": 93,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 787,
+    "state_id": 787,
     "bank_id": 93,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 788,
+    "state_id": 788,
     "bank_id": 93,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 789,
+    "state_id": 789,
     "bank_id": 93,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 790,
+    "state_id": 790,
     "bank_id": 93,
     "state_name": "GUJARAT"
   },
   {
-    "id": 791,
+    "state_id": 791,
     "bank_id": 93,
     "state_name": "MIZORAM"
   },
   {
-    "id": 792,
+    "state_id": 792,
     "bank_id": 93,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 793,
+    "state_id": 793,
     "bank_id": 93,
     "state_name": "KERALA"
   },
   {
-    "id": 794,
+    "state_id": 794,
     "bank_id": 93,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 795,
+    "state_id": 795,
     "bank_id": 93,
     "state_name": "HARYANA"
   },
   {
-    "id": 796,
+    "state_id": 796,
     "bank_id": 93,
     "state_name": "PUNJAB"
   },
   {
-    "id": 797,
+    "state_id": 797,
     "bank_id": 93,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 798,
+    "state_id": 798,
     "bank_id": 93,
     "state_name": "ODISHA"
   },
   {
-    "id": 799,
+    "state_id": 799,
     "bank_id": 93,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 800,
+    "state_id": 800,
     "bank_id": 93,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 801,
+    "state_id": 801,
     "bank_id": 93,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 802,
+    "state_id": 802,
     "bank_id": 93,
     "state_name": "ASSAM"
   },
   {
-    "id": 803,
+    "state_id": 803,
     "bank_id": 93,
     "state_name": "BIHAR"
   },
   {
-    "id": 804,
+    "state_id": 804,
     "bank_id": 93,
     "state_name": "TELANGANA"
   },
   {
-    "id": 805,
+    "state_id": 805,
     "bank_id": 93,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 806,
+    "state_id": 806,
     "bank_id": 93,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 807,
+    "state_id": 807,
     "bank_id": 93,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 808,
+    "state_id": 808,
     "bank_id": 93,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 809,
+    "state_id": 809,
     "bank_id": 93,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 810,
+    "state_id": 810,
     "bank_id": 93,
     "state_name": "DELHI"
   },
   {
-    "id": 811,
+    "state_id": 811,
     "bank_id": 93,
     "state_name": "NAGALAND"
   },
   {
-    "id": 812,
+    "state_id": 812,
     "bank_id": 93,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 813,
+    "state_id": 813,
     "bank_id": 93,
     "state_name": "SIKKIM"
   },
   {
-    "id": 814,
+    "state_id": 814,
     "bank_id": 93,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 815,
+    "state_id": 815,
     "bank_id": 93,
     "state_name": "MANIPUR"
   },
   {
-    "id": 816,
+    "state_id": 816,
     "bank_id": 93,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 817,
+    "state_id": 817,
     "bank_id": 93,
     "state_name": "GOA"
   },
   {
-    "id": 818,
+    "state_id": 818,
     "bank_id": 93,
     "state_name": "TRIPURA"
   },
   {
-    "id": 819,
+    "state_id": 819,
     "bank_id": 93,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 820,
+    "state_id": 820,
     "bank_id": 94,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 821,
+    "state_id": 821,
     "bank_id": 95,
     "state_name": "DELHI"
   },
   {
-    "id": 822,
+    "state_id": 822,
     "bank_id": 96,
     "state_name": "KERALA"
   },
   {
-    "id": 823,
+    "state_id": 823,
     "bank_id": 99,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 824,
+    "state_id": 824,
     "bank_id": 100,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 825,
+    "state_id": 825,
     "bank_id": 100,
     "state_name": "GUJARAT"
   },
   {
-    "id": 826,
+    "state_id": 826,
     "bank_id": 100,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 827,
+    "state_id": 827,
     "bank_id": 100,
     "state_name": "HARYANA"
   },
   {
-    "id": 828,
+    "state_id": 828,
     "bank_id": 100,
     "state_name": "PUNJAB"
   },
   {
-    "id": 829,
+    "state_id": 829,
     "bank_id": 100,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 830,
+    "state_id": 830,
     "bank_id": 100,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 831,
+    "state_id": 831,
     "bank_id": 100,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 832,
+    "state_id": 832,
     "bank_id": 100,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 833,
+    "state_id": 833,
     "bank_id": 100,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 834,
+    "state_id": 834,
     "bank_id": 100,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 835,
+    "state_id": 835,
     "bank_id": 100,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 836,
+    "state_id": 836,
     "bank_id": 100,
     "state_name": "DELHI"
   },
   {
-    "id": 837,
+    "state_id": 837,
     "bank_id": 100,
     "state_name": "KERALA"
   },
   {
-    "id": 838,
+    "state_id": 838,
     "bank_id": 100,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 839,
+    "state_id": 839,
     "bank_id": 100,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 840,
+    "state_id": 840,
     "bank_id": 100,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 841,
+    "state_id": 841,
     "bank_id": 100,
     "state_name": "GOA"
   },
   {
-    "id": 842,
+    "state_id": 842,
     "bank_id": 100,
     "state_name": "BIHAR"
   },
   {
-    "id": 843,
+    "state_id": 843,
     "bank_id": 100,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 844,
+    "state_id": 844,
     "bank_id": 101,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 845,
+    "state_id": 845,
     "bank_id": 101,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 846,
+    "state_id": 846,
     "bank_id": 101,
     "state_name": "GUJARAT"
   },
   {
-    "id": 847,
+    "state_id": 847,
     "bank_id": 101,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 848,
+    "state_id": 848,
     "bank_id": 101,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 849,
+    "state_id": 849,
     "bank_id": 101,
     "state_name": "HARYANA"
   },
   {
-    "id": 850,
+    "state_id": 850,
     "bank_id": 101,
     "state_name": "PUNJAB"
   },
   {
-    "id": 851,
+    "state_id": 851,
     "bank_id": 101,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 852,
+    "state_id": 852,
     "bank_id": 101,
     "state_name": "ODISHA"
   },
   {
-    "id": 853,
+    "state_id": 853,
     "bank_id": 101,
     "state_name": "BIHAR"
   },
   {
-    "id": 854,
+    "state_id": 854,
     "bank_id": 101,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 855,
+    "state_id": 855,
     "bank_id": 101,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 856,
+    "state_id": 856,
     "bank_id": 101,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 857,
+    "state_id": 857,
     "bank_id": 101,
     "state_name": "ASSAM"
   },
   {
-    "id": 858,
+    "state_id": 858,
     "bank_id": 101,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 859,
+    "state_id": 859,
     "bank_id": 101,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 860,
+    "state_id": 860,
     "bank_id": 101,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 861,
+    "state_id": 861,
     "bank_id": 101,
     "state_name": "DELHI"
   },
   {
-    "id": 862,
+    "state_id": 862,
     "bank_id": 101,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 863,
+    "state_id": 863,
     "bank_id": 101,
     "state_name": "SIKKIM"
   },
   {
-    "id": 864,
+    "state_id": 864,
     "bank_id": 101,
     "state_name": "TELANGANA"
   },
   {
-    "id": 865,
+    "state_id": 865,
     "bank_id": 101,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 866,
+    "state_id": 866,
     "bank_id": 101,
     "state_name": "GOA"
   },
   {
-    "id": 867,
+    "state_id": 867,
     "bank_id": 101,
     "state_name": "TRIPURA"
   },
   {
-    "id": 868,
+    "state_id": 868,
     "bank_id": 102,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 869,
+    "state_id": 869,
     "bank_id": 104,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 870,
+    "state_id": 870,
     "bank_id": 103,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 871,
+    "state_id": 871,
     "bank_id": 105,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 872,
+    "state_id": 872,
     "bank_id": 105,
     "state_name": "GUJARAT"
   },
   {
-    "id": 873,
+    "state_id": 873,
     "bank_id": 106,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 875,
+    "state_id": 875,
     "bank_id": 98,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 876,
+    "state_id": 876,
     "bank_id": 98,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 877,
+    "state_id": 877,
     "bank_id": 98,
     "state_name": "DELHI"
   },
   {
-    "id": 878,
+    "state_id": 878,
     "bank_id": 98,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 879,
+    "state_id": 879,
     "bank_id": 110,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 880,
+    "state_id": 880,
     "bank_id": 110,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 881,
+    "state_id": 881,
     "bank_id": 111,
     "state_name": "GUJARAT"
   },
   {
-    "id": 882,
+    "state_id": 882,
     "bank_id": 111,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 883,
+    "state_id": 883,
     "bank_id": 112,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 884,
+    "state_id": 884,
     "bank_id": 112,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 885,
+    "state_id": 885,
     "bank_id": 112,
     "state_name": "GUJARAT"
   },
   {
-    "id": 886,
+    "state_id": 886,
     "bank_id": 112,
     "state_name": "KERALA"
   },
   {
-    "id": 887,
+    "state_id": 887,
     "bank_id": 112,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 888,
+    "state_id": 888,
     "bank_id": 112,
     "state_name": "PUNJAB"
   },
   {
-    "id": 889,
+    "state_id": 889,
     "bank_id": 112,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 890,
+    "state_id": 890,
     "bank_id": 112,
     "state_name": "ODISHA"
   },
   {
-    "id": 891,
+    "state_id": 891,
     "bank_id": 112,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 892,
+    "state_id": 892,
     "bank_id": 112,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 893,
+    "state_id": 893,
     "bank_id": 112,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 894,
+    "state_id": 894,
     "bank_id": 112,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 895,
+    "state_id": 895,
     "bank_id": 112,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 896,
+    "state_id": 896,
     "bank_id": 112,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 897,
+    "state_id": 897,
     "bank_id": 112,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 898,
+    "state_id": 898,
     "bank_id": 112,
     "state_name": "DELHI"
   },
   {
-    "id": 899,
+    "state_id": 899,
     "bank_id": 112,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 900,
+    "state_id": 900,
     "bank_id": 112,
     "state_name": "SIKKIM"
   },
   {
-    "id": 901,
+    "state_id": 901,
     "bank_id": 112,
     "state_name": "HARYANA"
   },
   {
-    "id": 902,
+    "state_id": 902,
     "bank_id": 112,
     "state_name": "ASSAM"
   },
   {
-    "id": 903,
+    "state_id": 903,
     "bank_id": 112,
     "state_name": "TELANGANA"
   },
   {
-    "id": 904,
+    "state_id": 904,
     "bank_id": 112,
     "state_name": "GOA"
   },
   {
-    "id": 905,
+    "state_id": 905,
     "bank_id": 112,
     "state_name": "BIHAR"
   },
   {
-    "id": 906,
+    "state_id": 906,
     "bank_id": 112,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 907,
+    "state_id": 907,
     "bank_id": 113,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 908,
+    "state_id": 908,
     "bank_id": 114,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 909,
+    "state_id": 909,
     "bank_id": 115,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 910,
+    "state_id": 910,
     "bank_id": 115,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 911,
+    "state_id": 911,
     "bank_id": 115,
     "state_name": "TELANGANA"
   },
   {
-    "id": 912,
+    "state_id": 912,
     "bank_id": 115,
     "state_name": "GUJARAT"
   },
   {
-    "id": 913,
+    "state_id": 913,
     "bank_id": 115,
     "state_name": "KERALA"
   },
   {
-    "id": 914,
+    "state_id": 914,
     "bank_id": 115,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 915,
+    "state_id": 915,
     "bank_id": 115,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 916,
+    "state_id": 916,
     "bank_id": 115,
     "state_name": "PUNJAB"
   },
   {
-    "id": 917,
+    "state_id": 917,
     "bank_id": 115,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 918,
+    "state_id": 918,
     "bank_id": 115,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 919,
+    "state_id": 919,
     "bank_id": 115,
     "state_name": "ODISHA"
   },
   {
-    "id": 920,
+    "state_id": 920,
     "bank_id": 115,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 921,
+    "state_id": 921,
     "bank_id": 115,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 922,
+    "state_id": 922,
     "bank_id": 115,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 923,
+    "state_id": 923,
     "bank_id": 115,
     "state_name": "DELHI"
   },
   {
-    "id": 924,
+    "state_id": 924,
     "bank_id": 115,
     "state_name": "HARYANA"
   },
   {
-    "id": 925,
+    "state_id": 925,
     "bank_id": 115,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 926,
+    "state_id": 926,
     "bank_id": 115,
     "state_name": "GOA"
   },
   {
-    "id": 927,
+    "state_id": 927,
     "bank_id": 115,
     "state_name": "BIHAR"
   },
   {
-    "id": 928,
+    "state_id": 928,
     "bank_id": 115,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 929,
+    "state_id": 929,
     "bank_id": 115,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 930,
+    "state_id": 930,
     "bank_id": 116,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 931,
+    "state_id": 931,
     "bank_id": 116,
     "state_name": "HARYANA"
   },
   {
-    "id": 932,
+    "state_id": 932,
     "bank_id": 117,
     "state_name": "KERALA"
   },
   {
-    "id": 933,
+    "state_id": 933,
     "bank_id": 118,
     "state_name": "HARYANA"
   },
   {
-    "id": 934,
+    "state_id": 934,
     "bank_id": 119,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 935,
+    "state_id": 935,
     "bank_id": 119,
     "state_name": "TELANGANA"
   },
   {
-    "id": 936,
+    "state_id": 936,
     "bank_id": 119,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 937,
+    "state_id": 937,
     "bank_id": 119,
     "state_name": "GUJARAT"
   },
   {
-    "id": 938,
+    "state_id": 938,
     "bank_id": 119,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 939,
+    "state_id": 939,
     "bank_id": 119,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 940,
+    "state_id": 940,
     "bank_id": 119,
     "state_name": "HARYANA"
   },
   {
-    "id": 941,
+    "state_id": 941,
     "bank_id": 119,
     "state_name": "PUNJAB"
   },
   {
-    "id": 942,
+    "state_id": 942,
     "bank_id": 119,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 943,
+    "state_id": 943,
     "bank_id": 119,
     "state_name": "ODISHA"
   },
   {
-    "id": 944,
+    "state_id": 944,
     "bank_id": 119,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 945,
+    "state_id": 945,
     "bank_id": 119,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 946,
+    "state_id": 946,
     "bank_id": 119,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 947,
+    "state_id": 947,
     "bank_id": 119,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 948,
+    "state_id": 948,
     "bank_id": 119,
     "state_name": "BIHAR"
   },
   {
-    "id": 949,
+    "state_id": 949,
     "bank_id": 119,
     "state_name": "KERALA"
   },
   {
-    "id": 950,
+    "state_id": 950,
     "bank_id": 119,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 951,
+    "state_id": 951,
     "bank_id": 119,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 952,
+    "state_id": 952,
     "bank_id": 119,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 953,
+    "state_id": 953,
     "bank_id": 119,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 954,
+    "state_id": 954,
     "bank_id": 119,
     "state_name": "DELHI"
   },
   {
-    "id": 955,
+    "state_id": 955,
     "bank_id": 119,
     "state_name": "ASSAM"
   },
   {
-    "id": 956,
+    "state_id": 956,
     "bank_id": 119,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 957,
+    "state_id": 957,
     "bank_id": 119,
     "state_name": "SIKKIM"
   },
   {
-    "id": 958,
+    "state_id": 958,
     "bank_id": 119,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 959,
+    "state_id": 959,
     "bank_id": 119,
     "state_name": "GOA"
   },
   {
-    "id": 960,
+    "state_id": 960,
     "bank_id": 119,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 961,
+    "state_id": 961,
     "bank_id": 119,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 962,
+    "state_id": 962,
     "bank_id": 119,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 963,
+    "state_id": 963,
     "bank_id": 119,
     "state_name": "TRIPURA"
   },
   {
-    "id": 964,
+    "state_id": 964,
     "bank_id": 120,
     "state_name": "KERALA"
   },
   {
-    "id": 965,
+    "state_id": 965,
     "bank_id": 125,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 966,
+    "state_id": 966,
     "bank_id": 126,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 967,
+    "state_id": 967,
     "bank_id": 127,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 968,
+    "state_id": 968,
     "bank_id": 129,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 969,
+    "state_id": 969,
     "bank_id": 132,
     "state_name": "GUJARAT"
   },
   {
-    "id": 970,
+    "state_id": 970,
     "bank_id": 132,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 971,
+    "state_id": 971,
     "bank_id": 132,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 972,
+    "state_id": 972,
     "bank_id": 132,
     "state_name": "DELHI"
   },
   {
-    "id": 973,
+    "state_id": 973,
     "bank_id": 132,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 974,
+    "state_id": 974,
     "bank_id": 133,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 975,
+    "state_id": 975,
     "bank_id": 134,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 976,
+    "state_id": 976,
     "bank_id": 134,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 977,
+    "state_id": 977,
     "bank_id": 134,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 978,
+    "state_id": 978,
     "bank_id": 134,
     "state_name": "DELHI"
   },
   {
-    "id": 979,
+    "state_id": 979,
     "bank_id": 134,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 980,
+    "state_id": 980,
     "bank_id": 136,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 981,
+    "state_id": 981,
     "bank_id": 137,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 982,
+    "state_id": 982,
     "bank_id": 137,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 983,
+    "state_id": 983,
     "bank_id": 137,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 984,
+    "state_id": 984,
     "bank_id": 139,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 985,
+    "state_id": 985,
     "bank_id": 141,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 986,
+    "state_id": 986,
     "bank_id": 142,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 987,
+    "state_id": 987,
     "bank_id": 142,
     "state_name": "GUJARAT"
   },
   {
-    "id": 988,
+    "state_id": 988,
     "bank_id": 143,
     "state_name": "GUJARAT"
   },
   {
-    "id": 989,
+    "state_id": 989,
     "bank_id": 143,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 990,
+    "state_id": 990,
     "bank_id": 143,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 991,
+    "state_id": 991,
     "bank_id": 143,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 992,
+    "state_id": 992,
     "bank_id": 143,
     "state_name": "GOA"
   },
   {
-    "id": 993,
+    "state_id": 993,
     "bank_id": 144,
     "state_name": "MIZORAM"
   },
   {
-    "id": 994,
+    "state_id": 994,
     "bank_id": 144,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 995,
+    "state_id": 995,
     "bank_id": 144,
     "state_name": "ASSAM"
   },
   {
-    "id": 996,
+    "state_id": 996,
     "bank_id": 144,
     "state_name": "NAGALAND"
   },
   {
-    "id": 997,
+    "state_id": 997,
     "bank_id": 144,
     "state_name": "SIKKIM"
   },
   {
-    "id": 998,
+    "state_id": 998,
     "bank_id": 144,
     "state_name": "TRIPURA"
   },
   {
-    "id": 999,
+    "state_id": 999,
     "bank_id": 144,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1000,
+    "state_id": 1000,
     "bank_id": 144,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1001,
+    "state_id": 1001,
     "bank_id": 144,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1002,
+    "state_id": 1002,
     "bank_id": 145,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1003,
+    "state_id": 1003,
     "bank_id": 146,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1004,
+    "state_id": 1004,
     "bank_id": 146,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1005,
+    "state_id": 1005,
     "bank_id": 278,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1006,
+    "state_id": 1006,
     "bank_id": 149,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1007,
+    "state_id": 1007,
     "bank_id": 151,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1008,
+    "state_id": 1008,
     "bank_id": 152,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1009,
+    "state_id": 1009,
     "bank_id": 154,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1010,
+    "state_id": 1010,
     "bank_id": 154,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1011,
+    "state_id": 1011,
     "bank_id": 154,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1012,
+    "state_id": 1012,
     "bank_id": 154,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1013,
+    "state_id": 1013,
     "bank_id": 154,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1014,
+    "state_id": 1014,
     "bank_id": 154,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1015,
+    "state_id": 1015,
     "bank_id": 154,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1016,
+    "state_id": 1016,
     "bank_id": 154,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1017,
+    "state_id": 1017,
     "bank_id": 154,
     "state_name": "HARYANA"
   },
   {
-    "id": 1018,
+    "state_id": 1018,
     "bank_id": 154,
     "state_name": "ODISHA"
   },
   {
-    "id": 1019,
+    "state_id": 1019,
     "bank_id": 154,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1020,
+    "state_id": 1020,
     "bank_id": 154,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1021,
+    "state_id": 1021,
     "bank_id": 154,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1022,
+    "state_id": 1022,
     "bank_id": 154,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1023,
+    "state_id": 1023,
     "bank_id": 154,
     "state_name": "BIHAR"
   },
   {
-    "id": 1024,
+    "state_id": 1024,
     "bank_id": 154,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1025,
+    "state_id": 1025,
     "bank_id": 154,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1026,
+    "state_id": 1026,
     "bank_id": 154,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1027,
+    "state_id": 1027,
     "bank_id": 154,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1028,
+    "state_id": 1028,
     "bank_id": 154,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1029,
+    "state_id": 1029,
     "bank_id": 154,
     "state_name": "DELHI"
   },
   {
-    "id": 1030,
+    "state_id": 1030,
     "bank_id": 154,
     "state_name": "ASSAM"
   },
   {
-    "id": 1031,
+    "state_id": 1031,
     "bank_id": 154,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1032,
+    "state_id": 1032,
     "bank_id": 154,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1033,
+    "state_id": 1033,
     "bank_id": 154,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1034,
+    "state_id": 1034,
     "bank_id": 154,
     "state_name": "KERALA"
   },
   {
-    "id": 1035,
+    "state_id": 1035,
     "bank_id": 154,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1036,
+    "state_id": 1036,
     "bank_id": 154,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1037,
+    "state_id": 1037,
     "bank_id": 154,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1038,
+    "state_id": 1038,
     "bank_id": 154,
     "state_name": "GOA"
   },
   {
-    "id": 1039,
+    "state_id": 1039,
     "bank_id": 154,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1040,
+    "state_id": 1040,
     "bank_id": 154,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1041,
+    "state_id": 1041,
     "bank_id": 156,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1042,
+    "state_id": 1042,
     "bank_id": 156,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1043,
+    "state_id": 1043,
     "bank_id": 156,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1044,
+    "state_id": 1044,
     "bank_id": 156,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1045,
+    "state_id": 1045,
     "bank_id": 156,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1046,
+    "state_id": 1046,
     "bank_id": 156,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1047,
+    "state_id": 1047,
     "bank_id": 156,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1048,
+    "state_id": 1048,
     "bank_id": 156,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1049,
+    "state_id": 1049,
     "bank_id": 156,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1050,
+    "state_id": 1050,
     "bank_id": 156,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1051,
+    "state_id": 1051,
     "bank_id": 156,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1052,
+    "state_id": 1052,
     "bank_id": 156,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1053,
+    "state_id": 1053,
     "bank_id": 156,
     "state_name": "KERALA"
   },
   {
-    "id": 1054,
+    "state_id": 1054,
     "bank_id": 156,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1055,
+    "state_id": 1055,
     "bank_id": 156,
     "state_name": "HARYANA"
   },
   {
-    "id": 1056,
+    "state_id": 1056,
     "bank_id": 156,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1057,
+    "state_id": 1057,
     "bank_id": 156,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1058,
+    "state_id": 1058,
     "bank_id": 156,
     "state_name": "ODISHA"
   },
   {
-    "id": 1059,
+    "state_id": 1059,
     "bank_id": 156,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1060,
+    "state_id": 1060,
     "bank_id": 156,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1061,
+    "state_id": 1061,
     "bank_id": 156,
     "state_name": "BIHAR"
   },
   {
-    "id": 1062,
+    "state_id": 1062,
     "bank_id": 156,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1063,
+    "state_id": 1063,
     "bank_id": 156,
     "state_name": "ASSAM"
   },
   {
-    "id": 1064,
+    "state_id": 1064,
     "bank_id": 156,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1065,
+    "state_id": 1065,
     "bank_id": 156,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1066,
+    "state_id": 1066,
     "bank_id": 156,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1067,
+    "state_id": 1067,
     "bank_id": 156,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1068,
+    "state_id": 1068,
     "bank_id": 156,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1069,
+    "state_id": 1069,
     "bank_id": 156,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1070,
+    "state_id": 1070,
     "bank_id": 156,
     "state_name": "DELHI"
   },
   {
-    "id": 1071,
+    "state_id": 1071,
     "bank_id": 156,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1072,
+    "state_id": 1072,
     "bank_id": 156,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1073,
+    "state_id": 1073,
     "bank_id": 156,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1074,
+    "state_id": 1074,
     "bank_id": 156,
     "state_name": "GOA"
   },
   {
-    "id": 1075,
+    "state_id": 1075,
     "bank_id": 156,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1076,
+    "state_id": 1076,
     "bank_id": 157,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1077,
+    "state_id": 1077,
     "bank_id": 158,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1078,
+    "state_id": 1078,
     "bank_id": 159,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1079,
+    "state_id": 1079,
     "bank_id": 160,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1080,
+    "state_id": 1080,
     "bank_id": 161,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1081,
+    "state_id": 1081,
     "bank_id": 162,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1082,
+    "state_id": 1082,
     "bank_id": 163,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1083,
+    "state_id": 1083,
     "bank_id": 164,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1084,
+    "state_id": 1084,
     "bank_id": 165,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1085,
+    "state_id": 1085,
     "bank_id": 165,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1086,
+    "state_id": 1086,
     "bank_id": 165,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1087,
+    "state_id": 1087,
     "bank_id": 165,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1088,
+    "state_id": 1088,
     "bank_id": 165,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1089,
+    "state_id": 1089,
     "bank_id": 165,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1090,
+    "state_id": 1090,
     "bank_id": 165,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1091,
+    "state_id": 1091,
     "bank_id": 165,
     "state_name": "BIHAR"
   },
   {
-    "id": 1092,
+    "state_id": 1092,
     "bank_id": 165,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1093,
+    "state_id": 1093,
     "bank_id": 165,
     "state_name": "ODISHA"
   },
   {
-    "id": 1094,
+    "state_id": 1094,
     "bank_id": 165,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1095,
+    "state_id": 1095,
     "bank_id": 165,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1096,
+    "state_id": 1096,
     "bank_id": 165,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1097,
+    "state_id": 1097,
     "bank_id": 165,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1098,
+    "state_id": 1098,
     "bank_id": 165,
     "state_name": "DELHI"
   },
   {
-    "id": 1099,
+    "state_id": 1099,
     "bank_id": 165,
     "state_name": "KERALA"
   },
   {
-    "id": 1100,
+    "state_id": 1100,
     "bank_id": 165,
     "state_name": "HARYANA"
   },
   {
-    "id": 1101,
+    "state_id": 1101,
     "bank_id": 165,
     "state_name": "ASSAM"
   },
   {
-    "id": 1102,
+    "state_id": 1102,
     "bank_id": 165,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1103,
+    "state_id": 1103,
     "bank_id": 165,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1104,
+    "state_id": 1104,
     "bank_id": 165,
     "state_name": "GOA"
   },
   {
-    "id": 1105,
+    "state_id": 1105,
     "bank_id": 165,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1106,
+    "state_id": 1106,
     "bank_id": 165,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1107,
+    "state_id": 1107,
     "bank_id": 166,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1108,
+    "state_id": 1108,
     "bank_id": 166,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1109,
+    "state_id": 1109,
     "bank_id": 166,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1110,
+    "state_id": 1110,
     "bank_id": 166,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1111,
+    "state_id": 1111,
     "bank_id": 166,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1112,
+    "state_id": 1112,
     "bank_id": 166,
     "state_name": "ODISHA"
   },
   {
-    "id": 1113,
+    "state_id": 1113,
     "bank_id": 166,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1115,
+    "state_id": 1115,
     "bank_id": 166,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1116,
+    "state_id": 1116,
     "bank_id": 166,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1117,
+    "state_id": 1117,
     "bank_id": 166,
     "state_name": "DELHI"
   },
   {
-    "id": 1118,
+    "state_id": 1118,
     "bank_id": 166,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1119,
+    "state_id": 1119,
     "bank_id": 166,
     "state_name": "KERALA"
   },
   {
-    "id": 1120,
+    "state_id": 1120,
     "bank_id": 166,
     "state_name": "ASSAM"
   },
   {
-    "id": 1121,
+    "state_id": 1121,
     "bank_id": 166,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1122,
+    "state_id": 1122,
     "bank_id": 166,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1123,
+    "state_id": 1123,
     "bank_id": 166,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1124,
+    "state_id": 1124,
     "bank_id": 166,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1125,
+    "state_id": 1125,
     "bank_id": 166,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1126,
+    "state_id": 1126,
     "bank_id": 166,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1127,
+    "state_id": 1127,
     "bank_id": 166,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1128,
+    "state_id": 1128,
     "bank_id": 166,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1129,
+    "state_id": 1129,
     "bank_id": 166,
     "state_name": "GOA"
   },
   {
-    "id": 1130,
+    "state_id": 1130,
     "bank_id": 166,
     "state_name": "BIHAR"
   },
   {
-    "id": 1131,
+    "state_id": 1131,
     "bank_id": 166,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1132,
+    "state_id": 1132,
     "bank_id": 166,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1133,
+    "state_id": 1133,
     "bank_id": 166,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1134,
+    "state_id": 1134,
     "bank_id": 166,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1135,
+    "state_id": 1135,
     "bank_id": 167,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1136,
+    "state_id": 1136,
     "bank_id": 168,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1137,
+    "state_id": 1137,
     "bank_id": 169,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1138,
+    "state_id": 1138,
     "bank_id": 171,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1139,
+    "state_id": 1139,
     "bank_id": 172,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1140,
+    "state_id": 1140,
     "bank_id": 172,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1141,
+    "state_id": 1141,
     "bank_id": 172,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1142,
+    "state_id": 1142,
     "bank_id": 172,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1143,
+    "state_id": 1143,
     "bank_id": 172,
     "state_name": "GOA"
   },
   {
-    "id": 1144,
+    "state_id": 1144,
     "bank_id": 172,
     "state_name": "DELHI"
   },
   {
-    "id": 1145,
+    "state_id": 1145,
     "bank_id": 172,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1146,
+    "state_id": 1146,
     "bank_id": 172,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1147,
+    "state_id": 1147,
     "bank_id": 172,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1148,
+    "state_id": 1148,
     "bank_id": 174,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1149,
+    "state_id": 1149,
     "bank_id": 175,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1150,
+    "state_id": 1150,
     "bank_id": 176,
     "state_name": "DELHI"
   },
   {
-    "id": 1151,
+    "state_id": 1151,
     "bank_id": 177,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1152,
+    "state_id": 1152,
     "bank_id": 178,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1153,
+    "state_id": 1153,
     "bank_id": 179,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1154,
+    "state_id": 1154,
     "bank_id": 179,
     "state_name": "DELHI"
   },
   {
-    "id": 1155,
+    "state_id": 1155,
     "bank_id": 179,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1156,
+    "state_id": 1156,
     "bank_id": 179,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1157,
+    "state_id": 1157,
     "bank_id": 179,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1158,
+    "state_id": 1158,
     "bank_id": 180,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1159,
+    "state_id": 1159,
     "bank_id": 180,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1160,
+    "state_id": 1160,
     "bank_id": 280,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1161,
+    "state_id": 1161,
     "bank_id": 181,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1162,
+    "state_id": 1162,
     "bank_id": 182,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1163,
+    "state_id": 1163,
     "bank_id": 182,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1164,
+    "state_id": 1164,
     "bank_id": 183,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1165,
+    "state_id": 1165,
     "bank_id": 284,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1166,
+    "state_id": 1166,
     "bank_id": 184,
     "state_name": "DELHI"
   },
   {
-    "id": 1167,
+    "state_id": 1167,
     "bank_id": 184,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1168,
+    "state_id": 1168,
     "bank_id": 185,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1169,
+    "state_id": 1169,
     "bank_id": 185,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1170,
+    "state_id": 1170,
     "bank_id": 187,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1171,
+    "state_id": 1171,
     "bank_id": 187,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1172,
+    "state_id": 1172,
     "bank_id": 187,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1173,
+    "state_id": 1173,
     "bank_id": 187,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1174,
+    "state_id": 1174,
     "bank_id": 187,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1175,
+    "state_id": 1175,
     "bank_id": 187,
     "state_name": "KERALA"
   },
   {
-    "id": 1176,
+    "state_id": 1176,
     "bank_id": 187,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1177,
+    "state_id": 1177,
     "bank_id": 187,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1178,
+    "state_id": 1178,
     "bank_id": 187,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1179,
+    "state_id": 1179,
     "bank_id": 187,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1180,
+    "state_id": 1180,
     "bank_id": 187,
     "state_name": "ODISHA"
   },
   {
-    "id": 1181,
+    "state_id": 1181,
     "bank_id": 187,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1182,
+    "state_id": 1182,
     "bank_id": 187,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1183,
+    "state_id": 1183,
     "bank_id": 187,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1184,
+    "state_id": 1184,
     "bank_id": 187,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1185,
+    "state_id": 1185,
     "bank_id": 187,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1186,
+    "state_id": 1186,
     "bank_id": 187,
     "state_name": "DELHI"
   },
   {
-    "id": 1187,
+    "state_id": 1187,
     "bank_id": 187,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1188,
+    "state_id": 1188,
     "bank_id": 187,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1189,
+    "state_id": 1189,
     "bank_id": 187,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1190,
+    "state_id": 1190,
     "bank_id": 187,
     "state_name": "HARYANA"
   },
   {
-    "id": 1191,
+    "state_id": 1191,
     "bank_id": 187,
     "state_name": "ASSAM"
   },
   {
-    "id": 1192,
+    "state_id": 1192,
     "bank_id": 187,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1193,
+    "state_id": 1193,
     "bank_id": 187,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1194,
+    "state_id": 1194,
     "bank_id": 187,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1195,
+    "state_id": 1195,
     "bank_id": 187,
     "state_name": "GOA"
   },
   {
-    "id": 1196,
+    "state_id": 1196,
     "bank_id": 187,
     "state_name": "BIHAR"
   },
   {
-    "id": 1197,
+    "state_id": 1197,
     "bank_id": 187,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1198,
+    "state_id": 1198,
     "bank_id": 187,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1199,
+    "state_id": 1199,
     "bank_id": 187,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1200,
+    "state_id": 1200,
     "bank_id": 188,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1201,
+    "state_id": 1201,
     "bank_id": 189,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1202,
+    "state_id": 1202,
     "bank_id": 189,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1203,
+    "state_id": 1203,
     "bank_id": 189,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1204,
+    "state_id": 1204,
     "bank_id": 189,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1205,
+    "state_id": 1205,
     "bank_id": 189,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1206,
+    "state_id": 1206,
     "bank_id": 189,
     "state_name": "ODISHA"
   },
   {
-    "id": 1207,
+    "state_id": 1207,
     "bank_id": 189,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1208,
+    "state_id": 1208,
     "bank_id": 189,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1209,
+    "state_id": 1209,
     "bank_id": 189,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1210,
+    "state_id": 1210,
     "bank_id": 189,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1211,
+    "state_id": 1211,
     "bank_id": 189,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1212,
+    "state_id": 1212,
     "bank_id": 189,
     "state_name": "DELHI"
   },
   {
-    "id": 1213,
+    "state_id": 1213,
     "bank_id": 189,
     "state_name": "KERALA"
   },
   {
-    "id": 1214,
+    "state_id": 1214,
     "bank_id": 189,
     "state_name": "HARYANA"
   },
   {
-    "id": 1215,
+    "state_id": 1215,
     "bank_id": 189,
     "state_name": "ASSAM"
   },
   {
-    "id": 1216,
+    "state_id": 1216,
     "bank_id": 189,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1217,
+    "state_id": 1217,
     "bank_id": 189,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1218,
+    "state_id": 1218,
     "bank_id": 189,
     "state_name": "BIHAR"
   },
   {
-    "id": 1219,
+    "state_id": 1219,
     "bank_id": 190,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1220,
+    "state_id": 1220,
     "bank_id": 190,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1221,
+    "state_id": 1221,
     "bank_id": 190,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1222,
+    "state_id": 1222,
     "bank_id": 190,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1223,
+    "state_id": 1223,
     "bank_id": 190,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1224,
+    "state_id": 1224,
     "bank_id": 190,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1225,
+    "state_id": 1225,
     "bank_id": 190,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1226,
+    "state_id": 1226,
     "bank_id": 190,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1227,
+    "state_id": 1227,
     "bank_id": 190,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1228,
+    "state_id": 1228,
     "bank_id": 190,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1229,
+    "state_id": 1229,
     "bank_id": 190,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1230,
+    "state_id": 1230,
     "bank_id": 190,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1231,
+    "state_id": 1231,
     "bank_id": 190,
     "state_name": "KERALA"
   },
   {
-    "id": 1232,
+    "state_id": 1232,
     "bank_id": 190,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1233,
+    "state_id": 1233,
     "bank_id": 190,
     "state_name": "HARYANA"
   },
   {
-    "id": 1234,
+    "state_id": 1234,
     "bank_id": 190,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1235,
+    "state_id": 1235,
     "bank_id": 190,
     "state_name": "ODISHA"
   },
   {
-    "id": 1236,
+    "state_id": 1236,
     "bank_id": 190,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1237,
+    "state_id": 1237,
     "bank_id": 190,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1238,
+    "state_id": 1238,
     "bank_id": 190,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1239,
+    "state_id": 1239,
     "bank_id": 190,
     "state_name": "BIHAR"
   },
   {
-    "id": 1240,
+    "state_id": 1240,
     "bank_id": 190,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1241,
+    "state_id": 1241,
     "bank_id": 190,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1242,
+    "state_id": 1242,
     "bank_id": 190,
     "state_name": "ASSAM"
   },
   {
-    "id": 1243,
+    "state_id": 1243,
     "bank_id": 190,
     "state_name": "GOA"
   },
   {
-    "id": 1244,
+    "state_id": 1244,
     "bank_id": 190,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1245,
+    "state_id": 1245,
     "bank_id": 190,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1246,
+    "state_id": 1246,
     "bank_id": 190,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1247,
+    "state_id": 1247,
     "bank_id": 190,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1248,
+    "state_id": 1248,
     "bank_id": 190,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1249,
+    "state_id": 1249,
     "bank_id": 190,
     "state_name": "DELHI"
   },
   {
-    "id": 1250,
+    "state_id": 1250,
     "bank_id": 190,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1251,
+    "state_id": 1251,
     "bank_id": 190,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1252,
+    "state_id": 1252,
     "bank_id": 190,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1253,
+    "state_id": 1253,
     "bank_id": 190,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1254,
+    "state_id": 1254,
     "bank_id": 190,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1255,
+    "state_id": 1255,
     "bank_id": 191,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1256,
+    "state_id": 1256,
     "bank_id": 192,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1257,
+    "state_id": 1257,
     "bank_id": 192,
     "state_name": "DELHI"
   },
   {
-    "id": 1258,
+    "state_id": 1258,
     "bank_id": 192,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1259,
+    "state_id": 1259,
     "bank_id": 193,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1260,
+    "state_id": 1260,
     "bank_id": 194,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1261,
+    "state_id": 1261,
     "bank_id": 194,
     "state_name": "ODISHA"
   },
   {
-    "id": 1262,
+    "state_id": 1262,
     "bank_id": 194,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1263,
+    "state_id": 1263,
     "bank_id": 194,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1264,
+    "state_id": 1264,
     "bank_id": 194,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1265,
+    "state_id": 1265,
     "bank_id": 194,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1266,
+    "state_id": 1266,
     "bank_id": 195,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1267,
+    "state_id": 1267,
     "bank_id": 195,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1268,
+    "state_id": 1268,
     "bank_id": 197,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1269,
+    "state_id": 1269,
     "bank_id": 197,
     "state_name": "KERALA"
   },
   {
-    "id": 1270,
+    "state_id": 1270,
     "bank_id": 197,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1271,
+    "state_id": 1271,
     "bank_id": 197,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1272,
+    "state_id": 1272,
     "bank_id": 197,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1273,
+    "state_id": 1273,
     "bank_id": 197,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1274,
+    "state_id": 1274,
     "bank_id": 197,
     "state_name": "ODISHA"
   },
   {
-    "id": 1275,
+    "state_id": 1275,
     "bank_id": 197,
     "state_name": "DELHI"
   },
   {
-    "id": 1276,
+    "state_id": 1276,
     "bank_id": 197,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1277,
+    "state_id": 1277,
     "bank_id": 197,
     "state_name": "HARYANA"
   },
   {
-    "id": 1278,
+    "state_id": 1278,
     "bank_id": 197,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1279,
+    "state_id": 1279,
     "bank_id": 197,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1280,
+    "state_id": 1280,
     "bank_id": 197,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1281,
+    "state_id": 1281,
     "bank_id": 197,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1282,
+    "state_id": 1282,
     "bank_id": 197,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1283,
+    "state_id": 1283,
     "bank_id": 197,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1284,
+    "state_id": 1284,
     "bank_id": 197,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1285,
+    "state_id": 1285,
     "bank_id": 197,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1286,
+    "state_id": 1286,
     "bank_id": 197,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1287,
+    "state_id": 1287,
     "bank_id": 197,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1288,
+    "state_id": 1288,
     "bank_id": 199,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1289,
+    "state_id": 1289,
     "bank_id": 200,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1290,
+    "state_id": 1290,
     "bank_id": 201,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1291,
+    "state_id": 1291,
     "bank_id": 201,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1292,
+    "state_id": 1292,
     "bank_id": 201,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1293,
+    "state_id": 1293,
     "bank_id": 201,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1294,
+    "state_id": 1294,
     "bank_id": 202,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1295,
+    "state_id": 1295,
     "bank_id": 203,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1296,
+    "state_id": 1296,
     "bank_id": 203,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1297,
+    "state_id": 1297,
     "bank_id": 204,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1298,
+    "state_id": 1298,
     "bank_id": 205,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1299,
+    "state_id": 1299,
     "bank_id": 205,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1300,
+    "state_id": 1300,
     "bank_id": 206,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1301,
+    "state_id": 1301,
     "bank_id": 206,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1302,
+    "state_id": 1302,
     "bank_id": 277,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1303,
+    "state_id": 1303,
     "bank_id": 207,
     "state_name": "DELHI"
   },
   {
-    "id": 1304,
+    "state_id": 1304,
     "bank_id": 207,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1305,
+    "state_id": 1305,
     "bank_id": 208,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1306,
+    "state_id": 1306,
     "bank_id": 209,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1307,
+    "state_id": 1307,
     "bank_id": 209,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1308,
+    "state_id": 1308,
     "bank_id": 209,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1309,
+    "state_id": 1309,
     "bank_id": 209,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1310,
+    "state_id": 1310,
     "bank_id": 209,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1311,
+    "state_id": 1311,
     "bank_id": 209,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1312,
+    "state_id": 1312,
     "bank_id": 210,
     "state_name": "DELHI"
   },
   {
-    "id": 1313,
+    "state_id": 1313,
     "bank_id": 211,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1314,
+    "state_id": 1314,
     "bank_id": 212,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1315,
+    "state_id": 1315,
     "bank_id": 213,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1316,
+    "state_id": 1316,
     "bank_id": 214,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1317,
+    "state_id": 1317,
     "bank_id": 215,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1318,
+    "state_id": 1318,
     "bank_id": 215,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1319,
+    "state_id": 1319,
     "bank_id": 216,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1320,
+    "state_id": 1320,
     "bank_id": 216,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1321,
+    "state_id": 1321,
     "bank_id": 217,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1322,
+    "state_id": 1322,
     "bank_id": 218,
     "state_name": "DELHI"
   },
   {
-    "id": 1323,
+    "state_id": 1323,
     "bank_id": 219,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1324,
+    "state_id": 1324,
     "bank_id": 220,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1325,
+    "state_id": 1325,
     "bank_id": 221,
     "state_name": "KERALA"
   },
   {
-    "id": 1326,
+    "state_id": 1326,
     "bank_id": 222,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1327,
+    "state_id": 1327,
     "bank_id": 223,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1328,
+    "state_id": 1328,
     "bank_id": 224,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1329,
+    "state_id": 1329,
     "bank_id": 225,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1330,
+    "state_id": 1330,
     "bank_id": 281,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1331,
+    "state_id": 1331,
     "bank_id": 226,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1332,
+    "state_id": 1332,
     "bank_id": 226,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1333,
+    "state_id": 1333,
     "bank_id": 227,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1334,
+    "state_id": 1334,
     "bank_id": 228,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1335,
+    "state_id": 1335,
     "bank_id": 229,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1336,
+    "state_id": 1336,
     "bank_id": 230,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1337,
+    "state_id": 1337,
     "bank_id": 230,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1338,
+    "state_id": 1338,
     "bank_id": 230,
     "state_name": "HARYANA"
   },
   {
-    "id": 1339,
+    "state_id": 1339,
     "bank_id": 230,
     "state_name": "DELHI"
   },
   {
-    "id": 1340,
+    "state_id": 1340,
     "bank_id": 230,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1341,
+    "state_id": 1341,
     "bank_id": 231,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1342,
+    "state_id": 1342,
     "bank_id": 231,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1343,
+    "state_id": 1343,
     "bank_id": 231,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1344,
+    "state_id": 1344,
     "bank_id": 232,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1345,
+    "state_id": 1345,
     "bank_id": 233,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1346,
+    "state_id": 1346,
     "bank_id": 234,
     "state_name": "KERALA"
   },
   {
-    "id": 1347,
+    "state_id": 1347,
     "bank_id": 235,
     "state_name": "ODISHA"
   },
   {
-    "id": 1348,
+    "state_id": 1348,
     "bank_id": 236,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1349,
+    "state_id": 1349,
     "bank_id": 237,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1350,
+    "state_id": 1350,
     "bank_id": 238,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1351,
+    "state_id": 1351,
     "bank_id": 239,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1352,
+    "state_id": 1352,
     "bank_id": 240,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1353,
+    "state_id": 1353,
     "bank_id": 241,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1354,
+    "state_id": 1354,
     "bank_id": 242,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1355,
+    "state_id": 1355,
     "bank_id": 242,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1356,
+    "state_id": 1356,
     "bank_id": 242,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1357,
+    "state_id": 1357,
     "bank_id": 242,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1358,
+    "state_id": 1358,
     "bank_id": 242,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1359,
+    "state_id": 1359,
     "bank_id": 242,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1360,
+    "state_id": 1360,
     "bank_id": 242,
     "state_name": "DELHI"
   },
   {
-    "id": 1361,
+    "state_id": 1361,
     "bank_id": 242,
     "state_name": "HARYANA"
   },
   {
-    "id": 1362,
+    "state_id": 1362,
     "bank_id": 242,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1363,
+    "state_id": 1363,
     "bank_id": 242,
     "state_name": "GOA"
   },
   {
-    "id": 1364,
+    "state_id": 1364,
     "bank_id": 243,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1365,
+    "state_id": 1365,
     "bank_id": 244,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1366,
+    "state_id": 1366,
     "bank_id": 245,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1367,
+    "state_id": 1367,
     "bank_id": 245,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1368,
+    "state_id": 1368,
     "bank_id": 246,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1369,
+    "state_id": 1369,
     "bank_id": 246,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1370,
+    "state_id": 1370,
     "bank_id": 247,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1371,
+    "state_id": 1371,
     "bank_id": 248,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1372,
+    "state_id": 1372,
     "bank_id": 249,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1373,
+    "state_id": 1373,
     "bank_id": 250,
     "state_name": "KERALA"
   },
   {
-    "id": 1374,
+    "state_id": 1374,
     "bank_id": 251,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1375,
+    "state_id": 1375,
     "bank_id": 252,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1376,
+    "state_id": 1376,
     "bank_id": 253,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1377,
+    "state_id": 1377,
     "bank_id": 253,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1378,
+    "state_id": 1378,
     "bank_id": 254,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1379,
+    "state_id": 1379,
     "bank_id": 255,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1380,
+    "state_id": 1380,
     "bank_id": 255,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1381,
+    "state_id": 1381,
     "bank_id": 256,
     "state_name": "KERALA"
   },
   {
-    "id": 1382,
+    "state_id": 1382,
     "bank_id": 257,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1383,
+    "state_id": 1383,
     "bank_id": 257,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1384,
+    "state_id": 1384,
     "bank_id": 257,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1385,
+    "state_id": 1385,
     "bank_id": 257,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1386,
+    "state_id": 1386,
     "bank_id": 257,
     "state_name": "GOA"
   },
   {
-    "id": 1387,
+    "state_id": 1387,
     "bank_id": 259,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1388,
+    "state_id": 1388,
     "bank_id": 260,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1389,
+    "state_id": 1389,
     "bank_id": 260,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1390,
+    "state_id": 1390,
     "bank_id": 260,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1391,
+    "state_id": 1391,
     "bank_id": 260,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1392,
+    "state_id": 1392,
     "bank_id": 260,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1393,
+    "state_id": 1393,
     "bank_id": 260,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1394,
+    "state_id": 1394,
     "bank_id": 260,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1395,
+    "state_id": 1395,
     "bank_id": 260,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1396,
+    "state_id": 1396,
     "bank_id": 260,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1397,
+    "state_id": 1397,
     "bank_id": 260,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1398,
+    "state_id": 1398,
     "bank_id": 260,
     "state_name": "KERALA"
   },
   {
-    "id": 1399,
+    "state_id": 1399,
     "bank_id": 260,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1400,
+    "state_id": 1400,
     "bank_id": 260,
     "state_name": "HARYANA"
   },
   {
-    "id": 1401,
+    "state_id": 1401,
     "bank_id": 260,
     "state_name": "ODISHA"
   },
   {
-    "id": 1402,
+    "state_id": 1402,
     "bank_id": 260,
     "state_name": "BIHAR"
   },
   {
-    "id": 1403,
+    "state_id": 1403,
     "bank_id": 260,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1404,
+    "state_id": 1404,
     "bank_id": 260,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1405,
+    "state_id": 1405,
     "bank_id": 260,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1406,
+    "state_id": 1406,
     "bank_id": 260,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1407,
+    "state_id": 1407,
     "bank_id": 260,
     "state_name": "ASSAM"
   },
   {
-    "id": 1408,
+    "state_id": 1408,
     "bank_id": 260,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1409,
+    "state_id": 1409,
     "bank_id": 260,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1410,
+    "state_id": 1410,
     "bank_id": 260,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1411,
+    "state_id": 1411,
     "bank_id": 260,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1412,
+    "state_id": 1412,
     "bank_id": 260,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1413,
+    "state_id": 1413,
     "bank_id": 260,
     "state_name": "DELHI"
   },
   {
-    "id": 1414,
+    "state_id": 1414,
     "bank_id": 260,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1415,
+    "state_id": 1415,
     "bank_id": 260,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1416,
+    "state_id": 1416,
     "bank_id": 260,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1417,
+    "state_id": 1417,
     "bank_id": 260,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1418,
+    "state_id": 1418,
     "bank_id": 260,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1419,
+    "state_id": 1419,
     "bank_id": 260,
     "state_name": "GOA"
   },
   {
-    "id": 1420,
+    "state_id": 1420,
     "bank_id": 260,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1421,
+    "state_id": 1421,
     "bank_id": 260,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1422,
+    "state_id": 1422,
     "bank_id": 260,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1423,
+    "state_id": 1423,
     "bank_id": 260,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1424,
+    "state_id": 1424,
     "bank_id": 261,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1425,
+    "state_id": 1425,
     "bank_id": 261,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1426,
+    "state_id": 1426,
     "bank_id": 261,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1427,
+    "state_id": 1427,
     "bank_id": 261,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1428,
+    "state_id": 1428,
     "bank_id": 261,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1429,
+    "state_id": 1429,
     "bank_id": 261,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1430,
+    "state_id": 1430,
     "bank_id": 261,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1431,
+    "state_id": 1431,
     "bank_id": 261,
     "state_name": "KERALA"
   },
   {
-    "id": 1432,
+    "state_id": 1432,
     "bank_id": 261,
     "state_name": "HARYANA"
   },
   {
-    "id": 1433,
+    "state_id": 1433,
     "bank_id": 261,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1434,
+    "state_id": 1434,
     "bank_id": 261,
     "state_name": "ODISHA"
   },
   {
-    "id": 1435,
+    "state_id": 1435,
     "bank_id": 261,
     "state_name": "ASSAM"
   },
   {
-    "id": 1436,
+    "state_id": 1436,
     "bank_id": 261,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1437,
+    "state_id": 1437,
     "bank_id": 261,
     "state_name": "BIHAR"
   },
   {
-    "id": 1438,
+    "state_id": 1438,
     "bank_id": 261,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1439,
+    "state_id": 1439,
     "bank_id": 261,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1440,
+    "state_id": 1440,
     "bank_id": 261,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1441,
+    "state_id": 1441,
     "bank_id": 261,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1442,
+    "state_id": 1442,
     "bank_id": 261,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1443,
+    "state_id": 1443,
     "bank_id": 261,
     "state_name": "DELHI"
   },
   {
-    "id": 1444,
+    "state_id": 1444,
     "bank_id": 261,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1445,
+    "state_id": 1445,
     "bank_id": 261,
     "state_name": "GOA"
   },
   {
-    "id": 1446,
+    "state_id": 1446,
     "bank_id": 261,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1447,
+    "state_id": 1447,
     "bank_id": 261,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1448,
+    "state_id": 1448,
     "bank_id": 261,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1449,
+    "state_id": 1449,
     "bank_id": 262,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1450,
+    "state_id": 1450,
     "bank_id": 262,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1451,
+    "state_id": 1451,
     "bank_id": 262,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1452,
+    "state_id": 1452,
     "bank_id": 262,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1453,
+    "state_id": 1453,
     "bank_id": 262,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1454,
+    "state_id": 1454,
     "bank_id": 262,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1455,
+    "state_id": 1455,
     "bank_id": 262,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1456,
+    "state_id": 1456,
     "bank_id": 262,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1457,
+    "state_id": 1457,
     "bank_id": 262,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1458,
+    "state_id": 1458,
     "bank_id": 262,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1459,
+    "state_id": 1459,
     "bank_id": 262,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1460,
+    "state_id": 1460,
     "bank_id": 262,
     "state_name": "KERALA"
   },
   {
-    "id": 1461,
+    "state_id": 1461,
     "bank_id": 262,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1462,
+    "state_id": 1462,
     "bank_id": 262,
     "state_name": "HARYANA"
   },
   {
-    "id": 1463,
+    "state_id": 1463,
     "bank_id": 262,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1464,
+    "state_id": 1464,
     "bank_id": 262,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1465,
+    "state_id": 1465,
     "bank_id": 262,
     "state_name": "ODISHA"
   },
   {
-    "id": 1466,
+    "state_id": 1466,
     "bank_id": 262,
     "state_name": "BIHAR"
   },
   {
-    "id": 1467,
+    "state_id": 1467,
     "bank_id": 262,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1468,
+    "state_id": 1468,
     "bank_id": 262,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1469,
+    "state_id": 1469,
     "bank_id": 262,
     "state_name": "ASSAM"
   },
   {
-    "id": 1470,
+    "state_id": 1470,
     "bank_id": 262,
     "state_name": "GOA"
   },
   {
-    "id": 1471,
+    "state_id": 1471,
     "bank_id": 262,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1472,
+    "state_id": 1472,
     "bank_id": 262,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1473,
+    "state_id": 1473,
     "bank_id": 262,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1474,
+    "state_id": 1474,
     "bank_id": 262,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1475,
+    "state_id": 1475,
     "bank_id": 262,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1476,
+    "state_id": 1476,
     "bank_id": 262,
     "state_name": "DELHI"
   },
   {
-    "id": 1477,
+    "state_id": 1477,
     "bank_id": 262,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1478,
+    "state_id": 1478,
     "bank_id": 262,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1479,
+    "state_id": 1479,
     "bank_id": 262,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1480,
+    "state_id": 1480,
     "bank_id": 262,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1481,
+    "state_id": 1481,
     "bank_id": 262,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1482,
+    "state_id": 1482,
     "bank_id": 262,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1483,
+    "state_id": 1483,
     "bank_id": 262,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1484,
+    "state_id": 1484,
     "bank_id": 263,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1485,
+    "state_id": 1485,
     "bank_id": 265,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1486,
+    "state_id": 1486,
     "bank_id": 265,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1487,
+    "state_id": 1487,
     "bank_id": 265,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1488,
+    "state_id": 1488,
     "bank_id": 265,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1489,
+    "state_id": 1489,
     "bank_id": 265,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1490,
+    "state_id": 1490,
     "bank_id": 265,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1491,
+    "state_id": 1491,
     "bank_id": 265,
     "state_name": "HARYANA"
   },
   {
-    "id": 1492,
+    "state_id": 1492,
     "bank_id": 265,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1493,
+    "state_id": 1493,
     "bank_id": 265,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1494,
+    "state_id": 1494,
     "bank_id": 265,
     "state_name": "ODISHA"
   },
   {
-    "id": 1495,
+    "state_id": 1495,
     "bank_id": 265,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1496,
+    "state_id": 1496,
     "bank_id": 265,
     "state_name": "BIHAR"
   },
   {
-    "id": 1497,
+    "state_id": 1497,
     "bank_id": 265,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1498,
+    "state_id": 1498,
     "bank_id": 265,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1499,
+    "state_id": 1499,
     "bank_id": 265,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1500,
+    "state_id": 1500,
     "bank_id": 265,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1501,
+    "state_id": 1501,
     "bank_id": 265,
     "state_name": "DELHI"
   },
   {
-    "id": 1502,
+    "state_id": 1502,
     "bank_id": 265,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1503,
+    "state_id": 1503,
     "bank_id": 265,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1504,
+    "state_id": 1504,
     "bank_id": 265,
     "state_name": "ASSAM"
   },
   {
-    "id": 1505,
+    "state_id": 1505,
     "bank_id": 265,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1506,
+    "state_id": 1506,
     "bank_id": 265,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1507,
+    "state_id": 1507,
     "bank_id": 265,
     "state_name": "KERALA"
   },
   {
-    "id": 1508,
+    "state_id": 1508,
     "bank_id": 265,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1509,
+    "state_id": 1509,
     "bank_id": 267,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1510,
+    "state_id": 1510,
     "bank_id": 270,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1511,
+    "state_id": 1511,
     "bank_id": 271,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1512,
+    "state_id": 1512,
     "bank_id": 274,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1513,
+    "state_id": 1513,
     "bank_id": 274,
     "state_name": "HARYANA"
   },
   {
-    "id": 1514,
+    "state_id": 1514,
     "bank_id": 274,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1515,
+    "state_id": 1515,
     "bank_id": 275,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1516,
+    "state_id": 1516,
     "bank_id": 275,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1517,
+    "state_id": 1517,
     "bank_id": 275,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1518,
+    "state_id": 1518,
     "bank_id": 275,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1519,
+    "state_id": 1519,
     "bank_id": 275,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1520,
+    "state_id": 1520,
     "bank_id": 275,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1521,
+    "state_id": 1521,
     "bank_id": 275,
     "state_name": "HARYANA"
   },
   {
-    "id": 1522,
+    "state_id": 1522,
     "bank_id": 275,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1523,
+    "state_id": 1523,
     "bank_id": 275,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1524,
+    "state_id": 1524,
     "bank_id": 275,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1525,
+    "state_id": 1525,
     "bank_id": 275,
     "state_name": "ODISHA"
   },
   {
-    "id": 1526,
+    "state_id": 1526,
     "bank_id": 275,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1527,
+    "state_id": 1527,
     "bank_id": 275,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1528,
+    "state_id": 1528,
     "bank_id": 275,
     "state_name": "GOA"
   },
   {
-    "id": 1529,
+    "state_id": 1529,
     "bank_id": 275,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1530,
+    "state_id": 1530,
     "bank_id": 275,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1531,
+    "state_id": 1531,
     "bank_id": 275,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1532,
+    "state_id": 1532,
     "bank_id": 275,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1533,
+    "state_id": 1533,
     "bank_id": 275,
     "state_name": "ASSAM"
   },
   {
-    "id": 1534,
+    "state_id": 1534,
     "bank_id": 275,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1535,
+    "state_id": 1535,
     "bank_id": 275,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1536,
+    "state_id": 1536,
     "bank_id": 275,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1537,
+    "state_id": 1537,
     "bank_id": 275,
     "state_name": "DAMAN AND DIU"
   },
   {
-    "id": 1538,
+    "state_id": 1538,
     "bank_id": 275,
     "state_name": "DELHI"
   },
   {
-    "id": 1539,
+    "state_id": 1539,
     "bank_id": 275,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1540,
+    "state_id": 1540,
     "bank_id": 275,
     "state_name": "BIHAR"
   },
   {
-    "id": 1541,
+    "state_id": 1541,
     "bank_id": 275,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1542,
+    "state_id": 1542,
     "bank_id": 275,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1543,
+    "state_id": 1543,
     "bank_id": 275,
     "state_name": "KERALA"
   },
   {
-    "id": 1544,
+    "state_id": 1544,
     "bank_id": 275,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1545,
+    "state_id": 1545,
     "bank_id": 275,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1546,
+    "state_id": 1546,
     "bank_id": 275,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1547,
+    "state_id": 1547,
     "bank_id": 275,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1548,
+    "state_id": 1548,
     "bank_id": 275,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1549,
+    "state_id": 1549,
     "bank_id": 275,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1550,
+    "state_id": 1550,
     "bank_id": 275,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1551,
+    "state_id": 1551,
     "bank_id": 276,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1552,
+    "state_id": 1552,
     "bank_id": 58,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1554,
+    "state_id": 1554,
     "bank_id": 165,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1555,
+    "state_id": 1555,
     "bank_id": 166,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1556,
+    "state_id": 1556,
     "bank_id": 180,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1557,
+    "state_id": 1557,
     "bank_id": 71,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1558,
+    "state_id": 1558,
     "bank_id": 80,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1559,
+    "state_id": 1559,
     "bank_id": 265,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1561,
+    "state_id": 1561,
     "bank_id": 71,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1562,
+    "state_id": 1562,
     "bank_id": 73,
     "state_name": "HIMACHAL PRADESH"
   },
   {
-    "id": 1563,
+    "state_id": 1563,
     "bank_id": 75,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1564,
+    "state_id": 1564,
     "bank_id": 75,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1566,
+    "state_id": 1566,
     "bank_id": 265,
     "state_name": "GOA"
   },
   {
-    "id": 1567,
+    "state_id": 1567,
     "bank_id": 286,
     "state_name": "DELHI"
   },
   {
-    "id": 1568,
+    "state_id": 1568,
     "bank_id": 286,
     "state_name": "GOA"
   },
   {
-    "id": 1569,
+    "state_id": 1569,
     "bank_id": 286,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1570,
+    "state_id": 1570,
     "bank_id": 286,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1571,
+    "state_id": 1571,
     "bank_id": 286,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1572,
+    "state_id": 1572,
     "bank_id": 286,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1573,
+    "state_id": 1573,
     "bank_id": 57,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1574,
+    "state_id": 1574,
     "bank_id": 57,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1575,
+    "state_id": 1575,
     "bank_id": 57,
     "state_name": "DELHI"
   },
   {
-    "id": 1576,
+    "state_id": 1576,
     "bank_id": 57,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1577,
+    "state_id": 1577,
     "bank_id": 63,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1578,
+    "state_id": 1578,
     "bank_id": 197,
     "state_name": "ASSAM"
   },
   {
-    "id": 1579,
+    "state_id": 1579,
     "bank_id": 287,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1580,
+    "state_id": 1580,
     "bank_id": 286,
     "state_name": "HARYANA"
   },
   {
-    "id": 1581,
+    "state_id": 1581,
     "bank_id": 180,
     "state_name": "DELHI"
   },
   {
-    "id": 1582,
+    "state_id": 1582,
     "bank_id": 22,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1583,
+    "state_id": 1583,
     "bank_id": 28,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1584,
+    "state_id": 1584,
     "bank_id": 58,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1585,
+    "state_id": 1585,
     "bank_id": 88,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1586,
+    "state_id": 1586,
     "bank_id": 165,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1587,
+    "state_id": 1587,
     "bank_id": 177,
     "state_name": "ASSAM"
   },
   {
-    "id": 1588,
+    "state_id": 1588,
     "bank_id": 177,
     "state_name": "DELHI"
   },
   {
-    "id": 1589,
+    "state_id": 1589,
     "bank_id": 177,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1590,
+    "state_id": 1590,
     "bank_id": 180,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1591,
+    "state_id": 1591,
     "bank_id": 180,
     "state_name": "HARYANA"
   },
   {
-    "id": 1592,
+    "state_id": 1592,
     "bank_id": 180,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1593,
+    "state_id": 1593,
     "bank_id": 288,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1594,
+    "state_id": 1594,
     "bank_id": 213,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1595,
+    "state_id": 1595,
     "bank_id": 242,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1596,
+    "state_id": 1596,
     "bank_id": 261,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1597,
+    "state_id": 1597,
     "bank_id": 286,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1598,
+    "state_id": 1598,
     "bank_id": 19,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1599,
+    "state_id": 1599,
     "bank_id": 41,
     "state_name": "JAMMU AND KASHMIR"
   },
   {
-    "id": 1600,
+    "state_id": 1600,
     "bank_id": 47,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1601,
+    "state_id": 1601,
     "bank_id": 47,
     "state_name": "BIHAR"
   },
   {
-    "id": 1602,
+    "state_id": 1602,
     "bank_id": 47,
     "state_name": "GOA"
   },
   {
-    "id": 1603,
+    "state_id": 1603,
     "bank_id": 57,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1604,
+    "state_id": 1604,
     "bank_id": 57,
     "state_name": "PONDICHERRY"
   },
   {
-    "id": 1605,
+    "state_id": 1605,
     "bank_id": 57,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1606,
+    "state_id": 1606,
     "bank_id": 57,
     "state_name": "KERALA"
   },
   {
-    "id": 1607,
+    "state_id": 1607,
     "bank_id": 57,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1608,
+    "state_id": 1608,
     "bank_id": 57,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1609,
+    "state_id": 1609,
     "bank_id": 57,
     "state_name": "ODISHA"
   },
   {
-    "id": 1610,
+    "state_id": 1610,
     "bank_id": 57,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1611,
+    "state_id": 1611,
     "bank_id": 57,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1612,
+    "state_id": 1612,
     "bank_id": 57,
     "state_name": "HARYANA"
   },
   {
-    "id": 1613,
+    "state_id": 1613,
     "bank_id": 57,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1614,
+    "state_id": 1614,
     "bank_id": 57,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1615,
+    "state_id": 1615,
     "bank_id": 66,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1616,
+    "state_id": 1616,
     "bank_id": 70,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1617,
+    "state_id": 1617,
     "bank_id": 71,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1618,
+    "state_id": 1618,
     "bank_id": 71,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1619,
+    "state_id": 1619,
     "bank_id": 73,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1620,
+    "state_id": 1620,
     "bank_id": 73,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1621,
+    "state_id": 1621,
     "bank_id": 75,
     "state_name": "ASSAM"
   },
   {
-    "id": 1622,
+    "state_id": 1622,
     "bank_id": 76,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1623,
+    "state_id": 1623,
     "bank_id": 84,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1624,
+    "state_id": 1624,
     "bank_id": 84,
     "state_name": "MADHYA PRADESH"
   },
   {
-    "id": 1625,
+    "state_id": 1625,
     "bank_id": 88,
     "state_name": "DADRA AND NAGAR HAVELI"
   },
   {
-    "id": 1626,
+    "state_id": 1626,
     "bank_id": 93,
     "state_name": "Andaman and Nicobar"
   },
   {
-    "id": 1627,
+    "state_id": 1627,
     "bank_id": 101,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1628,
+    "state_id": 1628,
     "bank_id": 109,
     "state_name": "DELHI"
   },
   {
-    "id": 1629,
+    "state_id": 1629,
     "bank_id": 115,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1630,
+    "state_id": 1630,
     "bank_id": 118,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1631,
+    "state_id": 1631,
     "bank_id": 118,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1632,
+    "state_id": 1632,
     "bank_id": 156,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1633,
+    "state_id": 1633,
     "bank_id": 165,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1634,
+    "state_id": 1634,
     "bank_id": 166,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1635,
+    "state_id": 1635,
     "bank_id": 166,
     "state_name": "HARYANA"
   },
   {
-    "id": 1636,
+    "state_id": 1636,
     "bank_id": 166,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1637,
+    "state_id": 1637,
     "bank_id": 172,
     "state_name": "HARYANA"
   },
   {
-    "id": 1638,
+    "state_id": 1638,
     "bank_id": 176,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1639,
+    "state_id": 1639,
     "bank_id": 180,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1640,
+    "state_id": 1640,
     "bank_id": 180,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1641,
+    "state_id": 1641,
     "bank_id": 180,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1642,
+    "state_id": 1642,
     "bank_id": 192,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1643,
+    "state_id": 1643,
     "bank_id": 198,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1644,
+    "state_id": 1644,
     "bank_id": 237,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1645,
+    "state_id": 1645,
     "bank_id": 262,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1646,
+    "state_id": 1646,
     "bank_id": 265,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1647,
+    "state_id": 1647,
     "bank_id": 274,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1648,
+    "state_id": 1648,
     "bank_id": 286,
     "state_name": "KERALA"
   },
   {
-    "id": 1649,
+    "state_id": 1649,
     "bank_id": 286,
     "state_name": "TAMIL NADU"
   },
   {
-    "id": 1650,
+    "state_id": 1650,
     "bank_id": 286,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1651,
+    "state_id": 1651,
     "bank_id": 286,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1652,
+    "state_id": 1652,
     "bank_id": 286,
     "state_name": "CHATTISGARH"
   },
   {
-    "id": 1653,
+    "state_id": 1653,
     "bank_id": 286,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1654,
+    "state_id": 1654,
     "bank_id": 286,
     "state_name": "PUNJAB"
   },
   {
-    "id": 1655,
+    "state_id": 1655,
     "bank_id": 286,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1656,
+    "state_id": 1656,
     "bank_id": 286,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1657,
+    "state_id": 1657,
     "bank_id": 286,
     "state_name": "ODISHA"
   },
   {
-    "id": 1658,
+    "state_id": 1658,
     "bank_id": 286,
     "state_name": "BIHAR"
   },
   {
-    "id": 1659,
+    "state_id": 1659,
     "bank_id": 286,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1660,
+    "state_id": 1660,
     "bank_id": 287,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1661,
+    "state_id": 1661,
     "bank_id": 289,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1662,
+    "state_id": 1662,
     "bank_id": 289,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1663,
+    "state_id": 1663,
     "bank_id": 290,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1664,
+    "state_id": 1664,
     "bank_id": 290,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1665,
+    "state_id": 1665,
     "bank_id": 290,
     "state_name": "KERALA"
   },
   {
-    "id": 1666,
+    "state_id": 1666,
     "bank_id": 290,
     "state_name": "DELHI"
   },
   {
-    "id": 1667,
+    "state_id": 1667,
     "bank_id": 291,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1668,
+    "state_id": 1668,
     "bank_id": 292,
     "state_name": "UTTAR PRADESH"
   },
   {
-    "id": 1669,
+    "state_id": 1669,
     "bank_id": 293,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1670,
+    "state_id": 1670,
     "bank_id": 294,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1671,
+    "state_id": 1671,
     "bank_id": 295,
     "state_name": "RAJASTHAN"
   },
   {
-    "id": 1672,
+    "state_id": 1672,
     "bank_id": 296,
     "state_name": "ASSAM"
   },
   {
-    "id": 1673,
+    "state_id": 1673,
     "bank_id": 296,
     "state_name": "WEST BENGAL"
   },
   {
-    "id": 1674,
+    "state_id": 1674,
     "bank_id": 296,
     "state_name": "TRIPURA"
   },
   {
-    "id": 1675,
+    "state_id": 1675,
     "bank_id": 296,
     "state_name": "SIKKIM"
   },
   {
-    "id": 1676,
+    "state_id": 1676,
     "bank_id": 296,
     "state_name": "MEGHALAYA"
   },
   {
-    "id": 1677,
+    "state_id": 1677,
     "bank_id": 296,
     "state_name": "ARUNACHAL PRADESH"
   },
   {
-    "id": 1678,
+    "state_id": 1678,
     "bank_id": 296,
     "state_name": "NAGALAND"
   },
   {
-    "id": 1679,
+    "state_id": 1679,
     "bank_id": 296,
     "state_name": "MANIPUR"
   },
   {
-    "id": 1680,
+    "state_id": 1680,
     "bank_id": 296,
     "state_name": "MIZORAM"
   },
   {
-    "id": 1681,
+    "state_id": 1681,
     "bank_id": 296,
     "state_name": "HARYANA"
   },
   {
-    "id": 1682,
+    "state_id": 1682,
     "bank_id": 296,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1683,
+    "state_id": 1683,
     "bank_id": 297,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1684,
+    "state_id": 1684,
     "bank_id": 298,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1685,
+    "state_id": 1685,
     "bank_id": 299,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1686,
+    "state_id": 1686,
     "bank_id": 300,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1687,
+    "state_id": 1687,
     "bank_id": 301,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1688,
+    "state_id": 1688,
     "bank_id": 301,
     "state_name": "ANDHRA PRADESH"
   },
   {
-    "id": 1689,
+    "state_id": 1689,
     "bank_id": 302,
     "state_name": "KERALA"
   },
   {
-    "id": 1690,
+    "state_id": 1690,
     "bank_id": 303,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1691,
+    "state_id": 1691,
     "bank_id": 304,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1692,
+    "state_id": 1692,
     "bank_id": 305,
     "state_name": "UTTARAKHAND"
   },
   {
-    "id": 1693,
+    "state_id": 1693,
     "bank_id": 306,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1694,
+    "state_id": 1694,
     "bank_id": 307,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1695,
+    "state_id": 1695,
     "bank_id": 286,
     "state_name": "CHANDIGARH"
   },
   {
-    "id": 1696,
+    "state_id": 1696,
     "bank_id": 113,
     "state_name": "GUJARAT"
   },
   {
-    "id": 1697,
+    "state_id": 1697,
     "bank_id": 26,
     "state_name": "Ladakh"
   },
   {
-    "id": 1698,
+    "state_id": 1698,
     "bank_id": 22,
     "state_name": "Ladakh"
   },
   {
-    "id": 1699,
+    "state_id": 1699,
     "bank_id": 29,
     "state_name": "Ladakh"
   },
   {
-    "id": 1700,
+    "state_id": 1700,
     "bank_id": 42,
     "state_name": "Ladakh"
   },
   {
-    "id": 1701,
+    "state_id": 1701,
     "bank_id": 40,
     "state_name": "Ladakh"
   },
   {
-    "id": 1702,
+    "state_id": 1702,
     "bank_id": 81,
     "state_name": "Ladakh"
   },
   {
-    "id": 1703,
+    "state_id": 1703,
     "bank_id": 87,
     "state_name": "Ladakh"
   },
   {
-    "id": 1704,
+    "state_id": 1704,
     "bank_id": 86,
     "state_name": "Ladakh"
   },
   {
-    "id": 1705,
+    "state_id": 1705,
     "bank_id": 93,
     "state_name": "Ladakh"
   },
   {
-    "id": 1706,
+    "state_id": 1706,
     "bank_id": 100,
     "state_name": "Ladakh"
   },
   {
-    "id": 1707,
+    "state_id": 1707,
     "bank_id": 30,
     "state_name": "Ladakh"
   },
   {
-    "id": 1708,
+    "state_id": 1708,
     "bank_id": 154,
     "state_name": "Ladakh"
   },
   {
-    "id": 1709,
+    "state_id": 1709,
     "bank_id": 156,
     "state_name": "Ladakh"
   },
   {
-    "id": 1710,
+    "state_id": 1710,
     "bank_id": 190,
     "state_name": "Ladakh"
   },
   {
-    "id": 1711,
+    "state_id": 1711,
     "bank_id": 262,
     "state_name": "Ladakh"
   },
   {
-    "id": 1712,
+    "state_id": 1712,
     "bank_id": 21,
     "state_name": "Ladakh"
   },
   {
-    "id": 1713,
+    "state_id": 1713,
     "bank_id": 275,
     "state_name": "Ladakh"
   },
   {
-    "id": 1714,
+    "state_id": 1714,
     "bank_id": 290,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1715,
+    "state_id": 1715,
     "bank_id": 45,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1716,
+    "state_id": 1716,
     "bank_id": 209,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1717,
+    "state_id": 1717,
     "bank_id": 84,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1718,
+    "state_id": 1718,
     "bank_id": 100,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1719,
+    "state_id": 1719,
     "bank_id": 231,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1720,
+    "state_id": 1720,
     "bank_id": 189,
     "state_name": "TELANGANA"
   },
   {
-    "id": 1721,
+    "state_id": 1721,
     "bank_id": 116,
     "state_name": "KARNATAKA"
   },
   {
-    "id": 1722,
+    "state_id": 1722,
     "bank_id": 53,
     "state_name": "JHARKHAND"
   },
   {
-    "id": 1723,
+    "state_id": 1723,
     "bank_id": 30,
     "state_name": "LAKSHADWEEP"
   },
   {
-    "id": 1724,
+    "state_id": 1724,
     "bank_id": 116,
     "state_name": "MAHARASHTRA"
   },
   {
-    "id": 1725,
+    "state_id": 1725,
     "bank_id": 53,
     "state_name": "BIHAR"
   }
