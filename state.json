@@ -1,0 +1,12 @@
+[
+  { "state_id": 101, "bank_id": 1, "state_name": "MAHARASHTRA", "state_code": "MH" },
+  { "state_id": 102, "bank_id": 1, "state_name": "KARNATAKA",   "state_code": "KA" },
+  { "state_id": 103, "bank_id": 1, "state_name": "DELHI",       "state_code": "DL" },
+  { "state_id": 104, "bank_id": 1, "state_name": "TAMIL NADU",  "state_code": "TN" },
+  { "state_id": 105, "bank_id": 2, "state_name": "MAHARASHTRA", "state_code": "MH" },
+  { "state_id": 106, "bank_id": 2, "state_name": "KARNATAKA",   "state_code": "KA" },
+  { "state_id": 107, "bank_id": 2, "state_name": "DELHI",       "state_code": "DL" },
+  { "state_id": 108, "bank_id": 3, "state_name": "MAHARASHTRA", "state_code": "MH" },
+  { "state_id": 109, "bank_id": 3, "state_name": "TELANGANA",   "state_code": "TS" },
+  { "state_id": 110, "bank_id": 4, "state_name": "GUJARAT",     "state_code": "GJ" }
+]

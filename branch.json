@@ -1,0 +1,57 @@
+[
+  {
+    "ifsc": "SBIN0001234",
+    "branch_name": "Andheri East",
+    "district_id": 1001,
+    "address": "123 Main Road, Andheri East, Mumbai - 400069",
+    "micr": "400002001",
+    "contact": "022-12345678",
+    "city": "ANDHERI EAST",
+    "branch_code": "01234",
+    "is_active": true
+  },
+  {
+    "ifsc": "SBIN0005678",
+    "branch_name": "Shivaji Nagar",
+    "district_id": 1002,
+    "address": "45 FC Road, Shivaji Nagar, Pune - 411005",
+    "micr": "411005002",
+    "contact": "020-87654321",
+    "city": "SHIVAJI NAGAR",
+    "branch_code": "05678",
+    "is_active": true
+  },
+  {
+    "ifsc": "SBIN0009012",
+    "branch_name": "Nagpur Main",
+    "district_id": 1003,
+    "address": "12 Central Avenue, Nagpur - 440001",
+    "micr": "440001003",
+    "contact": "0712-2345678",
+    "city": "NAGPUR",
+    "branch_code": "09012",
+    "is_active": true
+  },
+  {
+    "ifsc": "HDFC0001111",
+    "branch_name": "Bandra West",
+    "district_id": 1001,
+    "address": "78 Linking Road, Bandra West, Mumbai - 400050",
+    "micr": "400240001",
+    "contact": "022-98765432",
+    "city": "BANDRA",
+    "branch_code": "01111",
+    "is_active": true
+  },
+  {
+    "ifsc": "ICICI0002222",
+    "branch_name": "Hyderabad Main",
+    "district_id": 1004,
+    "address": "56 Banjara Hills, Hyderabad - 500034",
+    "micr": "500229002",
+    "contact": "040-23456789",
+    "city": "BANJARA HILLS",
+    "branch_code": "02222",
+    "is_active": true
+  }
+]

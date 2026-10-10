@@ -1,0 +1,16 @@
+[
+  { "district_id": 201, "state_id": 101, "district_name": "MUMBAI" },
+  { "district_id": 202, "state_id": 101, "district_name": "PUNE" },
+  { "district_id": 203, "state_id": 101, "district_name": "NAGPUR" },
+  { "district_id": 204, "state_id": 102, "district_name": "BANGALORE" },
+  { "district_id": 205, "state_id": 102, "district_name": "MYSORE" },
+  { "district_id": 206, "state_id": 103, "district_name": "NEW DELHI" },
+  { "district_id": 207, "state_id": 104, "district_name": "CHENNAI" },
+  { "district_id": 208, "state_id": 105, "district_name": "MUMBAI" },
+  { "district_id": 209, "state_id": 105, "district_name": "PUNE" },
+  { "district_id": 210, "state_id": 106, "district_name": "BANGALORE" },
+  { "district_id": 211, "state_id": 107, "district_name": "NEW DELHI" },
+  { "district_id": 212, "state_id": 108, "district_name": "MUMBAI" },
+  { "district_id": 213, "state_id": 109, "district_name": "HYDERABAD" },
+  { "district_id": 214, "state_id": 110, "district_name": "AHMEDABAD" }
+]
