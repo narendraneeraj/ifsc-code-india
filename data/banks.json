@@ -6,7 +6,7 @@
     "code": "ABBL",
     "logo_url": "ab_bank.png",
     "website": "https://abbl.com/",
-    "contact_number": "9653364967, 77389593",
+    "contact_number": 9653364967,
     "email": "amamun@abbl.com",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
@@ -21,7 +21,7 @@
     "bankname_rbi": "ABHYUDAYA COOPERATIVE BANK LIMITED",
     "code": "ABHY",
     "logo_url": "abhyudaya_cooperative_bank.png",
-    "website": "https://www.abhyudayabank.co.in/",
+    "website": "https://abhyudaya.bank.in/",
     "contact_number": "022-25260172",
     "email": "neftcell@abhyudayabank.net",
     "bank_type": "Cooperative Bank",
@@ -53,7 +53,7 @@
     "bankname_rbi": "AHMEDNAGAR MERCHANTS COOP BANK LTD",
     "code": "AMDN",
     "logo_url": "ahmednagar_merchants_coop_bank.png",
-    "website": "https://www.amcbank.in/",
+    "website": "https://amc.bank.in/",
     "contact_number": 7721082223,
     "email": "info@amcbank.in",
     "bank_type": "Cooperative Bank",
@@ -61,7 +61,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "bankname_rbi": "AIRTEL PAYMENTS BANK LIMITED",
     "code": "AIRP",
     "logo_url": "airtel_payment.png",
-    "website": "https://www.airtel.in/bank/",
+    "website": "https://www.airtelpayments.bank.in/",
     "contact_number": "0124-4247797",
     "email": "nefthelpdesk@airtelbank.com",
     "bank_type": "Payments Bank",
@@ -77,7 +77,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 7,
@@ -85,15 +85,15 @@
     "bankname_rbi": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
     "code": "AKJB",
     "logo_url": "akola_janata_commercial_co_op_bank.png",
-    "website": "https://www.akolajanatabank.com/",
-    "contact_number": "0724-2430012\n",
+    "website": "https://akolajanata.bank.in/",
+    "contact_number": "0724-2430012",
     "email": "rtgsneftops@akolajanatabank.com\n",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@
     "bankname_rbi": "ALMORA URBAN COOPERATIVE BANK LIMITED",
     "code": "AUCB",
     "logo_url": "almora_urban_co_op_bank.png",
-    "website": "https://almoraurbanbank.com/",
+    "website": "https://almoraurban.bank.in/",
     "contact_number": "05962-231947",
     "email": "rtgs@almoraurbank.com",
     "bank_type": "Cooperative Bank",
@@ -109,7 +109,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 9,
@@ -117,7 +117,7 @@
     "bankname_rbi": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
     "code": "AJSX",
     "logo_url": "ambarnath_jaihind_co_op_bank.png",
-    "website": "https://jaihindbank.com/",
+    "website": "https://ajhc.bank.in/",
     "contact_number": 2512605068,
     "email": "rtgs@jaihindbank.com; jaihindbank@gmail.com",
     "bank_type": "Cooperative Bank",
@@ -125,7 +125,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 10,
@@ -133,7 +133,7 @@
     "bankname_rbi": "American Express Banking Corporation",
     "code": "AMEX",
     "logo_url": "american_express.png",
-    "website": "https://www.americanexpress.com/en-in/",
+    "website": "https://americanexpress.bank.in/",
     "contact_number": "1800-419-2122",
     "email": "Manager-Customerservicesindia@aexp.com",
     "bank_type": "Foreign Bank",
@@ -157,7 +157,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 13,
@@ -165,7 +165,7 @@
     "bankname_rbi": "Andhra Pragathi Grameena Bank",
     "code": "APGB",
     "logo_url": "andhra_pragathi_grameena_bank.png",
-    "website": "https://www.apgb.in/",
+    "website": "https://apgb.bank.in/",
     "contact_number": 7382633823,
     "email": "rtgsneft@apgb.in",
     "bank_type": "Regional Rural Bank",
@@ -173,7 +173,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 14,
@@ -189,7 +189,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 15,
@@ -205,7 +205,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 16,
@@ -213,7 +213,7 @@
     "bankname_rbi": "ARVIND SAHAKARI BANK LTD",
     "code": "ASKX",
     "logo_url": "arvind_sahakari_bank.png",
-    "website": "https://www.arvindbank.com/",
+    "website": "https://arvindsahakari.bank.in/",
     "contact_number": "98238 92770",
     "email": "asbl_ho@arvindbank.com",
     "bank_type": "Cooperative Bank",
@@ -221,7 +221,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 17,
@@ -237,7 +237,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 18,
@@ -245,15 +245,15 @@
     "bankname_rbi": "Assam Gramin Vikash Bank",
     "code": "AGVX",
     "logo_url": "assam_gramin_vikash_bank.png",
-    "website": "https://www.agvbank.co.in/",
-    "contact_number": "9957183638, 99571836",
+    "website": "https://agvb.bank.in/",
+    "contact_number": 9957183638,
     "email": "agvbank@yahoo.co.in\nhoagb@agvb.co.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 19,
@@ -261,7 +261,7 @@
     "bankname_rbi": "Au Small Finance Bank Limited",
     "code": "AUBL",
     "logo_url": "au_small_finance_bank.png",
-    "website": "https://www.aubank.in",
+    "website": "https://www.au.bank.in/",
     "contact_number": 9116181332,
     "email": "rtgsneft@aubank.in; epay@aubank.in",
     "bank_type": "Small Finance Bank",
@@ -285,7 +285,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 21,
@@ -293,7 +293,7 @@
     "bankname_rbi": "Axis Bank Ltd.",
     "code": "UTIB",
     "logo_url": "axis_bank.png",
-    "website": "www.axisbank.com",
+    "website": "https://axis.bank.in/",
     "contact_number": "022-24253491",
     "email": "cfc@axisbank.com",
     "bank_type": "Private Sector Bank",
@@ -309,7 +309,7 @@
     "bankname_rbi": "BANDHAN BANK LIMITED",
     "code": "BDBL",
     "logo_url": "bandhan_bank.png",
-    "website": "https://www.bandhanbank.com",
+    "website": "https://www.bandhan.bank.in/",
     "contact_number": "033-40456456",
     "email": "rtgsneft.desk@bandhanbank.com",
     "bank_type": "Private Sector Bank",
@@ -333,7 +333,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 24,
@@ -341,7 +341,7 @@
     "bankname_rbi": "Bank of America",
     "code": "BOFA",
     "logo_url": "bank_of_america.png",
-    "website": "www.bankofamerica.com",
+    "website": "http://bofa-india.com/",
     "contact_number": "044-42904526",
     "email": "dg.payments_chennai@bofa.com",
     "bank_type": "Foreign Bank",
@@ -349,7 +349,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 25,
@@ -357,7 +357,7 @@
     "bankname_rbi": "Bank of Bahrain & Kuwait BSC",
     "code": "BBKM",
     "logo_url": "bank_bahrain_kuwait.png",
-    "website": "https://www.bbkindia.com",
+    "website": "https://bbkindia.bank.in/",
     "contact_number": "022-22880038",
     "email": "csdmumbai@bbkindia.com",
     "bank_type": "Foreign Bank",
@@ -365,7 +365,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 26,
@@ -373,7 +373,7 @@
     "bankname_rbi": "Bank of Baroda",
     "code": "BARB",
     "logo_url": "bank_of_baroa.png",
-    "website": "www.bankofbaroda.com",
+    "website": "https://bankofbaroda.bank.in/",
     "contact_number": "0265-2316160",
     "email": "neft.mumbai@bankofbaroda.com",
     "bank_type": "Public Sector Bank",
@@ -389,7 +389,7 @@
     "bankname_rbi": "Bank of Ceylon",
     "code": "BCEY",
     "logo_url": "bank_of_ceylon.png",
-    "website": "www.boc.lk",
+    "website": "https://boc.bank.in/",
     "contact_number": "044-39519907",
     "email": "bocops@bankofceylon.in",
     "bank_type": "Foreign Bank",
@@ -397,7 +397,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 28,
@@ -413,7 +413,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 29,
@@ -421,7 +421,7 @@
     "bankname_rbi": "Bank of India",
     "code": "BKID",
     "logo_url": "bank_of_india.png",
-    "website": "www.bankofindia.com",
+    "website": "https://bankofindia.bank.in/",
     "contact_number": "022-22820749",
     "email": "boi.neft@bankofindia.co.in",
     "bank_type": "Public Sector Bank",
@@ -437,7 +437,7 @@
     "bankname_rbi": "Bank of Maharashtra",
     "code": "MAHB",
     "logo_url": "bank_of_maharashtra.png",
-    "website": "www.bankofmaharashtra.in",
+    "website": "https://bankofmaharashtra.bank.in/",
     "contact_number": "022-22780324",
     "email": "bomneft@mahabank.co.in",
     "bank_type": "Public Sector Bank",
@@ -445,7 +445,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 31,
@@ -461,7 +461,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 32,
@@ -469,7 +469,7 @@
     "bankname_rbi": "Barclays Bank Plc.",
     "code": "BARC",
     "logo_url": "barclays_bank_plc.png",
-    "website": "www.barclays.in",
+    "website": "https://barclays.bank.in/",
     "contact_number": "022-61754261",
     "email": "grcbpayment.ops@barclays.com",
     "bank_type": "Foreign Bank",
@@ -477,7 +477,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 33,
@@ -486,14 +486,14 @@
     "code": "BGGX",
     "logo_url": "baroda_gujarat_gramin_bank.png",
     "website": "https://www.bggb.in/",
-    "contact_number": "0265-2361260, 0265-2",
+    "contact_number": "0265-2361260",
     "email": "ho@barodagujaratrrb.co.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 34,
@@ -509,7 +509,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 35,
@@ -517,7 +517,7 @@
     "bankname_rbi": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
     "code": "BACB",
     "logo_url": "bassein_catholic_co_op_bank.png",
-    "website": "https://www.bccb.co.in",
+    "website": "https://bccb.bank.in/",
     "contact_number": "0250-2322449",
     "email": "vbvedp@bccb.co.in",
     "bank_type": "Cooperative Bank",
@@ -525,7 +525,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 36,
@@ -533,7 +533,7 @@
     "bankname_rbi": "BHAGINI NIVEDITA SAHAKARI BANK LTD PUNE",
     "code": "BNSB",
     "logo_url": "bhagini_nivedita_sahakari_bank_pune.png",
-    "website": "https://bhagininiveditabank.com/",
+    "website": "https://bhagininivedita.bank.in/",
     "contact_number": 9822034166,
     "email": "neft_rtgs@bhagininiveditabank.com; ho@bhagininiveditabank.com",
     "bank_type": "Cooperative Bank",
@@ -541,7 +541,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 37,
@@ -557,7 +557,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 38,
@@ -565,7 +565,7 @@
     "bankname_rbi": "B N P PARIBAS",
     "code": "BNPA",
     "logo_url": "bnp_paribas.png",
-    "website": "https://www.bnpparibas.co.in",
+    "website": "https://bnpparibas.bank.in/",
     "contact_number": "022-61964645",
     "email": "cms.payments@asia.bnpparibas.com",
     "bank_type": "Foreign Bank",
@@ -573,7 +573,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 39,
@@ -581,7 +581,7 @@
     "bankname_rbi": "BOMBAY MERCANTILE COOPERATIVE BANK LTD",
     "code": "BMCB",
     "logo_url": "bombay_mercantile_cooperative_bank.png",
-    "website": "https://www.bmcbankltd.com/",
+    "website": "https://bmcb.bank.in/",
     "contact_number": "1800 220 854",
     "email": "hobr@bmcbank.co.in",
     "bank_type": "Cooperative Bank",
@@ -589,7 +589,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
     "bankname_rbi": "Canara Bank",
     "code": "CNRB",
     "logo_url": "canara_bank.png",
-    "website": "www.canarabank.com",
+    "website": "https://www.canarabank.bank.in/",
     "contact_number": "022-22690581",
     "email": "neftcb0136@canarabank.com; cmcsmcity@canarabank.com; managercsmcity@canarabank.com",
     "bank_type": "Public Sector Bank",
@@ -613,7 +613,7 @@
     "bankname_rbi": "Capital Small Finance Bank Limited",
     "code": "CLBL",
     "logo_url": "capital_small_finance_bank.png",
-    "website": "https://www.capitalbank.co.in",
+    "website": "https://www.capital.bank.in/",
     "contact_number": "0181-5050759",
     "email": "mail@capitalbank.co.in",
     "bank_type": "Small Finance Bank",
@@ -621,7 +621,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 42,
@@ -629,7 +629,7 @@
     "bankname_rbi": "Central Bank of India",
     "code": "CBIN",
     "logo_url": "central_bank_india.png",
-    "website": "www.centralbankofindia.co.in",
+    "website": "https://centralbank.bank.in/",
     "contact_number": "022-22637966",
     "email": "cbineftcfc@centralbank.co.in",
     "bank_type": "Public Sector Bank",
@@ -637,7 +637,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 43,
@@ -646,14 +646,14 @@
     "code": "CGGX",
     "logo_url": "chaitanya_godavari_grameena_bank.png",
     "website": "https://cggb.in/",
-    "contact_number": "1800 425 6708",
+    "contact_number": 18004256708,
     "email": "complaints@cggb.co.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 44,
@@ -662,14 +662,14 @@
     "code": "CGBX",
     "logo_url": "chhattisgarh_rajya_gramin.png",
     "website": "https://www.cgbank.in/",
-    "contact_number": "1800 233 2300",
+    "contact_number": 18002332300,
     "email": "care@cgbank.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 45,
@@ -693,7 +693,7 @@
     "bankname_rbi": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
     "code": "CCBL",
     "logo_url": "citizen_credit_co_op_bank.png",
-    "website": "https://citizencreditbank.com/mybank/",
+    "website": "https://citizencredit.bank.in/",
     "contact_number": "022-22658969",
     "email": "neft.rtgs@citizencreditbank.com; cm.cpd@citizencreditbank.com; agm3@citizencreditbank.com;",
     "bank_type": "Cooperative Bank",
@@ -701,7 +701,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 47,
@@ -709,7 +709,7 @@
     "bankname_rbi": "CITY UNION BANK LIMITED",
     "code": "CIUB",
     "logo_url": "city_union_bank.png",
-    "website": "https://cityunionbank.com/",
+    "website": "https://cityunionbank.bank.in/",
     "contact_number": "044-28297905",
     "email": "payment_system@cityunionbank.in",
     "bank_type": "Private Sector Bank",
@@ -725,15 +725,15 @@
     "bankname_rbi": "COASTAL LOCAL AREA BANK LTD",
     "code": "COAS",
     "logo_url": "coastal_local_area_bank.png",
-    "website": "https://www.coastalareabank.com/",
-    "contact_number": "0866-2494425/26",
+    "website": "https://coastal.bank.in/",
+    "contact_number": "0866-2494425",
     "email": "rtgs.neft@coastalareabank.com",
     "bank_type": "Local Area Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 49,
@@ -749,7 +749,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 51,
@@ -765,7 +765,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 52,
@@ -781,7 +781,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 53,
@@ -789,7 +789,7 @@
     "bankname_rbi": "CSB BANK LIMITED",
     "code": "STCB",
     "logo_url": "csb_bank.png",
-    "website": "https://www.csb.co.in/",
+    "website": "https://csb.bank.in/",
     "contact_number": "0484-6615504",
     "email": "rtgs@csb.co.in",
     "bank_type": "Private Sector Bank",
@@ -813,7 +813,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 55,
@@ -829,7 +829,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 56,
@@ -845,7 +845,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 57,
@@ -853,8 +853,8 @@
     "bankname_rbi": "DBS Bank India Limited",
     "code": "BKID",
     "logo_url": "dbs_bank_india.png",
-    "website": "https://www.dbs.com/in/index/default.page",
-    "contact_number": "022 ? 6833 0934",
+    "website": "https://dbs.bank.in/",
+    "contact_number": "022-68330934",
     "email": "paymentrecall@dbs.com",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
@@ -869,7 +869,7 @@
     "bankname_rbi": "DCB BANK LIMITED",
     "code": "DCBL",
     "logo_url": "dcb_bank.png",
-    "website": "https://www.dcbbank.com/",
+    "website": "https://dcb.bank.in/",
     "contact_number": "022-66187225",
     "email": "neft@dcbbank.com",
     "bank_type": "Private Sector Bank",
@@ -885,7 +885,7 @@
     "bankname_rbi": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
     "code": "DEOB",
     "logo_url": "deogiri_nagari_sahakari_bank_aurangabad.png",
-    "website": "https://deogiribank.com/",
+    "website": "https://deogiri.bank.in/",
     "contact_number": "0240-2240212",
     "email": "neftrtgs@deogiribank.com",
     "bank_type": "Cooperative Bank",
@@ -893,7 +893,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 60,
@@ -901,7 +901,7 @@
     "bankname_rbi": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
     "code": "DICG",
     "logo_url": "deposit_insurance_credit_guarantee_corporation.png",
-    "website": "www.dicgc.org.in",
+    "website": "https://www.dicgc.org.in",
     "contact_number": "022-23062680",
     "email": "dicgccsd@rbi.org.in",
     "bank_type": "Central Bank / Regulatory Body",
@@ -909,7 +909,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 61,
@@ -917,7 +917,7 @@
     "bankname_rbi": "Deutsche Bank",
     "code": "DEUT",
     "logo_url": "deutsche_bank.png",
-    "website": "https://www.deutschebank.co.in/",
+    "website": "https://deutsche.bank.in/",
     "contact_number": "022-71806411",
     "email": "sdu.india@db.com",
     "bank_type": "Foreign Bank",
@@ -925,7 +925,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 62,
@@ -933,7 +933,7 @@
     "bankname_rbi": "DEVELOPMENT BANK OF SINGAPORE",
     "code": "DBSS",
     "logo_url": "development_bank_of_singapore.png",
-    "website": "https://www.dbs.com/in/index/default.page",
+    "website": "https://dbs.bank.in/",
     "contact_number": 2266388888,
     "email": "not-available",
     "bank_type": "Foreign Bank",
@@ -941,7 +941,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 63,
@@ -949,7 +949,7 @@
     "bankname_rbi": "DHANALAKSHMI BANK",
     "code": "DLXB",
     "logo_url": "dhanlaxmi_bank.png",
-    "website": "https://www.dhanbank.com/",
+    "website": "https://www.dhan.bank.in/",
     "contact_number": "0487-6627046",
     "email": "neft@dhanbank.co.in; rtgs.dlxb@dhanbank.co.in; rtgs@dhanbank.co.in",
     "bank_type": "Private Sector Bank",
@@ -965,7 +965,7 @@
     "bankname_rbi": "DMK JAOLI BANK",
     "code": "DMKJ",
     "logo_url": "dmk_jaoli_bank.png",
-    "website": "https://www.jaolibank.in/",
+    "website": "https://dmkjaoli.bank.in/",
     "contact_number": "022-23828488",
     "email": "jsbl@vsnl.com; hoaccounts@jaolibank.in",
     "bank_type": "Cooperative Bank",
@@ -973,7 +973,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 65,
@@ -989,7 +989,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 66,
@@ -1005,7 +1005,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 67,
@@ -1021,7 +1021,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 68,
@@ -1037,7 +1037,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 69,
@@ -1045,7 +1045,7 @@
     "bankname_rbi": "EMIRATES NBD BANK P J S C",
     "code": "EBIL",
     "logo_url": "emirates_bank_nbd.png",
-    "website": "https://www.emiratesnbd.co.in/",
+    "website": "https://emiratesnbd.bank.in/",
     "contact_number": "022-61532378",
     "email": "indiahelpdesk@EmiratesNBD.com",
     "bank_type": "Foreign Bank",
@@ -1053,7 +1053,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 70,
@@ -1061,7 +1061,7 @@
     "bankname_rbi": "Equitas Small Finance Bank Limited",
     "code": "ESFB",
     "logo_url": "equitas_finance_bank.png",
-    "website": "https://www.equitasbank.com/",
+    "website": "https://equitas.bank.in/",
     "contact_number": "044-30898048",
     "email": "rtgs-cell@equitasbank.com",
     "bank_type": "Small Finance Bank",
@@ -1077,7 +1077,7 @@
     "bankname_rbi": "ESAF Small Finance Bank Limited",
     "code": "ESAF",
     "logo_url": "esaf_small_finance_bank.png",
-    "website": "https://www.esafbank.com/",
+    "website": "https://www.esaf.bank.in/",
     "contact_number": 9072604056,
     "email": "payments@esafbank.com; nitha.kannan@esafbank.com; rtgs@eximbankindia.in",
     "bank_type": "Small Finance Bank",
@@ -1101,7 +1101,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 73,
@@ -1109,26 +1109,10 @@
     "bankname_rbi": "Federal Bank Ltd.",
     "code": "FDRL",
     "logo_url": "federal_bank.png",
-    "website": "www.federalbank.co.in",
+    "website": "https://federal.bank.in/",
     "contact_number": "0484-2752051",
     "email": "neft@federalbank.co.in",
     "bank_type": "Private Sector Bank",
-    "NEFT": "YES",
-    "RTGS": "YES",
-    "IMPS": "YES",
-    "UPI": "YES",
-    "credit_card": "YES"
-  },
-  {
-    "id": 74,
-    "bank_name": "Fincare Small Finance Bank",
-    "bankname_rbi": "Fincare Small Finance Bank Limited",
-    "code": "FSFB",
-    "logo_url": "fincare_small_finance_bank.png",
-    "website": "https://fincarebank.com/",
-    "contact_number": "080-42504444",
-    "email": "cpcpayments@fincarebank.com",
-    "bank_type": "Small Finance Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
@@ -1141,7 +1125,7 @@
     "bankname_rbi": "Fino Payments Bank Limited",
     "code": "FINO",
     "logo_url": "fino_payments_banks.png",
-    "website": "https://www.finobank.com/",
+    "website": "https://fino.bank.in/",
     "contact_number": "022-71047116",
     "email": "neftrtgs.cell@finobank.com; care@finobank.com; customercare@finobank.com",
     "bank_type": "Payments Bank",
@@ -1149,7 +1133,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 76,
@@ -1165,7 +1149,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 77,
@@ -1181,7 +1165,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 78,
@@ -1189,7 +1173,7 @@
     "bankname_rbi": "G P PARSIK BANK",
     "code": "BNPA",
     "logo_url": "g_p_parsik_bank.png",
-    "website": "https://gpparsikbank.com/",
+    "website": "https://gpparsik.bank.in/",
     "contact_number": "022-25456500",
     "email": "invest@gpparsikbank.com; accounts@gpparsikbank.net",
     "bank_type": "Cooperative Bank",
@@ -1197,7 +1181,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 79,
@@ -1205,7 +1189,7 @@
     "bankname_rbi": "GS MAHANAGAR CO-OPERATIVE BANK LIMITED,MUMBAI",
     "code": "MCBL",
     "logo_url": "gs_mahanagar_co_op_bank.png",
-    "website": "https://mahanagarbank.net/",
+    "website": "https://mahanagar.bank.in/",
     "contact_number": "022-24710952",
     "email": "edpmanager@mahanagarbank.com",
     "bank_type": "Cooperative Bank",
@@ -1213,7 +1197,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 80,
@@ -1221,7 +1205,7 @@
     "bankname_rbi": "HARYANA STATE COOPERATIVE BANK",
     "code": "HSCX",
     "logo_url": "haryana_state_cooperative_bank.png",
-    "website": "https://www.harcobank.org.in/",
+    "website": "https://harco.bank.in/",
     "contact_number": "0172-2784278",
     "email": "harco17@gmail.com; neft@harcobank.org.in; rtgs@harcobank.org.in",
     "bank_type": "Cooperative Bank",
@@ -1229,7 +1213,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 81,
@@ -1237,7 +1221,7 @@
     "bankname_rbi": "HDFC Bank Ltd",
     "code": "HDFC",
     "logo_url": "hdfc_bank.png",
-    "website": "https://www.hdfc.bank.in/",
+    "website": "https://hdfc.bank.in/",
     "contact_number": "022-30752044",
     "email": "neftoutward@hdfcbank.com; neftinward@hdfcbank.com",
     "bank_type": "Private Sector Bank",
@@ -1253,7 +1237,7 @@
     "bankname_rbi": "Himachal Pradesh Gramin Bank",
     "code": "HMBX",
     "logo_url": "himachal_pradesh_gramin_bank.png",
-    "website": "https://www.hpgb.in/",
+    "website": "https://hpgb.bank.in/",
     "contact_number": "1800-180-7777",
     "email": "contacthpgb@hpgbank.co.in",
     "bank_type": "Regional Rural Bank",
@@ -1261,7 +1245,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 83,
@@ -1269,7 +1253,7 @@
     "bankname_rbi": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
     "code": "HPSX",
     "logo_url": "himachal_pradesh_state_cooperative_bank.png",
-    "website": "https://hpscb.com/",
+    "website": "https://hpscb.bank.in/",
     "contact_number": "0177-2659641",
     "email": "rtgs.hpsc@hpscb.com",
     "bank_type": "Cooperative Bank",
@@ -1277,7 +1261,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 84,
@@ -1285,7 +1269,7 @@
     "bankname_rbi": "HSBC BANK",
     "code": "HSBC",
     "logo_url": "hsbc_bank.png",
-    "website": "https://www.hsbc.co.in/",
+    "website": "https://hsbc.bank.in/",
     "contact_number": "022-45053307",
     "email": "neftpayments@hsbc.co.in",
     "bank_type": "Foreign Bank",
@@ -1301,7 +1285,7 @@
     "bankname_rbi": "Hutatma Sahakari Bank Ltd",
     "code": "HUSB",
     "logo_url": "hutatma_sahakari_bank.png",
-    "website": "https://www.hutatmabank.com/",
+    "website": "https://hutatma.bank.in/",
     "contact_number": 18005328181,
     "email": "media.hsbl@gmail.com",
     "bank_type": "Cooperative Bank",
@@ -1309,7 +1293,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 86,
@@ -1317,7 +1301,7 @@
     "bankname_rbi": "ICICI BANK LIMITED",
     "code": "ICIC",
     "logo_url": "icici_bank.png",
-    "website": "https://www.icicibank.com/",
+    "website": "https://icici.bank.in/",
     "contact_number": "022-33667777",
     "email": "neft.query@icicibank.com",
     "bank_type": "Private Sector Bank",
@@ -1333,7 +1317,7 @@
     "bankname_rbi": "IDBI Bank Ltd.",
     "code": "DCBL",
     "logo_url": "idbi_bank.png",
-    "website": "www.idbi.com",
+    "website": "https://www.idbi.bank.in/",
     "contact_number": 2266552776,
     "email": "etpc@idbi.co.in; rtgsneftops@idbi.co.in",
     "bank_type": "Private Sector Bank",
@@ -1349,7 +1333,7 @@
     "bankname_rbi": "IDFC FIRST BANK LTD",
     "code": "IDFB",
     "logo_url": "idfc_first_bank.png",
-    "website": "https://www.idfcfirstbank.com/",
+    "website": "https://idfcfirst.bank.in/",
     "contact_number": "22-49850059",
     "email": "cfc@idfcfirstbank.com; neftcell@idfcfirstbank.com",
     "bank_type": "Private Sector Bank",
@@ -1373,7 +1357,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 90,
@@ -1381,7 +1365,7 @@
     "bankname_rbi": "INDIA POST PAYMENT BANK",
     "code": "IPOS",
     "logo_url": "india_post_payment_bank.png",
-    "website": "https://www.ippbonline.com/",
+    "website": "https://ippbonline.bank.in/",
     "contact_number": "011-23815485",
     "email": "agm_chiefdealer@ippbonline.in; rtgs.cfc@ippbonline.in",
     "bank_type": "Payments Bank",
@@ -1389,7 +1373,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 91,
@@ -1397,7 +1381,7 @@
     "bankname_rbi": "Indian Bank",
     "code": "IDIB",
     "logo_url": "indian_bnak.png",
-    "website": "www.indianbank.in",
+    "website": "https://indianbank.bank.in/",
     "contact_number": "044-28134163",
     "email": "rtgscell@indianbank.co.in; rtgs@indianbank.com",
     "bank_type": "Public Sector Bank",
@@ -1413,7 +1397,7 @@
     "bankname_rbi": "Indian Overseas Bank",
     "code": "IOBA",
     "logo_url": "indian_overseas_bank.png",
-    "website": "www.iob.com",
+    "website": "https://www.iob.bank.in/",
     "contact_number": "044-28584896",
     "email": "rtgscell@iobnet.co.in",
     "bank_type": "Public Sector Bank",
@@ -1429,7 +1413,7 @@
     "bankname_rbi": "INDUSIND BANK",
     "code": "INDB",
     "logo_url": "indusind_bank.png",
-    "website": "www.indusind.com",
+    "website": "https://indusind.bank.in/",
     "contact_number": "022-42271639",
     "email": "neft@indusind.com",
     "bank_type": "Private Sector Bank",
@@ -1453,7 +1437,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 95,
@@ -1469,7 +1453,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 96,
@@ -1485,7 +1469,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 97,
@@ -1493,8 +1477,8 @@
     "bankname_rbi": "J&K Grameen Bank",
     "code": "XJKG",
     "logo_url": "jk_grameen_bank.png",
-    "website": "https://www.jkgb.in/",
-    "contact_number": "7051510170 , 7051510",
+    "website": "https://jkgb.bank.in/",
+    "contact_number": 7051510170,
     "email": "pdg.hoj@jkgb.in",
     "bank_type": "Other / Financial Institution",
     "NEFT": "YES",
@@ -1517,7 +1501,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 99,
@@ -1533,7 +1517,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 100,
@@ -1541,7 +1525,7 @@
     "bankname_rbi": "JAMMU AND KASHMIR BANK LIMITED",
     "code": "JAKA",
     "logo_url": "jk_bank.png",
-    "website": "https://www.jkbank.com/",
+    "website": "https://jkb.bank.in/",
     "contact_number": "0194-2481930",
     "email": "neftservices@jkbmail.com; jakaneft@jkbmail.com",
     "bank_type": "Private Sector Bank",
@@ -1557,7 +1541,7 @@
     "bankname_rbi": "JANA SMALL FINANCE BANK LTD",
     "code": "JSFB",
     "logo_url": "jana_small_finance_bank.png",
-    "website": "https://www.janabank.com/",
+    "website": "https://www.jana.bank.in/",
     "contact_number": "080-33425262",
     "email": "channel_payments@janabank.com",
     "bank_type": "Small Finance Bank",
@@ -1565,7 +1549,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 102,
@@ -1581,7 +1565,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 103,
@@ -1597,7 +1581,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 104,
@@ -1613,7 +1597,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 105,
@@ -1629,7 +1613,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 106,
@@ -1638,14 +1622,14 @@
     "code": "JTSC",
     "logo_url": "janatha_seva_cooperative_bank.png",
     "website": "https://www.jscbl.com/",
-    "contact_number": "080-29776055,\n998084",
+    "contact_number": "080-29776055",
     "email": "jscbneftcell@jscbl.com\njscbrtgscell@jscbl.com\ngirishbg@jscbl.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 107,
@@ -1654,14 +1638,14 @@
     "code": "VGBX",
     "logo_url": "jharkhand_rajya_gramin_bank.png",
     "website": "https://www.jrgb.in/",
-    "contact_number": " 0651- 2210095",
+    "contact_number": "0651-2210095",
     "email": " ho@jrgb.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 108,
@@ -1669,7 +1653,7 @@
     "bankname_rbi": "JIO PAYMENTS BANK LIMITED",
     "code": "JIOP",
     "logo_url": "jio_payment.png",
-    "website": "https://www.jiopaymentsbank.com/",
+    "website": "https://www.jiopayments.bank.in/",
     "contact_number": "022-35554097",
     "email": "rajesh3.gupta@ril.com",
     "bank_type": "Payments Bank",
@@ -1677,7 +1661,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 109,
@@ -1685,15 +1669,15 @@
     "bankname_rbi": "JSC VTB Bank",
     "code": "STCB",
     "logo_url": "jsc_vtb_bank.png",
-    "website": "https://vtbindia.com/",
-    "contact_number": "01166221000 , 116622",
+    "website": "https://vtb.bank.in/",
+    "contact_number": 1166221000,
     "email": "ndiabranch@vtb.com",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 110,
@@ -1709,7 +1693,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 111,
@@ -1725,7 +1709,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 112,
@@ -1733,7 +1717,7 @@
     "bankname_rbi": "KARNATAKA BANK LIMITED",
     "code": "KARB",
     "logo_url": "karnataka_bank.png",
-    "website": "https://karnatakabank.com/",
+    "website": "https://karnatakabank.bank.in/",
     "contact_number": "022-22823031",
     "email": "neft.srbr@ktkbank.com",
     "bank_type": "Private Sector Bank",
@@ -1741,7 +1725,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 113,
@@ -1757,7 +1741,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 114,
@@ -1773,7 +1757,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 115,
@@ -1781,8 +1765,8 @@
     "bankname_rbi": "Karur Vysya Bank Ltd.",
     "code": "KVBL",
     "logo_url": "karur_vyasa.png",
-    "website": "https://www.kvb.co.in/",
-    "contact_number": "04222227778, 0422222",
+    "website": "https://kvb.bank.in/",
+    "contact_number": 4222227778,
     "email": "neft@kvbmail.com;\nneftcfc@kvbmail.com",
     "bank_type": "Private Sector Bank",
     "NEFT": "YES",
@@ -1805,11 +1789,11 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 117,
-    "bank_name": "Kerala Gramin Bank",
+    "bank_name": "Kerala Grameena Bank",
     "bankname_rbi": "Kerala Gramin Bank",
     "code": "KLGB",
     "logo_url": "kerala_gramin_bank.png",
@@ -1821,7 +1805,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 118,
@@ -1829,7 +1813,7 @@
     "bankname_rbi": "Kookmin Bank",
     "code": "KBKB",
     "logo_url": "kookmin_bank.png",
-    "website": "https://www.kbfg.com/Eng/about/global/asia/india.jsp",
+    "website": "https://kbstar.bank.in/",
     "contact_number": 1244532222,
     "email": "ravish.arora@kbfg.com; sheenu.chawla@kbfg.com; ravish.dutta@kbfg.com",
     "bank_type": "Foreign Bank",
@@ -1837,7 +1821,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 119,
@@ -1845,7 +1829,7 @@
     "bankname_rbi": "KOTAK MAHINDRA BANK LIMITED",
     "code": "KKBK",
     "logo_url": "kotak_mahindra_bank.png",
-    "website": "https://www.kotak.com/en.html",
+    "website": "https://kotak.bank.in/",
     "contact_number": "022-66056597",
     "email": "neftrtgs.query@kotak.com",
     "bank_type": "Private Sector Bank",
@@ -1869,7 +1853,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 121,
@@ -1885,7 +1869,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 122,
@@ -1901,7 +1885,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 123,
@@ -1909,7 +1893,7 @@
     "bankname_rbi": "Madhya Pradesh Gramin Bank",
     "code": "HMBX",
     "logo_url": "madhya_pradesh_gramin_bank.png",
-    "website": "https://mpgb.co.in/",
+    "website": "https://mpgb.bank.in/",
     "contact_number": "1800 233 625",
     "email": "not-available",
     "bank_type": "Regional Rural Bank",
@@ -1917,7 +1901,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 124,
@@ -1933,7 +1917,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 125,
@@ -1949,7 +1933,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 126,
@@ -1965,7 +1949,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 127,
@@ -1981,7 +1965,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 128,
@@ -1989,7 +1973,7 @@
     "bankname_rbi": "Manipur Rural Bank",
     "code": "MRBX",
     "logo_url": "manipur_rural_bank.png",
-    "website": "https://manipurruralbank.com/",
+    "website": "https://manipurrural.bank.in/",
     "contact_number": "1800-180-7777",
     "email": "mbsMRB@MRB.co.in",
     "bank_type": "Regional Rural Bank",
@@ -1997,7 +1981,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 129,
@@ -2013,7 +1997,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 130,
@@ -2022,14 +2006,14 @@
     "code": "MERX",
     "logo_url": "meghalaya_rural_bank.png",
     "website": "http://meghalayaruralbank.co.in/",
-    "contact_number": "0364 250 4290",
+    "contact_number": 3642504290,
     "email": "megrrb@gmail.com",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 131,
@@ -2038,14 +2022,14 @@
     "code": "MZRX",
     "logo_url": "mizoram_rural_bank.png",
     "website": "https://www.mizoramruralbank.in/",
-    "contact_number": "0389-2305981/2346457",
+    "contact_number": "0389-2305981",
     "email": "support@mizobank.com; mrb@mizobank.com",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 132,
@@ -2061,7 +2045,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 133,
@@ -2069,15 +2053,15 @@
     "bankname_rbi": "MODEL COOPERATIVE BANK LTD",
     "code": "MDEX",
     "logo_url": "model_cooperative_bank.png",
-    "website": "http://www.modelbank.in/",
-    "contact_number": "022-66914227/ 808093",
+    "website": "https://modelbank.bank.in/",
+    "contact_number": "022-66914227",
     "email": "rtgs@modelbank.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 134,
@@ -2086,14 +2070,14 @@
     "code": "BOTM",
     "logo_url": "mufg_bank_finance.png",
     "website": "https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/mumbai.html",
-    "contact_number": "011-41003456 /220 /2",
+    "contact_number": "011-41003456",
     "email": "ndledp@vsnl.net.in",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 135,
@@ -2109,7 +2093,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 136,
@@ -2125,7 +2109,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 137,
@@ -2141,7 +2125,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 138,
@@ -2149,15 +2133,15 @@
     "bankname_rbi": "Nainital Bank Ltd.",
     "code": "NTBL",
     "logo_url": "nainital_bank.png",
-    "website": "https://www.nainitalbank.co.in/english/home.aspx",
-    "contact_number": "1800 180 4031",
+    "website": "https://www.nainitalbank.bank.in/english/home.aspx",
+    "contact_number": 18001804031,
     "email": "avp.ddn@nainitalbank.co.in",
     "bank_type": "Private Sector Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 139,
@@ -2165,7 +2149,7 @@
     "bankname_rbi": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
     "code": "NBRD",
     "logo_url": "national_bank_for_agriculture_and_rural_development_nabard.png",
-    "website": "https://www.nabard.org/",
+    "website": "https://www.nabard.org",
     "contact_number": 9321966445,
     "email": "fd.disb@nabard.org",
     "bank_type": "Development Financial Institution",
@@ -2173,7 +2157,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 140,
@@ -2189,7 +2173,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 141,
@@ -2197,7 +2181,7 @@
     "bankname_rbi": "NAV JEEVAN CO OP BANK LTD",
     "code": "NJCX",
     "logo_url": "nav_jeevan_co_op_bank.png",
-    "website": "http://navjeevanbank.com/",
+    "website": "https://navjeevan.bank.in/",
     "contact_number": "0251-2572111",
     "email": "swati.eklahare@njcb.in; jyoti.ramnani@njcb.in; atul.chaudhari@njcb.in",
     "bank_type": "Cooperative Bank",
@@ -2205,7 +2189,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 142,
@@ -2221,7 +2205,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 143,
@@ -2229,7 +2213,7 @@
     "bankname_rbi": "NKGSB COOPERATIVE BANK LIMITED",
     "code": "NKGS",
     "logo_url": "nkgsb_cooperative_bank.png",
-    "website": "https://www.nkgsb-bank.com/",
+    "website": "https://nkgsb.bank.in/",
     "contact_number": "022-67545022",
     "email": "rtgs@nkgsb-bank.com",
     "bank_type": "Cooperative Bank",
@@ -2237,7 +2221,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 144,
@@ -2245,7 +2229,7 @@
     "bankname_rbi": "North East Small Finance Bank Limited",
     "code": "NESF",
     "logo_url": "north_east_small_finance_bank.png",
-    "website": "https://nesfb.com/",
+    "website": "https://nb.slice.bank.in",
     "contact_number": 8130736565,
     "email": "pc.dean@nesfb.com",
     "bank_type": "Small Finance Bank",
@@ -2253,7 +2237,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 145,
@@ -2261,7 +2245,7 @@
     "bankname_rbi": "NSDL Payments Bank Limited",
     "code": "NSPB",
     "logo_url": "nsdl_payments_bank.png",
-    "website": "https://nsdl.co.in/",
+    "website": "https://nsdlpayments.bank.in/",
     "contact_number": "022-49142777",
     "email": "nspboperations@nsdlbank.co.in",
     "bank_type": "Payments Bank",
@@ -2269,7 +2253,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 146,
@@ -2285,7 +2269,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 147,
@@ -2301,7 +2285,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 148,
@@ -2310,14 +2294,14 @@
     "code": "PASX",
     "logo_url": "paschim_banga_gramin_bank.png",
     "website": "https://www.pbgbank.com/",
-    "contact_number": "033 - 26676078 / 033",
+    "contact_number": "033-26676078",
     "email": "complain@mail.pbgb.co.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 149,
@@ -2325,7 +2309,7 @@
     "bankname_rbi": "PAYTM PAYMENTS BANK LTD",
     "code": "PYTM",
     "logo_url": "paytm_payment.png",
-    "website": "paytmbank.com",
+    "website": "https://www.paytm.bank.in/",
     "contact_number": "0120-4456456",
     "email": "neftrtgs.support@paytmbank.com",
     "bank_type": "Payments Bank",
@@ -2333,7 +2317,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 150,
@@ -2349,7 +2333,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 151,
@@ -2365,7 +2349,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 152,
@@ -2381,7 +2365,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 153,
@@ -2397,7 +2381,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 154,
@@ -2405,7 +2389,7 @@
     "bankname_rbi": "PUNJAB AND SIND BANK",
     "code": "PSIB",
     "logo_url": "punjab_and_sind_bank.png",
-    "website": "www.psbindia.com",
+    "website": "https://punjabandsind.bank.in/",
     "contact_number": "011-25860657",
     "email": "b0385@psb.co.in; rtgs@psb.co.in",
     "bank_type": "Public Sector Bank",
@@ -2413,7 +2397,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 155,
@@ -2421,15 +2405,15 @@
     "bankname_rbi": "Punjab Gramin Bank",
     "code": "PUGX",
     "logo_url": "punjab_gramin_bank.png",
-    "website": "https://pgb.org.in/",
-    "contact_number": "1800 180 7777",
+    "website": "https://pgb.bank.in/",
+    "contact_number": 18001807777,
     "email": "pgb@pgb.co.in  ",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 156,
@@ -2437,7 +2421,7 @@
     "bankname_rbi": "Punjab National Bank",
     "code": "PUNB",
     "logo_url": "pnb.png",
-    "website": "www.pnbindia.in",
+    "website": "https://pnb.bank.in/",
     "contact_number": "022-22627511",
     "email": "neft@pnb.co.in",
     "bank_type": "Public Sector Bank",
@@ -2453,7 +2437,7 @@
     "bankname_rbi": "QATAR NATIONAL BANK Q.P.S.C",
     "code": "QNBX",
     "logo_url": "qatar_national_bank.png",
-    "website": "https://www.qnb.com/",
+    "website": "https://qnb.bank.in/",
     "contact_number": "022-62296306",
     "email": "indiaoperations@qnb.com",
     "bank_type": "Foreign Bank",
@@ -2461,7 +2445,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 158,
@@ -2477,7 +2461,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 159,
@@ -2485,7 +2469,7 @@
     "bankname_rbi": "RAJARAMBAPU SAHAKARI BANK LIMITED",
     "code": "RRBP",
     "logo_url": "rajarambapu_sahakari_bank.png",
-    "website": "https://www.rajarambapubank.org/",
+    "website": "https://rajarambapu.bank.in/",
     "contact_number": 9890080260,
     "email": "account@rajarambapubank.org;",
     "bank_type": "Cooperative Bank",
@@ -2493,7 +2477,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 160,
@@ -2502,14 +2486,14 @@
     "code": "RSSX",
     "logo_url": "rajarshi_shahu_sahakari_bank_pune.png",
     "website": "https://www.rajarshishahubankpune.com/",
-    "contact_number": "020 -24435385,  020 ",
+    "contact_number": "020-24435385",
     "email": "headoffice@rajarshishahubankpune.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 161,
@@ -2525,7 +2509,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 162,
@@ -2533,7 +2517,7 @@
     "bankname_rbi": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
     "code": "RGSX",
     "logo_url": "rajgurunagar_sahakari_bank.png",
-    "website": "https://rajgurunagarbank.com/",
+    "website": "https://rajgurunagar.bank.in/",
     "contact_number": "02135-222085",
     "email": "rtgs.rsbl@rajgurunagarbank.com",
     "bank_type": "Cooperative Bank",
@@ -2541,7 +2525,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 163,
@@ -2557,7 +2541,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 164,
@@ -2573,7 +2557,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 165,
@@ -2581,7 +2565,7 @@
     "bankname_rbi": "RBL BANK LIMITED",
     "code": "RATN",
     "logo_url": "rbl_bank.png",
-    "website": "https://www.rblbank.com/",
+    "website": "https://www.rbl.bank.in/",
     "contact_number": "022-61156300",
     "email": "rtgsneftoperation@rblbank.com",
     "bank_type": "Private Sector Bank",
@@ -2597,7 +2581,7 @@
     "bankname_rbi": "RESERVE BANK OF INDIA",
     "code": "RBIN",
     "logo_url": "reserve_bank_of_india.png",
-    "website": "https://www.rbi.org.in/",
+    "website": "https://www.rbi.org.in",
     "contact_number": "022-22603329",
     "email": "neftpadmumbai@rbi.org.in",
     "bank_type": "Central Bank / Regulatory Body",
@@ -2605,7 +2589,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 167,
@@ -2621,7 +2605,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 168,
@@ -2637,7 +2621,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 169,
@@ -2645,7 +2629,7 @@
     "bankname_rbi": "SANT SOPANKAKA SAHAKARI BANK LTD",
     "code": "SANT",
     "logo_url": "sant_sopankaka_sahakari_bank.png",
-    "website": "http://santsopankakabank.com/",
+    "website": "https://santsopankaka.bank.in/",
     "contact_number": 2024444001,
     "email": "rtgsneft@santsopankakabank.com;",
     "bank_type": "Cooperative Bank",
@@ -2653,7 +2637,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 170,
@@ -2669,7 +2653,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 171,
@@ -2685,7 +2669,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 172,
@@ -2693,7 +2677,7 @@
     "bankname_rbi": "SARASWAT COOPERATIVE BANK LIMITED",
     "code": "SRCB",
     "logo_url": "saraswat_cooperative_bank.png",
-    "website": "https://www.saraswatbank.com/",
+    "website": "https://saraswat.bank.in/",
     "contact_number": "022-67315444",
     "email": "rtgs_neft@saraswatbank.com; suhas.shidhaye@saraswatbank.com",
     "bank_type": "Cooperative Bank",
@@ -2701,7 +2685,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 173,
@@ -2717,7 +2701,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 174,
@@ -2733,7 +2717,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 175,
@@ -2742,14 +2726,14 @@
     "code": "SAGX",
     "logo_url": "saurashtra_gramin.png",
     "website": "https://sgbrrb.org/",
-    "contact_number": "(0281) 2482421/(0281",
+    "contact_number": "0281-2482421",
     "email": "enquiry@sgbrrb.org",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 176,
@@ -2765,7 +2749,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 177,
@@ -2773,8 +2757,8 @@
     "bankname_rbi": "SBM BANK INDIA LIMITED",
     "code": "BKID",
     "logo_url": "sbm_bank.png",
-    "website": "https://www.sbmbank.co.in/",
-    "contact_number": "?022-43028888/801/80",
+    "website": "https://www.sbm.bank.in/",
+    "contact_number": "022-43028888",
     "email": "csdmumbai@sbm-india.com",
     "bank_type": "Private Sector Bank",
     "NEFT": "YES",
@@ -2797,7 +2781,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 179,
@@ -2813,7 +2797,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 180,
@@ -2821,7 +2805,7 @@
     "bankname_rbi": "Shivalik Small Finance Bank Limited",
     "code": "SHIX",
     "logo_url": "shivalik_small_finance_bank.png",
-    "website": "https://shivalikbank.com/",
+    "website": "https://shivalik.bank.in/",
     "contact_number": "1800-202-5333",
     "email": "info@shivalikbank.com",
     "bank_type": "Small Finance Bank",
@@ -2829,7 +2813,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 181,
@@ -2845,7 +2829,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 182,
@@ -2861,7 +2845,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 183,
@@ -2877,7 +2861,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 184,
@@ -2893,7 +2877,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 185,
@@ -2901,7 +2885,7 @@
     "bankname_rbi": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
     "code": "SJSB",
     "logo_url": "solapur_janata_sahakari_bank.png",
-    "website": "https://sjsbbank.com/",
+    "website": "https://sjsb.bank.in/",
     "contact_number": "0217-2741100",
     "email": "info@sjsbbank.com",
     "bank_type": "Cooperative Bank",
@@ -2909,7 +2893,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 186,
@@ -2918,14 +2902,14 @@
     "code": "SBLD",
     "logo_url": "sonali_bank.png",
     "website": "https://www.sonalibank.in/",
-    "contact_number": "33-22282254, 33-2228",
+    "contact_number": "33-22282254",
     "email": "info@sonalibank.in",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 187,
@@ -2933,7 +2917,7 @@
     "bankname_rbi": "South Indian Bank Ltd.",
     "code": "SIBL",
     "logo_url": "south_indian_bank.png",
-    "website": "www.southindianbank.com",
+    "website": "https://www.southindianbank.bank.in/",
     "contact_number": 4842556003,
     "email": "rtgscell@sib.co.in",
     "bank_type": "Private Sector Bank",
@@ -2949,15 +2933,15 @@
     "bankname_rbi": "SREE CHARAN SOUHARDHA CO OPERATIVE BANK LTD",
     "code": "SECB",
     "logo_url": "sree_charan_souhardha_co_operative_bank.png",
-    "website": "https://sreecharanbank.com/",
-    "contact_number": "080 ?26676837",
+    "website": "https://sreecharan.bank.in/",
+    "contact_number": 8026676837,
     "email": "ceo@sreecharanbank.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 189,
@@ -2965,7 +2949,7 @@
     "bankname_rbi": "Standard Chartered Bank",
     "code": "SCBL",
     "logo_url": "standard_chartered.png",
-    "website": "www.standardchartered.co.in",
+    "website": "https://sc.bank.in/",
     "contact_number": "044-30449315",
     "email": "neft.recall@sc.com",
     "bank_type": "Foreign Bank",
@@ -2981,7 +2965,7 @@
     "bankname_rbi": "State Bank of India",
     "code": "SBIN",
     "logo_url": "sbi_bank.png",
-    "website": "https://www.onlinesbi.com/",
+    "website": "https://sbi.bank.in/",
     "contact_number": 2227561665,
     "email": "neft@sbi.co.in",
     "bank_type": "Public Sector Bank",
@@ -2997,7 +2981,7 @@
     "bankname_rbi": "SUCO SOUHARDHA SAHAKARI BANK LTD",
     "code": "SSDX",
     "logo_url": "suco_souharda_sahakari_bank.png",
-    "website": "https://sucobank.com/",
+    "website": "https://suco.bank.in/",
     "contact_number": "1800-121-5560",
     "email": "info@sucobank.com",
     "bank_type": "Cooperative Bank",
@@ -3005,7 +2989,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 192,
@@ -3013,7 +2997,7 @@
     "bankname_rbi": "Sumitomo Mitsui Banking Corporation",
     "code": "SMBC",
     "logo_url": "sumitomo_mitsui_banking_corporationk.png",
-    "website": "www.smbc.co.jp/global",
+    "website": "https://smbc.bank.in/",
     "contact_number": "011-47689111",
     "email": "rtgs_smbc@in.smbc.co.jp",
     "bank_type": "Foreign Bank",
@@ -3021,7 +3005,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 193,
@@ -3029,7 +3013,7 @@
     "bankname_rbi": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
     "code": "SUNB",
     "logo_url": "surat_national_cooperative_bank.png",
-    "website": "https://www.suratnationalbank.com/",
+    "website": "https://suratnational.bank.in/",
     "contact_number": "0261-2464621",
     "email": "rtgs.sunb@sncb.in",
     "bank_type": "Cooperative Bank",
@@ -3037,7 +3021,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 194,
@@ -3045,7 +3029,7 @@
     "bankname_rbi": "Suryoday Small Finance Bank Limited",
     "code": "SURY",
     "logo_url": "suryoday_small_finance_bank.png",
-    "website": "https://www.suryodaybank.com/",
+    "website": "https://suryoday.bank.in/",
     "contact_number": "022-41856734",
     "email": "payments@suryodaybank.com",
     "bank_type": "Small Finance Bank",
@@ -3061,7 +3045,7 @@
     "bankname_rbi": "SUTEX COOPERATIVE BANK LIMITED",
     "code": "SUTB",
     "logo_url": "sutex_cooperative_bank.png",
-    "website": "https://sutexbank.in/",
+    "website": "https://sutex.bank.in/",
     "contact_number": "0261-2632519",
     "email": "rtgs.support@sutexbank.in",
     "bank_type": "Cooperative Bank",
@@ -3069,7 +3053,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 196,
@@ -3077,15 +3061,15 @@
     "bankname_rbi": "Tamil Nadu Grama Bank",
     "code": "PDNX",
     "logo_url": "tamil_nadu_grama_bank.png",
-    "website": "https://www.tamilnadugramabank.com/",
-    "contact_number": "0427 - 2522900",
+    "website": "https://tngb.bank.in/",
+    "contact_number": "0427-2522900",
     "email": "headoffice@tngb.co.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 197,
@@ -3093,7 +3077,7 @@
     "bankname_rbi": "TAMILNAD MERCANTILE BANK LIMITED",
     "code": "TMBL",
     "logo_url": "tamilnad_mercantile_bank.png",
-    "website": "http://www.tmb.in/",
+    "website": "https://www.tmb.bank.in/",
     "contact_number": "044-28131092",
     "email": "rtgs@tmbank.in",
     "bank_type": "Private Sector Bank",
@@ -3109,15 +3093,15 @@
     "bankname_rbi": "Telangana Grameena Bank",
     "code": "TGRB",
     "logo_url": "telangana_grameena_bank.png",
-    "website": "https://tgbhyd.in/",
-    "contact_number": "1800 532 7444",
+    "website": "https://tgb.bank.in/",
+    "contact_number": 18005327444,
     "email": "tgbho@tgbhyd.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 199,
@@ -3133,7 +3117,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 200,
@@ -3142,14 +3126,14 @@
     "code": "TETX",
     "logo_url": "textile_traders_co_op_bank.png",
     "website": "http://www.ttcbank.co.in/",
-    "contact_number": "079-26430545079-2643",
+    "contact_number": "079-26430545",
     "email": "headoffice@ttcbank.co.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 201,
@@ -3165,7 +3149,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 202,
@@ -3174,14 +3158,14 @@
     "code": "AHMX",
     "logo_url": "the_ahmednagar_district_central_cooperative_bank.png",
     "website": "https://www.adccbanknagar.org/",
-    "contact_number": "91-241-2451651",
+    "contact_number": "241-2451651",
     "email": "contact@adccbanknagar.org",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 203,
@@ -3197,7 +3181,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 204,
@@ -3213,7 +3197,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 205,
@@ -3221,7 +3205,7 @@
     "bankname_rbi": "The Akola Urban Cooperative Bank Limited",
     "code": "AKOX",
     "logo_url": "the_akola_urban_cooperative_bank.png",
-    "website": "https://www.akolaurbanbank.com/",
+    "website": "https://akolaurban.bank.in/",
     "contact_number": "0724-2453850",
     "email": "enquiry@aucbakola.com",
     "bank_type": "Cooperative Bank",
@@ -3229,7 +3213,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 206,
@@ -3245,7 +3229,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 207,
@@ -3261,7 +3245,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 208,
@@ -3277,7 +3261,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 209,
@@ -3293,7 +3277,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 210,
@@ -3301,7 +3285,7 @@
     "bankname_rbi": "THE DELHI STATE COOPERATIVE BANK LIMITED",
     "code": "DSCB",
     "logo_url": "the_delhi_state_cooperative_bank.png",
-    "website": "NA",
+    "website": "https://dscb.bank.in/",
     "contact_number": "011-41705038",
     "email": "bkg.dscb@gmail.com; banking@dscb.in; dscbrtgs2014@gmail.com",
     "bank_type": "Cooperative Bank",
@@ -3309,7 +3293,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 211,
@@ -3325,7 +3309,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 212,
@@ -3333,7 +3317,7 @@
     "bankname_rbi": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
     "code": "GBCB",
     "logo_url": "the_greater_bombay_cooperative_bank.png",
-    "website": "https://greaterbank.com/",
+    "website": "https://greaterbank.bank.in/",
     "contact_number": 2261285927,
     "email": "clearing@greaterbank.com",
     "bank_type": "Cooperative Bank",
@@ -3341,7 +3325,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 213,
@@ -3357,7 +3341,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 214,
@@ -3365,7 +3349,7 @@
     "bankname_rbi": "THE HASTI COOP BANK LTD",
     "code": "HCBX",
     "logo_url": "the_hasti_coop_bank.png",
-    "website": "https://www.hastibank.org/",
+    "website": "https://hasti.bank.in/",
     "contact_number": "02566-245616",
     "email": "rbiusersgroup@hastibank.org",
     "bank_type": "Cooperative Bank",
@@ -3373,7 +3357,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 215,
@@ -3381,7 +3365,7 @@
     "bankname_rbi": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
     "code": "JPCB",
     "logo_url": "the_jalgaon_peopels_cooperative_bank.png",
-    "website": "https://www.jpcbank.com/home.php",
+    "website": "https://jpcb.bank.in/",
     "contact_number": "0257-2227711",
     "email": "rtgs.jpcb@jpcbank.com",
     "bank_type": "Cooperative Bank",
@@ -3389,7 +3373,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 216,
@@ -3397,7 +3381,7 @@
     "bankname_rbi": "THE KALYAN JANATA SAHAKARI BANK LTD.",
     "code": "KJSB",
     "logo_url": "the_kalyan_janata_sahakari_bank.png",
-    "website": "kalyanjanata.in",
+    "website": "https://kalyanjanata.bank.in/",
     "contact_number": "0251-2219009",
     "email": "kjsbrtgs@kalyanjanata.in",
     "bank_type": "Cooperative Bank",
@@ -3405,7 +3389,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 217,
@@ -3421,7 +3405,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 218,
@@ -3437,7 +3421,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 219,
@@ -3445,7 +3429,7 @@
     "bankname_rbi": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
     "code": "KUCB",
     "logo_url": "the_karad_urban_cooperative_bank.png",
-    "website": "https://www.karadurbanbank.com/",
+    "website": "https://karadurban.bank.in/",
     "contact_number": "022-24171471",
     "email": "treasury@karadurbanbank.com",
     "bank_type": "Cooperative Bank",
@@ -3453,7 +3437,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 220,
@@ -3461,7 +3445,7 @@
     "bankname_rbi": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
     "code": "KSCB",
     "logo_url": "the_karanataka_state_cooperative_apex_bank.png",
-    "website": "http://www.karnatakaapex.com/new/",
+    "website": "https://karnatakaapex.bank.in/",
     "contact_number": "080-22976614",
     "email": "rtgs@karnatakaapex.com",
     "bank_type": "Cooperative Bank",
@@ -3469,7 +3453,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 221,
@@ -3485,23 +3469,23 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 222,
     "bank_name": "The Kolhapur Urban Co-Op Bank",
-    "bankname_rbi": "THE KOLHAPUR URBAN CO OP BANK LTD",
+    "bankname_rbi": "THE KOLHAPUR URBAN CO-OP BANK LTD",
     "code": "KUCX",
     "logo_url": "the_kolhapur_urban_co_op_bank.png",
     "website": "https://kopurbanbank.com/",
-    "contact_number": "02312547242, 0231254",
+    "contact_number": 2312547242,
     "email": "info@kopurbanbank.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 223,
@@ -3517,7 +3501,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 224,
@@ -3525,7 +3509,7 @@
     "bankname_rbi": "The Malad Sahakari Bank Ltd",
     "code": "TMSB",
     "logo_url": "the_malad_sahakari_bank.png",
-    "website": "https://www.maladbank.com/",
+    "website": "https://maladbank.bank.in/",
     "contact_number": 7506444055,
     "email": "info@maladbank.com",
     "bank_type": "Cooperative Bank",
@@ -3533,7 +3517,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 225,
@@ -3549,7 +3533,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 226,
@@ -3557,7 +3541,7 @@
     "bankname_rbi": "THE MEHSANA URBAN COOPERATIVE BANK",
     "code": "MSNU",
     "logo_url": "the_mehsana_urban_cooperative_bank.png",
-    "website": "https://www.mucbank.com/mucb/index",
+    "website": "https://mucb.bank.in/",
     "contact_number": "02762-240761",
     "email": "info@mucbank.com",
     "bank_type": "Cooperative Bank",
@@ -3565,7 +3549,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 227,
@@ -3581,7 +3565,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 228,
@@ -3597,12 +3581,12 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 229,
     "bank_name": "The Muslim Co-Operative Bank",
-    "bankname_rbi": "THE MUSLIM COOPERATIVE BANK LTD",
+    "bankname_rbi": "THE MUSLIM CO-OPERATIVE BANK LTD., PUNE",
     "code": "MUSX",
     "logo_url": "the_muslim_co_operative_bank.png",
     "website": "https://muslimcooperativebank.com/",
@@ -3613,7 +3597,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 230,
@@ -3621,7 +3605,7 @@
     "bankname_rbi": "THE NAINITAL BANK LIMITED",
     "code": "NTBL",
     "logo_url": "the_nainital_bank.png",
-    "website": "https://www.nainitalbank.co.in/",
+    "website": "https://www.nainitalbank.bank.in/",
     "contact_number": "011-23583041",
     "email": "rtgshelpdesk@nainitalbank.co.in",
     "bank_type": "Private Sector Bank",
@@ -3629,7 +3613,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 231,
@@ -3645,7 +3629,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 232,
@@ -3653,7 +3637,7 @@
     "bankname_rbi": "THE NAVNIRMAN COOPERATIVE BANK LIMITED",
     "code": "NVNM",
     "logo_url": "the_navnirman_co_operative_bank.png",
-    "website": "https://www.navnirmanbank.com/",
+    "website": "https://navnirman.bank.in/",
     "contact_number": "079-26568259",
     "email": "support@navnirmanbank.com",
     "bank_type": "Cooperative Bank",
@@ -3661,7 +3645,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 233,
@@ -3670,14 +3654,14 @@
     "code": "TNCB",
     "logo_url": "the_nawanagar_cooperative_bank.png",
     "website": "http://nawanagarbank.co.in/",
-    "contact_number": "0288-2563984/85",
+    "contact_number": "0288-2563984",
     "email": "rtgsneftops@nawanagarbank.co.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 234,
@@ -3693,7 +3677,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 235,
@@ -3709,7 +3693,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 236,
@@ -3725,7 +3709,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 237,
@@ -3733,7 +3717,7 @@
     "bankname_rbi": "THE PUNJAB STATE COOPERATIVE BANK LTD",
     "code": "TPSC",
     "logo_url": "the_punjab_state_cooperative_bank.png",
-    "website": "https://pscb.in/",
+    "website": "https://pscb.bank.in/",
     "contact_number": "0172-5067016",
     "email": "neftrtgs@pscb.in",
     "bank_type": "Cooperative Bank",
@@ -3741,7 +3725,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 238,
@@ -3757,7 +3741,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 239,
@@ -3765,7 +3749,7 @@
     "bankname_rbi": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
     "code": "RSCB",
     "logo_url": "the_rajasthan_state_cooperative_bank.png",
-    "website": "http://www.rscb.org.in/",
+    "website": "https://rscb.bank.in/",
     "contact_number": "0141-2744704",
     "email": "rscb.raj@gmail.com",
     "bank_type": "Cooperative Bank",
@@ -3773,7 +3757,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 240,
@@ -3781,15 +3765,15 @@
     "bankname_rbi": "THE SATARA DISTRICT CENTRAL COOPERATIVE BANK LTD",
     "code": "SDSX",
     "logo_url": "the_satara_district_central_cooperative_bank.png",
-    "website": "https://sataradccb.com/English/",
-    "contact_number": "(02162) 227636 to 22",
+    "website": "https://sataradccb.bank.in/",
+    "contact_number": "02162-227636",
     "email": "sdccbank@sataradccb.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 241,
@@ -3805,7 +3789,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 242,
@@ -3813,7 +3797,7 @@
     "bankname_rbi": "THE SHAMRAO VITHAL COOPERATIVE BANK",
     "code": "VCOB",
     "logo_url": "the_shamrao_vithal_cooperative_bank.png",
-    "website": "https://www.svcbank.com",
+    "website": "https://svc.bank.in/",
     "contact_number": "022-71991468",
     "email": "neftsupport@svcbank.com",
     "bank_type": "Cooperative Bank",
@@ -3821,7 +3805,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 243,
@@ -3837,7 +3821,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 244,
@@ -3853,7 +3837,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 245,
@@ -3869,7 +3853,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 246,
@@ -3885,7 +3869,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 247,
@@ -3901,7 +3885,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 248,
@@ -3917,7 +3901,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 249,
@@ -3933,7 +3917,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 250,
@@ -3942,14 +3926,14 @@
     "code": "TPUX",
     "logo_url": "the_urban_co_operative_bank.png",
     "website": "https://www.ucbperinthalmanna.com/",
-    "contact_number": "9447077586, 94473266",
+    "contact_number": 9447077586,
     "email": "info@ucbpmna.com",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 251,
@@ -3957,7 +3941,7 @@
     "bankname_rbi": "THE VARACHHA COOPERATIVE BANK LIMITED",
     "code": "VARA",
     "logo_url": "the_varachha_cooperative_bank.png",
-    "website": "https://www.varachhabank.com",
+    "website": "https://varachha.bank.in/",
     "contact_number": "0261-4008146",
     "email": "nefthelpdesk@varachhabank.com",
     "bank_type": "Cooperative Bank",
@@ -3965,7 +3949,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 252,
@@ -3981,7 +3965,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 253,
@@ -3989,7 +3973,7 @@
     "bankname_rbi": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
     "code": "VSBL",
     "logo_url": "the_vishweshwar_sahakari_bank.png",
-    "website": "www.vishweshwarbank.com",
+    "website": "https://vishweshwar.bank.in/",
     "contact_number": "020-24271397",
     "email": "treasury@vishweshwarbank.com",
     "bank_type": "Cooperative Bank",
@@ -3997,7 +3981,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 254,
@@ -4005,7 +3989,7 @@
     "bankname_rbi": "THE WEST BENGAL STATE COOPERATIVE BANK",
     "code": "WBSC",
     "logo_url": "the_west_bengal_state_cooperative_bank.png",
-    "website": "https://www.wbstcb.com/",
+    "website": "https://wbstcb.bank.in/",
     "contact_number": "033-40042721",
     "email": "infoneft@wbstcb.com",
     "bank_type": "Cooperative Bank",
@@ -4013,7 +3997,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 255,
@@ -4029,7 +4013,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 256,
@@ -4045,7 +4029,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 257,
@@ -4061,7 +4045,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 258,
@@ -4069,15 +4053,15 @@
     "bankname_rbi": "Tripura Gramin Bank",
     "code": "TGBX",
     "logo_url": "tripura_gramin_bank.png",
-    "website": "https://www.tripuragraminbank.org/",
-    "contact_number": "0331 2324774, 0381 2",
+    "website": "https://tripuragramin.bank.in/",
+    "contact_number": "0331 2324774",
     "email": "tgraminbank@gmail.com",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 259,
@@ -4093,7 +4077,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 260,
@@ -4101,7 +4085,7 @@
     "bankname_rbi": "UCO Bank",
     "code": "UCBA",
     "logo_url": "uco_bank.png",
-    "website": "www.ucobank.com",
+    "website": "https://www.uco.bank.in/",
     "contact_number": "022-66547342",
     "email": "rtgsneftcell@ucobank.co.in",
     "bank_type": "Public Sector Bank",
@@ -4109,7 +4093,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 261,
@@ -4117,7 +4101,7 @@
     "bankname_rbi": "Ujjivan Small Finance Bank Limited",
     "code": "UJVN",
     "logo_url": "ujjivan_small_finance_bank.png",
-    "website": "https://www.ujjivansfb.in/",
+    "website": "https://www.ujjivansfb.bank.in/",
     "contact_number": 8040712193,
     "email": "ujjivan-neft@ujjivan.com",
     "bank_type": "Small Finance Bank",
@@ -4125,7 +4109,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 262,
@@ -4133,7 +4117,7 @@
     "bankname_rbi": "Union Bank of India",
     "code": "UBIN",
     "logo_url": "union_bank.png",
-    "website": "https://www.unionbankofindia.co.in/english/home.aspx",
+    "website": "https://www.unionbankonline.bank.in/",
     "contact_number": 1800222244,
     "email": "neftcell@unionbankofindia.com",
     "bank_type": "Public Sector Bank",
@@ -4149,7 +4133,7 @@
     "bankname_rbi": "UNITED OVERSEAS BANK LIMITED",
     "code": "UOVB",
     "logo_url": "united_overseas_bank.png",
-    "website": "https://www.uobgroup.com/in/",
+    "website": "https://uob.bank.in/",
     "contact_number": "022-42472814",
     "email": "uob.mumbai@uobgroup.com",
     "bank_type": "Foreign Bank",
@@ -4157,7 +4141,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 264,
@@ -4173,7 +4157,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 265,
@@ -4181,7 +4165,7 @@
     "bankname_rbi": "Utkarsh Small Finance Bank Limited",
     "code": "UTKS",
     "logo_url": "utkarsh_small_finance_bank.png",
-    "website": "https://www.utkarsh.bank/",
+    "website": "https://utkarsh.bank.in/",
     "contact_number": "0542-2585696",
     "email": "cpc@utkarsh.bank; satish.verma@utkarsh.bank",
     "bank_type": "Small Finance Bank",
@@ -4205,12 +4189,12 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 267,
-    "bank_name": "Uttar Pradesh Cooperative Bank",
-    "bankname_rbi": "UTTAR PRADESH COOPERATIVE BANK LTD",
+    "bank_name": "Uttar Pradesh State Cooperative Bank",
+    "bankname_rbi": "UTTAR PRADESH STATE COOPERATIVE BANK LIMITED",
     "code": "UPCX",
     "logo_url": "uttar_pradesh_cooperative_bank.png",
     "website": "http://www.upcbl.in/",
@@ -4221,7 +4205,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 268,
@@ -4230,14 +4214,14 @@
     "code": "UTGX",
     "logo_url": "uttarakhand_gramin_bank.png",
     "website": "https://www.uttarakhandgraminbank.com/",
-    "contact_number": "0135-2710660/661/552",
+    "contact_number": "0135-2710660",
     "email": "info@ugb.org.in",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 269,
@@ -4246,14 +4230,14 @@
     "code": "UKGX",
     "logo_url": "uttarbanga_kshetriya_gramin_bank.png",
     "website": "http://www.ubkgb.org/",
-    "contact_number": "03582 229301/302",
+    "contact_number": "03582 229301",
     "email": "ubkgb_76@rediffmail.com?",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 270,
@@ -4269,7 +4253,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 271,
@@ -4277,7 +4261,7 @@
     "bankname_rbi": "VASAI VIKAS SAHAKARI BANK LIMITED",
     "code": "VVSB",
     "logo_url": "vasai_vikas_sahakari_bank.png",
-    "website": "vasaivikasbank.com",
+    "website": "https://vvsb.bank.in/",
     "contact_number": "0250-2326998",
     "email": "rtgs@vasaivikasbank.co.in",
     "bank_type": "Cooperative Bank",
@@ -4285,7 +4269,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 272,
@@ -4294,14 +4278,14 @@
     "code": "WKGX",
     "logo_url": "vidharbha_konkan_gramin.png",
     "website": "https://www.vkgb.co.in/",
-    "contact_number": "0712 - 2224319/20/21",
+    "contact_number": "0712-2224319",
     "email": "not-available",
     "bank_type": "Regional Rural Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 273,
@@ -4317,7 +4301,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 274,
@@ -4325,7 +4309,7 @@
     "bankname_rbi": "Woori Bank",
     "code": "HVBK",
     "logo_url": "woori_bank.png",
-    "website": "in.wooribank.com",
+    "website": "https://wooribank.bank.in/",
     "contact_number": "044-33466952",
     "email": "rtgs.hvbk@wooribank.com",
     "bank_type": "Foreign Bank",
@@ -4333,7 +4317,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 275,
@@ -4341,7 +4325,7 @@
     "bankname_rbi": "YES Bank Ltd.",
     "code": "YESB",
     "logo_url": "yes_bank.png",
-    "website": "www.yesbank.in",
+    "website": "https://yes.bank.in/",
     "contact_number": "022-33478270",
     "email": "yestouch@yesbank.in; cfc@yesbank.in;",
     "bank_type": "Private Sector Bank",
@@ -4365,7 +4349,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 277,
@@ -4381,7 +4365,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 278,
@@ -4397,7 +4381,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 280,
@@ -4413,7 +4397,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 281,
@@ -4429,7 +4413,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 284,
@@ -4445,7 +4429,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 285,
@@ -4453,7 +4437,7 @@
     "bankname_rbi": "Abhinandan Urban Co-Op Bank",
     "code": "BDUX",
     "logo_url": "abhinandan-urban-co-op-bank.png",
-    "website": "https://abhinandanbank.com/",
+    "website": "https://abhinandan.bank.in/",
     "contact_number": 7212563440,
     "email": "headoffice@abhinandanbank.net",
     "bank_type": "Cooperative Bank",
@@ -4461,7 +4445,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 286,
@@ -4469,7 +4453,7 @@
     "bankname_rbi": "Unity Small finance Bank Limited",
     "code": "UNBA",
     "logo_url": "unity_bank.png",
-    "website": "https://theunitybank.com/index.html",
+    "website": "https://unity.bank.in/",
     "contact_number": 18002091122,
     "email": "care@unitybank.co.in",
     "bank_type": "Small Finance Bank",
@@ -4493,7 +4477,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 288,
@@ -4509,7 +4493,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 289,
@@ -4518,14 +4502,14 @@
     "code": "AMCB",
     "logo_url": "ahmedabad-mercantile-cooperative-bank.png",
     "website": "https://www.amcobank.com/",
-    "contact_number": "1800 233 6588",
+    "contact_number": 18002336588,
     "email": "info@amco.bank.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 290,
@@ -4534,14 +4518,14 @@
     "code": "BBKM",
     "logo_url": "bank-of-baharain-and-kuwait-bsc.png",
     "website": "https://www.bbkindia.com/",
-    "contact_number": "022-22823698 / 99",
+    "contact_number": "022-22823698",
     "email": "customercare@bbkindia.com",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 291,
@@ -4557,7 +4541,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 292,
@@ -4566,14 +4550,14 @@
     "code": "NGBK",
     "logo_url": "nonghyup-bank.png",
     "website": "https://banking.nonghyup.com/",
-    "contact_number": "+91 120-698-2888",
+    "contact_number": "120-698-2888",
     "email": "noida.branch@nonghyup.com",
     "bank_type": "Foreign Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 293,
@@ -4582,14 +4566,14 @@
     "code": "PPNT",
     "logo_url": "pay-point-india-network.png",
     "website": "https://v2022.paypointindia.co.in/Account/Login",
-    "contact_number": "+91 22 4050 8888",
+    "contact_number": "22 4050 8888",
     "email": "feedback@paypointindia.com",
     "bank_type": "Fintech / Payment Service",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 294,
@@ -4597,7 +4581,7 @@
     "bankname_rbi": "PHONEPE PRIVATE LIMITED",
     "code": "PHPE",
     "logo_url": "phonepe.png",
-    "website": "https://www.phonepe.com/",
+    "website": "https://www.phonepe.com",
     "contact_number": "080-68727374",
     "email": "support@phonepe.com",
     "bank_type": "Fintech / Payment Service",
@@ -4605,7 +4589,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 295,
@@ -4621,7 +4605,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 296,
@@ -4629,7 +4613,7 @@
     "bankname_rbi": "SLICE SMALL FINANCE BANK LIMITED",
     "code": "FINF",
     "logo_url": "slice-small-finance-bank.png",
-    "website": "https://www.sliceit.com/",
+    "website": "https://slice.bank.in/",
     "contact_number": "1800-121-1905",
     "email": "help@slice.bank.in",
     "bank_type": "Small Finance Bank",
@@ -4645,7 +4629,7 @@
     "bankname_rbi": "THE ADARSH COOPERATIVE URBAN BANK LIMITED",
     "code": "ACUX",
     "logo_url": "the-adarsh-cooperative-urban-bank.png",
-    "website": "https://adarshbank.com/",
+    "website": "https://adarsh.bank.in/",
     "contact_number": "040-42769999",
     "email": "manager.operations@adarsh.bank.in",
     "bank_type": "Cooperative Bank",
@@ -4653,7 +4637,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 298,
@@ -4662,14 +4646,14 @@
     "code": "ADCC",
     "logo_url": "the-akola-washim-district-central-cooperative-bank-akola.png",
     "website": "https://akolawashimdcc.bank.in/",
-    "contact_number": "0724-2430012 / 13",
+    "contact_number": "0724-2430012",
     "email": "krishibankakola@akolawashimdcc.bank.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 299,
@@ -4677,7 +4661,7 @@
     "bankname_rbi": "THE CLEARING CORPORATION OF INDIA LIMITED",
     "code": "TCBR",
     "logo_url": "the-clearing-corporation-of-india-limited.png",
-    "website": "https://www.ccilindia.com/",
+    "website": "https://www.ccilindia.com",
     "contact_number": "022-61546200",
     "email": "csr@ccilindia.co.in",
     "bank_type": "Development Financial Institution",
@@ -4685,7 +4669,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 300,
@@ -4694,14 +4678,14 @@
     "code": "TCBR",
     "logo_url": "the-cooperative-bank-of-rajkot-limited.png",
     "website": "https://tcbrl.bank.in/branch/",
-    "contact_number": "0281-2234454 / 120",
+    "contact_number": "0281-2234454",
     "email": "info@tcbrl.bank.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 301,
@@ -4709,7 +4693,7 @@
     "bankname_rbi": "THE GAYATRI CO-OPERATIVE URBAN BANK LIMITED",
     "code": "GCUX",
     "logo_url": "the-gayatri-co-operative-urban-bank-limited.png",
-    "website": "https://www.gayatribank.in/",
+    "website": "https://gayatri.bank.in/",
     "contact_number": 7382226677,
     "email": "info@gayatri.bank.in",
     "bank_type": "Cooperative Bank",
@@ -4717,7 +4701,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 302,
@@ -4726,14 +4710,14 @@
     "code": "TPUX",
     "logo_url": "the-urban-co-operative-bank-ltd-no-one-seven-five-eight-perinthalmanna.png",
     "website": "https://ucbperinthalmanna.com/",
-    "contact_number": "04933 226976 / 73",
+    "contact_number": "04933 226976",
     "email": "ucbp@ucbpmna.in",
     "bank_type": "Cooperative Bank",
     "NEFT": "YES",
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 303,
@@ -4749,7 +4733,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 304,
@@ -4765,7 +4749,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 305,
@@ -4781,7 +4765,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 306,
@@ -4797,7 +4781,7 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
   },
   {
     "id": 307,
@@ -4813,6 +4797,102 @@
     "RTGS": "YES",
     "IMPS": "YES",
     "UPI": "YES",
-    "credit_card": "YES"
+    "credit_card": "NO"
+  },
+  {
+    "id": 308,
+    "bank_name": "Akhand Anand Co-Operative Bank",
+    "bankname_rbi": "AKHAND ANAND CO-OPERATIVE BANK LTD",
+    "code": "AACX",
+    "logo_url": "akhand-anand-co-operative-bank.png",
+    "website": "https://akhandanand.bank.in/",
+    "contact_number": "0261-6513020 ",
+    "email": "info@akhandanand.bank.in",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
+  },
+  {
+    "id": 309,
+    "bank_name": "Karnataka Grameena Bank",
+    "bankname_rbi": "KARNATAKA GRAMEENA BANK",
+    "code": "PKGB",
+    "logo_url": "karnataka-grameena-bank.png",
+    "website": "https://karnatakagb.bank.in/",
+    "contact_number": "1800 890 6766",
+    "email": "customersupport@kgbk.in",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
+  },
+  {
+    "id": 310,
+    "bank_name": "The Kukarwada Nagrik Sahakari Bank",
+    "bankname_rbi": "THE KUKARWADA NAGRIK SAHAKARI BANK LTD",
+    "code": "KUKX",
+    "logo_url": "the-kukarwada-nagrik-sahakari-bank.png",
+    "website": "https://kukarwada.bank.in/",
+    "contact_number": 9664641362,
+    "email": "headoffice@kukarwada.bank.in",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
+  },
+  {
+    "id": 311,
+    "bank_name": "The Kurla Nagarik Sahakari Bank",
+    "bankname_rbi": "THE KURLA NAGARIK SAHAKARI BANK LTD",
+    "code": "KNSB",
+    "logo_url": "the-kurla-nagarik-sahakari-bank.png",
+    "website": "https://www.kns.bank.in/",
+    "contact_number": "22-67294300",
+    "email": "admin1@kns.bank.in",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
+  },
+  {
+    "id": 312,
+    "bank_name": "The Latur Urban Co-Operative Bank",
+    "bankname_rbi": "THE LATUR URBAN CO-OPERATIVE BANK LTD",
+    "code": "LDCX",
+    "logo_url": "the-latur-urban-co-operative-bank.png",
+    "website": "https://latururban.bank.in/",
+    "contact_number": "2382-259503",
+    "email": "info@latururban.bank.in",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
+  },
+  {
+    "id": 313,
+    "bank_name": "The Nasik Road Deolali Vyapari Sahakari Bank",
+    "bankname_rbi": "THE NASIK ROAD DEOLALI VYAPARI SAHAKARI BANK LTD",
+    "code": "NRDX",
+    "logo_url": "the-nasik-road-deolali-vyapari-sahakari-bank.png",
+    "website": "https://www.ndvs.bank.in/",
+    "contact_number": "253 2465345",
+    "email": "info@ndvsbank.com",
+    "bank_type": "Cooperative Bank",
+    "NEFT": "YES",
+    "RTGS": "YES",
+    "IMPS": "YES",
+    "UPI": "YES",
+    "credit_card": "NO"
   }
 ]
