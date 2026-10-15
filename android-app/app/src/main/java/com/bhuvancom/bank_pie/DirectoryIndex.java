@@ -17,7 +17,7 @@ public final class DirectoryIndex {
   // Linked display order is provided by orderedBanks; IDs remain the lookup keys.
   ordered.sort(Comparator.comparing(b->b.name,String.CASE_INSENSITIVE_ORDER));for(Bank b:ordered)banks.put(b.key,b);
   try(Cursor c=data.db.rawQuery("SELECT bank_id,name FROM states",null)){while(c.moveToNext()){Bank b=banks.get(c.getString(0));if(b!=null)b.locations.computeIfAbsent(c.getString(1),x->new TreeMap<>(String.CASE_INSENSITIVE_ORDER));}}
-  try(Cursor c=data.db.rawQuery("SELECT d.bank_id,s.name,d.name FROM districts d JOIN states s ON s.state_id=d.state_id",null)){while(c.moveToNext()){Bank b=banks.get(c.getString(0));if(b!=null)b.locations.computeIfAbsent(c.getString(1),x->new TreeMap<>(String.CASE_INSENSITIVE_ORDER)).putIfAbsent(c.getString(2),new CountList(0));}}
+  try(Cursor c=data.db.rawQuery("SELECT d.bank_id,s.name,d.name FROM districts d JOIN states s ON s.state_id=d.state_id AND s.bank_id=d.bank_id",null)){while(c.moveToNext()){Bank b=banks.get(c.getString(0));if(b!=null)b.locations.computeIfAbsent(c.getString(1),x->new TreeMap<>(String.CASE_INSENSITIVE_ORDER)).putIfAbsent(c.getString(2),new CountList(0));}}
   Map<String,Integer> bankCounts=new HashMap<>();try(Cursor c=data.db.rawQuery("SELECT bank_id,state_name,district_name,COUNT(*) FROM branches GROUP BY bank_id,state_name COLLATE NOCASE,district_name COLLATE NOCASE",null)){while(c.moveToNext()){Bank b=banks.get(c.getString(0));if(b==null)continue;int n=c.getInt(3);bankCounts.put(b.key,bankCounts.getOrDefault(b.key,0)+n);b.locations.computeIfAbsent(c.getString(1),x->new TreeMap<>(String.CASE_INSENSITIVE_ORDER)).put(c.getString(2),new CountList(n));}}
   for(Bank b:banks.values())b.branches=new CountList(bankCounts.getOrDefault(b.key,0));
  }

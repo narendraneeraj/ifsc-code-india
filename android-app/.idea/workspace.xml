@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f3ec9bc-6e6d-46c3-a4a9-4fa0efad995f" name="Changes" comment="" />
+    <list default="true" id="0f3ec9bc-6e6d-46c3-a4a9-4fa0efad995f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/START-HERE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/START-HERE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BankImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BankImages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BranchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BranchRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/DirectoryIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/DirectoryIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +55,9 @@
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -57,20 +69,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Android App.app.executor": "Run",
     "BundleExportedModule": "EasyIFSC.app",
     "CidrDebugProfileConversion": "true",
-    "ExportBundle.BundlePathForEasyIFSC.app": "D:\\GITHUB\\ifsc-code-android-app\\app",
+    "ExportBundle.BundlePathForEasyIFSC.app": "D:\\GITHUB\\ifsc-code-india\\android-app\\app\\release",
     "Gradle.Configure Daemon JVM Criteria.executor": "Run",
     "GradleDaemonJvmCriteriaMigrationNotification.isNotificationDisabled": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GITHUB/ifsc-code-android-app"
+    "last_opened_file_path": "D:/GITHUB/ifsc-code-india/android-app"
   },
   "keyToStringList": {
     "ExportApk.BuildVariants": [

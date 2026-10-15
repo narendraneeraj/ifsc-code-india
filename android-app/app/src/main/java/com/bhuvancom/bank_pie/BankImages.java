@@ -20,7 +20,7 @@ public final class BankImages {
    if(file.isFile()&&file.length()<=2*1024*1024)try(InputStream in=new FileInputStream(file)){bytes=readBytes(in);}
    result=decode(bytes);if(result!=null){memory.put(cacheKey,result);publish(cacheKey,result,false);}
    if(!file.isFile()||System.currentTimeMillis()-file.lastModified()>7L*24*60*60*1000){
-    HttpURLConnection c=(HttpURLConnection)new URL("https://raw.githubusercontent.com/"+BranchRepository.REPO+"/"+ref+"/"+path).openConnection();c.setConnectTimeout(7000);c.setReadTimeout(10000);
+    HttpURLConnection c=(HttpURLConnection)new URL("https://raw.githubusercontent.com/"+BranchRepository.REPO+"/"+ref+"/"+BranchRepository.IMAGE_PATH+path).openConnection();c.setConnectTimeout(7000);c.setReadTimeout(10000);
     try{if(c.getResponseCode()==200)try(InputStream in=c.getInputStream()){Bitmap fresh=decode(readBytes(in));if(fresh!=null){result=fresh;memory.put(cacheKey,fresh);android.util.AtomicFile cache=new android.util.AtomicFile(file);FileOutputStream out=null;try{out=cache.startWrite();fresh.compress(Bitmap.CompressFormat.PNG,100,out);cache.finishWrite(out);}catch(Exception e){if(out!=null)cache.failWrite(out);}trim(folder);}}}finally{c.disconnect();}
    }
   }catch(Exception ignored){}finally{publish(cacheKey,result,true);}});

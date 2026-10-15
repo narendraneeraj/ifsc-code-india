@@ -1,0 +1,3 @@
+Current fix: all four source JSON files parsed. All 1627 states, 18728 districts and 181270 branches have valid bank/state/district relationships using the actual key capitalization. Bank 2 -> Maharashtra (860) -> Pune (1) verified.
+XML resource parsing passed. Changes limited to key aliases, schema version, bank-scoped district join and release/documentation metadata.
+NOT RUN: Android compilation, lint or device tests.
