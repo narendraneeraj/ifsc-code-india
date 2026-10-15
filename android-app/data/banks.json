@@ -1,0 +1,42 @@
+[
+  {
+    "bank_id": 1,
+    "bank_name": "State Bank of India",
+    "bank_image": "images/sbi.png"
+  },
+  {
+    "bank_id": 2,
+    "bank_name": "HDFC Bank",
+    "bank_image": "images/hdfc.png"
+  },
+  {
+    "bank_id": 3,
+    "bank_name": "ICICI Bank",
+    "bank_image": "images/icici.png"
+  },
+  {
+    "bank_id": 4,
+    "bank_name": "Axis Bank",
+    "bank_image": "images/axis.png"
+  },
+  {
+    "bank_id": 5,
+    "bank_name": "Punjab National Bank",
+    "bank_image": "images/pnb.png"
+  },
+  {
+    "bank_id": 6,
+    "bank_name": "Bank of Baroda",
+    "bank_image": "images/bob.png"
+  },
+  {
+    "bank_id": 7,
+    "bank_name": "Canara Bank",
+    "bank_image": "images/canara.png"
+  },
+  {
+    "bank_id": 8,
+    "bank_name": "Kotak Mahindra Bank",
+    "bank_image": "images/kotak.png"
+  }
+]

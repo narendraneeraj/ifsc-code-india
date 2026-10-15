@@ -1,0 +1,14 @@
+EASY IFSC FINDER — GITHUB-ONLY DATA
+
+1. Extract to a new folder and open that folder in Android Studio.
+2. Gradle JDK 17; Android SDK Platform 36. Sync and Run.
+3. First launch: connect to internet to download your GitHub data.
+4. After download: the app works offline with saved GitHub data and cached logos.
+5. Update JSON in GitHub whenever needed. No monthly app release is required.
+
+There is no bundled branch data or bank logo imagery in the APK.
+App icons are UI resources only.
+Your 301-bank catalog is supported (id and logo_url fields).
+Bank logo filenames on GitHub must match logo_url.
+State/district/branch files still need consistent real records to populate all locations.
+Version code: 4. Version name: 2.1.

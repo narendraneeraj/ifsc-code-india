@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "sample_data": true,
+  "updated_at": "2026-10-11",
+  "source": "Unverified repository examples; location labels from sample addresses for demo browsing only",
+  "branches": [
+    {
+      "ifsc": "SBIN0001234",
+      "micr": "400002001",
+      "bank_name": "State Bank of India",
+      "bank_image": "images/sbi.png",
+      "branch_name": "Andheri East",
+      "address": "123 Main Road, Andheri East, Mumbai - 400069",
+      "city": "ANDHERI EAST",
+      "district": "MUMBAI",
+      "state": "MAHARASHTRA",
+      "contact": "022-12345678",
+      "branch_code": "001234",
+      "is_active": null,
+      "neft": null,
+      "rtgs": null,
+      "imps": null,
+      "upi": null
+    },
+    {
+      "ifsc": "SBIN0005678",
+      "micr": "411005002",
+      "bank_name": "State Bank of India",
+      "bank_image": "images/sbi.png",
+      "branch_name": "Shivaji Nagar",
+      "address": "45 FC Road, Shivaji Nagar, Pune - 411005",
+      "city": "SHIVAJI NAGAR",
+      "district": "PUNE",
+      "state": "MAHARASHTRA",
+      "contact": "020-87654321",
+      "branch_code": "005678",
+      "is_active": null,
+      "neft": null,
+      "rtgs": null,
+      "imps": null,
+      "upi": null
+    },
+    {
+      "ifsc": "SBIN0009012",
+      "micr": "440001003",
+      "bank_name": "State Bank of India",
+      "bank_image": "images/sbi.png",
+      "branch_name": "Nagpur Main",
+      "address": "12 Central Avenue, Nagpur - 440001",
+      "city": "NAGPUR",
+      "district": "NAGPUR",
+      "state": "MAHARASHTRA",
+      "contact": "0712-2345678",
+      "branch_code": "009012",
+      "is_active": null,
+      "neft": null,
+      "rtgs": null,
+      "imps": null,
+      "upi": null
+    },
+    {
+      "ifsc": "HDFC0001111",
+      "micr": "400240001",
+      "bank_name": "HDFC Bank",
+      "bank_image": "images/hdfc.png",
+      "branch_name": "Bandra West",
+      "address": "78 Linking Road, Bandra West, Mumbai - 400050",
+      "city": "BANDRA",
+      "district": "MUMBAI",
+      "state": "MAHARASHTRA",
+      "contact": "022-98765432",
+      "branch_code": "001111",
+      "is_active": null,
+      "neft": null,
+      "rtgs": null,
+      "imps": null,
+      "upi": null
+    }
+  ],
+  "banks": [
+    {
+      "bank_id": 1,
+      "bank_name": "State Bank of India",
+      "bank_image": "images/sbi.png"
+    },
+    {
+      "bank_id": 2,
+      "bank_name": "HDFC Bank",
+      "bank_image": "images/hdfc.png"
+    },
+    {
+      "bank_id": 3,
+      "bank_name": "ICICI Bank",
+      "bank_image": "images/icici.png"
+    },
+    {
+      "bank_id": 4,
+      "bank_name": "Axis Bank",
+      "bank_image": "images/axis.png"
+    },
+    {
+      "bank_id": 5,
+      "bank_name": "Punjab National Bank",
+      "bank_image": "images/pnb.png"
+    },
+    {
+      "bank_id": 6,
+      "bank_name": "Bank of Baroda",
+      "bank_image": "images/bob.png"
+    },
+    {
+      "bank_id": 7,
+      "bank_name": "Canara Bank",
+      "bank_image": "images/canara.png"
+    },
+    {
+      "bank_id": 8,
+      "bank_name": "Kotak Mahindra Bank",
+      "bank_image": "images/kotak.png"
+    }
+  ]
+}

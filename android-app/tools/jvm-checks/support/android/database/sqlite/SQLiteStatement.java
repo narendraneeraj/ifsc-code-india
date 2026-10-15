@@ -1,0 +1,3 @@
+package android.database.sqlite;
+import java.sql.*;
+public class SQLiteStatement {final PreparedStatement statement;SQLiteStatement(PreparedStatement s){statement=s;}public void clearBindings(){try{statement.clearParameters();}catch(SQLException e){throw new RuntimeException(e);}}public void bindString(int i,String v){try{statement.setString(i,v);}catch(SQLException e){throw new RuntimeException(e);}}public long executeInsert(){try{return statement.executeUpdate();}catch(SQLException e){if(e.getErrorCode()==19)throw new SQLiteConstraintException(e.getMessage());throw new RuntimeException(e);}}public void close(){try{statement.close();}catch(SQLException e){throw new RuntimeException(e);}}}
