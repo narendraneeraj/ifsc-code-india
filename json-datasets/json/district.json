@@ -131094,5 +131094,257 @@
     "state_name": "Maharashtra",
     "Bank_id": 84,
     "State_id": 908
+  },
+  {
+    "district_id": 18729,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 64,
+    "State_id": 882
+  },
+  {
+    "district_id": 18730,
+    "district_name": "Aurangabad_Bh",
+    "state_name": "Bihar",
+    "Bank_id": 53,
+    "State_id": 146
+  },
+  {
+    "district_id": 18731,
+    "district_name": "KHARAGPUR",
+    "state_name": "West Bengal",
+    "Bank_id": 29,
+    "State_id": 1584
+  },
+  {
+    "district_id": 18732,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 47,
+    "State_id": 885
+  },
+  {
+    "district_id": 18733,
+    "district_name": "KHARAGPUR",
+    "state_name": "West Bengal",
+    "Bank_id": 190,
+    "State_id": 1581
+  },
+  {
+    "district_id": 18734,
+    "district_name": "KHARAGPUR",
+    "state_name": "West Bengal",
+    "Bank_id": 156,
+    "State_id": 1597
+  },
+  {
+    "district_id": 18735,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 190,
+    "State_id": 872
+  },
+  {
+    "district_id": 18736,
+    "district_name": "KHARAGPUR",
+    "state_name": "West Bengal",
+    "Bank_id": 260,
+    "State_id": 1598
+  },
+  {
+    "district_id": 18737,
+    "district_name": "Gurugram",
+    "state_name": "Haryana",
+    "Bank_id": 6,
+    "State_id": 545
+  },
+  {
+    "district_id": 18738,
+    "district_name": "North 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 19,
+    "State_id": 1589
+  },
+  {
+    "district_id": 18739,
+    "district_name": "Mumbai City",
+    "state_name": "Karnataka",
+    "Bank_id": 26,
+    "State_id": 682
+  },
+  {
+    "district_id": 18740,
+    "district_name": "East Champaran",
+    "state_name": "Bihar",
+    "Bank_id": 19,
+    "State_id": 142
+  },
+  {
+    "district_id": 18741,
+    "district_name": "West Champaran",
+    "state_name": "Bihar",
+    "Bank_id": 19,
+    "State_id": 142
+  },
+  {
+    "district_id": 18742,
+    "district_name": "HANSI",
+    "state_name": "Haryana",
+    "Bank_id": 19,
+    "State_id": 514
+  },
+  {
+    "district_id": 18743,
+    "district_name": "Mumbai City",
+    "state_name": "Andhra Pradesh",
+    "Bank_id": 115,
+    "State_id": 27
+  },
+  {
+    "district_id": 18744,
+    "district_name": "North 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 21,
+    "State_id": 1579
+  },
+  {
+    "district_id": 18745,
+    "district_name": "Aurangabad_Bh",
+    "state_name": "Bihar",
+    "Bank_id": 19,
+    "State_id": 142
+  },
+  {
+    "district_id": 18746,
+    "district_name": "South 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 86,
+    "State_id": 1588
+  },
+  {
+    "district_id": 18747,
+    "district_name": "South 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 19,
+    "State_id": 1589
+  },
+  {
+    "district_id": 18748,
+    "district_name": "Yamunanagar",
+    "state_name": "Haryana",
+    "Bank_id": 40,
+    "State_id": 500
+  },
+  {
+    "district_id": 18749,
+    "district_name": "Pratapgarh_up",
+    "state_name": "Uttar Pradesh",
+    "Bank_id": 19,
+    "State_id": 1498
+  },
+  {
+    "district_id": 18750,
+    "district_name": "South 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 21,
+    "State_id": 1579
+  },
+  {
+    "district_id": 18751,
+    "district_name": "Mahendragarh",
+    "state_name": "Haryana",
+    "Bank_id": 92,
+    "State_id": 525
+  },
+  {
+    "district_id": 18752,
+    "district_name": "Pratapgarh_rj",
+    "state_name": "Rajasthan",
+    "Bank_id": 92,
+    "State_id": 1285
+  },
+  {
+    "district_id": 18753,
+    "district_name": "Panchkula",
+    "state_name": "Haryana",
+    "Bank_id": 47,
+    "State_id": 511
+  },
+  {
+    "district_id": 18754,
+    "district_name": "Kamrup Metropolitan",
+    "state_name": "Assam",
+    "Bank_id": 260,
+    "State_id": 107
+  },
+  {
+    "district_id": 18755,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 22,
+    "State_id": 871
+  },
+  {
+    "district_id": 18756,
+    "district_name": "HANSI",
+    "state_name": "Haryana",
+    "Bank_id": 92,
+    "State_id": 525
+  },
+  {
+    "district_id": 18757,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 156,
+    "State_id": 874
+  },
+  {
+    "district_id": 18758,
+    "district_name": "North 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 86,
+    "State_id": 1588
+  },
+  {
+    "district_id": 18759,
+    "district_name": "HANSI",
+    "state_name": "Haryana",
+    "Bank_id": 41,
+    "State_id": 517
+  },
+  {
+    "district_id": 18760,
+    "district_name": "West Champaran",
+    "state_name": "Bihar",
+    "Bank_id": 154,
+    "State_id": 158
+  },
+  {
+    "district_id": 18761,
+    "district_name": "Saharsa",
+    "state_name": "Bihar",
+    "Bank_id": 154,
+    "State_id": 158
+  },
+  {
+    "district_id": 18762,
+    "district_name": "North 24 Parganas",
+    "state_name": "West Bengal",
+    "Bank_id": 30,
+    "State_id": 1585
+  },
+  {
+    "district_id": 18763,
+    "district_name": "Mumbai City",
+    "state_name": "Maharashtra",
+    "Bank_id": 40,
+    "State_id": 861
+  },
+  {
+    "district_id": 18764,
+    "district_name": "Yamunanagar",
+    "state_name": "Haryana",
+    "Bank_id": 21,
+    "State_id": 501
   }
 ]

@@ -11,13 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f3ec9bc-6e6d-46c3-a4a9-4fa0efad995f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/START-HERE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/START-HERE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BankImages.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BankImages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BranchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/BranchRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/DirectoryIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/DirectoryIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/bhuvancom/bank_pie/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json-datasets/csv/State_District-Relation.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../json-datasets/csv/State_District-Relation.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json-datasets/csv/~$State_District-Relation.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,32 +62,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "BundleExportedModule": "EasyIFSC.app",
-    "CidrDebugProfileConversion": "true",
-    "ExportBundle.BundlePathForEasyIFSC.app": "D:\\GITHUB\\ifsc-code-india\\android-app\\app\\release",
-    "Gradle.Configure Daemon JVM Criteria.executor": "Run",
-    "GradleDaemonJvmCriteriaMigrationNotification.isNotificationDisabled": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GITHUB/ifsc-code-india/android-app"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;BundleExportedModule&quot;: &quot;EasyIFSC.app&quot;,
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;ExportBundle.BundlePathForEasyIFSC.app&quot;: &quot;D:\\GITHUB\\ifsc-code-india\\android-app\\app\\release&quot;,
+    &quot;Gradle.Configure Daemon JVM Criteria.executor&quot;: &quot;Run&quot;,
+    &quot;GradleDaemonJvmCriteriaMigrationNotification.isNotificationDisabled&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GITHUB/ifsc-code-india/android-app&quot;
   },
-  "keyToStringList": {
-    "ExportApk.BuildVariants": [
-      "release"
+  &quot;keyToStringList&quot;: {
+    &quot;ExportApk.BuildVariants&quot;: [
+      &quot;release&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="EasyIFSC.app" />
