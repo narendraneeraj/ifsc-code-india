@@ -23,8 +23,8 @@ def csv_to_json(csv_file_path, json_file_path):
 
 # Example usage:
 if __name__ == "__main__":
-    csv_file_path = 'branch.csv'
-    json_file_path = 'branch.json'
+    csv_file_path = 'banks.csv'
+    json_file_path = 'banks.json'
     
     csv_to_json(csv_file_path, json_file_path)
     print(f"Successfully converted '{csv_file_path}' to '{json_file_path}'.")
