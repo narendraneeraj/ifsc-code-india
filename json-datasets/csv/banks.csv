@@ -1,36 +1,28 @@
 ﻿id,bank_name,bankname_rbi,code,logo_url,website,contact_number,email,bank_type,NEFT,RTGS,IMPS,UPI,credit_card
-1,AB Bank,AB Bank Ltd.,ABBL,ab_bank.png,https://abbl.com/,9653364967,amamun@abbl.com,Foreign Bank,YES,YES,YES,YES,NO
+1,AB Bank,AB Bank,ABBL,ab_bank.png,https://abbl.com/,9653364967,amamun@abbl.com,Foreign Bank,YES,YES,YES,YES,NO
 2,Abhyudaya Cooperative Bank,ABHYUDAYA COOPERATIVE BANK LIMITED,ABHY,abhyudaya_cooperative_bank.png,https://abhyudaya.bank.in/,2225260172,neftcell@abhyudayabank.net,Cooperative Bank,YES,YES,YES,YES,NO
-3,Abu Dhabi Commercial Bank,Abu Dhabi Commercial Bank Ltd.,ADCB,abu_dhabi_commercial_bank.png,https://www.adcbindia.com/,2239534101,ctsmumbai@in.adcb.com,Foreign Bank,YES,YES,YES,YES,NO
 5,Ahmednagar Merchants Co-Op Bank,AHMEDNAGAR MERCHANTS COOP BANK LTD,AMDN,ahmednagar_merchants_coop_bank.png,https://amc.bank.in/,7721082223,info@amcbank.in,Cooperative Bank,YES,YES,YES,YES,NO
 6,Airtel Payment Bank,AIRTEL PAYMENTS BANK LIMITED,AIRP,airtel_payment.png,https://www.airtelpayments.bank.in/,1244247797,nefthelpdesk@airtelbank.com,Payments Bank,YES,YES,YES,YES,NO
 7,Akola Janata Commercial Cooperative,AKOLA JANATA COMMERCIAL COOPERATIVE BANK,AKJB,akola_janata_commercial_co_op_bank.png,https://akolajanata.bank.in/,7242430012,rtgsneftops@akolajanatabank.com,Cooperative Bank,YES,YES,YES,YES,NO
 8,Almora Urban Cooperative Bank,ALMORA URBAN COOPERATIVE BANK LIMITED,AUCB,almora_urban_co_op_bank.png,https://almoraurban.bank.in/,5962231947,rtgs@almoraurbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 9,"Ambarnath Jaihind Co-Op Bank, Ambarnath",AMBARNATH JAIHIND COOP BANK LTD AMBARNATH,AJSX,ambarnath_jaihind_co_op_bank.png,https://ajhc.bank.in/,2512605068,rtgs@jaihindbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-10,American Express,American Express Banking Corporation,AMEX,american_express.png,https://americanexpress.bank.in/,18004192122,Manager-Customerservicesindia@aexp.com,Foreign Bank,YES,YES,YES,YES,YES
-12,Andhra Pradesh Grameena Vikas Bank,Andhra Pradesh Grameena Vikas Bank,APGV,andhra_pradesh_grameena_vikas.png,https://apgvbank.in/,7382620369,treasury@apgvbank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 13,Andhra Pragathi Grameena Bank,Andhra Pragathi Grameena Bank,APGB,andhra_pragathi_grameena_bank.png,https://apgb.bank.in/,7382633823,rtgsneft@apgb.in,Regional Rural Bank,YES,YES,YES,YES,NO
 14,Apna Sahakari Bank,APNA SAHAKARI BANK LIMITED,ASBL,apna_sahakari_bank.png,www.apnabank.co.in,2224103313,cpd@apnabank.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 15,Arunachal Pradesh Rural Bank,Arunachal Pradesh Rural Bank,APRX,arunachal_pradesh_rural_bank.png,https://apruralbank.co.in/,2222740800,ho@apruralbank.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 16,Arvind Sahakari,ARVIND SAHAKARI BANK LTD,ASKX,arvind_sahakari_bank.png,https://arvindsahakari.bank.in/,9823892770,asbl_ho@arvindbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-17,Aryavart Bank,Aryavart Bank,VIJB,aryavart_bank.png,http://www.aryavart-rrb.com/index.html,7317799391,chairmansecretariat.gba@gba-rrb.com,Regional Rural Bank,YES,YES,YES,YES,NO
 18,Assam Gramin Vikash Bank,Assam Gramin Vikash Bank,AGVX,assam_gramin_vikash_bank.png,https://agvb.bank.in/,9957183638,agvbank@yahoo.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 19,Au Small Finance Bank,Au Small Finance Bank Limited,AUBL,au_small_finance_bank.png,https://www.au.bank.in/,9116181332,rtgsneft@aubank.in,Small Finance Bank,YES,YES,YES,YES,YES
 20,Australia And New Zealand Banking Group,AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED,ANZB,australia_and_new_zealand_banking.png,https://www.anz.com.au/personal,2233620073,pgsupport.india@anz.com,Foreign Bank,YES,YES,YES,YES,NO
 21,Axis Bank,AXIS BANK,UTIB,axis_bank.png,https://axis.bank.in/,2224253491,cfc@axisbank.com,Private Sector Bank,YES,YES,YES,YES,YES
 22,Bandhan Bank,BANDHAN BANK LIMITED,BDBL,bandhan_bank.png,https://www.bandhan.bank.in/,3340456456,rtgsneft.desk@bandhanbank.com,Private Sector Bank,YES,YES,YES,YES,YES
-23,Bangiya Gramin Vikas Bank,Bangiya Gramin Vikas Bank,BGVX,bangiya_gramin_vikas_bank.png,https://bgvb.in/,18001032222,customercare@bgvb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 24,Bank Of America,Bank of America,BOFA,bank_of_america.png,http://bofa-india.com/,4442904526,dg.payments_chennai@bofa.com,Foreign Bank,YES,YES,YES,YES,NO
-25,Bank Of Bahrain & Kuwait Bsc,Bank of Bahrain & Kuwait BSC,BBKM,bank_bahrain_kuwait.png,https://bbkindia.bank.in/,2222880038,csdmumbai@bbkindia.com,Foreign Bank,YES,YES,YES,YES,NO
+25,Bank of Baharain and Kuwait BSC,Bank of Baharain and Kuwait BSC,BBKM,bank_bahrain_kuwait.png,https://bbkindia.bank.in/,2222880038,csdmumbai@bbkindia.com,Foreign Bank,YES,YES,YES,YES,NO
 26,Bank Of Baroda,Bank of Baroda,BARB,bank_of_baroa.png,https://bankofbaroda.bank.in/,2652316160,neft.mumbai@bankofbaroda.com,Public Sector Bank,YES,YES,YES,YES,YES
 27,Bank Of Ceylon,Bank of Ceylon,BCEY,bank_of_ceylon.png,https://boc.bank.in/,4439519907,bocops@bankofceylon.in,Foreign Bank,YES,YES,YES,YES,NO
 28,Bank Of China,BANK OF CHINA LIMITED INDIA BRANCH,BKID,bank_of_china.png,https://www.bankofchina.com/in/en/aboutus/ab1/202005/t20200514_17854591.html,2268246666,bocmumbai@bankofchina.com,Foreign Bank,YES,YES,YES,YES,NO
 29,Bank Of India,Bank of India,BKID,bank_of_india.png,https://bankofindia.bank.in/,2222820749,boi.neft@bankofindia.co.in,Public Sector Bank,YES,YES,YES,YES,YES
 30,Bank Of Maharashtra,Bank of Maharashtra,MAHB,bank_of_maharashtra.png,https://bankofmaharashtra.bank.in/,2222780324,bomneft@mahabank.co.in,Public Sector Bank,YES,YES,YES,YES,NO
-31,Bank Of Nova Scotia,Bank of Nova Scotia,NOSC,bank_nova_scotia.png,https://www.scotiabank.com/global/en/country/india.html,2266235026,amit.kedia@scotiabank.com,Foreign Bank,YES,YES,YES,YES,NO
 32,Barclays Bank,BARCLAYS BANK,BARC,barclays_bank_plc.png,https://barclays.bank.in/,2261754261,grcbpayment.ops@barclays.com,Foreign Bank,YES,YES,YES,YES,NO
-33,Baroda Gujarat Gramin Bank,Baroda Gujarat Gramin Bank,BGGX,baroda_gujarat_gramin_bank.png,https://www.bggb.in/,2652361260,ho@barodagujaratrrb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
-34,Baroda Up Bank,Baroda UP Bank,BDBL,baroda_up_bank.png,https://www.barodaupbank.in/customer.php,18001800225,ho@barodauprrb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 35,Bassein Catholic Cooperative Bank,BASSEIN CATHOLIC COOPERATIVE BANK LIMITED,BACB,bassein_catholic_co_op_bank.png,https://bccb.bank.in/,2502322449,vbvedp@bccb.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 36,"Bhagini Nivedita Sahakari Bank, Pune",BHAGINI NIVEDITA SAHAKARI BANK LTD PUNE,BNSB,bhagini_nivedita_sahakari_bank_pune.png,https://bhagininivedita.bank.in/,9822034166,neft_rtgs@bhagininiveditabank.com,Cooperative Bank,YES,YES,YES,YES,NO
 37,Bharat Cooperative Bank Mumbai,BHARAT COOPERATIVE BANK MUMBAI LIMITED,BCBM,bharat_cooperative_bank_mumbai.png,https://www.bharatbank.com,2261890106,payments@bharatbank.co.in,Cooperative Bank,YES,YES,YES,YES,NO
@@ -39,31 +31,26 @@
 40,Canara Bank,Canara Bank,CNRB,canara_bank.png,https://www.canarabank.bank.in/,2222690581,neftcb0136@canarabank.com,Public Sector Bank,YES,YES,YES,YES,YES
 41,Capital Small Finance Bank,Capital Small Finance Bank Limited,CLBL,capital_small_finance_bank.png,https://www.capital.bank.in/,1815050759,mail@capitalbank.co.in,Small Finance Bank,YES,YES,YES,YES,NO
 42,Central Bank Of India,Central Bank of India,CBIN,central_bank_india.png,https://centralbank.bank.in/,2222637966,cbineftcfc@centralbank.co.in,Public Sector Bank,YES,YES,YES,YES,NO
-43,Chaitanya Godavari Grameena Bank,Chaitanya Godavari Grameena Bank,CGGX,chaitanya_godavari_grameena_bank.png,https://cggb.in/,18004256708,complaints@cggb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 44,Chhattisgarh Rajya Gramin Bank,Chhattisgarh Rajya Gramin Bank,CGBX,chhattisgarh_rajya_gramin.png,https://www.cgbank.in/,18002332300,care@cgbank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 45,City Bank,CITI BANK,CITI,citibank.png,www.citibank.com,2261328761,rtgs.citi@citi.com,Foreign Bank,YES,YES,YES,YES,YES
 46,Citizen Credit Cooperative Bank,CITIZEN CREDIT COOPERATIVE BANK LIMITED,CCBL,citizen_credit_co_op_bank.png,https://citizencredit.bank.in/,2222658969,neft.rtgs@citizencreditbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 47,City Union Bank,CITY UNION BANK LIMITED,CIUB,city_union_bank.png,https://cityunionbank.bank.in/,4428297905,payment_system@cityunionbank.in,Private Sector Bank,YES,YES,YES,YES,YES
 48,Coastal Local Area Bank,COASTAL LOCAL AREA BANK LTD,COAS,coastal_local_area_bank.png,https://coastal.bank.in/,8662494425,rtgs.neft@coastalareabank.com,Local Area Bank,YES,YES,YES,YES,NO
-49,Cooperatieve Rabobank U.A.,Cooperatieve Rabobank U.A.,MSBX,rabobank.png,https://www.rabobank.com/,2222097890,fm.in.mumbai.cmps@rabobank.com,Cooperative Bank,YES,YES,YES,YES,NO
 51,Credit Agricole Corporate & Investment Bank,CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK,CRLY,credit_agricole_corporate_investment_bank.png,https://www.ca-cib.com/,2267371030,rtgs.crly@ca-cib.com,Foreign Bank,YES,YES,YES,YES,NO
-52,Credit Suisse,Credit Suisse A.G,CRES,credit_suisse.png,https://www.credit-suisse.com/in/en.html,2267773417,list.rtgs.cres@creditsuisse.com,Foreign Bank,YES,YES,YES,YES,NO
 53,Csb Bank,CSB BANK LIMITED,STCB,csb_bank.png,https://csb.bank.in/,4846615504,rtgs@csb.co.in,Private Sector Bank,YES,YES,YES,YES,YES
 54,Ctbc Bank,CTBC BANK CO LTD,DCBL,ctbc_bank.png,https://www.ctbcbank.com/content/dam/cbminisite/IN/index.html,1143688888,in.customerservices@ctbcbank.com,Foreign Bank,YES,YES,YES,YES,NO
-55,Dakshin Bihar Gramin Bank,Dakshin Bihar Gramin Bank,BGBX,dakshin_bihar_gramin_bank.png,https://dbgb.in/,18001807777,enquiry@dbgb.in,Regional Rural Bank,YES,YES,YES,YES,NO
+55,BIHAR GRAMIN BANK,BIHAR GRAMIN BANK,_,bihar-gramin-bank.png,https://bgb.bank.in/,18001807777,hopd@bgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 56,Darussalam Co Operative Urban Bank,Darussalam Co operative Urban Bank Ltd,DCUX,darussalam_cooperative_urban_bank.png,https://www.darussalambank.com/,8125208125,dcub1000@darussalambank.com,Cooperative Bank,YES,YES,YES,YES,NO
 57,Dbs Bank India,DBS Bank India Limited,BKID,dbs_bank_india.png,https://dbs.bank.in/,2268330934,paymentrecall@dbs.com,Foreign Bank,YES,YES,YES,YES,YES
 58,Dcb Bank,DCB BANK LIMITED,DCBL,dcb_bank.png,https://dcb.bank.in/,2266187225,neft@dcbbank.com,Private Sector Bank,YES,YES,YES,YES,YES
 59,"Deogiri Nagari Sahakari Bank, Aurangabad",DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD,DEOB,deogiri_nagari_sahakari_bank_aurangabad.png,https://deogiri.bank.in/,2402240212,neftrtgs@deogiribank.com,Cooperative Bank,YES,YES,YES,YES,NO
 60,Deposit Insurance And Credit Guarantee Corporation,DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION,DICG,deposit_insurance_credit_guarantee_corporation.png,https://www.dicgc.org.in,2223062680,dicgccsd@rbi.org.in,Central Bank / Regulatory Body,YES,YES,YES,YES,NO
 61,Deutsche Bank,Deutsche Bank,DEUT,deutsche_bank.png,https://deutsche.bank.in/,2271806411,sdu.india@db.com,Foreign Bank,YES,YES,YES,YES,NO
-62,Development Bank Of Singapore,DEVELOPMENT BANK OF SINGAPORE,DBSS,development_bank_of_singapore.png,https://dbs.bank.in/,2266388888,not-available,Foreign Bank,YES,YES,YES,YES,NO
 63,Dhanlaxmi Bank,DHANALAKSHMI BANK,DLXB,dhanlaxmi_bank.png,https://www.dhan.bank.in/,4876627046,neft@dhanbank.co.in,Private Sector Bank,YES,YES,YES,YES,YES
 64,Dmk Jaoli Bank,DMK JAOLI BANK,DMKJ,dmk_jaoli_bank.png,https://dmkjaoli.bank.in/,2223828488,hoaccounts@jaolibank.in,Cooperative Bank,YES,YES,YES,YES,NO
 65,Doha Bank,DOHA BANK Q.P.S.C,DOHB,doha_bank.png,http://in.dohabank.com/,2262861161,indiahelpdesk@dohabank.co.in,Foreign Bank,YES,YES,YES,YES,NO
 66,Dombivli Nagari Sahakari Bank,DOMBIVLI NAGARI SAHAKARI BANK LIMITED,DNSB,dombivli_nagari_sahakari_bank.png,https://www.dnsbank.in/,2512875000,info@dnsb.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 67,Durgapur Steel Peoples Co-Operative Bank,DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD,DURG,durgapur_steel_peoples_co_op_bank.png,http://www.dspcoopbank.com/,9475413151,clearingcell@dspcoopbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-68,Ellaquai Dehati Bank,Ellaquai Dehati Bank,EDBX,ellaquai_dehati_bank.png,https://www.edb.org.in/,1942434282,Edbbank@Edb.Org.In,Regional Rural Bank,YES,YES,YES,YES,NO
 69,Emirates Bank Nbd,EMIRATES NBD BANK P J S C,EBIL,emirates_bank_nbd.png,https://emiratesnbd.bank.in/,2261532378,indiahelpdesk@EmiratesNBD.com,Foreign Bank,YES,YES,YES,YES,NO
 70,Equitas Small Finance Bank,Equitas Small Finance Bank Limited,ESFB,equitas_finance_bank.png,https://equitas.bank.in/,4430898048,rtgs-cell@equitasbank.com,Small Finance Bank,YES,YES,YES,YES,YES
 71,Esaf Small Finance Bank,ESAF Small Finance Bank Limited,ESAF,esaf_small_finance_bank.png,https://www.esaf.bank.in/,9072604056,payments@esafbank.com,Small Finance Bank,YES,YES,YES,YES,YES
@@ -71,7 +58,6 @@
 73,Federal Bank,FEDERAL BANK,FDRL,federal_bank.png,https://federal.bank.in/,4842752051,neft@federalbank.co.in,Private Sector Bank,YES,YES,YES,YES,YES
 75,Fino Payments Bank,FINO PAYMENTS BANK,FINO,fino_payments_banks.png,https://fino.bank.in/,2271047116,neftrtgs.cell@finobank.com,Payments Bank,YES,YES,YES,YES,NO
 76,First Abu Dhabi Bank Pjsc,First Abu Dhabi Bank PJSC,FIRX,first_abu_dhabi_bank.png,https://www.bankfab.com/en-in,2233311131,mumbaisupportit@nbad.com,Foreign Bank,YES,YES,YES,YES,NO
-77,Firstrand Bank,FirstRand Bank Ltd,FIRN,firstrand_bank.png,https://www.firstrand.co.in/,2266258682,bharat.oberai@frb.co.in,Foreign Bank,YES,YES,YES,YES,NO
 78,G P Parsik Bank,G P PARSIK BANK,BNPA,g_p_parsik_bank.png,https://gpparsik.bank.in/,2225456500,accounts@gpparsikbank.net,Cooperative Bank,YES,YES,YES,YES,NO
 79,"Gs Mahanagar Cooperative Bank, Mumbai","GS MAHANAGAR CO-OPERATIVE BANK LIMITED,MUMBAI",MCBL,gs_mahanagar_co_op_bank.png,https://mahanagar.bank.in/,2224710952,edpmanager@mahanagarbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 80,Haryana State Cooperative Bank,HARYANA STATE COOPERATIVE BANK,HSCX,haryana_state_cooperative_bank.png,https://harco.bank.in/,1722784278,rtgs@harcobank.org.in,Cooperative Bank,YES,YES,YES,YES,NO
@@ -83,15 +69,13 @@
 86,ICICI Bank,ICICI BANK LIMITED,ICIC,icici_bank.png,https://icici.bank.in/,2233667777,neft.query@icicibank.com,Private Sector Bank,YES,YES,YES,YES,YES
 87,Idbi Bank,IDBI BANK,DCBL,idbi_bank.png,https://www.idbi.bank.in/,2266552776,rtgsneftops@idbi.co.in,Private Sector Bank,YES,YES,YES,YES,YES
 88,Idfc First Bank,IDFC FIRST BANK LTD,IDFB,idfc_first_bank.png,https://idfcfirst.bank.in/,2249850059,neftcell@idfcfirstbank.com,Private Sector Bank,YES,YES,YES,YES,YES
-89,Idukki District Cooperative Bank,IDUKKI DISTRICT CO OPERATIVE BANK LTD,IDUX,idukki_district_co_op_bank.png,https://www.idukkidcb.in/,4862235141,it@idukkidcb.in,Cooperative Bank,YES,YES,YES,YES,NO
 90,India Post Payments Bank,INDIA POST PAYMENT BANK,IPOS,india_post_payment_bank.png,https://ippbonline.bank.in/,1123815485,rtgs.cfc@ippbonline.in,Payments Bank,YES,YES,YES,YES,NO
 91,Indian Bank,Indian Bank,IDIB,indian_bnak.png,https://indianbank.bank.in/,4428134163,rtgs@indianbank.com,Public Sector Bank,YES,YES,YES,YES,YES
 92,Indian Overseas Bank,Indian Overseas Bank,IOBA,indian_overseas_bank.png,https://www.iob.bank.in/,4428584896,rtgscell@iobnet.co.in,Public Sector Bank,YES,YES,YES,YES,YES
 93,Induslnd Bank,INDUSIND BANK,INDB,indusind_bank.png,https://indusind.bank.in/,2242271639,neft@indusind.com,Private Sector Bank,YES,YES,YES,YES,YES
 94,Industrial & Commercial Bank Of China,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED,ICBK,industrial_commercial_bank_china.png,http://www.icbc-ltd.com/icbcltd/en/,2233155931,rtgs.icbk@india.icbc.com.cn,Foreign Bank,YES,YES,YES,YES,NO
 95,Industrial Bank Of Korea,Industrial Bank of Korea,IBKO,industrial_bank_of_korea.png,https://global.ibk.co.kr/,1140768000,neft.ibko@ibk.co.kr,Foreign Bank,YES,YES,YES,YES,NO
-96,Irinjalakuda Town Cooperative Bank,IRINJALAKUDA TOWN COOPERATIVE BANK LTD,ITCX,irinjalakuda_town_co_op_bank.png,https://itubank.com/,9447755843,mail@itubank.com,Cooperative Bank,YES,YES,YES,YES,NO
-97,J&K Grameen Bank,J&K Grameen Bank,XJKG,jk_grameen_bank.png,https://jkgb.bank.in/,7051510170,pdg.hoj@jkgb.in,Other / Financial Institution,YES,YES,YES,YES,NO
+97,Jammu & Kashmir Grameen Bank,Jammu & Kashmir Grameen Bank,JKGB,bihar-gramin-bank.png,https://www.jkgrameen.bank.in/,18008890457,helpdesk@jkgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 98,Jp Morgan Bank,JP MORGAN BANK,CHAS,jpmorgan_chase.png,https://www.jpmorgan.com,2261575043,rtgs_chas@jpmorgan.com,Foreign Bank,YES,YES,YES,YES,NO
 99,Jalgaon Janata Sahakari Bank,JALGAON JANATA SAHAKARI BANK LIMITED,KJSB,jalgaon_janata_sahakari_bank.png,http://www.jjsbl.com/,2572235534,jjsbrtgs@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
 100,Jammu & Kashmir Bank,JAMMU AND KASHMIR BANK LIMITED,JAKA,jk_bank.png,https://jkb.bank.in/,1942481930,neftservices@jkbmail.com,Private Sector Bank,YES,YES,YES,YES,YES
@@ -107,69 +91,43 @@
 110,Kallappanna Awade Ichalkaranji Janata Sahakari Bank,KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED,KAIJ,kallappanna_awade_ichalkaranji_janata_sahakari_bank.png,https://www.ijsbank.com/,2302427263,treasury@ijsbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 111,Kalupur Commercial Cooperative Bank,KALUPUR COMMERCIAL COOPERATIVE BANK,KCCB,kalupur_commercial_co_op_bank.png,https://www.kalupurbank.com/,7927582020,rtgs.kccb@kalupurbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 112,Karnataka Bank,KARNATAKA BANK LIMITED,KARB,karnataka_bank.png,https://karnatakabank.bank.in/,2222823031,neft.srbr@ktkbank.com,Private Sector Bank,YES,YES,YES,YES,NO
-113,Karnataka Gramin Bank,Karnataka Gramin Bank,PKGB,karnataka_gramin_bank.png,https://karnatakagraminbank.com/,8194234315,hoanx.neftcell@kgbk.in,Regional Rural Bank,YES,YES,YES,YES,NO
-114,Karnataka Vikas Grameena Bank,Karnataka Vikas Grameena Bank,KVGB,karnataka_vikas_grameena_bank.png,www.kvgbank.com,8362442204,neftrtgscell@kvgbank.com,Regional Rural Bank,YES,YES,YES,YES,NO
 115,Karur Vysya Bank,KARUR VYSYA BANK,KVBL,karur_vyasa.png,https://kvb.bank.in/,4222227778,neft@kvbmail.com,Private Sector Bank,YES,YES,YES,YES,YES
 116,Keb Hana Bank,KEB Hana Bank,KBHB,keb_hana_bank.png,https://www.kebhana.com/easyone_index_en.html,4449056320,kebchennai@hanafn.com,Foreign Bank,YES,YES,YES,YES,NO
 117,Kerala Grameena Bank,KERALA GRAMEENA BANK,KLGB,kerala_gramin_bank.png,https://www.keralagbank.com/,4972704810,neftcell.kgb@keralagbank.com,Regional Rural Bank,YES,YES,YES,YES,NO
 118,Kookmin Bank,Kookmin Bank,KBKB,kookmin_bank.png,https://kbstar.bank.in/,1244532222,ravish.arora@kbfg.com,Foreign Bank,YES,YES,YES,YES,NO
 119,Kotak Mahindra Bank,KOTAK MAHINDRA BANK LIMITED,KKBK,kotak_mahindra_bank.png,https://kotak.bank.in/,2266056597,neftrtgs.query@kotak.com,Private Sector Bank,YES,YES,YES,YES,YES
-120,Kozhikode District Cooperatiave Bank,KOZHIKODE DISTRICT COOPERATIAVE BANK LTD,KDCX,kozhikode_district_co_op_bank.png,http://kdcbank.com/,4952701520,rtgs@kdcbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-121,Krung Thai Bank Public,Krung Thai Bank Public Co. Ltd.,KRTH,krung_thai_bank.png,https://www.ktb.co.th/en/personal,2222873741,vasant.athavale@ktb.co.th,Foreign Bank,YES,YES,YES,YES,NO
-122,Lakshmi Vilas Bank,Lakshmi Vilas Bank Ltd.,LAVB,lakshmi_vilas_bank.png,https://www.lvbank.com/,2240925174,rtgs_neft@lvbank.in,Private Sector Bank,YES,YES,YES,YES,NO
-123,Madhya Pradesh Gramin Bank,Madhya Pradesh Gramin Bank,HMBX,madhya_pradesh_gramin_bank.png,https://mpgb.bank.in/,1800233625,helpline@mpgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
-124,Madhyanchal Gramin Bank,Madhyanchal Gramin Bank,MADX,madhyanchal_gramin_bank.png,https://www.mgbank.co.in/,7582236299,gmadmin@mgbank.in,Regional Rural Bank,YES,YES,YES,YES,NO
+123,Madhya Pradesh Gramin Bank,Madhya Pradesh Gramin Bank,HMBX,bihar-gramin-bank.png,https://mpgb.bank.in/,1800233625,helpline@mpgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 125,Maharashtra Gramin Bank,Maharashtra Gramin Bank,MAHG,maharashtra_gramin_bank.png,https://www.mahagramin.in/,2402476141,rtgs@mahagramin.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 126,Maharashtra State Cooperative Bank,MAHARASHTRA STATE COOPERATIVE BANK,MSCI,maharashtra_state_co_op_bank.png,https://www.mscbank.com/,2222800653,rtgs@mscbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 127,"Mahesh Sahakari Bank, Pune",Mahesh Sahakari Bank Ltd Pune,MSBL,mahesh_sahakari_bank_pune.png,https://www.maheshbankpune.in/,8446113097,accounts@maheshbankpune.in,Cooperative Bank,YES,YES,YES,YES,NO
-128,Manipur Rural Bank,Manipur Rural Bank,MRBX,manipur_rural_bank.png,https://manipurrural.bank.in/,18001807777,mbsMRB@MRB.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 129,Mashreq Bank Psc,MASHREQBANK PSC,MSHQ,mashreq_bank_psc.png,www.mashreqbank.com,2266327200,opsindia@mashreq.com,Foreign Bank,YES,YES,YES,YES,NO
-130,Meghalaya Rural Bank,Meghalaya Rural Bank,MERX,meghalaya_rural_bank.png,http://meghalayaruralbank.co.in/,3642504290,megrrb@gmail.com,Regional Rural Bank,YES,YES,YES,YES,NO
 131,Mizoram Rural Bank,Mizoram Rural Bank,MZRX,mizoram_rural_bank.png,https://www.mizoramruralbank.in/,3892305981,support@mizobank.com,Regional Rural Bank,YES,YES,YES,YES,NO
 132,Mizuho Bank,MIZUHO BANK LTD,MHCB,mizuho_bank.png,https://www.mizuhogroup.com/asia-pacific/india,2222886638,inward.remittances@mizuho-cb.com,Foreign Bank,YES,YES,YES,YES,NO
 133,Model Cooperative Bank,MODEL COOPERATIVE BANK LTD,MDEX,model_cooperative_bank.png,https://modelbank.bank.in/,2266914227,rtgs@modelbank.in,Cooperative Bank,YES,YES,YES,YES,NO
 134,Mufg Bank,"MUFG BANK, LTD",BOTM,mufg_bank_finance.png,https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/mumbai.html,1141003456,ndledp@vsnl.net.in,Foreign Bank,YES,YES,YES,YES,NO
-135,Nagaland Rural Bank,Nagaland Rural Bank,NAGX,nagaland_rural_bank.png,https://www.nagalandruralbank.com/,3702290975,nrb_kma@yahoo.com,Regional Rural Bank,YES,YES,YES,YES,NO
-136,Nagar Urban Cooperative Bank,NAGAR URBAN CO OPERATIVE BANK,NUCB,nagar_urban_co_operative_bank.png,https://www.nucb.in/,2412346941,rtgs@nagarurbanbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 137,Nagpur Nagarik Sahakari Bank,NAGPUR NAGARIK SAHAKARI BANK LIMITED,NGSB,nagpur_nagarik_sahakari_bank.png,https://www.nnsbank.co.in/,7122764313,neft@nnsbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-138,Nainital Bank,Nainital Bank Ltd.,NTBL,nainital_bank.png,https://www.nainitalbank.bank.in/english/home.aspx,18001804031,avp.ddn@nainitalbank.co.in,Private Sector Bank,YES,YES,YES,YES,NO
 139,National Bank For Agriculture And Rural Development,NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT,NBRD,national_bank_for_agriculture_and_rural_development_nabard.png,https://www.nabard.org,9321966445,fd.disb@nabard.org,Development Financial Institution,YES,YES,YES,YES,NO
-140,Natwest Markets Plc,NatWest Markets Plc,NATW,natwest_markets_plc.png,https://www.natwestmarkets.in/,2240021534,in.service@natwestmarkets.com,Foreign Bank,YES,YES,YES,YES,NO
 141,Nav Jeevan Co-Op Bank,NAV JEEVAN CO OP BANK LTD,NJCX,nav_jeevan_co_op_bank.png,https://navjeevan.bank.in/,2512572111,swati.eklahare@njcb.in,Cooperative Bank,YES,YES,YES,YES,NO
-142,New India Cooperative Bank,NEW INDIA COOPERATIVE BANK LIMITED,NICB,new_india_cooperative_bank.png,https://www.newindiabank.in/,2261427572,rtgsdesk@newindiabank.in,Cooperative Bank,YES,YES,YES,YES,NO
 143,Nkgsb Cooperative Bank,NKGSB COOPERATIVE BANK LIMITED,NKGS,nkgsb_cooperative_bank.png,https://nkgsb.bank.in/,2267545022,rtgs@nkgsb-bank.com,Cooperative Bank,YES,YES,YES,YES,NO
-144,North East Small Finance Bank,North East Small Finance Bank Limited,NESF,north_east_small_finance_bank.png,https://nb.slice.bank.in,8130736565,pc.dean@nesfb.com,Small Finance Bank,YES,YES,YES,YES,NO
 145,Nsdl Payments Payment Bank,NSDL Payments Bank Limited,NSPB,nsdl_payments_bank.png,https://nsdlpayments.bank.in/,2249142777,nspboperations@nsdlbank.co.in,Payments Bank,YES,YES,YES,YES,NO
 146,Nutan Nagarik Sahakari Bank,NUTAN NAGARIK SAHAKARI BANK LIMITED,NNSB,nutan_nagarik_sahakari_bank.png,https://www.nutanbank.com/,7926445229,rtgs@nutanbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-147,Odisha Gramya Bank,Odisha Gramya Bank,ODGB,odisha_gramya_bank.png,https://odishabank.in/,6742375100,oscb.cbs2013@gmail.com,Regional Rural Bank,YES,YES,YES,YES,NO
-148,Paschim Banga Gramin Bank,Paschim Banga Gramin Bank,PASX,paschim_banga_gramin_bank.png,https://www.pbgbank.com/,3326676078,complain@mail.pbgb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
-149,Paytm Payment Bank,PAYTM PAYMENTS BANK LTD,PYTM,paytm_payment.png,https://www.paytm.bank.in/,1204456456,neftrtgs.support@paytmbank.com,Payments Bank,YES,YES,YES,YES,NO
-150,Prathama Up Gramin Bank,Prathama UP Gramin Bank,SUBX,prathama_up_gramin_bank.png,https://prathamaupbank.com/,18001807777,not-available,Regional Rural Bank,YES,YES,YES,YES,NO
+147,ODISHA GRAMEEN BANK,ODISHA GRAMEEN BANK,ODGB,bihar-gramin-bank.png,https://odishabank.bank.in/,18002022505,ogbho@odishabank.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 151,Prime Cooperative Bank,PRIME COOPERATIVE BANK LIMITED,PMEC,prime_cooperative_bank.png,https://www.primebankindia.com/,2612463500,it@primebankindia.com,Cooperative Bank,YES,YES,YES,YES,NO
 152,Pt Bank Maybank Indonesia Tbk,PT Bank Maybank Indonesia TBK,IBBK,pt_bank_maybank_indonesia_tbk.png,https://maybank.co.in/,2267303422,rtgs.ibbk@maybank.co.in,Foreign Bank,YES,YES,YES,YES,NO
-153,Puduvai Bharathiar Grama Bank,Puduvai Bharathiar Grama Bank,PBGX,puduvai_bharathiar_grama_bank.png,https://puduvaibharathiargramabank.in/,4132227851,headoffice@pbgbank.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 154,Punjab & Sind Bank,PUNJAB AND SIND BANK,PSIB,punjab_and_sind_bank.png,https://punjabandsind.bank.in/,1125860657,rtgs@psb.co.in,Public Sector Bank,YES,YES,YES,YES,NO
-155,Punjab Gramin Bank,Punjab Gramin Bank,PUGX,punjab_gramin_bank.png,https://pgb.bank.in/,18001807777,pgb@pgb.co.in,Regional Rural Bank,YES,YES,YES,YES,NO
 156,Punjab National Bank,Punjab National Bank,PUNB,pnb.png,https://pnb.bank.in/,2222627511,neft@pnb.co.in,Public Sector Bank,YES,YES,YES,YES,YES
 157,Qatar National Bank Saq,QATAR NATIONAL BANK Q.P.S.C,QNBX,qatar_national_bank.png,https://qnb.bank.in/,2262296306,indiaoperations@qnb.com,Foreign Bank,YES,YES,YES,YES,NO
-158,Rabobank International,RABOBANK INTERNATIONAL,RABO,rabobank_international.png,https://www.rabobank.com/,2222097890,fm.in.mumbai.cmps@rabobank.com,Foreign Bank,YES,YES,YES,YES,NO
 159,Rajarambapu Sahakari Bank,RAJARAMBAPU SAHAKARI BANK LIMITED,RRBP,rajarambapu_sahakari_bank.png,https://rajarambapu.bank.in/,9890080260,account@rajarambapubank.org,Cooperative Bank,YES,YES,YES,YES,NO
 160,"Rajarshi Shahu Sahakari Bank, Pune",RAJARSHI SHAHU SAHAKARI BANK LTD PUNE,RSSX,rajarshi_shahu_sahakari_bank_pune.png,https://www.rajarshishahubankpune.com/,2024435385,headoffice@rajarshishahubankpune.com,Cooperative Bank,YES,YES,YES,YES,NO
-161,Rajasthan Marudhara Gramin Bank,Rajasthan Marudhara Gramin Bank,MDGX,rajasthan_marudhara_gramin_bank.png,http://www.rmgb.in/,7073454003,psg@rmgb.in,Regional Rural Bank,YES,YES,YES,YES,NO
 162,Rajgurunagar Sahakari Bank,RAJGURUNAGAR SAHAKARI BANK LIMITED,RGSX,rajgurunagar_sahakari_bank.png,https://rajgurunagar.bank.in/,2135222085,rtgs.rsbl@rajgurunagarbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 163,Rajkot Nagrik Sahakari Bank,RAJKOT NAGRIK SAHAKARI BANK LIMITED,RNSB,rajkot_nagrik_sahakari_bank.png,https://www.rnsbindia.com/,2812238524,rtgs@rnsbindia.com,Cooperative Bank,YES,YES,YES,YES,NO
 164,Rajnandgaon District Central Co-Operative Bank,RAJNANDGAON DISTRICT CENTRAL CO-OPERATIVE BANK LTD,RDCB,rajnandgaon_district_central_co_operative_bank.png,Not Available,7744225120,not-available,Cooperative Bank,YES,YES,YES,YES,NO
 165,Rbl Bank,RBL BANK LIMITED,RATN,rbl_bank.png,https://www.rbl.bank.in/,2261156300,rtgsneftoperation@rblbank.com,Private Sector Bank,YES,YES,YES,YES,YES
 166,Reserve Bank Of India,RESERVE BANK OF INDIA,RBIN,reserve_bank_of_india.png,https://www.rbi.org.in,2222603329,neftpadmumbai@rbi.org.in,Central Bank / Regulatory Body,YES,YES,YES,YES,NO
-167,Sahebrao Deshmukh Cooperative Bank,SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED,SAHE,sahebrao_deshmukh_cooperative_bank.png,http://www.sdcbank.in/,2228522514,clg@sdcbank.in,Cooperative Bank,YES,YES,YES,YES,NO
-168,Samarth Sahakari Bank,SAMARTH SAHAKARI BANK LTD,SBLS,samarth_sahakari_bank.png,https://www.samarthbank.com/,2172744214,info@samarthbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 169,Sant Sopankaka Sahakari Bank,SANT SOPANKAKA SAHAKARI BANK LTD,SANT,sant_sopankaka_sahakari_bank.png,https://santsopankaka.bank.in/,2024444001,rtgsneft@santsopankakabank.com,Cooperative Bank,YES,YES,YES,YES,NO
-170,Saptagiri Grameena Bank,Saptagiri Grameena Bank,SPBX,saptagiri_grameena_bank.png,https://www.saptagirigrameenabank.in/,8572233598,headoffice@sgbank.in,Regional Rural Bank,YES,YES,YES,YES,NO
 171,"Saraspur Nagrik Cooperative Bank, Saraspur",Saraspur Nagrik Co operative Bank Ltd Saraspur,SNBK,saraspur_nagrik_co_op_bank_saraspur.png,https://saraspurbank.com/,9727845001,info@saraspurbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 172,Saraswat Cooperative Bank,SARASWAT COOPERATIVE BANK LIMITED,SRCB,saraswat_cooperative_bank.png,https://saraswat.bank.in/,2267315444,rtgs_neft@saraswatbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-173,Sarva Haryana Gramin Bank,Sarva Haryana Gramin Bank,HGBX,sarva_haryana_gramin.png,http://www.shgb.co.in/,1262243111,hgbrtk@yahoo.com,Regional Rural Bank,YES,YES,YES,YES,NO
 174,Satara Sahakari Bank,Satara Sahakari Bank Ltd,TSSB,satara_sahakari_bank.png,https://www.satarabank.net/,8108479999,rtgsneft@satarabank.net,Cooperative Bank,YES,YES,YES,YES,NO
-175,Saurashtra Gramin Bank,Saurashtra Gramin Bank,SAGX,saurashtra_gramin.png,https://sgbrrb.org/,2812482421,enquiry@sgbrrb.org,Regional Rural Bank,YES,YES,YES,YES,NO
 176,Sber Bank,Sber Bank,SABR,sberbank_of_russia_credit.png,https://www.sberbank.ru/,1140048888,u.bhatnagar@sberbank.co.in,Foreign Bank,YES,YES,YES,YES,NO
 177,Sbm Bank (India),SBM BANK INDIA LIMITED,BKID,sbm_bank.png,https://www.sbm.bank.in/,2243028888,csdmumbai@sbm-india.com,Private Sector Bank,YES,YES,YES,YES,YES
 178,Shikshak Sahakari Bank,SHIKSHAK SAHAKARI BANK LIMITED,SHKX,shikshak_sahakari_bank.png,https://www.shikshakbank.com/,7122722705,rtgs.sksb@shikshakbank.com,Cooperative Bank,YES,YES,YES,YES,NO
@@ -180,7 +138,7 @@
 183,Sir M Visvesvaraya Cooperative Bank,SIR M VISVESVARAYA CO OPERATIVE BANK LTD,SMVC,sir_m_visvesvaraya_co_op_bank.png,http://vcb.co.in/,9480885371,hl.suresh@yahoo.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 184,Societe Generale,Societe Generale,SOGE,societe_generale.png,www.sgcib.com,2266309500,mum.oper.mop@socgen.com,Foreign Bank,YES,YES,YES,YES,NO
 185,Solapur Janata Sahakari Bank,SOLAPUR JANATA SAHAKARI BANK LIMITED,SJSB,solapur_janata_sahakari_bank.png,https://sjsb.bank.in/,2172741100,info@sjsbbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-186,Sonali Bank,Sonali Bank Ltd.,SBLD,sonali_bank.png,https://www.sonalibank.in/,3322282254,info@sonalibank.in,Foreign Bank,YES,YES,YES,YES,NO
+186,Sonali Bank,Sonali Bank,SBLD,sonali_bank.png,https://www.sonalibank.in/,3322282254,info@sonalibank.in,Foreign Bank,YES,YES,YES,YES,NO
 187,South Indian Bank,SOUTH INDIAN BANK,SIBL,south_indian_bank.png,https://www.southindianbank.bank.in/,4842556003,rtgscell@sib.co.in,Private Sector Bank,YES,YES,YES,YES,YES
 188,Sree Charan Souhardha Cooperative Bank,SREE CHARAN SOUHARDHA CO OPERATIVE BANK LTD,SECB,sree_charan_souhardha_co_operative_bank.png,https://sreecharan.bank.in/,8026676837,ceo@sreecharanbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 189,Standard Chartered Bank,Standard Chartered Bank,SCBL,standard_chartered.png,https://sc.bank.in/,4430449315,neft.recall@sc.com,Foreign Bank,YES,YES,YES,YES,YES
@@ -194,14 +152,12 @@
 197,Tamilnad Mercantile Bank,TAMILNAD MERCANTILE BANK LIMITED,TMBL,tamilnad_mercantile_bank.png,https://www.tmb.bank.in/,4428131092,rtgs@tmbank.in,Private Sector Bank,YES,YES,YES,YES,YES
 198,Telangana Grameena Bank,Telangana Grameena Bank,TGRB,telangana_grameena_bank.png,https://tgb.bank.in/,18005327444,tgbho@tgbhyd.in,Regional Rural Bank,YES,YES,YES,YES,NO
 199,Telangana State Coop Apex Bank,TELANGANA STATE COOP APEX BANK,TSAB,telangana_state_coop_apex_bank.png,https://tscab.org/,4023443814,rtgscell@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
-200,Textile Traders Co-Operative Bank,TEXTILE TRADERS CO-OPERATIVE BANK LIMITED,TETX,textile_traders_co_op_bank.png,http://www.ttcbank.co.in/,7926430545,headoffice@ttcbank.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 201,The A.P. Mahesh Cooperative Urban Bank,THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED,APMC,the_ap_mahesh_cooperative_urban_bank.png,https://www.apmaheshbank.com/,4024732711,info@apmaheshbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 202,The Ahmednagar District Central Co-Operative Bank,THE AHMEDNAGAR DISTRICT CENTRAL CO-OPERATIVE BANK LTD,AHMX,the_ahmednagar_district_central_cooperative_bank.png,https://www.adccbanknagar.org/,2412451651,contact@adccbanknagar.org,Cooperative Bank,YES,YES,YES,YES,NO
 203,"The Ajara Urban Co-Op Bank, Ajara",The Ajara Urban Co op Bank Ltd Ajara,AUCX,the_ajara_urban_co_op_bank.png,http://www.ajarabank.com/,2323246084,rtgs.rbi@ajarabank.com,Cooperative Bank,YES,YES,YES,YES,NO
-204,The Akola District Central Cooperative Bank,THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK,ADCC,akola_district_central_co_op_bank.png,https://www.akoladccbank.com/,7242415105,rtgs.adcc@akoladccbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 205,The Akola Urban Cooperative Bank,The Akola Urban Cooperative Bank Limited,AKOX,the_akola_urban_cooperative_bank.png,https://akolaurban.bank.in/,7242453850,enquiry@aucbakola.com,Cooperative Bank,YES,YES,YES,YES,NO
 206,The Andhra Pradesh State Cooperative Bank,THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED,APBL,the_andhra_pradesh_state_co_op_bank.png,https://www.apcob.org/,4027687417,rtgscell@apcob.org,Cooperative Bank,YES,YES,YES,YES,NO
-207,The Bank Of Nova Scotia,THE BANK OF NOVA SCOTIA,NOSC,the_bank_of_nova_scotia.png,www.scotiabank.com,2266364200,support.mumbai@scotiabank.com,Foreign Bank,YES,YES,YES,YES,NO
+207,The Bank Of Nova Scotia,THE BANK OF NOVA SCOTIA,NOSC,the_bank_of_nova_scotia.png,https://www.scotiabank.com/global/en/country/india.html,2266364200,support.mumbai@scotiabank.com,Foreign Bank,YES,YES,YES,YES,NO
 208,The Baramati Sahakari Bank,THE BARAMATI SAHAKARI BANK LTD,BSBX,the_baramati_sahakari_bank.png,https://www.baramatibank.com/home.php,2112224865,rtgs@baramatibank.com,Cooperative Bank,YES,YES,YES,YES,NO
 209,The Cosmos Cooperative Bank,THE COSMOS CO OPERATIVE BANK LIMITED,COSB,the_cosmos_co_op_bank.png,https://www.cosmosbank.com/,2224476043,neftcell@cosmosbank.in,Cooperative Bank,YES,YES,YES,YES,NO
 210,The Delhi State Cooperative Bank,THE DELHI STATE COOPERATIVE BANK LIMITED,DSCB,the_delhi_state_cooperative_bank.png,https://dscb.bank.in/,1141705038,banking@dscb.in,Cooperative Bank,YES,YES,YES,YES,NO
@@ -219,7 +175,6 @@
 222,The Kolhapur Urban Co-Op Bank,THE KOLHAPUR URBAN CO-OP BANK LTD,KUCX,the_kolhapur_urban_co_op_bank.png,https://kopurbanbank.com/,2312547242,info@kopurbanbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 223,The Kurmanchal Nagar Sahakari Bank,THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED,KUNS,the_kurmanchal_nagar_sahakari_bank.png,https://www.kurmanchalbank.com/,5942263574,kurmanchalbank@yahoo.com,Cooperative Bank,YES,YES,YES,YES,NO
 224,The Malad Sahakari Bank,The Malad Sahakari Bank Ltd,TMSB,the_malad_sahakari_bank.png,https://maladbank.bank.in/,7506444055,info@maladbank.com,Cooperative Bank,YES,YES,YES,YES,NO
-225,The Malkapur Urban Co-Operative Bank Malkapur,The Malkapur Urban Co Operative Bank Ltd Malkapur,MKUX,the_malkapur_urban_co_operative_bank_malkapur.png,https://www.malkapurbank.com/,9422207012,bapatmlk@rediffmail.com,Cooperative Bank,YES,YES,YES,YES,NO
 226,The Mehsana Urban Cooperative Bank,THE MEHSANA URBAN COOPERATIVE BANK,MSNU,the_mehsana_urban_cooperative_bank.png,https://mucb.bank.in/,2762240761,info@mucbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 227,The Mumbai District Central Cooperative Bank,THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED,MDCB,the_mumbai_district_central_cooperative_bank.png,https://www.mdccbank.com/home,2222616911,neft@mumbaidistrictbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 228,The Municipal Cooperative Bank,THE MUNICIPAL COOPERATIVE BANK LIMITED,MUBL,the_municipal_cooperative_bank.png,https://www.municipalbankmumbai.com/,2222616911,accounts@mcbmumbai.com,Cooperative Bank,YES,YES,YES,YES,NO
@@ -232,10 +187,8 @@
 235,The Odisha State Cooperative Bank,THE ODISHA STATE CO-OPERATIVE BANK LTD,ORCB,the_odisha_state_cooperative_bank.png,https://www.odishascb.com/,6742375100,oscb.cbs2013@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
 236,The Pandharpur Urban Co-Op Bank Pandharpur,THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR,PUCB,the_pandharpur_urban_co_op_bank.png,https://www.pandharpurbank.com/,2186228484,rtgsneft@pandharpurbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 237,The Punjab State Cooperative Bank,THE PUNJAB STATE COOPERATIVE BANK LTD,TPSC,the_punjab_state_cooperative_bank.png,https://pscb.bank.in/,1725067016,neftrtgs@pscb.in,Cooperative Bank,YES,YES,YES,YES,NO
-238,"The Pusad Urban Cooperative Bank, Pusad",The Pusad Urban Cooperative Bank Ltd Pusad,PUSD,the_pusad_urban_cooperative_bank.png,https://www.pusadurbanbank.com/,9765701050,ho@pucbl.org,Cooperative Bank,YES,YES,YES,YES,NO
 239,The Rajasthan State Cooperative Bank,THE RAJASTHAN STATE COOPERATIVE BANK LIMITED,RSCB,the_rajasthan_state_cooperative_bank.png,https://rscb.bank.in/,1412744704,rscb.raj@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
 240,The Satara District Central Cooperative Bank,THE SATARA DISTRICT CENTRAL COOPERATIVE BANK LTD,SDSX,the_satara_district_central_cooperative_bank.png,https://sataradccb.bank.in/,2162227636,sdccbank@sataradccb.com,Cooperative Bank,YES,YES,YES,YES,NO
-241,The Seva Vikas Cooperative Bank,THE SEVA VIKAS COOPERATIVE BANK LIMITED,SVBL,the_seva_vikas_cooperative_bank.png,https://www.sevavikasbank.com/,2027412289,rtgs.svbl@sevavikasbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 242,The Shamrao Vithal Cooperative Bank,THE SHAMRAO VITHAL COOPERATIVE BANK,VCOB,the_shamrao_vithal_cooperative_bank.png,https://svc.bank.in/,2271991468,neftsupport@svcbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 243,The Sindhudurg District Central Coop Bank,THE SINDHUDURG DISTRICT CENTRAL CO-OPERATIVE BANK LTD.,SIDC,the_sindhudurg_district_central_coop_bank.png,https://www.sindhudurgdcc.com/,2362229005,rtgs.neft@sindhudurgdcc.com,Cooperative Bank,YES,YES,YES,YES,NO
 244,The Surat District Cooperative Bank,THE SURAT DISTRICT COOPERATIVE BANK LIMITED,SDCB,the_surat_district_cooperative_bank.png,https://www.sudicobank.com,2612597730,agmbanking@sudicobank.com,Cooperative Bank,YES,YES,YES,YES,NO
@@ -244,13 +197,11 @@
 247,The Thane Bharat Sahakari Bank,THE THANE BHARAT SAHAKARI BANK LIMITED,TBSB,the_thane_bharat_sahakari_bank.png,http://tbsbl.com/,2225404747,rtgs.tbsb@tbsbl.com,Cooperative Bank,YES,YES,YES,YES,NO
 248,The Thane District Central Cooperative Bank,THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED,TDCB,the_thane_district_central_cooperative_bank.png,https://thanedistrictbank.com,2225433510,edp@thanedistrictbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 249,The Udaipur Urban Cooperative Bank,THE UDAIPUR URBAN CO OPERATIVE BANK LTD,UUCX,the_udaipur_urban_co_operative_bank.png,https://www.uucbudaipur.com/index.html,2942560783,ceo@uucbudaipur.com,Cooperative Bank,YES,YES,YES,YES,NO
-250,"The Urban Cooperative Bank, 1758 Perinthalmanna",THE URBAN CO OPERATIVE BANK Ltd,TPUX,the_urban_co_operative_bank.png,https://www.ucbperinthalmanna.com/,9447077586,info@ucbpmna.com,Cooperative Bank,YES,YES,YES,YES,NO
 251,The Varachha Cooperative Bank,THE VARACHHA COOPERATIVE BANK LIMITED,VARA,the_varachha_cooperative_bank.png,https://varachha.bank.in/,2614008146,nefthelpdesk@varachhabank.com,Cooperative Bank,YES,YES,YES,YES,NO
 252,The Vijay Cooperative Bank,The Vijay Co Operative Bank Limited,VCOB,the_vijay_co_operative_bank.png,https://www.vijaycooperativebank.com/,7926587011,edp@vijaycooperativebank.com,Cooperative Bank,YES,YES,YES,YES,NO
 253,The Vishweshwar Sahakari Bank,THE VISHWESHWAR SAHAKARI BANK LIMITED,VSBL,the_vishweshwar_sahakari_bank.png,https://vishweshwar.bank.in/,2024271397,treasury@vishweshwarbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 254,The West Bengal State Cooperative Bank,THE WEST BENGAL STATE COOPERATIVE BANK,WBSC,the_west_bengal_state_cooperative_bank.png,https://wbstcb.bank.in/,3340042721,infoneft@wbstcb.com,Cooperative Bank,YES,YES,YES,YES,NO
 255,The Zoroastrian Cooperative Bank,THE ZOROASTRIAN COOPERATIVE BANK LIMITED,ZCBL,the_zoroastrian_cooperative_bank.png,www.zoroastrianbank.com,2222696050,rtgs.zcbl@zcbl.in,Cooperative Bank,YES,YES,YES,YES,NO
-256,Thrissur District Co-Operative Bank,THRISSUR DISTRICT CO-OPERATIVE BANK LTD,TDCX,thrissur_district_co_operative_bank.png,http://www.thrissurdcb.com/,4872329520,neftrtgs@thrissurdcb.com,Cooperative Bank,YES,YES,YES,YES,NO
 257,Tjsb Sahakari Bank,TJSB SAHAKARI BANK LTD,TJSB,tjsb_sahakari_bank.png,https://www.tjsbbank.co.in,2225838527,rtgs.tjsb@tjsb.co.in,Cooperative Bank,YES,YES,YES,YES,NO
 258,Tripura Gramin Bank,Tripura Gramin Bank,TGBX,tripura_gramin_bank.png,https://tripuragramin.bank.in/,3312324774,tgraminbank@gmail.com,Regional Rural Bank,YES,YES,YES,YES,NO
 259,Tumkur Grain Merchants Cooperative Bank,TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED,TGMB,tumkur_grain_merchants_cooperative_bank.png,www.tgmcbank.com,8164021102,rtgs.tgmb@tgmcbank.com,Cooperative Bank,YES,YES,YES,YES,NO
@@ -258,16 +209,10 @@
 261,Ujjivan Small Finance Bank,Ujjivan Small Finance Bank Limited,UJVN,ujjivan_small_finance_bank.png,https://www.ujjivansfb.bank.in/,8040712193,ujjivan-neft@ujjivan.com,Small Finance Bank,YES,YES,YES,YES,NO
 262,Union Bank Of India,Union Bank of India,UBIN,union_bank.png,https://www.unionbankonline.bank.in/,1800222244,neftcell@unionbankofindia.com,Public Sector Bank,YES,YES,YES,YES,YES
 263,United Overseas Bank,UNITED OVERSEAS BANK LIMITED,UOVB,united_overseas_bank.png,https://uob.bank.in/,2242472814,uob.mumbai@uobgroup.com,Foreign Bank,YES,YES,YES,YES,NO
-264,Utkal Grameen Bank,Utkal Grameen bank,UGBX,utkal_grameen_bank.png,https://www.utkalgrameenbank.co.in/,6652232285,chairman@ukgb.in,Regional Rural Bank,YES,YES,YES,YES,NO
 265,Utkarsh Small Finance Bank,UTKARSH SMALL FINANCE BANK,UTKS,utkarsh_small_finance_bank.png,https://utkarsh.bank.in/,5422585696,cpc@utkarsh.bank,Small Finance Bank,YES,YES,YES,YES,YES
-266,Uttar Bihar Gramin Bank,Uttar Bihar Gramin Bank,UBGX,uttar_bihar_gramin_bank.png,http://www.ubgb.in/,8102913028,ubgb@ubgb.in,Regional Rural Bank,YES,YES,YES,YES,NO
 267,Uttar Pradesh State Cooperative Bank,UTTAR PRADESH STATE COOPERATIVE BANK LIMITED,UPCX,uttar_pradesh_cooperative_bank.png,http://www.upcbl.in/,5224151200,upcb.cpscell@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
-268,Uttarakhand Gramin Bank,Uttarakhand Gramin Bank,UTGX,uttarakhand_gramin_bank.png,https://www.uttarakhandgraminbank.com/,1352710660,info@ugb.org.in,Regional Rural Bank,YES,YES,YES,YES,NO
-269,Uttarbanga Kshetriya Gramin Bank,Uttarbanga Kshetriya Gramin Bank,UKGX,uttarbanga_kshetriya_gramin_bank.png,http://www.ubkgb.org/,3582229301,ubkgb_76@rediffmail.com,Regional Rural Bank,YES,YES,YES,YES,NO
 270,Vasai Janata Sahakari Bank,VASAI JANATA SAHAKARI BANK LTD,VASJ,vasai_janata_sahakari_bank.png,https://www.vjsbl.com/,8879001410,neft-rtgs@vjsbl.com,Cooperative Bank,YES,YES,YES,YES,NO
 271,Vasai Vikas Sahakari Bank,VASAI VIKAS SAHAKARI BANK LIMITED,VVSB,vasai_vikas_sahakari_bank.png,https://vvsb.bank.in/,2502326998,rtgs@vasaivikasbank.co.in,Cooperative Bank,YES,YES,YES,YES,NO
-272,Vidharbha Konkan Gramin Bank,Vidharbha Konkan Gramin Bank,WKGX,vidharbha_konkan_gramin.png,https://www.vkgb.co.in/,7122224319,mgbhonnd@gmail.com,Regional Rural Bank,YES,YES,YES,YES,NO
-273,Westpac Banking Corporation,Westpac Banking Corporation,WPAC,westpac_bank.png,https://www.westpac.in,2266271049,csmumbai@westpac.com.au,Foreign Bank,YES,YES,YES,YES,NO
 274,Woori Bank,Woori Bank,HVBK,woori_bank.png,https://wooribank.bank.in/,4433466952,rtgs.hvbk@wooribank.com,Foreign Bank,YES,YES,YES,YES,NO
 275,Yes Bank,YES BANK,YESB,yes_bank.png,https://yes.bank.in/,2233478270,yestouch@yesbank.in,Private Sector Bank,YES,YES,YES,YES,YES
 276,"Zila Sahakri Bank, Ghaziabad",ZILA SAHAKRI BANK LIMITED GHAZIABAD,ZSBL,zila_sahakri_bank_limited_ghaziabad.png,http://www.zsblghaziabad.com/,1202824884,rtgs.zsbl@zsblghaziabad.com,Cooperative Bank,YES,YES,YES,YES,NO
@@ -281,7 +226,6 @@
 287,Urban Co operative Bank Ltd Bareilly,Urban Co operative Bank Ltd Bareilly,UCBX,urban-co-operative-bank-ltd-Bareilly.png,https://ucblb.org,18002743011,gm_ucb@ucblb.org,Cooperative Bank,YES,YES,YES,YES,NO
 288,The Burdwan Central Co-operative Bank,THE BURDWAN CENTRAL COOPERATIVE BANK LTD,BUCB,the-burdwan-central-co-operative-bank.png,https://www.burdwanccb.in/,3422663162,inspection@burdwanccb.in,Cooperative Bank,YES,YES,YES,YES,NO
 289,Ahmedabad Mercantile Cooperative Bank,AHMEDABAD MERCANTILE COOPERATIVE BANK,AMCB,ahmedabad-mercantile-cooperative-bank.png,https://www.amcobank.com/,18002336588,info@amco.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
-290,Bank of Baharain and Kuwait BSC,BANK OF BAHARAIN AND KUWAIT BSC,BBKM,bank-of-baharain-and-kuwait-bsc.png,https://www.bbkindia.com/,2222823698,customercare@bbkindia.com,Foreign Bank,YES,YES,YES,YES,NO
 291,Guardian Souharda Sahakari Bank Niyamita,GUARDIAN SOUHARDA SAHAKARI BANK NIYAMITA,GSSX,guardian-souharda-sahakari-bank-niyamita.png,https://guardianbank.co.in/,8025580972,guardiansouharda@gmail.com,Cooperative Bank,YES,YES,YES,YES,NO
 292,Nonghyup Bank,NONGHYUP BANK,NGBK,nonghyup-bank.png,https://banking.nonghyup.com/,1206982888,noida.branch@nonghyup.com,Foreign Bank,YES,YES,YES,YES,NO
 293,Pay Point India Network,PAY POINT INDIA NETWORK PRIVATE LIMITED,PPNT,pay-point-india-network.png,https://v2022.paypointindia.co.in/Account/Login,2240508888,feedback@paypointindia.com,Fintech / Payment Service,YES,YES,YES,YES,NO
@@ -298,11 +242,15 @@
 304,Ubs AG,UBS AG,UBSB,ubs-ag.png,https://www.ubs.com/in/en.html,2261578000,customercare-india@ubs.com,Foreign Bank,YES,YES,YES,YES,NO
 305,Uttarakhand State Cooperative Bank,UTTARAKHAND STATE COOPERATIVE BANK LIMITED,USCB,uttarakhand-state-cooperative-bank.png,https://ukscb.bank.in/,8191896039,helpdesk@ukstcbank.com,Cooperative Bank,YES,YES,YES,YES,NO
 306,Vikas Souharda Co Operative Bank,VIKAS SOUHARDA CO-OPERATIVE BANK LIMITED,VSCX,vikas-souharda-co-operative-bank.png,https://vikas.bank.in/,8394229771,vcbho@vikas.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
-307,The Jamnagar District Cooperative Bank,"THE JAMNAGAR DISTRICT COOPERATIVE BANK LTD SAMANA
-",JCDX,the-jamnagar-district-cooperative-bank-samana.png,https://jamnagardccb.bank.in/,2882573702,ceo@jamdccb.org,Cooperative Bank,YES,YES,YES,YES,NO
+307,The Jamnagar District Cooperative Bank,The Jamnagar District Cooperative Bank,JCDX,the-jamnagar-district-cooperative-bank-samana.png,https://jamnagardccb.bank.in/,2882573702,ceo@jamdccb.org,Cooperative Bank,YES,YES,YES,YES,NO
 308,Akhand Anand Co-Operative Bank,AKHAND ANAND CO-OPERATIVE BANK LTD,AACX,akhand-anand-co-operative-bank.png,https://akhandanand.bank.in/,2616513020,info@akhandanand.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
 309,Karnataka Grameena Bank,KARNATAKA GRAMEENA BANK,PKGB,karnataka-grameena-bank.png,https://karnatakagb.bank.in/,18008906766,customersupport@kgbk.in,Cooperative Bank,YES,YES,YES,YES,NO
 310,The Kukarwada Nagrik Sahakari Bank,THE KUKARWADA NAGRIK SAHAKARI BANK LTD,KUKX,the-kukarwada-nagrik-sahakari-bank.png,https://kukarwada.bank.in/,9664641362,headoffice@kukarwada.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
 311,The Kurla Nagarik Sahakari Bank,THE KURLA NAGARIK SAHAKARI BANK LTD,KNSB,the-kurla-nagarik-sahakari-bank.png,https://www.kns.bank.in/,2267294300,admin1@kns.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
 312,The Latur Urban Co-Operative Bank,THE LATUR URBAN CO-OPERATIVE BANK LTD,LDCX,the-latur-urban-co-operative-bank.png,https://latururban.bank.in/,2382259503,info@latururban.bank.in,Cooperative Bank,YES,YES,YES,YES,NO
 313,The Nasik Road Deolali Vyapari Sahakari Bank,THE NASIK ROAD DEOLALI VYAPARI SAHAKARI BANK LTD,NRDX,the-nasik-road-deolali-vyapari-sahakari-bank.png,https://www.ndvs.bank.in/,2532465345,info@ndvsbank.com,Cooperative Bank,YES,YES,YES,YES,NO
+314,GUJARAT GRAMIN BANK,GUJARAT GRAMIN BANK,NA,uttar_bihar_gramin_bank.png,https://www.ggb.bank.in/,0265-2361210 ,ho@barodagujaratrrb.co.in ,Regional Rural Bank,YES,YES,YES,YES,NO
+315,HARYANA GRAMIN BANK,HARYANA GRAMIN BANK,NA,uttar_bihar_gramin_bank.png,https://hgb.bank.in/,1800 180 7777,hgbcomplaintshgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
+316,UTTARANCHAL GRAMIN BANK,UTTARANCHAL GRAMIN BANK,NA,uttar_bihar_gramin_bank.png,https://ukgb.bank.in/,1800 123 6230,info@ukgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
+317,UTTAR PRADESH GRAMIN BANK,UTTAR PRADESH GRAMIN BANK,NA,uttar_bihar_gramin_bank.png,https://upgb.bank.in/, 1800-180-0225,HO@upgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO
+318,WEST BENGAL GRAMIN BANK,WEST BENGAL GRAMIN BANK,NA,uttar_bihar_gramin_bank.png,https://www.wbgb.bank.in,1800 180 7777,ho@bgb.bank.in,Regional Rural Bank,YES,YES,YES,YES,NO

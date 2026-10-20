@@ -1,1628 +1,1654 @@
 ﻿state_id,state_name,Bank_id
-1,Andaman And Nicobar,21
-2,Andaman And Nicobar,190
-3,Andaman And Nicobar,81
-4,Andaman And Nicobar,93
-5,Andaman And Nicobar,26
-6,Andaman And Nicobar,29
-7,Andaman And Nicobar,40
-8,Andaman And Nicobar,42
-9,Andaman And Nicobar,87
-10,Andaman And Nicobar,86
-11,Andaman And Nicobar,92
-12,Andaman And Nicobar,22
-13,Andaman And Nicobar,262
-14,Andaman And Nicobar,197
-15,Andaman And Nicobar,260
-16,Andaman And Nicobar,156
-17,Andaman And Nicobar,91
-18,Andaman And Nicobar,30
-19,Andhra Pradesh,53
-20,Andhra Pradesh,86
-21,Andhra Pradesh,71
-22,Andhra Pradesh,22
-23,Andhra Pradesh,93
-24,Andhra Pradesh,262
-25,Andhra Pradesh,88
-26,Andhra Pradesh,81
-27,Andhra Pradesh,115
-28,Andhra Pradesh,190
-29,Andhra Pradesh,40
-30,Andhra Pradesh,165
-31,Andhra Pradesh,206
-32,Andhra Pradesh,47
-33,Andhra Pradesh,21
-34,Andhra Pradesh,275
-35,Andhra Pradesh,91
-36,Andhra Pradesh,29
-37,Andhra Pradesh,87
-38,Andhra Pradesh,26
-39,Andhra Pradesh,42
-40,Andhra Pradesh,73
-41,Andhra Pradesh,30
-42,Andhra Pradesh,156
-43,Andhra Pradesh,265
-44,Andhra Pradesh,57
-45,Andhra Pradesh,58
-46,Andhra Pradesh,201
-47,Andhra Pradesh,112
-48,Andhra Pradesh,290
-49,Andhra Pradesh,45
-50,Andhra Pradesh,119
-51,Andhra Pradesh,209
-52,Andhra Pradesh,63
-53,Andhra Pradesh,70
-54,Andhra Pradesh,84
-55,Andhra Pradesh,92
-56,Andhra Pradesh,100
-57,Andhra Pradesh,154
-58,Andhra Pradesh,231
-59,Andhra Pradesh,242
-60,Andhra Pradesh,187
-61,Andhra Pradesh,260
-62,Andhra Pradesh,166
-63,Andhra Pradesh,189
-64,Andhra Pradesh,172
-65,Andhra Pradesh,286
-66,Andhra Pradesh,48
-67,Andhra Pradesh,197
-68,Andhra Pradesh,19
-69,Andhra Pradesh,75
-70,Andhra Pradesh,101
-71,Andhra Pradesh,261
-72,Andhra Pradesh,301
-73,Arunachal Pradesh,190
-74,Arunachal Pradesh,26
-75,Arunachal Pradesh,73
-76,Arunachal Pradesh,86
-77,Arunachal Pradesh,81
-78,Arunachal Pradesh,29
-79,Arunachal Pradesh,42
-80,Arunachal Pradesh,156
-81,Arunachal Pradesh,40
-82,Arunachal Pradesh,21
-83,Arunachal Pradesh,87
-84,Arunachal Pradesh,91
-85,Arunachal Pradesh,92
-86,Arunachal Pradesh,93
-87,Arunachal Pradesh,30
-88,Arunachal Pradesh,262
-89,Arunachal Pradesh,154
-90,Arunachal Pradesh,296
-91,Arunachal Pradesh,275
-92,Arunachal Pradesh,260
-93,Arunachal Pradesh,22
-94,Arunachal Pradesh,166
-95,Assam,40
-96,Assam,21
-97,Assam,86
-98,Assam,29
-99,Assam,296
-100,Assam,261
-101,Assam,262
-102,Assam,190
-103,Assam,165
-104,Assam,156
-105,Assam,81
-106,Assam,26
-107,Assam,260
-108,Assam,93
-109,Assam,42
-110,Assam,71
-111,Assam,73
-112,Assam,22
-113,Assam,275
-114,Assam,87
-115,Assam,91
-116,Assam,92
-117,Assam,30
-118,Assam,119
-119,Assam,112
-120,Assam,154
-121,Assam,187
-122,Assam,189
-123,Assam,19
-124,Assam,101
-125,Assam,88
-126,Assam,166
-127,Assam,265
-128,Assam,197
-129,Assam,75
-130,Bihar,91
-131,Bihar,190
-132,Bihar,21
-133,Bihar,262
-134,Bihar,119
-135,Bihar,265
-136,Bihar,26
-137,Bihar,40
-138,Bihar,261
-139,Bihar,86
-140,Bihar,42
-141,Bihar,156
-142,Bihar,19
-143,Bihar,30
-144,Bihar,58
-145,Bihar,29
-146,Bihar,53
-147,Bihar,71
-148,Bihar,81
-149,Bihar,22
-150,Bihar,275
-151,Bihar,73
-152,Bihar,87
-153,Bihar,93
-154,Bihar,92
-155,Bihar,100
-156,Bihar,101
-157,Bihar,112
-158,Bihar,154
-159,Bihar,260
-160,Bihar,165
-161,Bihar,187
-162,Bihar,286
-163,Bihar,189
-164,Bihar,88
-165,Bihar,115
-166,Bihar,166
-167,Bihar,75
-168,Bihar,39
-169,Bihar,47
-170,Chandigarh,87
-171,Chandigarh,86
-172,Chandigarh,26
-173,Chandigarh,190
-174,Chandigarh,119
-175,Chandigarh,262
-176,Chandigarh,57
-177,Chandigarh,30
-178,Chandigarh,165
-179,Chandigarh,21
-180,Chandigarh,42
-181,Chandigarh,29
-182,Chandigarh,40
-183,Chandigarh,47
-184,Chandigarh,45
-185,Chandigarh,81
-186,Chandigarh,53
-187,Chandigarh,93
-188,Chandigarh,73
-189,Chandigarh,19
-190,Chandigarh,84
-191,Chandigarh,91
-192,Chandigarh,100
-193,Chandigarh,92
-194,Chandigarh,154
-195,Chandigarh,156
-196,Chandigarh,166
-197,Chandigarh,261
-198,Chandigarh,189
-199,Chandigarh,187
-200,Chandigarh,260
-201,Chandigarh,275
-202,Chandigarh,172
-203,Chandigarh,115
-204,Chandigarh,88
-205,Chandigarh,112
-206,Chandigarh,22
-207,Chandigarh,41
-208,Chandigarh,70
-209,Chandigarh,101
-210,Chandigarh,71
-211,Chandigarh,265
-212,Chattisgarh,21
-213,Chattisgarh,40
-214,Chattisgarh,47
-215,Chattisgarh,119
-216,Chattisgarh,86
-217,Chattisgarh,260
-218,Chattisgarh,87
-219,Chattisgarh,190
-220,Chattisgarh,71
-221,Chattisgarh,81
-222,Chattisgarh,88
-223,Chattisgarh,156
-224,Chattisgarh,26
-225,Chattisgarh,265
-226,Chattisgarh,275
-227,Chattisgarh,30
-228,Chattisgarh,58
-229,Chattisgarh,93
-230,Chattisgarh,44
-231,Chattisgarh,164
-232,Chattisgarh,42
-233,Chattisgarh,29
-234,Chattisgarh,262
-235,Chattisgarh,19
-236,Chattisgarh,91
-237,Chattisgarh,92
-238,Chattisgarh,137
-239,Chattisgarh,22
-240,Chattisgarh,115
-241,Chattisgarh,112
-242,Chattisgarh,154
-243,Chattisgarh,261
-244,Chattisgarh,187
-245,Chattisgarh,286
-246,Chattisgarh,101
-247,Chattisgarh,70
-248,Chattisgarh,165
-249,Chattisgarh,73
-250,Chattisgarh,166
-251,Chattisgarh,197
-252,Chattisgarh,172
-253,Chattisgarh,75
-254,Chattisgarh,57
-255,Chattisgarh,257
-256,Dadra And Nagar Haveli,29
-257,Dadra And Nagar Haveli,26
-258,Dadra And Nagar Haveli,42
-259,Dadra And Nagar Haveli,40
-260,Dadra And Nagar Haveli,81
-261,Dadra And Nagar Haveli,53
-262,Dadra And Nagar Haveli,58
-263,Dadra And Nagar Haveli,73
-264,Dadra And Nagar Haveli,87
-265,Dadra And Nagar Haveli,91
-266,Dadra And Nagar Haveli,86
-267,Dadra And Nagar Haveli,92
-268,Dadra And Nagar Haveli,30
-269,Dadra And Nagar Haveli,119
-270,Dadra And Nagar Haveli,156
-271,Dadra And Nagar Haveli,165
-272,Dadra And Nagar Haveli,190
-273,Dadra And Nagar Haveli,197
-274,Dadra And Nagar Haveli,21
-275,Dadra And Nagar Haveli,260
-276,Dadra And Nagar Haveli,93
-277,Dadra And Nagar Haveli,22
-278,Dadra And Nagar Haveli,262
-279,Dadra And Nagar Haveli,88
-280,Daman And Diu,26
-281,Daman And Diu,29
-282,Daman And Diu,42
-283,Daman And Diu,46
-284,Daman And Diu,40
-285,Daman And Diu,81
-286,Daman And Diu,58
-287,Daman And Diu,73
-288,Daman And Diu,156
-289,Daman And Diu,87
-290,Daman And Diu,91
-291,Daman And Diu,190
-292,Daman And Diu,165
-293,Daman And Diu,21
-294,Daman And Diu,262
-295,Daman And Diu,260
-296,Daman And Diu,86
-297,Daman And Diu,93
-298,Daman And Diu,119
-299,Daman And Diu,75
-300,Daman And Diu,275
-301,Delhi,22
-302,Delhi,53
-303,Delhi,21
-304,Delhi,40
-305,Delhi,190
-306,Delhi,70
-307,Delhi,262
-308,Delhi,92
-309,Delhi,88
-310,Delhi,119
-311,Delhi,86
-312,Delhi,275
-313,Delhi,19
-314,Delhi,265
-315,Delhi,93
-316,Delhi,165
-317,Delhi,26
-318,Delhi,42
-319,Delhi,156
-320,Delhi,81
-321,Delhi,57
-322,Delhi,29
-323,Delhi,47
-324,Delhi,71
-325,Delhi,154
-326,Delhi,30
-327,Delhi,90
-328,Delhi,115
-329,Delhi,38
-330,Delhi,134
-331,Delhi,45
-332,Delhi,100
-333,Delhi,58
-334,Delhi,73
-335,Delhi,63
-336,Delhi,61
-337,Delhi,210
-338,Delhi,87
-339,Delhi,91
-340,Delhi,84
-341,Delhi,218
-342,Delhi,132
-343,Delhi,112
-344,Delhi,230
-345,Delhi,166
-346,Delhi,176
-347,Delhi,41
-348,Delhi,101
-349,Delhi,187
-350,Delhi,172
-351,Delhi,189
-352,Delhi,192
-353,Delhi,179
-354,Delhi,197
-355,Delhi,242
-356,Delhi,260
-357,Delhi,261
-358,Delhi,24
-359,Delhi,54
-360,Delhi,290
-361,Delhi,184
-362,Delhi,51
-363,Delhi,95
-364,Delhi,98
-365,Delhi,75
-366,Delhi,39
-367,Delhi,286
-368,Delhi,109
-369,Delhi,180
-370,Goa,40
-371,Goa,93
-372,Goa,156
-373,Goa,26
-374,Goa,14
-375,Goa,29
-376,Goa,42
-377,Goa,46
-378,Goa,81
-379,Goa,63
-380,Goa,73
-381,Goa,53
-382,Goa,58
-383,Goa,87
-384,Goa,86
-385,Goa,88
-386,Goa,257
-387,Goa,91
-388,Goa,92
-389,Goa,112
-390,Goa,100
-391,Goa,30
-392,Goa,143
-393,Goa,166
-394,Goa,119
-395,Goa,154
-396,Goa,19
-397,Goa,190
-398,Goa,21
-399,Goa,165
-400,Goa,172
-401,Goa,187
-402,Goa,101
-403,Goa,242
-404,Goa,262
-405,Goa,260
-406,Goa,265
-407,Goa,275
-408,Goa,115
-409,Goa,78
-410,Goa,22
-411,Goa,261
-412,Goa,75
-413,Goa,286
-414,Goa,47
-415,Gujarat,2
-416,Gujarat,40
-417,Gujarat,86
-418,Gujarat,151
-419,Gujarat,19
-420,Gujarat,190
-421,Gujarat,81
-422,Gujarat,154
-423,Gujarat,22
-424,Gujarat,47
-425,Gujarat,111
-426,Gujarat,119
-427,Gujarat,213
-428,Gujarat,26
-429,Gujarat,277
-430,Gujarat,21
-431,Gujarat,93
-432,Gujarat,251
-433,Gujarat,88
-434,Gujarat,53
-435,Gujarat,70
-436,Gujarat,261
-437,Gujarat,289
-438,Gujarat,42
-439,Gujarat,280
-440,Gujarat,30
-441,Gujarat,91
-442,Gujarat,275
-443,Gujarat,58
-444,Gujarat,101
-445,Gujarat,57
-446,Gujarat,29
-447,Gujarat,165
-448,Gujarat,156
-449,Gujarat,73
-450,Gujarat,260
-451,Gujarat,265
-452,Gujarat,262
-453,Gujarat,216
-454,Gujarat,71
-455,Gujarat,45
-456,Gujarat,63
-457,Gujarat,61
-458,Gujarat,209
-459,Gujarat,87
-460,Gujarat,146
-461,Gujarat,84
-462,Gujarat,92
-463,Gujarat,100
-464,Gujarat,112
-465,Gujarat,226
-466,Gujarat,143
-467,Gujarat,115
-468,Gujarat,231
-469,Gujarat,232
-470,Gujarat,166
-471,Gujarat,244
-472,Gujarat,163
-473,Gujarat,274
-474,Gujarat,172
-475,Gujarat,187
-476,Gujarat,189
-477,Gujarat,245
-478,Gujarat,252
-479,Gujarat,286
-480,Gujarat,197
-481,Gujarat,257
-482,Gujarat,242
-483,Gujarat,195
-484,Gujarat,179
-485,Gujarat,193
-486,Gujarat,105
-487,Gujarat,255
-488,Gujarat,37
-489,Gujarat,132
-490,Gujarat,303
-491,Gujarat,194
-492,Gujarat,75
-493,Gujarat,171
-494,Gujarat,233
-495,Gujarat,39
-496,Gujarat,180
-497,Gujarat,300
-498,Gujarat,308
-499,Gujarat,310
-500,Haryana,40
-501,Haryana,21
-502,Haryana,88
-503,Haryana,70
-504,Haryana,190
-505,Haryana,154
-506,Haryana,30
-507,Haryana,165
-508,Haryana,119
-509,Haryana,81
-510,Haryana,86
-511,Haryana,47
-512,Haryana,29
-513,Haryana,63
-514,Haryana,19
-515,Haryana,58
-516,Haryana,101
-517,Haryana,41
-518,Haryana,265
-519,Haryana,275
-520,Haryana,93
-521,Haryana,26
-522,Haryana,42
-523,Haryana,53
-524,Haryana,57
-525,Haryana,92
-526,Haryana,262
-527,Haryana,69
-528,Haryana,112
-529,Haryana,45
-530,Haryana,260
-531,Haryana,87
-532,Haryana,73
-533,Haryana,156
-534,Haryana,61
-535,Haryana,22
-536,Haryana,84
-537,Haryana,91
-538,Haryana,100
-539,Haryana,115
-540,Haryana,230
-541,Haryana,189
-542,Haryana,261
-543,Haryana,187
-544,Haryana,286
-545,Haryana,6
-546,Haryana,180
-547,Haryana,172
-548,Haryana,242
-549,Haryana,197
-550,Haryana,116
-551,Haryana,274
-552,Haryana,75
-553,Haryana,80
-554,Haryana,71
-555,Haryana,118
-556,Haryana,166
-557,Haryana,296
-558,Himachal Pradesh,40
-559,Himachal Pradesh,260
-560,Himachal Pradesh,119
-561,Himachal Pradesh,81
-562,Himachal Pradesh,190
-563,Himachal Pradesh,86
-564,Himachal Pradesh,42
-565,Himachal Pradesh,30
-566,Himachal Pradesh,156
-567,Himachal Pradesh,26
-568,Himachal Pradesh,265
-569,Himachal Pradesh,262
-570,Himachal Pradesh,166
-571,Himachal Pradesh,217
-572,Himachal Pradesh,29
-573,Himachal Pradesh,21
-574,Himachal Pradesh,53
-575,Himachal Pradesh,87
-576,Himachal Pradesh,91
-577,Himachal Pradesh,93
-578,Himachal Pradesh,100
-579,Himachal Pradesh,92
-580,Himachal Pradesh,154
-581,Himachal Pradesh,187
-582,Himachal Pradesh,275
-583,Himachal Pradesh,41
-584,Himachal Pradesh,83
-585,Himachal Pradesh,22
-586,Himachal Pradesh,19
-587,Himachal Pradesh,75
-588,Himachal Pradesh,261
-589,Himachal Pradesh,165
-590,Himachal Pradesh,88
-591,Himachal Pradesh,73
-592,Himachal Pradesh,70
-593,Jammu And Kashmir,86
-594,Jammu And Kashmir,262
-595,Jammu And Kashmir,190
-596,Jammu And Kashmir,100
-597,Jammu And Kashmir,93
-598,Jammu And Kashmir,81
-599,Jammu And Kashmir,26
-600,Jammu And Kashmir,29
-601,Jammu And Kashmir,260
-602,Jammu And Kashmir,30
-603,Jammu And Kashmir,40
-604,Jammu And Kashmir,42
-605,Jammu And Kashmir,156
-606,Jammu And Kashmir,73
-607,Jammu And Kashmir,87
-608,Jammu And Kashmir,19
-609,Jammu And Kashmir,91
-610,Jammu And Kashmir,92
-611,Jammu And Kashmir,119
-612,Jammu And Kashmir,154
-613,Jammu And Kashmir,41
-614,Jammu And Kashmir,265
-615,Jammu And Kashmir,21
-616,Jammu And Kashmir,275
-617,Jammu And Kashmir,187
-618,Jammu And Kashmir,166
-619,Jammu And Kashmir,22
-620,Jammu And Kashmir,88
-621,Jammu And Kashmir,39
-622,Jammu And Kashmir,165
-623,Jharkhand,40
-624,Jharkhand,47
-625,Jharkhand,119
-626,Jharkhand,86
-627,Jharkhand,262
-628,Jharkhand,87
-629,Jharkhand,265
-630,Jharkhand,30
-631,Jharkhand,261
-632,Jharkhand,42
-633,Jharkhand,93
-634,Jharkhand,81
-635,Jharkhand,26
-636,Jharkhand,53
-637,Jharkhand,57
-638,Jharkhand,75
-639,Jharkhand,21
-640,Jharkhand,92
-641,Jharkhand,29
-642,Jharkhand,91
-643,Jharkhand,156
-644,Jharkhand,58
-645,Jharkhand,73
-646,Jharkhand,100
-647,Jharkhand,101
-648,Jharkhand,190
-649,Jharkhand,115
-650,Jharkhand,112
-651,Jharkhand,22
-652,Jharkhand,154
-653,Jharkhand,71
-654,Jharkhand,187
-655,Jharkhand,286
-656,Jharkhand,275
-657,Jharkhand,260
-658,Jharkhand,88
-659,Jharkhand,19
-660,Jharkhand,165
-661,Jharkhand,166
-662,Karnataka,2
-663,Karnataka,40
-664,Karnataka,86
-665,Karnataka,70
-666,Karnataka,93
-667,Karnataka,22
-668,Karnataka,119
-669,Karnataka,73
-670,Karnataka,47
-671,Karnataka,19
-672,Karnataka,21
-673,Karnataka,87
-674,Karnataka,92
-675,Karnataka,30
-676,Karnataka,190
-677,Karnataka,262
-678,Karnataka,81
-679,Karnataka,53
-680,Karnataka,261
-681,Karnataka,71
-682,Karnataka,26
-683,Karnataka,88
-684,Karnataka,220
-685,Karnataka,42
-686,Karnataka,112
-687,Karnataka,165
-688,Karnataka,275
-689,Karnataka,156
-690,Karnataka,101
-691,Karnataka,57
-692,Karnataka,29
-693,Karnataka,187
-694,Karnataka,259
-695,Karnataka,265
-696,Karnataka,37
-697,Karnataka,115
-698,Karnataka,309
-699,Karnataka,38
-700,Karnataka,24
-701,Karnataka,134
-702,Karnataka,91
-703,Karnataka,100
-704,Karnataka,63
-705,Karnataka,61
-706,Karnataka,209
-707,Karnataka,58
-708,Karnataka,172
-709,Karnataka,84
-710,Karnataka,110
-711,Karnataka,242
-712,Karnataka,132
-713,Karnataka,143
-714,Karnataka,154
-715,Karnataka,189
-716,Karnataka,182
-717,Karnataka,78
-718,Karnataka,286
-719,Karnataka,197
-720,Karnataka,257
-721,Karnataka,260
-722,Karnataka,253
-723,Karnataka,191
-724,Karnataka,45
-725,Karnataka,51
-726,Karnataka,166
-727,Karnataka,185
-728,Karnataka,98
-729,Karnataka,183
-730,Karnataka,116
-731,Karnataka,203
-732,Karnataka,296
-733,Karnataka,188
-734,Karnataka,106
-735,Karnataka,291
-736,Karnataka,306
-737,Karnataka,75
-738,Karnataka,180
-739,Karnataka,294
-740,Karnataka,192
-741,Kerala,40
-742,Kerala,70
-743,Kerala,197
-744,Kerala,154
-745,Kerala,87
-746,Kerala,21
-747,Kerala,119
-748,Kerala,86
-749,Kerala,262
-750,Kerala,63
-751,Kerala,92
-752,Kerala,165
-753,Kerala,30
-754,Kerala,166
-755,Kerala,53
-756,Kerala,71
-757,Kerala,81
-758,Kerala,261
-759,Kerala,42
-760,Kerala,93
-761,Kerala,187
-762,Kerala,26
-763,Kerala,275
-764,Kerala,57
-765,Kerala,190
-766,Kerala,73
-767,Kerala,117
-768,Kerala,91
-769,Kerala,290
-770,Kerala,29
-771,Kerala,47
-772,Kerala,45
-773,Kerala,19
-774,Kerala,156
-775,Kerala,84
-776,Kerala,112
-777,Kerala,100
-778,Kerala,22
-779,Kerala,115
-780,Kerala,88
-781,Kerala,221
-782,Kerala,265
-783,Kerala,302
-784,Kerala,260
-785,Kerala,189
-786,Kerala,286
-787,Kerala,58
-788,Kerala,65
-789,Kerala,234
-790,Kerala,75
-791,Ladakh,86
-792,Ladakh,21
-793,Ladakh,30
-794,Lakshadweep,30
-795,Lakshadweep,40
-796,Lakshadweep,190
-797,Lakshadweep,260
-798,Lakshadweep,275
-799,Lakshadweep,81
-800,Lakshadweep,156
-801,Lakshadweep,262
-802,Madhya Pradesh,7
-803,Madhya Pradesh,86
-804,Madhya Pradesh,29
-805,Madhya Pradesh,21
-806,Madhya Pradesh,22
-807,Madhya Pradesh,40
-808,Madhya Pradesh,119
-809,Madhya Pradesh,190
-810,Madhya Pradesh,19
-811,Madhya Pradesh,156
-812,Madhya Pradesh,47
-813,Madhya Pradesh,81
-814,Madhya Pradesh,262
-815,Madhya Pradesh,26
-816,Madhya Pradesh,71
-817,Madhya Pradesh,275
-818,Madhya Pradesh,53
-819,Madhya Pradesh,70
-820,Madhya Pradesh,88
-821,Madhya Pradesh,30
-822,Madhya Pradesh,42
-823,Madhya Pradesh,58
-824,Madhya Pradesh,101
-825,Madhya Pradesh,57
-826,Madhya Pradesh,154
-827,Madhya Pradesh,265
-828,Madhya Pradesh,260
-829,Madhya Pradesh,165
-830,Madhya Pradesh,92
-831,Madhya Pradesh,284
-832,Madhya Pradesh,73
-833,Madhya Pradesh,209
-834,Madhya Pradesh,63
-835,Madhya Pradesh,87
-836,Madhya Pradesh,91
-837,Madhya Pradesh,93
-838,Madhya Pradesh,100
-839,Madhya Pradesh,112
-840,Madhya Pradesh,137
-841,Madhya Pradesh,115
-842,Madhya Pradesh,257
-843,Madhya Pradesh,261
-844,Madhya Pradesh,286
-845,Madhya Pradesh,189
-846,Madhya Pradesh,187
-847,Madhya Pradesh,172
-848,Madhya Pradesh,143
-849,Madhya Pradesh,242
-850,Madhya Pradesh,166
-851,Madhya Pradesh,197
-852,Madhya Pradesh,66
-853,Madhya Pradesh,205
-854,Madhya Pradesh,180
-855,Madhya Pradesh,215
-856,Madhya Pradesh,194
-857,Madhya Pradesh,75
-858,Madhya Pradesh,39
-859,Madhya Pradesh,84
-860,Maharashtra,2
-861,Maharashtra,40
-862,Maharashtra,257
-863,Maharashtra,298
-864,Maharashtra,7
-865,Maharashtra,53
-866,Maharashtra,29
-867,Maharashtra,275
-868,Maharashtra,71
-869,Maharashtra,21
-870,Maharashtra,88
-871,Maharashtra,22
-872,Maharashtra,190
-873,Maharashtra,81
-874,Maharashtra,156
-875,Maharashtra,91
-876,Maharashtra,119
-877,Maharashtra,19
-878,Maharashtra,125
-879,Maharashtra,87
-880,Maharashtra,86
-881,Maharashtra,154
-882,Maharashtra,64
-883,Maharashtra,59
-884,Maharashtra,26
-885,Maharashtra,47
-886,Maharashtra,58
-887,Maharashtra,265
-888,Maharashtra,262
-889,Maharashtra,30
-890,Maharashtra,202
-891,Maharashtra,240
-892,Maharashtra,162
-893,Maharashtra,243
-894,Maharashtra,93
-895,Maharashtra,126
-896,Maharashtra,172
-897,Maharashtra,42
-898,Maharashtra,289
-899,Maharashtra,73
-900,Maharashtra,187
-901,Maharashtra,85
-902,Maharashtra,165
-903,Maharashtra,205
-904,Maharashtra,261
-905,Maharashtra,57
-906,Maharashtra,14
-907,Maharashtra,66
-908,Maharashtra,84
-909,Maharashtra,112
-910,Maharashtra,92
-911,Maharashtra,274
-912,Maharashtra,20
-913,Maharashtra,105
-914,Maharashtra,35
-915,Maharashtra,242
-916,Maharashtra,32
-917,Maharashtra,290
-918,Maharashtra,248
-919,Maharashtra,37
-920,Maharashtra,99
-921,Maharashtra,38
-922,Maharashtra,24
-923,Maharashtra,134
-924,Maharashtra,46
-925,Maharashtra,299
-926,Maharashtra,98
-927,Maharashtra,45
-928,Maharashtra,100
-929,Maharashtra,209
-930,Maharashtra,304
-931,Maharashtra,212
-932,Maharashtra,63
-933,Maharashtra,211
-934,Maharashtra,61
-935,Maharashtra,60
-936,Maharashtra,181
-937,Maharashtra,72
-938,Maharashtra,94
-939,Maharashtra,152
-940,Maharashtra,215
-941,Maharashtra,102
-942,Maharashtra,104
-943,Maharashtra,110
-944,Maharashtra,103
-945,Maharashtra,137
-946,Maharashtra,79
-947,Maharashtra,227
-948,Maharashtra,132
-949,Maharashtra,143
-950,Maharashtra,129
-951,Maharashtra,260
-952,Maharashtra,228
-953,Maharashtra,219
-954,Maharashtra,216
-955,Maharashtra,115
-956,Maharashtra,78
-957,Maharashtra,231
-958,Maharashtra,146
-959,Maharashtra,207
-960,Maharashtra,166
-961,Maharashtra,189
-962,Maharashtra,195
-963,Maharashtra,236
-964,Maharashtra,127
-965,Maharashtra,101
-966,Maharashtra,159
-967,Maharashtra,247
-968,Maharashtra,270
-969,Maharashtra,182
-970,Maharashtra,36
-971,Maharashtra,224
-972,Maharashtra,185
-973,Maharashtra,184
-974,Maharashtra,286
-975,Maharashtra,194
-976,Maharashtra,229
-977,Maharashtra,145
-978,Maharashtra,169
-979,Maharashtra,197
-980,Maharashtra,70
-981,Maharashtra,278
-982,Maharashtra,177
-983,Maharashtra,312
-984,Maharashtra,263
-985,Maharashtra,253
-986,Maharashtra,271
-987,Maharashtra,214
-988,Maharashtra,245
-989,Maharashtra,9
-990,Maharashtra,179
-991,Maharashtra,5
-992,Maharashtra,51
-993,Maharashtra,178
-994,Maharashtra,255
-995,Maharashtra,65
-996,Maharashtra,76
-997,Maharashtra,69
-998,Maharashtra,111
-999,Maharashtra,226
-1000,Maharashtra,192
-1001,Maharashtra,208
-1002,Maharashtra,157
-1003,Maharashtra,16
-1004,Maharashtra,139
-1005,Maharashtra,222
-1006,Maharashtra,75
-1007,Maharashtra,108
-1008,Maharashtra,116
-1009,Maharashtra,203
-1010,Maharashtra,141
-1011,Maharashtra,174
-1012,Maharashtra,160
-1013,Maharashtra,133
-1014,Maharashtra,39
-1015,Maharashtra,176
-1016,Maharashtra,28
-1017,Maharashtra,180
-1018,Maharashtra,118
-1019,Maharashtra,213
-1020,Maharashtra,293
-1021,Maharashtra,311
-1022,Maharashtra,313
-1023,Manipur,262
-1024,Manipur,26
-1025,Manipur,190
-1026,Manipur,296
-1027,Manipur,156
-1028,Manipur,275
-1029,Manipur,29
-1030,Manipur,166
-1031,Manipur,93
-1032,Manipur,42
-1033,Manipur,81
-1034,Manipur,87
-1035,Manipur,86
-1036,Manipur,22
-1037,Manipur,92
-1038,Manipur,154
-1039,Manipur,21
-1040,Manipur,260
-1041,Manipur,91
-1042,Manipur,40
-1043,Manipur,30
-1044,Meghalaya,296
-1045,Meghalaya,81
-1046,Meghalaya,190
-1047,Meghalaya,93
-1048,Meghalaya,26
-1049,Meghalaya,86
-1050,Meghalaya,73
-1051,Meghalaya,29
-1052,Meghalaya,42
-1053,Meghalaya,71
-1054,Meghalaya,40
-1055,Meghalaya,156
-1056,Meghalaya,275
-1057,Meghalaya,87
-1058,Meghalaya,91
-1059,Meghalaya,92
-1060,Meghalaya,30
-1061,Meghalaya,119
-1062,Meghalaya,154
-1063,Meghalaya,281
-1064,Meghalaya,21
-1065,Meghalaya,101
-1066,Meghalaya,187
-1067,Meghalaya,260
-1068,Meghalaya,262
-1069,Meghalaya,166
-1070,Meghalaya,22
-1071,Meghalaya,88
-1072,Meghalaya,261
-1073,Meghalaya,265
-1074,Mizoram,296
-1075,Mizoram,190
-1076,Mizoram,156
-1077,Mizoram,81
-1078,Mizoram,26
-1079,Mizoram,73
-1080,Mizoram,29
-1081,Mizoram,42
-1082,Mizoram,40
-1083,Mizoram,166
-1084,Mizoram,86
-1085,Mizoram,87
-1086,Mizoram,92
-1087,Mizoram,30
-1088,Mizoram,262
-1089,Mizoram,154
-1090,Mizoram,22
-1091,Mizoram,21
-1092,Mizoram,187
-1093,Mizoram,260
-1094,Mizoram,275
-1095,Mizoram,93
-1096,Mizoram,91
-1097,Nagaland,190
-1098,Nagaland,40
-1099,Nagaland,88
-1100,Nagaland,275
-1101,Nagaland,26
-1102,Nagaland,73
-1103,Nagaland,154
-1104,Nagaland,29
-1105,Nagaland,71
-1106,Nagaland,42
-1107,Nagaland,81
-1108,Nagaland,87
-1109,Nagaland,86
-1110,Nagaland,91
-1111,Nagaland,93
-1112,Nagaland,92
-1113,Nagaland,30
-1114,Nagaland,156
-1115,Nagaland,21
-1116,Nagaland,296
-1117,Nagaland,262
-1118,Nagaland,260
-1119,Nagaland,22
-1120,Nagaland,187
-1121,Nagaland,166
-1122,Odisha,21
-1123,Odisha,190
-1124,Odisha,88
-1125,Odisha,29
-1126,Odisha,40
-1127,Odisha,260
-1128,Odisha,119
-1129,Odisha,265
-1130,Odisha,81
-1131,Odisha,101
-1132,Odisha,58
-1133,Odisha,262
-1134,Odisha,86
-1135,Odisha,261
-1136,Odisha,93
-1137,Odisha,156
-1138,Odisha,275
-1139,Odisha,30
-1140,Odisha,165
-1141,Odisha,26
-1142,Odisha,47
-1143,Odisha,57
-1144,Odisha,71
-1145,Odisha,87
-1146,Odisha,166
-1147,Odisha,42
-1148,Odisha,154
-1149,Odisha,22
-1150,Odisha,73
-1151,Odisha,53
-1152,Odisha,91
-1153,Odisha,92
-1154,Odisha,112
-1155,Odisha,115
-1156,Odisha,235
-1157,Odisha,187
-1158,Odisha,286
-1159,Odisha,189
-1160,Odisha,197
-1161,Odisha,19
-1162,Odisha,194
-1163,Odisha,75
-1164,Pondicherry,26
-1165,Pondicherry,57
-1166,Pondicherry,261
-1167,Pondicherry,81
-1168,Pondicherry,42
-1169,Pondicherry,29
-1170,Pondicherry,40
-1171,Pondicherry,47
-1172,Pondicherry,53
-1173,Pondicherry,73
-1174,Pondicherry,87
-1175,Pondicherry,86
-1176,Pondicherry,91
-1177,Pondicherry,92
-1178,Pondicherry,30
-1179,Pondicherry,119
-1180,Pondicherry,115
-1181,Pondicherry,112
-1182,Pondicherry,21
-1183,Pondicherry,156
-1184,Pondicherry,190
-1185,Pondicherry,187
-1186,Pondicherry,197
-1187,Pondicherry,265
-1188,Pondicherry,260
-1189,Pondicherry,262
-1190,Pondicherry,70
-1191,Pondicherry,275
-1192,Pondicherry,93
-1193,Pondicherry,154
-1194,Pondicherry,101
-1195,Pondicherry,246
-1196,Pondicherry,22
-1197,Pondicherry,194
-1198,Pondicherry,19
-1199,Pondicherry,88
-1200,Pondicherry,71
-1201,Pondicherry,63
-1202,Punjab,40
-1203,Punjab,70
-1204,Punjab,101
-1205,Punjab,30
-1206,Punjab,92
-1207,Punjab,119
-1208,Punjab,21
-1209,Punjab,47
-1210,Punjab,190
-1211,Punjab,19
-1212,Punjab,165
-1213,Punjab,262
-1214,Punjab,81
-1215,Punjab,41
-1216,Punjab,275
-1217,Punjab,86
-1218,Punjab,154
-1219,Punjab,93
-1220,Punjab,42
-1221,Punjab,26
-1222,Punjab,53
-1223,Punjab,156
-1224,Punjab,57
-1225,Punjab,73
-1226,Punjab,29
-1227,Punjab,71
-1228,Punjab,100
-1229,Punjab,58
-1230,Punjab,63
-1231,Punjab,61
-1232,Punjab,87
-1233,Punjab,91
-1234,Punjab,112
-1235,Punjab,88
-1236,Punjab,115
-1237,Punjab,22
-1238,Punjab,261
-1239,Punjab,187
-1240,Punjab,189
-1241,Punjab,197
-1242,Punjab,265
-1243,Punjab,260
-1244,Punjab,172
-1245,Punjab,286
-1246,Punjab,237
-1247,Punjab,75
-1248,Punjab,84
-1249,Rajasthan,40
-1250,Rajasthan,29
-1251,Rajasthan,190
-1252,Rajasthan,42
-1253,Rajasthan,93
-1254,Rajasthan,165
-1255,Rajasthan,19
-1256,Rajasthan,119
-1257,Rajasthan,30
-1258,Rajasthan,260
-1259,Rajasthan,86
-1260,Rajasthan,21
-1261,Rajasthan,239
-1262,Rajasthan,81
-1263,Rajasthan,265
-1264,Rajasthan,262
-1265,Rajasthan,58
-1266,Rajasthan,88
-1267,Rajasthan,261
-1268,Rajasthan,91
-1269,Rajasthan,275
-1270,Rajasthan,87
-1271,Rajasthan,26
-1272,Rajasthan,295
-1273,Rajasthan,101
-1274,Rajasthan,53
-1275,Rajasthan,22
-1276,Rajasthan,47
-1277,Rajasthan,57
-1278,Rajasthan,71
-1279,Rajasthan,154
-1280,Rajasthan,156
-1281,Rajasthan,134
-1282,Rajasthan,73
-1283,Rajasthan,63
-1284,Rajasthan,84
-1285,Rajasthan,92
-1286,Rajasthan,100
-1287,Rajasthan,115
-1288,Rajasthan,112
-1289,Rajasthan,41
-1290,Rajasthan,230
-1291,Rajasthan,166
-1292,Rajasthan,189
-1293,Rajasthan,187
-1294,Rajasthan,286
-1295,Rajasthan,197
-1296,Rajasthan,242
-1297,Rajasthan,70
-1298,Rajasthan,201
-1299,Rajasthan,75
-1300,Rajasthan,172
-1301,Rajasthan,249
-1302,Rajasthan,39
-1303,Rajasthan,257
-1304,Sikkim,190
-1305,Sikkim,93
-1306,Sikkim,26
-1307,Sikkim,29
-1308,Sikkim,42
-1309,Sikkim,40
-1310,Sikkim,81
-1311,Sikkim,87
-1312,Sikkim,86
-1313,Sikkim,92
-1314,Sikkim,275
-1315,Sikkim,30
-1316,Sikkim,119
-1317,Sikkim,154
-1318,Sikkim,156
-1319,Sikkim,296
-1320,Sikkim,187
-1321,Sikkim,262
-1322,Sikkim,21
-1323,Sikkim,260
-1324,Sikkim,22
-1325,Sikkim,112
-1326,Sikkim,265
-1327,Sikkim,166
-1328,Sikkim,101
-1329,Sikkim,91
-1330,Sikkim,88
-1331,Tamil Nadu,40
-1332,Tamil Nadu,70
-1333,Tamil Nadu,53
-1334,Tamil Nadu,86
-1335,Tamil Nadu,91
-1336,Tamil Nadu,190
-1337,Tamil Nadu,119
-1338,Tamil Nadu,87
-1339,Tamil Nadu,21
-1340,Tamil Nadu,19
-1341,Tamil Nadu,63
-1342,Tamil Nadu,92
-1343,Tamil Nadu,93
-1344,Tamil Nadu,73
-1345,Tamil Nadu,30
-1346,Tamil Nadu,81
-1347,Tamil Nadu,165
-1348,Tamil Nadu,261
-1349,Tamil Nadu,88
-1350,Tamil Nadu,115
-1351,Tamil Nadu,42
-1352,Tamil Nadu,275
-1353,Tamil Nadu,262
-1354,Tamil Nadu,26
-1355,Tamil Nadu,101
-1356,Tamil Nadu,57
-1357,Tamil Nadu,71
-1358,Tamil Nadu,58
-1359,Tamil Nadu,47
-1360,Tamil Nadu,260
-1361,Tamil Nadu,265
-1362,Tamil Nadu,197
-1363,Tamil Nadu,29
-1364,Tamil Nadu,27
-1365,Tamil Nadu,38
-1366,Tamil Nadu,24
-1367,Tamil Nadu,134
-1368,Tamil Nadu,45
-1369,Tamil Nadu,156
-1370,Tamil Nadu,61
-1371,Tamil Nadu,209
-1372,Tamil Nadu,22
-1373,Tamil Nadu,84
-1374,Tamil Nadu,100
-1375,Tamil Nadu,132
-1376,Tamil Nadu,112
-1377,Tamil Nadu,154
-1378,Tamil Nadu,187
-1379,Tamil Nadu,189
-1380,Tamil Nadu,179
-1381,Tamil Nadu,286
-1382,Tamil Nadu,166
-1383,Tamil Nadu,69
-1384,Tamil Nadu,242
-1385,Tamil Nadu,246
-1386,Tamil Nadu,274
-1387,Tamil Nadu,54
-1388,Tamil Nadu,65
-1389,Tamil Nadu,194
-1390,Tamil Nadu,51
-1391,Tamil Nadu,75
-1392,Tamil Nadu,192
-1393,Tamil Nadu,118
-1394,Tamil Nadu,180
-1395,Tamil Nadu,196
-1396,Tamil Nadu,116
-1397,Telangana,40
-1398,Telangana,190
-1399,Telangana,81
-1400,Telangana,29
-1401,Telangana,21
-1402,Telangana,86
-1403,Telangana,260
-1404,Telangana,297
-1405,Telangana,119
-1406,Telangana,262
-1407,Telangana,165
-1408,Telangana,115
-1409,Telangana,58
-1410,Telangana,112
-1411,Telangana,42
-1412,Telangana,30
-1413,Telangana,88
-1414,Telangana,19
-1415,Telangana,91
-1416,Telangana,275
-1417,Telangana,57
-1418,Telangana,53
-1419,Telangana,47
-1420,Telangana,71
-1421,Telangana,73
-1422,Telangana,26
-1423,Telangana,22
-1424,Telangana,265
-1425,Telangana,286
-1426,Telangana,261
-1427,Telangana,156
-1428,Telangana,93
-1429,Telangana,87
-1430,Telangana,201
-1431,Telangana,199
-1432,Telangana,92
-1433,Telangana,198
-1434,Telangana,56
-1435,Telangana,187
-1436,Telangana,154
-1437,Telangana,70
-1438,Telangana,166
-1439,Telangana,179
-1440,Telangana,172
-1441,Telangana,63
-1442,Telangana,209
-1443,Telangana,101
-1444,Telangana,197
-1445,Telangana,75
-1446,Telangana,39
-1447,Telangana,242
-1448,Telangana,180
-1449,Telangana,301
-1450,Tripura,40
-1451,Tripura,296
-1452,Tripura,262
-1453,Tripura,81
-1454,Tripura,26
-1455,Tripura,29
-1456,Tripura,156
-1457,Tripura,42
-1458,Tripura,73
-1459,Tripura,87
-1460,Tripura,86
-1461,Tripura,91
-1462,Tripura,92
-1463,Tripura,88
-1464,Tripura,30
-1465,Tripura,154
-1466,Tripura,190
-1467,Tripura,187
-1468,Tripura,260
-1469,Tripura,21
-1470,Tripura,22
-1471,Tripura,275
-1472,Tripura,93
-1473,Tripura,119
-1474,Tripura,261
-1475,Tripura,101
-1476,Tripura,166
-1477,Tripura,71
-1478,Uttar Pradesh,40
-1479,Uttar Pradesh,165
-1480,Uttar Pradesh,86
-1481,Uttar Pradesh,262
-1482,Uttar Pradesh,88
-1483,Uttar Pradesh,190
-1484,Uttar Pradesh,21
-1485,Uttar Pradesh,154
-1486,Uttar Pradesh,286
-1487,Uttar Pradesh,30
-1488,Uttar Pradesh,119
-1489,Uttar Pradesh,260
-1490,Uttar Pradesh,81
-1491,Uttar Pradesh,26
-1492,Uttar Pradesh,87
-1493,Uttar Pradesh,58
-1494,Uttar Pradesh,265
-1495,Uttar Pradesh,22
-1496,Uttar Pradesh,261
-1497,Uttar Pradesh,42
-1498,Uttar Pradesh,19
-1499,Uttar Pradesh,29
-1500,Uttar Pradesh,187
-1501,Uttar Pradesh,93
-1502,Uttar Pradesh,156
-1503,Uttar Pradesh,275
-1504,Uttar Pradesh,57
-1505,Uttar Pradesh,73
-1506,Uttar Pradesh,75
-1507,Uttar Pradesh,230
-1508,Uttar Pradesh,47
-1509,Uttar Pradesh,92
-1510,Uttar Pradesh,267
-1511,Uttar Pradesh,45
-1512,Uttar Pradesh,71
-1513,Uttar Pradesh,63
-1514,Uttar Pradesh,61
-1515,Uttar Pradesh,53
-1516,Uttar Pradesh,84
-1517,Uttar Pradesh,91
-1518,Uttar Pradesh,100
-1519,Uttar Pradesh,112
-1520,Uttar Pradesh,101
-1521,Uttar Pradesh,115
-1522,Uttar Pradesh,189
-1523,Uttar Pradesh,180
-1524,Uttar Pradesh,70
-1525,Uttar Pradesh,292
-1526,Uttar Pradesh,197
-1527,Uttar Pradesh,166
-1528,Uttar Pradesh,287
-1529,Uttar Pradesh,172
-1530,Uttar Pradesh,276
-1531,Uttar Pradesh,39
-1532,Uttarakhand,29
-1533,Uttarakhand,119
-1534,Uttarakhand,21
-1535,Uttarakhand,275
-1536,Uttarakhand,86
-1537,Uttarakhand,93
-1538,Uttarakhand,265
-1539,Uttarakhand,81
-1540,Uttarakhand,19
-1541,Uttarakhand,156
-1542,Uttarakhand,26
-1543,Uttarakhand,190
-1544,Uttarakhand,260
-1545,Uttarakhand,8
-1546,Uttarakhand,230
-1547,Uttarakhand,42
-1548,Uttarakhand,40
-1549,Uttarakhand,73
-1550,Uttarakhand,87
-1551,Uttarakhand,22
-1552,Uttarakhand,91
-1553,Uttarakhand,100
-1554,Uttarakhand,92
-1555,Uttarakhand,262
-1556,Uttarakhand,30
-1557,Uttarakhand,112
-1558,Uttarakhand,223
-1559,Uttarakhand,154
-1560,Uttarakhand,88
-1561,Uttarakhand,261
-1562,Uttarakhand,189
-1563,Uttarakhand,187
-1564,Uttarakhand,47
-1565,Uttarakhand,166
-1566,Uttarakhand,197
-1567,Uttarakhand,101
-1568,Uttarakhand,115
-1569,Uttarakhand,75
-1570,Uttarakhand,71
-1571,Uttarakhand,165
-1572,Uttarakhand,180
-1573,Uttarakhand,305
-1574,Uttarakhand,286
-1575,Uttarakhand,287
-1576,Uttarakhand,58
-1577,Uttarakhand,70
-1578,West Bengal,165
-1579,West Bengal,21
-1580,West Bengal,22
-1581,West Bengal,190
-1582,West Bengal,40
-1583,West Bengal,87
-1584,West Bengal,29
-1585,West Bengal,30
-1586,West Bengal,26
-1587,West Bengal,93
-1588,West Bengal,86
-1589,West Bengal,19
-1590,West Bengal,265
-1591,West Bengal,81
-1592,West Bengal,261
-1593,West Bengal,73
-1594,West Bengal,262
-1595,West Bengal,42
-1596,West Bengal,275
-1597,West Bengal,156
-1598,West Bengal,260
-1599,West Bengal,57
-1600,West Bengal,254
-1601,West Bengal,47
-1602,West Bengal,45
-1603,West Bengal,63
-1604,West Bengal,61
-1605,West Bengal,92
-1606,West Bengal,53
-1607,West Bengal,58
-1608,West Bengal,88
-1609,West Bengal,84
-1610,West Bengal,91
-1611,West Bengal,112
-1612,West Bengal,100
-1613,West Bengal,296
-1614,West Bengal,119
-1615,West Bengal,115
-1616,West Bengal,154
-1617,West Bengal,101
-1618,West Bengal,67
-1619,West Bengal,187
-1620,West Bengal,189
-1621,West Bengal,286
-1622,West Bengal,75
-1623,West Bengal,197
-1624,West Bengal,166
-1625,West Bengal,71
-1626,West Bengal,39
-1627,West Bengal,288
+1,Maharashtra,2
+2,Gujarat,2
+3,Karnataka,2
+4,Uttar Pradesh,40
+5,Tamil Nadu,40
+6,Gujarat,40
+7,Punjab,40
+8,Himachal Pradesh,40
+9,Telangana,40
+10,Maharashtra,40
+11,Tamil Nadu,70
+12,Maharashtra,257
+13,Maharashtra,298
+14,Maharashtra,7
+15,Haryana,40
+16,Maharashtra,53
+17,Andhra Pradesh,53
+18,Tamil Nadu,53
+19,Andhra Pradesh,86
+20,Tamil Nadu,86
+21,Gujarat,86
+22,Maharashtra,29
+23,Karnataka,40
+24,Karnataka,86
+25,Jammu And Kashmir,86
+26,Tamil Nadu,91
+27,Bihar,91
+28,West Bengal,165
+29,Uttar Pradesh,165
+30,Maharashtra,275
+31,Uttar Pradesh,86
+32,Madhya Pradesh,7
+33,Delhi,22
+34,Kerala,40
+35,Maharashtra,71
+36,Andhra Pradesh,71
+37,Uttar Pradesh,262
+38,West Bengal,21
+39,Odisha,21
+40,Haryana,21
+41,Delhi,53
+42,Andhra Pradesh,22
+43,Andhra Pradesh,93
+44,Jammu And Kashmir,262
+45,Rajasthan,40
+46,Madhya Pradesh,86
+47,Maharashtra,21
+48,Chattisgarh,21
+49,Jharkhand,40
+50,Gujarat,151
+51,Andhra Pradesh,262
+52,Delhi,21
+53,Andhra Pradesh,88
+54,Andhra Pradesh,81
+55,Maharashtra,88
+56,Andhra Pradesh,115
+57,Himachal Pradesh,260
+58,Haryana,88
+59,Uttar Pradesh,88
+60,Kerala,70
+61,Karnataka,70
+62,Haryana,70
+63,Punjab,70
+64,Bihar,190
+65,Uttar Pradesh,190
+66,Tamil Nadu,190
+67,Gujarat,19
+68,Maharashtra,22
+69,West Bengal,22
+70,Chattisgarh,40
+71,Jammu And Kashmir,190
+72,Haryana,190
+73,Telangana,190
+74,Gujarat,190
+75,West Bengal,190
+76,Andhra Pradesh,190
+77,Chattisgarh,154
+78,Maharashtra,190
+79,Telangana,81
+80,Uttarakhand,29
+81,Rajasthan,29
+82,Madhya Pradesh,29
+83,Punjab,101
+84,Rajasthan,190
+85,Odisha,190
+86,Delhi,40
+87,Andhra Pradesh,40
+88,Odisha,88
+89,Maharashtra,81
+90,Gujarat,81
+91,Gujarat,154
+92,Maharashtra,156
+93,Delhi,190
+94,Andaman And Nicobar,21
+95,Odisha,29
+96,Punjab,156
+97,Delhi,70
+98,Telangana,29
+99,Rajasthan,42
+100,Haryana,154
+101,Assam,40
+102,West Bengal,40
+103,Odisha,40
+104,Kerala,197
+105,Bihar,21
+106,Telangana,21
+107,Uttar Pradesh,21
+108,Assam,21
+109,Uttar Pradesh,154
+110,Uttar Pradesh,286
+111,Telangana,86
+112,Haryana,30
+113,Uttar Pradesh,30
+114,Punjab,30
+115,Delhi,262
+116,Rajasthan,93
+117,Karnataka,93
+118,Telangana,260
+119,Madhya Pradesh,21
+120,Maharashtra,91
+121,Madhya Pradesh,190
+122,Andhra Pradesh,165
+123,Haryana,165
+124,Rajasthan,165
+125,Punjab,92
+126,Delhi,92
+127,West Bengal,87
+128,Gujarat,22
+129,Kerala,190
+130,Madhya Pradesh,22
+131,Kerala,154
+132,Telangana,297
+133,Andhra Pradesh,206
+134,Chandigarh,87
+135,Bihar,262
+136,Chattisgarh,47
+137,Madhya Pradesh,40
+138,Chattisgarh,190
+139,Maharashtra,119
+140,Tamil Nadu,119
+141,Uttar Pradesh,119
+142,Madhya Pradesh,119
+143,Karnataka,119
+144,Gujarat,47
+145,West Bengal,29
+146,Delhi,88
+147,Gujarat,111
+148,Rajasthan,19
+149,Jharkhand,47
+150,Kerala,87
+151,Tamil Nadu,87
+152,Odisha,260
+153,Kerala,21
+154,Andhra Pradesh,21
+155,Karnataka,73
+156,Madhya Pradesh,19
+157,Maharashtra,19
+158,Tamil Nadu,19
+159,Karnataka,47
+160,Andhra Pradesh,13
+161,Madhya Pradesh,156
+162,Maharashtra,125
+163,Karnataka,19
+164,Telangana,47
+165,Madhya Pradesh,47
+166,Punjab,119
+167,Odisha,119
+168,Gujarat,119
+169,Haryana,119
+170,Rajasthan,119
+171,Himachal Pradesh,119
+172,Delhi,119
+173,Uttarakhand,119
+174,Bihar,119
+175,Jharkhand,119
+176,Chattisgarh,119
+177,Telangana,119
+178,Kerala,119
+179,Rajasthan,30
+180,Uttar Pradesh,260
+181,Punjab,21
+182,Maharashtra,87
+183,Haryana,81
+184,Madhya Pradesh,81
+185,Uttar Pradesh,81
+186,West Bengal,30
+187,Rajasthan,260
+188,Tamil Nadu,21
+189,Uttar Pradesh,26
+190,Gujarat,213
+191,Rajasthan,86
+192,Maharashtra,86
+193,Kerala,86
+194,Haryana,86
+195,Assam,86
+196,Delhi,86
+197,Jharkhand,86
+198,Haryana,47
+199,Haryana,29
+200,Jammu And Kashmir,100
+201,Assam,190
+202,Nagaland,190
+203,Kerala,262
+204,Madhya Pradesh,262
+205,Rajasthan,21
+206,Karnataka,21
+207,Chattisgarh,86
+208,Lakshadweep,30
+209,Bihar,265
+210,Bihar,26
+211,West Bengal,26
+212,Tamil Nadu,156
+213,Karnataka,87
+214,Jharkhand,262
+215,Manipur,262
+216,Gujarat,26
+217,Madhya Pradesh,26
+218,Gujarat,277
+219,Telangana,262
+220,Maharashtra,262
+221,Delhi,275
+222,Haryana,63
+223,Kerala,63
+224,Tamil Nadu,63
+225,Maharashtra,64
+226,Kerala,92
+227,Telangana,165
+228,Kerala,165
+229,Gujarat,21
+230,Madhya Pradesh,71
+231,Kerala,30
+232,Maharashtra,59
+233,Uttar Pradesh,87
+234,Tamil Nadu,92
+235,Rajasthan,239
+236,Maharashtra,26
+237,Tripura,40
+238,Nagaland,40
+239,Jharkhand,87
+240,Karnataka,92
+241,Jammu And Kashmir,93
+242,West Bengal,93
+243,Karnataka,30
+244,Chattisgarh,260
+245,Punjab,47
+246,Bihar,40
+247,Maharashtra,47
+248,Chattisgarh,87
+249,Chandigarh,86
+250,West Bengal,86
+251,Punjab,190
+252,Manipur,26
+253,Punjab,19
+254,Delhi,19
+255,West Bengal,19
+256,Maharashtra,58
+257,Rajasthan,81
+258,Himachal Pradesh,81
+259,Himachal Pradesh,190
+260,Karnataka,190
+261,Himachal Pradesh,86
+262,Telangana,93
+263,Karnataka,262
+264,Punjab,165
+265,Andhra Pradesh,275
+266,Delhi,265
+267,West Bengal,265
+268,Maharashtra,265
+269,Rajasthan,265
+270,Odisha,265
+271,Jharkhand,265
+272,Gujarat,93
+273,West Bengal,81
+274,Chattisgarh,81
+275,Tamil Nadu,73
+276,Andhra Pradesh,91
+277,Telangana,115
+278,Rajasthan,262
+279,Gujarat,251
+280,Chattisgarh,71
+281,Odisha,81
+282,Karnataka,81
+283,Jammu And Kashmir,81
+284,Punjab,260
+285,Gujarat,88
+286,Telangana,58
+287,Chattisgarh,88
+288,Uttar Pradesh,58
+289,Rajasthan,58
+290,Haryana,19
+291,Assam,29
+292,Haryana,58
+293,Haryana,101
+294,Odisha,101
+295,Kerala,166
+296,Punjab,262
+297,Kerala,93
+298,Tamil Nadu,93
+299,Andhra Pradesh,156
+300,Tamil Nadu,30
+301,Maharashtra,30
+302,Jharkhand,30
+303,Goa,40
+304,Chattisgarh,156
+305,Madhya Pradesh,275
+306,Kerala,53
+307,Karnataka,53
+308,Karnataka,261
+309,West Bengal,261
+310,Jharkhand,261
+311,Bihar,261
+312,Chandigarh,26
+313,Madhya Pradesh,53
+314,Gujarat,53
+315,Maharashtra,202
+316,Maharashtra,240
+317,Odisha,58
+318,Punjab,81
+319,Maharashtra,162
+320,Chandigarh,190
+321,Odisha,262
+322,Karnataka,71
+323,Kerala,71
+324,Uttarakhand,21
+325,Uttar Pradesh,265
+326,Maharashtra,243
+327,Maharashtra,93
+328,Uttar Pradesh,22
+329,Kerala,81
+330,Andhra Pradesh,29
+331,Punjab,41
+332,Haryana,41
+333,Gujarat,70
+334,Madhya Pradesh,70
+335,Odisha,86
+336,Haryana,265
+337,Uttarakhand,275
+338,Haryana,275
+339,Punjab,275
+340,West Bengal,73
+341,Andhra Pradesh,87
+342,Odisha,261
+343,Karnataka,26
+344,Tamil Nadu,81
+345,Rajasthan,88
+346,Madhya Pradesh,88
+347,Karnataka,88
+348,Daman And Diu,21
+349,Bihar,86
+350,Delhi,93
+351,Haryana,93
+352,Tripura,296
+353,Maharashtra,126
+354,Assam,296
+355,Delhi,165
+356,Tamil Nadu,165
+357,Uttar Pradesh,261
+358,Rajasthan,261
+359,Punjab,86
+360,Uttarakhand,86
+361,Uttarakhand,93
+362,Goa,93
+363,Kerala,261
+364,Assam,261
+365,Gujarat,261
+366,Chandigarh,119
+367,Karnataka,220
+368,Chattisgarh,26
+369,Haryana,26
+370,Andhra Pradesh,26
+371,Delhi,26
+372,Jharkhand,21
+373,Himachal Pradesh,21
+374,Punjab,154
+375,Maharashtra,172
+376,Punjab,93
+377,Chattisgarh,265
+378,Telangana,112
+379,West Bengal,262
+380,Chandigarh,262
+381,Assam,262
+382,Tamil Nadu,261
+383,Tamil Nadu,88
+384,Andhra Pradesh,70
+385,Uttarakhand,265
+386,Gujarat,289
+387,Tamil Nadu,115
+388,Mizoram,296
+389,Haryana,42
+390,Himachal Pradesh,42
+391,Andhra Pradesh,42
+392,Karnataka,42
+393,Kerala,42
+394,Tamil Nadu,42
+395,Telangana,42
+396,Delhi,42
+397,West Bengal,42
+398,Uttar Pradesh,42
+399,Jharkhand,42
+400,Bihar,42
+401,Maharashtra,42
+402,Andhra Pradesh,73
+403,Uttarakhand,81
+404,Maharashtra,289
+405,Nagaland,88
+406,Odisha,93
+407,Karnataka,112
+408,Andhra Pradesh,30
+409,Odisha,19
+410,Manipur,190
+411,Mizoram,190
+412,Himachal Pradesh,30
+413,Madhya Pradesh,30
+414,Telangana,156
+415,Manipur,296
+416,Meghalaya,296
+417,Maharashtra,73
+418,Karnataka,165
+419,Andaman And Nicobar,190
+420,Gujarat,42
+421,Madhya Pradesh,42
+422,Punjab,42
+423,Telangana,88
+424,Gujarat,280
+425,Rajasthan,91
+426,Sikkim,190
+427,Delhi,156
+428,Bihar,156
+429,Odisha,156
+430,Maharashtra,187
+431,Telangana,19
+432,Uttar Pradesh,19
+433,Uttarakhand,19
+434,Bihar,19
+435,Gujarat,30
+436,Gujarat,91
+437,Assam,165
+438,Uttarakhand,156
+439,Tamil Nadu,275
+440,Rajasthan,275
+441,West Bengal,275
+442,Karnataka,275
+443,Gujarat,275
+444,Uttar Pradesh,29
+445,Maharashtra,85
+446,Chattisgarh,275
+447,Chattisgarh,30
+448,Uttar Pradesh,187
+449,Delhi,81
+450,Sikkim,93
+451,Tripura,262
+452,Uttar Pradesh,93
+453,Jharkhand,93
+454,Himachal Pradesh,156
+455,Uttar Pradesh,156
+456,West Bengal,156
+457,Mizoram,156
+458,Assam,156
+459,Goa,156
+460,Manipur,156
+461,Manipur,275
+462,Telangana,91
+463,Odisha,275
+464,Nagaland,275
+465,Telangana,275
+466,Bihar,30
+467,Odisha,30
+468,Andhra Pradesh,265
+469,Uttar Pradesh,275
+470,Kerala,187
+471,Rajasthan,87
+472,Rajasthan,26
+473,Karnataka,156
+474,Rajasthan,295
+475,Jharkhand,81
+476,Andhra Pradesh,47
+477,Bihar,58
+478,Manipur,29
+479,Tamil Nadu,262
+480,Madhya Pradesh,58
+481,Odisha,165
+482,Maharashtra,165
+483,Andaman And Nicobar,81
+484,Assam,81
+485,Meghalaya,81
+486,Mizoram,81
+487,Tripura,81
+488,Gujarat,58
+489,West Bengal,260
+490,Meghalaya,190
+491,Tamil Nadu,26
+492,Odisha,26
+493,Arunachal Pradesh,190
+494,Maharashtra,205
+495,Haryana,53
+496,Gujarat,101
+497,Rajasthan,101
+498,Tamil Nadu,101
+499,Karnataka,101
+500,Madhya Pradesh,101
+501,Meghalaya,93
+502,Maharashtra,261
+503,Punjab,26
+504,Tripura,26
+505,Uttarakhand,26
+506,Goa,26
+507,Kerala,26
+508,Himachal Pradesh,26
+509,Jammu And Kashmir,26
+510,Assam,26
+511,Telangana,26
+512,Jharkhand,26
+513,Arunachal Pradesh,26
+514,Nagaland,26
+515,Daman And Diu,26
+516,Meghalaya,26
+517,Tamil Nadu,29
+518,Gujarat,314
+519,Sikkim,26
+520,Pondicherry,26
+521,Tamil Nadu,57
+522,Karnataka,57
+523,Telangana,57
+524,Delhi,57
+525,Andhra Pradesh,57
+526,Maharashtra,57
+527,Rajasthan,53
+528,Kerala,275
+529,Punjab,53
+530,Kerala,57
+531,Gujarat,57
+532,Madhya Pradesh,57
+533,Uttar Pradesh,57
+534,Haryana,57
+535,Uttarakhand,190
+536,Telangana,53
+537,Uttar Pradesh,73
+538,Rajasthan,22
+539,Delhi,29
+540,Bihar,29
+541,Maharashtra,14
+542,Maharashtra,66
+543,Madhya Pradesh,92
+544,Madhya Pradesh,154
+545,Karnataka,29
+546,Gujarat,29
+547,Delhi,47
+548,Rajasthan,47
+549,Maharashtra,84
+550,Jammu And Kashmir,29
+551,Pondicherry,57
+552,Gujarat,165
+553,Bihar,53
+554,Jharkhand,53
+555,Mizoram,26
+556,Kerala,73
+557,Rajasthan,57
+558,Odisha,57
+559,Telangana,71
+560,Tamil Nadu,71
+561,Bihar,71
+562,Rajasthan,71
+563,Delhi,71
+564,Odisha,71
+565,West Bengal,57
+566,Chandigarh,57
+567,Jharkhand,57
+568,Punjab,57
+569,Jharkhand,75
+570,Uttar Pradesh,75
+571,Bihar,81
+572,Telangana,73
+573,Karnataka,187
+574,Andhra Pradesh,58
+575,Tamil Nadu,58
+576,Maharashtra,112
+577,Maharashtra,92
+578,Tamil Nadu,47
+579,Maharashtra,274
+580,Odisha,87
+581,Madhya Pradesh,265
+582,Maharashtra,20
+583,Gujarat,156
+584,Karnataka,260
+585,Jammu And Kashmir,260
+586,Madhya Pradesh,260
+587,Tamil Nadu,260
+588,West Bengal,254
+589,Uttarakhand,260
+590,Kerala,117
+591,Goa,14
+592,Uttarakhand,8
+593,Chattisgarh,58
+594,Chandigarh,30
+595,Jharkhand,92
+596,Gujarat,73
+597,Chattisgarh,93
+598,Telangana,22
+599,Andaman And Nicobar,93
+600,Gujarat,260
+601,Arunachal Pradesh,73
+602,Mizoram,73
+603,Karnataka,259
+604,Manipur,166
+605,Uttarakhand,230
+606,Uttar Pradesh,230
+607,Telangana,201
+608,Maharashtra,105
+609,Maharashtra,35
+610,Uttar Pradesh,47
+611,Arunachal Pradesh,86
+612,Arunachal Pradesh,21
+613,Chattisgarh,57
+614,Punjab,73
+615,Nagaland,73
+616,Madhya Pradesh,165
+617,Karnataka,265
+618,Gujarat,265
+619,Tamil Nadu,265
+620,Telangana,265
+621,Andhra Pradesh,201
+622,Himachal Pradesh,265
+623,Maharashtra,242
+624,Pondicherry,261
+625,Meghalaya,86
+626,Haryana,92
+627,Rajasthan,201
+628,Maharashtra,201
+629,Uttar Pradesh,92
+630,Jammu And Kashmir,30
+631,Tamil Nadu,197
+632,Assam,260
+633,Telangana,286
+634,Meghalaya,73
+635,Jammu And Kashmir,40
+636,Lakshadweep,40
+637,Chattisgarh,44
+638,Jharkhand,29
+639,Daman And Diu,29
+640,Manipur,93
+641,Assam,93
+642,Madhya Pradesh,284
+643,Himachal Pradesh,262
+644,Uttar Pradesh,267
+645,Madhya Pradesh,73
+646,Delhi,154
+647,Telangana,30
+648,Nagaland,154
+649,Dadra And Nagar Haveli,29
+650,Chattisgarh,22
+651,Jharkhand,190
+652,Delhi,30
+653,Gujarat,262
+654,Haryana,262
+655,Chandigarh,165
+656,Kerala,91
+657,Karnataka,22
+658,Meghalaya,29
+659,Tripura,29
+660,West Bengal,47
+661,Jharkhand,91
+662,Delhi,90
+663,Bihar,22
+664,Rajasthan,154
+665,Gujarat,216
+666,Sikkim,29
+667,Andhra Pradesh,112
+668,Odisha,166
+669,Telangana,261
+670,Maharashtra,32
+671,Maharashtra,25
+672,Telangana,25
+673,Maharashtra,248
+674,Kerala,25
+675,Maharashtra,37
+676,Jharkhand,156
+677,Rajasthan,156
+678,Goa,29
+679,Arunachal Pradesh,81
+680,Dadra And Nagar Haveli,26
+681,Karnataka,37
+682,Karnataka,115
+683,Delhi,115
+684,Himachal Pradesh,166
+685,Karnataka,309
+686,Pondicherry,81
+687,Tamil Nadu,27
+688,Tripura,156
+689,Bihar,275
+690,Chattisgarh,164
+691,Haryana,69
+692,Chandigarh,21
+693,Andaman And Nicobar,26
+694,Chattisgarh,42
+695,Chandigarh,42
+696,Odisha,42
+697,Jammu And Kashmir,42
+698,Goa,42
+699,Daman And Diu,42
+700,Uttarakhand,42
+701,Assam,42
+702,Sikkim,42
+703,Odisha,154
+704,Maharashtra,99
+705,Madhya Pradesh,123
+706,Manipur,42
+707,Odisha,22
+708,Pondicherry,42
+709,Maharashtra,38
+710,Karnataka,38
+711,Delhi,38
+712,Tamil Nadu,38
+713,Karnataka,24
+714,Tamil Nadu,24
+715,Maharashtra,24
+716,Delhi,134
+717,Karnataka,134
+718,Tamil Nadu,134
+719,Maharashtra,134
+720,Rajasthan,134
+721,Himachal Pradesh,217
+722,Tripura,42
+723,Meghalaya,42
+724,Punjab,29
+725,Pondicherry,29
+726,Telangana,87
+727,Haryana,112
+728,Telangana,70
+729,Andaman And Nicobar,29
+730,Kerala,29
+731,Punjab,71
+732,Chattisgarh,29
+733,Nagaland,29
+734,Chandigarh,29
+735,Mizoram,29
+736,Arunachal Pradesh,29
+737,Madhya Pradesh,87
+738,Meghalaya,71
+739,Himachal Pradesh,29
+740,Nagaland,71
+741,Odisha,286
+742,West Bengal,101
+743,Gujarat,71
+744,Kerala,156
+745,Kerala,47
+746,Chandigarh,40
+747,Pondicherry,40
+748,Chandigarh,47
+749,Maharashtra,46
+750,Daman And Diu,46
+751,Pondicherry,47
+752,Goa,46
+753,Maharashtra,299
+754,Maharashtra,98
+755,West Bengal,45
+756,Delhi,45
+757,Tamil Nadu,45
+758,Maharashtra,45
+759,Telangana,45
+760,Gujarat,45
+761,Kerala,45
+762,Chandigarh,45
+763,Haryana,45
+764,Uttar Pradesh,45
+765,Odisha,47
+766,Uttarakhand,40
+767,Meghalaya,40
+768,Andaman And Nicobar,40
+769,Nagaland,42
+770,Mizoram,42
+771,Arunachal Pradesh,42
+772,Karnataka,91
+773,Dadra And Nagar Haveli,42
+774,Andaman And Nicobar,42
+775,Kerala,19
+776,Haryana,260
+777,Uttar Pradesh,71
+778,Assam,71
+779,Haryana,87
+780,Karnataka,100
+781,Delhi,100
+782,Punjab,100
+783,Maharashtra,100
+784,Sikkim,40
+785,Jammu And Kashmir,156
+786,Arunachal Pradesh,156
+787,Meghalaya,156
+788,Jharkhand,58
+789,Andhra Pradesh,119
+790,Dadra And Nagar Haveli,40
+791,Daman And Diu,40
+792,Mizoram,40
+793,Arunachal Pradesh,40
+794,Goa,81
+795,Chandigarh,81
+796,Dadra And Nagar Haveli,81
+797,Sikkim,81
+798,Daman And Diu,81
+799,Nagaland,81
+800,Manipur,81
+801,Gujarat,307
+802,Odisha,73
+803,Dadra And Nagar Haveli,53
+804,Himachal Pradesh,53
+805,Maharashtra,209
+806,Telangana,209
+807,Madhya Pradesh,209
+808,Maharashtra,304
+809,Punjab,58
+810,Maharashtra,212
+811,Pondicherry,53
+812,Delhi,58
+813,Bihar,73
+814,Kerala,115
+815,Maharashtra,63
+816,West Bengal,63
+817,Gujarat,63
+818,Uttar Pradesh,63
+819,Jharkhand,73
+820,Assam,73
+821,Karnataka,63
+822,Chandigarh,63
+823,Punjab,63
+824,Andhra Pradesh,63
+825,Madhya Pradesh,63
+826,Delhi,73
+827,Haryana,73
+828,Maharashtra,211
+829,Haryana,156
+830,Meghalaya,275
+831,Chandigarh,19
+832,Maharashtra,61
+833,Uttar Pradesh,61
+834,Haryana,61
+835,Tamil Nadu,61
+836,Punjab,61
+837,Gujarat,61
+838,Telangana,63
+839,Chandigarh,53
+840,Uttar Pradesh,53
+841,Delhi,63
+842,Goa,63
+843,Goa,73
+844,Delhi,61
+845,Karnataka,61
+846,West Bengal,61
+847,Maharashtra,60
+848,Delhi,210
+849,Rajasthan,73
+850,Tripura,73
+851,Gujarat,209
+852,Karnataka,209
+853,Andhra Pradesh,209
+854,Jammu And Kashmir,73
+855,Chandigarh,93
+856,Tamil Nadu,209
+857,Maharashtra,181
+858,West Bengal,92
+859,West Bengal,53
+860,Mizoram,166
+861,Goa,53
+862,Odisha,53
+863,Karnataka,58
+864,Daman And Diu,58
+865,Dadra And Nagar Haveli,58
+866,Rajasthan,63
+867,Daman And Diu,73
+868,Tamil Nadu,22
+869,Chattisgarh,262
+870,Madhya Pradesh,91
+871,Goa,58
+872,West Bengal,58
+873,Odisha,91
+874,Karnataka,172
+875,Maharashtra,72
+876,Dadra And Nagar Haveli,73
+877,Chandigarh,73
+878,Pondicherry,73
+879,Uttarakhand,73
+880,Assam,22
+881,Haryana,22
+882,Assam,275
+883,Gujarat,87
+884,Delhi,87
+885,Punjab,87
+886,Andaman And Nicobar,87
+887,Assam,87
+888,Maharashtra,1
+889,Uttarakhand,87
+890,Bihar,87
+891,Sikkim,87
+892,Himachal Pradesh,87
+893,Jammu And Kashmir,87
+894,Manipur,87
+895,Meghalaya,87
+896,Gujarat,146
+897,Mizoram,86
+898,Goa,87
+899,Daman And Diu,156
+900,Maharashtra,214
+901,Tripura,87
+902,Nagaland,87
+903,Delhi,91
+904,Sikkim,86
+905,Tripura,86
+906,Nagaland,86
+907,Pondicherry,87
+908,Maharashtra,94
+909,Pondicherry,86
+910,Manipur,86
+911,Goa,86
+912,Mizoram,87
+913,Maharashtra,285
+914,Goa,88
+915,West Bengal,88
+916,Dadra And Nagar Haveli,87
+917,Uttarakhand,22
+918,Jammu And Kashmir,19
+919,Chattisgarh,19
+920,Goa,257
+921,West Bengal,186
+922,Delhi,84
+923,Daman And Diu,87
+924,Haryana,84
+925,Uttar Pradesh,84
+926,Chandigarh,84
+927,Rajasthan,84
+928,Gujarat,84
+929,Telangana,84
+930,Karnataka,84
+931,Tamil Nadu,84
+932,Kerala,84
+933,Arunachal Pradesh,87
+934,West Bengal,84
+935,Maharashtra,152
+936,Lakshadweep,190
+937,West Bengal,91
+938,Pondicherry,91
+939,Uttarakhand,91
+940,Punjab,91
+941,Uttar Pradesh,91
+942,Assam,91
+943,Goa,91
+944,Haryana,91
+945,Chandigarh,91
+946,Andhra Pradesh,92
+947,Pondicherry,92
+948,Himachal Pradesh,91
+949,Madhya Pradesh,93
+950,Bihar,93
+951,Jammu And Kashmir,91
+952,Chattisgarh,91
+953,Gujarat,92
+954,Tripura,91
+955,Nagaland,91
+956,Meghalaya,91
+957,Goa,92
+958,Telangana,92
+959,Odisha,92
+960,Nagaland,93
+961,Daman And Diu,91
+962,Himachal Pradesh,93
+963,Dadra And Nagar Haveli,91
+964,Arunachal Pradesh,91
+965,Daman And Diu,86
+966,Dadra And Nagar Haveli,86
+967,Andaman And Nicobar,86
+968,Bihar,92
+969,Assam,92
+970,Nagaland,92
+971,Chattisgarh,92
+972,Odisha,147
+973,Gujarat,100
+974,Chandigarh,100
+975,Tripura,92
+976,Uttar Pradesh,100
+977,Jammu And Kashmir,97
+978,Haryana,100
+979,Telangana,100
+980,Tamil Nadu,100
+981,Jharkhand,100
+982,Goa,112
+983,Gujarat,112
+984,Kerala,112
+985,Punjab,112
+986,Uttar Pradesh,112
+987,Kerala,100
+988,Maharashtra,215
+989,Maharashtra,102
+990,Himachal Pradesh,100
+991,Odisha,112
+992,West Bengal,112
+993,Arunachal Pradesh,92
+994,Tripura,88
+995,Kerala,22
+996,Manipur,22
+997,Rajasthan,92
+998,Mizoram,92
+999,Chandigarh,92
+1000,Uttarakhand,100
+1001,Madhya Pradesh,100
+1002,Rajasthan,100
+1003,Arunachal Pradesh,93
+1004,Andaman And Nicobar,92
+1005,Maharashtra,104
+1006,Uttarakhand,92
+1007,Himachal Pradesh,92
+1008,West Bengal,100
+1009,Sikkim,92
+1010,Bihar,100
+1011,Maharashtra,110
+1012,Madhya Pradesh,112
+1013,Maharashtra,103
+1014,Manipur,92
+1015,Uttarakhand,262
+1016,Meghalaya,92
+1017,Goa,100
+1018,Karnataka,110
+1019,Delhi,218
+1020,Karnataka,242
+1021,Jammu And Kashmir,92
+1022,Dadra And Nagar Haveli,92
+1023,Tripura,30
+1024,Mizoram,30
+1025,Punjab,88
+1026,Maharashtra,137
+1027,Madhya Pradesh,137
+1028,Chattisgarh,137
+1029,Goa,30
+1030,Maharashtra,79
+1031,Maharashtra,227
+1032,Maharashtra,132
+1033,Karnataka,132
+1034,Tamil Nadu,132
+1035,Delhi,132
+1036,Uttar Pradesh,101
+1037,Bihar,101
+1038,Jharkhand,101
+1039,West Bengal,296
+1040,Assam,30
+1041,Maharashtra,143
+1042,Karnataka,143
+1043,Goa,143
+1044,Uttarakhand,30
+1045,Maharashtra,129
+1046,Gujarat,226
+1047,Goa,166
+1048,Sikkim,275
+1049,Maharashtra,260
+1050,Pondicherry,30
+1051,Sikkim,30
+1052,Arunachal Pradesh,30
+1053,Maharashtra,228
+1054,Gujarat,143
+1055,Meghalaya,30
+1056,Nagaland,30
+1057,Dadra And Nagar Haveli,30
+1058,Daman And Diu,30
+1059,West Bengal,119
+1060,Assam,119
+1061,Delhi,112
+1062,Dadra And Nagar Haveli,119
+1063,Tamil Nadu,112
+1064,Meghalaya,119
+1065,Maharashtra,219
+1066,Maharashtra,216
+1067,Punjab,115
+1068,Uttar Pradesh,115
+1069,Rajasthan,115
+1070,Chattisgarh,115
+1071,Jharkhand,115
+1072,Uttarakhand,112
+1073,Jharkhand,112
+1074,Pondicherry,119
+1075,Chattisgarh,112
+1076,Assam,112
+1077,Uttarakhand,223
+1078,Rajasthan,112
+1079,Pondicherry,115
+1080,Maharashtra,115
+1081,Goa,119
+1082,Mizoram,262
+1083,Arunachal Pradesh,262
+1084,Jammu And Kashmir,119
+1085,Pondicherry,112
+1086,Gujarat,115
+1087,Madhya Pradesh,115
+1088,Bihar,112
+1089,Telangana,199
+1090,Sikkim,119
+1091,West Bengal,115
+1092,Odisha,115
+1093,Haryana,115
+1094,Madhya Pradesh,257
+1095,Chandigarh,112
+1096,Chandigarh,154
+1097,Maharashtra,154
+1098,Uttarakhand,154
+1099,Bihar,154
+1100,Assam,154
+1101,Rajasthan,41
+1102,Karnataka,154
+1103,Andhra Pradesh,154
+1104,Tamil Nadu,154
+1105,Himachal Pradesh,154
+1106,West Bengal,154
+1107,Jammu And Kashmir,154
+1108,Telangana,154
+1109,Mizoram,154
+1110,Sikkim,154
+1111,Odisha,235
+1112,Maharashtra,78
+1113,Kerala,88
+1114,Bihar,260
+1115,Jharkhand,22
+1116,Mizoram,22
+1117,Jharkhand,154
+1118,Manipur,154
+1119,Tripura,154
+1120,Chandigarh,156
+1121,Jharkhand,71
+1122,Chandigarh,22
+1123,Pondicherry,156
+1124,Meghalaya,154
+1125,Goa,154
+1126,Maharashtra,231
+1127,Maharashtra,146
+1128,Maharashtra,207
+1129,Haryana,230
+1130,Telangana,231
+1131,Pondicherry,58
+1132,Gujarat,231
+1133,Bihar,165
+1134,Pondicherry,21
+1135,Jammu And Kashmir,41
+1136,Goa,19
+1137,Delhi,230
+1138,Telangana,198
+1139,Maharashtra,166
+1140,Arunachal Pradesh,154
+1141,Andhra Pradesh,242
+1142,Rajasthan,230
+1143,Karnataka,189
+1144,Haryana,189
+1145,Tamil Nadu,187
+1146,Kerala,221
+1147,Jammu And Kashmir,265
+1148,Meghalaya,281
+1149,Uttar Pradesh,189
+1150,Maharashtra,189
+1151,Kerala,265
+1152,Jammu And Kashmir,21
+1153,Maharashtra,195
+1154,Dadra And Nagar Haveli,156
+1155,Nagaland,156
+1156,Sikkim,156
+1157,Andaman And Nicobar,156
+1158,Andhra Pradesh,187
+1159,Haryana,261
+1160,Meghalaya,21
+1161,Goa,190
+1162,Daman And Diu,190
+1163,Punjab,22
+1164,Andaman And Nicobar,22
+1165,Chandigarh,166
+1166,Rajasthan,166
+1167,Maharashtra,236
+1168,Andhra Pradesh,260
+1169,Gujarat,232
+1170,Maharashtra,127
+1171,Maharashtra,101
+1172,Pondicherry,190
+1173,Uttarakhand,88
+1174,Chandigarh,261
+1175,Madhya Pradesh,261
+1176,Goa,21
+1177,Gujarat,166
+1178,Tripura,190
+1179,Kerala,302
+1180,Gujarat,244
+1181,Maharashtra,159
+1182,Uttar Pradesh,180
+1183,Delhi,315
+1184,Himachal Pradesh,82
+1185,Bihar,55
+1186,Gujarat,163
+1187,West Bengal,67
+1188,Uttarakhand,261
+1189,Punjab,261
+1190,Chattisgarh,261
+1191,Telangana,166
+1192,Mizoram,21
+1193,Maharashtra,247
+1194,Delhi,166
+1195,Daman And Diu,165
+1196,Goa,165
+1197,Nagaland,21
+1198,Maharashtra,270
+1199,Maharashtra,182
+1200,Karnataka,182
+1201,Delhi,176
+1202,Maharashtra,36
+1203,Sikkim,296
+1204,Dadra And Nagar Haveli,165
+1205,Arunachal Pradesh,296
+1206,Delhi,41
+1207,Delhi,101
+1208,Uttar Pradesh,70
+1209,Maharashtra,224
+1210,Dadra And Nagar Haveli,190
+1211,Meghalaya,101
+1212,Telangana,56
+1213,Gujarat,274
+1214,Jammu And Kashmir,275
+1215,Telangana,187
+1216,Tripura,187
+1217,Maharashtra,185
+1218,Madhya Pradesh,286
+1219,Delhi,187
+1220,Punjab,187
+1221,Gujarat,172
+1222,Goa,172
+1223,Goa,187
+1224,Haryana,187
+1225,Delhi,172
+1226,Gujarat,187
+1227,Bihar,187
+1228,Delhi,189
+1229,Chandigarh,189
+1230,Punjab,189
+1231,Rajasthan,189
+1232,Gujarat,189
+1233,West Bengal,187
+1234,Delhi,192
+1235,Maharashtra,184
+1236,Gujarat,245
+1237,West Bengal,189
+1238,Madhya Pradesh,189
+1239,Rajasthan,187
+1240,Chattisgarh,187
+1241,Pondicherry,187
+1242,Odisha,187
+1243,Jharkhand,187
+1244,Meghalaya,187
+1245,Himachal Pradesh,187
+1246,Kerala,260
+1247,Madhya Pradesh,187
+1248,Gujarat,252
+1249,Tamil Nadu,189
+1250,Telangana,189
+1251,Kerala,189
+1252,Andhra Pradesh,189
+1253,Uttarakhand,189
+1254,Jammu And Kashmir,187
+1255,Uttarakhand,187
+1256,Assam,187
+1257,Madhya Pradesh,172
+1258,Sikkim,187
+1259,Telangana,172
+1260,Uttar Pradesh,292
+1261,Gujarat,286
+1262,Bihar,286
+1263,Jharkhand,286
+1264,West Bengal,286
+1265,Chattisgarh,286
+1266,Haryana,286
+1267,Assam,189
+1268,Bihar,189
+1269,Odisha,189
+1270,Chandigarh,187
+1271,Delhi,179
+1272,Tamil Nadu,179
+1273,Rajasthan,286
+1274,Maharashtra,286
+1275,Karnataka,78
+1276,Goa,101
+1277,Mizoram,187
+1278,Telangana,301
+1279,Tamil Nadu,286
+1280,Karnataka,286
+1281,Kerala,286
+1282,Arunachal Pradesh,15
+1283,Mizoram,131
+1284,Uttarakhand,316
+1285,Maharashtra,194
+1286,Maharashtra,229
+1287,Jharkhand,107
+1288,Madhya Pradesh,143
+1289,Gujarat,197
+1290,Chattisgarh,101
+1291,Maharashtra,145
+1292,Telangana,197
+1293,Andhra Pradesh,286
+1294,Himachal Pradesh,275
+1295,Andhra Pradesh,48
+1296,Maharashtra,169
+1297,Andhra Pradesh,197
+1298,Karnataka,197
+1299,Maharashtra,197
+1300,Pondicherry,197
+1301,Gujarat,257
+1302,Karnataka,257
+1303,West Bengal,75
+1304,Jharkhand,275
+1305,Arunachal Pradesh,275
+1306,Punjab,197
+1307,Odisha,197
+1308,Rajasthan,197
+1309,Andhra Pradesh,19
+1310,Nagaland,296
+1311,Pondicherry,166
+1312,Delhi,197
+1313,Uttar Pradesh,197
+1314,West Bengal,197
+1315,Pondicherry,265
+1316,Punjab,265
+1317,Tamil Nadu,69
+1318,Telangana,242
+1319,Maharashtra,70
+1320,Madhya Pradesh,242
+1321,Gujarat,242
+1322,Maharashtra,278
+1323,Tamil Nadu,242
+1324,Rajasthan,242
+1325,Delhi,242
+1326,Madhya Pradesh,166
+1327,Maharashtra,177
+1328,Gujarat,195
+1329,Goa,242
+1330,Goa,262
+1331,Sikkim,262
+1332,Meghalaya,260
+1333,Jharkhand,260
+1334,Delhi,260
+1335,Goa,260
+1336,Andaman And Nicobar,262
+1337,Chandigarh,260
+1338,Pondicherry,262
+1339,Pondicherry,260
+1340,Meghalaya,262
+1341,Daman And Diu,262
+1342,Nagaland,262
+1343,Tripura,260
+1344,Tamil Nadu,246
+1345,Madhya Pradesh,197
+1346,Andaman And Nicobar,197
+1347,Dadra And Nagar Haveli,197
+1348,Sikkim,21
+1349,Tripura,21
+1350,Manipur,21
+1351,Chattisgarh,70
+1352,Rajasthan,70
+1353,Uttar Pradesh,166
+1354,Himachal Pradesh,41
+1355,Assam,19
+1356,Uttar Pradesh,287
+1357,Jharkhand,88
+1358,Dadra And Nagar Haveli,21
+1359,Uttar Pradesh,172
+1360,Jharkhand,19
+1361,Assam,101
+1362,Nagaland,260
+1363,Lakshadweep,260
+1364,Manipur,260
+1365,Dadra And Nagar Haveli,260
+1366,Maharashtra,312
+1367,Mizoram,260
+1368,Arunachal Pradesh,260
+1369,Sikkim,260
+1370,Madhya Pradesh,66
+1371,Manipur,91
+1372,Andaman And Nicobar,260
+1373,Daman And Diu,260
+1374,Maharashtra,263
+1375,Maharashtra,253
+1376,Karnataka,253
+1377,Maharashtra,271
+1378,Goa,265
+1379,Manipur,40
+1380,Delhi,261
+1381,Himachal Pradesh,83
+1382,Tripura,22
+1383,Telangana,179
+1384,Gujarat,179
+1385,Haryana,6
+1386,Nagaland,22
+1387,Chandigarh,275
+1388,Goa,275
+1389,Mizoram,275
+1390,Tripura,275
+1391,Pondicherry,70
+1392,Gujarat,193
+1393,Karnataka,191
+1394,Tamil Nadu,166
+1395,Chattisgarh,165
+1396,Madhya Pradesh,205
+1397,Assam,88
+1398,Uttar Pradesh,317
+1399,Delhi,24
+1400,Daman And Diu,92
+1401,Jharkhand,165
+1402,Punjab,172
+1403,Lakshadweep,275
+1404,Pondicherry,275
+1405,Daman And Diu,275
+1406,Lakshadweep,81
+1407,Bihar,88
+1408,Dadra And Nagar Haveli,275
+1409,Uttar Pradesh,276
+1410,Kerala,58
+1411,Meghalaya,166
+1412,Haryana,180
+1413,Karnataka,45
+1414,Tamil Nadu,274
+1415,Delhi,54
+1416,Pondicherry,93
+1417,Uttarakhand,47
+1418,Tripura,93
+1419,Mizoram,93
+1420,Dadra And Nagar Haveli,93
+1421,Maharashtra,203
+1422,Haryana,172
+1423,Goa,115
+1424,Chandigarh,172
+1425,Tripura,119
+1426,Chandigarh,115
+1427,Gujarat,105
+1428,Tamil Nadu,65
+1429,Bihar,115
+1430,Delhi,25
+1431,Chandigarh,88
+1432,Tripura,261
+1433,Tamil Nadu,194
+1434,Pondicherry,154
+1435,Delhi,184
+1436,Maharashtra,245
+1437,Chandigarh,101
+1438,Pondicherry,101
+1439,Telangana,101
+1440,Maharashtra,9
+1441,Maharashtra,179
+1442,Nagaland,187
+1443,Maharashtra,5
+1444,Maharashtra,51
+1445,Delhi,51
+1446,Tamil Nadu,51
+1447,Karnataka,51
+1448,Manipur,30
+1449,Karnataka,166
+1450,Uttarakhand,166
+1451,Assam,166
+1452,Jammu And Kashmir,166
+1453,West Bengal,166
+1454,Bihar,166
+1455,Jharkhand,166
+1456,Chattisgarh,166
+1457,Pondicherry,246
+1458,Daman And Diu,93
+1459,Punjab,286
+1460,Maharashtra,178
+1461,Maharashtra,255
+1462,Gujarat,255
+1463,Tripura,101
+1464,Uttarakhand,197
+1465,Haryana,242
+1466,Maharashtra,65
+1467,Kerala,65
+1468,Gujarat,37
+1469,Gujarat,132
+1470,Sikkim,22
+1471,Haryana,197
+1472,Delhi,95
+1473,Maharashtra,76
+1474,Maharashtra,69
+1475,Maharashtra,111
+1476,Odisha,194
+1477,Karnataka,185
+1478,Goa,78
+1479,Madhya Pradesh,180
+1480,Meghalaya,22
+1481,Madhya Pradesh,215
+1482,Tamil Nadu,116
+1483,Arunachal Pradesh,22
+1484,Himachal Pradesh,22
+1485,Delhi,98
+1486,Karnataka,98
+1487,Gujarat,303
+1488,Jammu And Kashmir,22
+1489,Chattisgarh,197
+1490,Dadra And Nagar Haveli,22
+1491,Meghalaya,88
+1492,Chandigarh,41
+1493,Maharashtra,226
+1494,Maharashtra,192
+1495,Maharashtra,208
+1496,Haryana,274
+1497,Pondicherry,22
+1498,Goa,22
+1499,Chandigarh,70
+1500,Mizoram,91
+1501,Maharashtra,157
+1502,Gujarat,194
+1503,Pondicherry,194
+1504,Maharashtra,16
+1505,Sikkim,112
+1506,Himachal Pradesh,19
+1507,Sikkim,265
+1508,Maharashtra,139
+1509,Andaman And Nicobar,91
+1510,Karnataka,183
+1511,Maharashtra,222
+1512,Maharashtra,75
+1513,Telangana,75
+1514,Bihar,75
+1515,Rajasthan,75
+1516,Delhi,75
+1517,Haryana,75
+1518,Chandigarh,80
+1519,Haryana,80
+1520,Andhra Pradesh,75
+1521,Himachal Pradesh,75
+1522,Gujarat,75
+1523,Uttarakhand,101
+1524,Madhya Pradesh,194
+1525,Meghalaya,261
+1526,Rajasthan,172
+1527,Chattisgarh,172
+1528,Himachal Pradesh,261
+1529,Maharashtra,108
+1530,Uttarakhand,115
+1531,Tripura,166
+1532,Sikkim,166
+1533,Karnataka,306
+1534,Pondicherry,19
+1535,Maharashtra,116
+1536,Karnataka,116
+1537,Andhra Pradesh,101
+1538,West Bengal,71
+1539,Karnataka,203
+1540,Sikkim,101
+1541,Daman And Diu,119
+1542,Maharashtra,141
+1543,Kerala,234
+1544,Goa,261
+1545,Himachal Pradesh,165
+1546,Pondicherry,71
+1547,Gujarat,171
+1548,Pondicherry,165
+1549,Pondicherry,88
+1550,Chandigarh,265
+1551,Haryana,116
+1552,Maharashtra,174
+1553,Jammu And Kashmir,88
+1554,Assam,265
+1555,Haryana,118
+1556,Maharashtra,39
+1557,Maharashtra,160
+1558,Rajasthan,249
+1559,Chandigarh,71
+1560,Kerala,75
+1561,Tamil Nadu,75
+1562,Daman And Diu,75
+1563,Goa,75
+1564,Madhya Pradesh,75
+1565,Chattisgarh,75
+1566,Uttarakhand,75
+1567,Dadra And Nagar Haveli,262
+1568,Haryana,71
+1569,Karnataka,296
+1570,Maharashtra,133
+1571,Himachal Pradesh,88
+1572,Tamil Nadu,192
+1573,Chandigarh,237
+1574,Assam,18
+1575,West Bengal,318
+1576,Tripura,258
+1577,Andhra Pradesh,43
+1578,Gujarat,233
+1579,Sikkim,91
+1580,Andaman And Nicobar,30
+1581,Odisha,75
+1582,Telangana,39
+1583,Gujarat,39
+1584,Rajasthan,39
+1585,Delhi,39
+1586,Uttar Pradesh,39
+1587,Bihar,39
+1588,Madhya Pradesh,39
+1589,West Bengal,39
+1590,Jammu And Kashmir,39
+1591,Karnataka,188
+1592,Karnataka,106
+1593,Maharashtra,176
+1594,Karnataka,291
+1595,Tripura,71
+1596,Uttarakhand,71
+1597,Assam,197
+1598,Gujarat,180
+1599,Himachal Pradesh,73
+1600,Maharashtra,28
+1601,Chattisgarh,73
+1602,Andhra Pradesh,261
+1603,Goa,286
+1604,Delhi,286
+1605,Sikkim,88
+1606,West Bengal,288
+1607,Maharashtra,180
+1608,Uttarakhand,165
+1609,Uttarakhand,180
+1610,Meghalaya,265
+1611,Uttarakhand,305
+1612,Himachal Pradesh,70
+1613,Chandigarh,286
+1614,Uttarakhand,286
+1615,Gujarat,300
+1616,Pondicherry,63
+1617,Tamil Nadu,118
+1618,Maharashtra,118
+1619,Lakshadweep,262
+1620,Delhi,109
+1621,Uttarakhand,287
+1622,Karnataka,75
+1623,Punjab,75
+1624,Uttarakhand,58
+1625,Tamil Nadu,180
+1626,Maharashtra,300
+1627,Maharashtra,213
+1628,Dadra And Nagar Haveli,88
+1629,Delhi,180
+1630,Uttarakhand,70
+1631,Telangana,180
+1632,Karnataka,180
+1633,Maharashtra,293
+1634,Tamil Nadu,196
+1635,Karnataka,294
+1636,Haryana,296
+1637,Assam,75
+1638,Bihar,47
+1639,Goa,47
+1640,Karnataka,192
+1641,Gujarat,309
+1642,Andhra Pradesh,301
+1643,Madhya Pradesh,84
+1644,Punjab,84
+1645,Tamil Nadu,54
+1646,Gujarat,308
+1647,Maharashtra,311
+1648,Jammu And Kashmir,47
+1649,Rajasthan,257
+1650,Chattisgarh,257
+1651,Maharashtra,313
+1652,Jammu And Kashmir,165
+1653,Gujarat,310
